@@ -1,0 +1,5990 @@
+[
+  {
+    "genre": "News", 
+    "id": 322358014, 
+    "name": "CBS 8 - San Diego News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 826205043, 
+    "name": "CBS2 AM NEWS AND ALARM CLOCK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 419623617, 
+    "name": "CBS4 News WHBF-TV Quad Cities", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 547765276, 
+    "name": "CBS46 Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 547763378, 
+    "name": "CBS5AZ.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 703322916, 
+    "name": "CBSNewsroom", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 415107902, 
+    "name": "CB\u6c99\u53d1\u5668", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 815282211, 
+    "name": "CC_Player", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 578137133, 
+    "name": "CCAD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 317436839, 
+    "name": "CCC Trier", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 739013094, 
+    "name": "CCCOWE \u83ef\u798f\u4e2d\u5fc3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 463635583, 
+    "name": "CCH Employment Law Daily Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 666848346, 
+    "name": "CCI eNews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 536156346, 
+    "name": "CCK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 458327441, 
+    "name": "CCR World", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 868467248, 
+    "name": "CCS \ucda9\ubd81\ubc29\uc1a1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 441092324, 
+    "name": "CCSO2go", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 878031632, 
+    "name": "CCTV-NEWS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 879996273, 
+    "name": "CCTV5", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 463035542, 
+    "name": "CCUE MicroBlog \u5982\u610f\u5fae\u535a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 879508317, 
+    "name": "CD Cesena", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 376186660, 
+    "name": "Cd Consult", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 560453960, 
+    "name": "CD Tudelano. My Team", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 366616962, 
+    "name": "CD2Krekorian", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 647668891, 
+    "name": "CDA Update", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 520848964, 
+    "name": "CDF Chile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 587855677, 
+    "name": "CDF Chile para iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 595701750, 
+    "name": "CDM Media Summits", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 744735914, 
+    "name": "CDNRally", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 415631731, 
+    "name": "CDR Abruzzo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 692811287, 
+    "name": "CDU Barreiro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 654828242, 
+    "name": "CDU Borken", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 505701232, 
+    "name": "CDU Essen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 505515010, 
+    "name": "CDU Lippstadt", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 483382543, 
+    "name": "CDU M\u00fcnster", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 843195736, 
+    "name": "CDU-Bochum", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 382872408, 
+    "name": "CDU-Fraktion im Landtag Th\u00fcringen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 584811953, 
+    "name": "CDU-Landtagsfraktion Baden-W\u00fcrttemberg", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 722258041, 
+    "name": "CDU-Landtagsfraktion Baden-W\u00fcrttemberg interaktiv", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 847325889, 
+    "name": "CDUOelde", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 845223221, 
+    "name": "CE Constancia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 584109374, 
+    "name": "CE Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 584102501, 
+    "name": "CE Pro HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 600712356, 
+    "name": "Cear\u00e1 SC News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 668251819, 
+    "name": "Cecil Daily", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 491105164, 
+    "name": "Cecitek", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 906919032, 
+    "name": "Cedar Key Beacon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 458664575, 
+    "name": "Cedar Valley SportsZone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 903183337, 
+    "name": "CEI Asia Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 516758500, 
+    "name": "CEI WorkplaceChoice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 786126945, 
+    "name": "CELEBRIAMO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 336179118, 
+    "name": "Celebrity Birthday Alerts", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 608729043, 
+    "name": "Celebrity Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 331981140, 
+    "name": "Celebrity N' Gossip", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 905060789, 
+    "name": "Celina Le\u00e3o", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 575228771, 
+    "name": "Celular Actual", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 735272114, 
+    "name": "CEM BLW", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 820839894, 
+    "name": "CENIPA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 892326063, 
+    "name": "Censor.net", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 895715760, 
+    "name": "Centrada", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 470313433, 
+    "name": "Central Coast Prep Sports for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 540813421, 
+    "name": "Central Deportiva", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 399053818, 
+    "name": "Central Hockey League Mobile.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 901568987, 
+    "name": "Central Illinois Sports news from The Pantagraph", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 898430970, 
+    "name": "Central Kentucky News Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 373479778, 
+    "name": "Central Kitsap Reporter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 802793642, 
+    "name": "Central Queensland Capras", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 535725410, 
+    "name": "Central Western Daily", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 569414042, 
+    "name": "Centre Communautaire de la Rose", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 448997431, 
+    "name": "Centre Daily Times - CDT PA News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 679662039, 
+    "name": "Centre Daily Times State College PA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 633409614, 
+    "name": "Centre France - Le Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 682361920, 
+    "name": "Centre Presse Aveyron", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 485096885, 
+    "name": "Centurions de N\u00eemes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 496174624, 
+    "name": "Cepte HABER", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 540893162, 
+    "name": "CEPU", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 394406745, 
+    "name": "Cer Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 899545667, 
+    "name": "Cercle Brugge K.S.V.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 890886899, 
+    "name": "Cercle des Nageurs de Marseille", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 650820889, 
+    "name": "Cerveau & Psycho", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 903838129, 
+    "name": "CES MOBILE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 902315184, 
+    "name": "CES PAD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 575123394, 
+    "name": "CesarMaia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 470909832, 
+    "name": "Cesena", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 820196272, 
+    "name": "Cestovn\u00ed ruch 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 498232068, 
+    "name": "CesviOnlus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 471904946, 
+    "name": "CEV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 463351310, 
+    "name": "Cevi Uster", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 909056888, 
+    "name": "CFC Live \u2013 Live Scores, Results & News for Chelsea Fans", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 863117991, 
+    "name": "CFC Live \u2013 Live Scores, Results & News for Chelsea Football Fans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 651455325, 
+    "name": "CFC2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 403570548, 
+    "name": "CFDT PNC Air France", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 430807619, 
+    "name": "CFE-CGC Orange", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 714981075, 
+    "name": "CFO T\u00fcrkiye", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 599944014, 
+    "name": "CFR 1907 Cluj Official", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 470469141, 
+    "name": "CFS FireApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 703339481, 
+    "name": "CFTC Air France news", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 410254417, 
+    "name": "CG Landes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 877490533, 
+    "name": "CG LIVE", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 333281381, 
+    "name": "CGIl TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 469254419, 
+    "name": "CGIL Volo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 406495829, 
+    "name": "CGPME", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 901452451, 
+    "name": "CGR | CR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 836451830, 
+    "name": "CGR'APP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 455713048, 
+    "name": "CGSP Bruxelles - ACOD Brussel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 568329467, 
+    "name": "CH3Rundown", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 530510766, 
+    "name": "Chadwick Basketball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 679968279, 
+    "name": "Chairboys FC", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 410299648, 
+    "name": "Challenges \u2014 Le magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 620071254, 
+    "name": "Chamberlain Oacoma Sun", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 888110377, 
+    "name": "Champ Rugby", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 846055643, 
+    "name": "Champion - Football Livescore, League and Cup Action", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 543904669, 
+    "name": "Champion 2012 Pro - Professional 2012 Summer Games App", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 383955468, 
+    "name": "Championat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 571193080, 
+    "name": "Champions League 2012 - 2013", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 413885917, 
+    "name": "Champions League Football News App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 414818442, 
+    "name": "Champions League Football News Reader Full", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 463376785, 
+    "name": "Champions League Live", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 715005659, 
+    "name": "Champions League Pro", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 837086711, 
+    "name": "Chandigreat!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 848845963, 
+    "name": "Chandler Park Jets Basketball Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 484525723, 
+    "name": "Change2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 874916191, 
+    "name": "Channel 12", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 423125550, 
+    "name": "Channel 2 News - \u05d7\u05d3\u05e9\u05d5\u05ea 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 392332723, 
+    "name": "Channel 3 Eyewitness News Chattanooga", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 580839312, 
+    "name": "Channel 3000 | WISC-TV3 Weather", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 905527744, 
+    "name": "Channel 5 Belize", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 419628405, 
+    "name": "Channel 8 KLKN-TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 520773971, 
+    "name": "Channel NewsAsia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 394767361, 
+    "name": "Channel3000.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 527973703, 
+    "name": "ChannelBiz France", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 669051011, 
+    "name": "ChannelBiz Italia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 674018581, 
+    "name": "ChannelBiz.co.uk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 674013774, 
+    "name": "ChannelBiz.es", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 809926394, 
+    "name": "ChannelCity Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 400917711, 
+    "name": "ChannelPartner Kiosk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 620326719, 
+    "name": "Charaktery", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 510316209, 
+    "name": "Charente Libre", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 864071634, 
+    "name": "Charente Libre pour iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 668350434, 
+    "name": "Charhdikala Australia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 352318486, 
+    "name": "Charity Auctioneer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 479846370, 
+    "name": "Charlatan Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 793366491, 
+    "name": "Charles Ayoub iPad version", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 793343948, 
+    "name": "Charles Ayoub iPhone version", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 457039369, 
+    "name": "Charleston Daily Mail", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 476364745, 
+    "name": "Charleston Daily Mail (Free)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 476381906, 
+    "name": "Charleston Gazette (Free)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 342466077, 
+    "name": "Charlotte Basketball Pro Fan - Scores, Stats, Schedules & News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348147999, 
+    "name": "Charlotte College Basketball Fan - Scores, Stats, Schedule & News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 685010538, 
+    "name": "Charlotte G. Richie For Mayor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 407850748, 
+    "name": "Charlotte Observer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 594844039, 
+    "name": "Charlotte Observer for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 909238599, 
+    "name": "Charro de Corazon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 853631359, 
+    "name": "Charter'97 - \u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u0438 - \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c - \u041c\u0438\u043d\u0441\u043a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 375187636, 
+    "name": "Chase Park Church of Christ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 555049497, 
+    "name": "Chasing NJ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 683910527, 
+    "name": "Chat Stream", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 885874013, 
+    "name": "Chatham Table Tennis Club Goes Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 726985408, 
+    "name": "ChatNet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 470171620, 
+    "name": "ChatsworthTabloid", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 623273355, 
+    "name": "Chattanooga Pulse", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 602376899, 
+    "name": "Chattanooga Times Free Press for iOS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 564222266, 
+    "name": "Chattanooga Times Free Press iPad Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 829613913, 
+    "name": "ChcemViac", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 904527440, 
+    "name": "Che Una revista sobre Argentina.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 397153166, 
+    "name": "CheckTrendJ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 863924188, 
+    "name": "Chef d'Entreprise", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 352342995, 
+    "name": "Chelsea Assist", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 610328933, 
+    "name": "Chelsea News - Live Scores, Transfers & Rumours - Sportfusion", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 621487854, 
+    "name": "Cheltenham Junior Football Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 394081483, 
+    "name": "CHENNAI SUPER KINGS IAPP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 432411265, 
+    "name": "Cherokee Tribune", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 715084591, 
+    "name": "Cherwell", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 665130608, 
+    "name": "Cheshire Pol", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 906919332, 
+    "name": "Chester News & Reporter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 777634511, 
+    "name": "Chesterfield FC Partner App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 765999946, 
+    "name": "CHESTERMERE ANCHOR NEWSPAPER", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 877801175, 
+    "name": "Chestnut Hill Local", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 876344584, 
+    "name": "Cheval Pratique", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 448435372, 
+    "name": "ChiaraCremonesi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 443063816, 
+    "name": "Chic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 601950940, 
+    "name": "Chicago Baseball - a Cubs News App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 422922948, 
+    "name": "Chicago Basketball App: News, Info, Pics, Videos", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 342466531, 
+    "name": "Chicago Basketball Pro Fan - Scores, Stats, Schedules & News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 328055519, 
+    "name": "Chicago Bears 2011 News and Rumors", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 547691600, 
+    "name": "Chicago Breaking News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 358632677, 
+    "name": "Chicago C Baseball Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348771354, 
+    "name": "Chicago Football Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 350939352, 
+    "name": "Chicago Hockey Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 682054701, 
+    "name": "Chicago Local Events", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 383631595, 
+    "name": "Chicago Press Release", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 337654971, 
+    "name": "Chicago Pro Football Scores", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 459237313, 
+    "name": "Chicago Sun-Times Breaking News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 611558612, 
+    "name": "Chicago Sun-Times: Today\u2019s Paper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 358633163, 
+    "name": "Chicago WS Baseball Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 645483270, 
+    "name": "Chicago's 27th Ward", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 849859692, 
+    "name": "Chicago: Breaking News Headlines, Local Weather, Sports, Traffic, Transit for Chicagoland - free app", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 719763736, 
+    "name": "Chicagoland Sirens: Public Safety Information", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 404545985, 
+    "name": "ChicagoSports", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 386489134, 
+    "name": "ChicagoSportsFeeds", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 454091086, 
+    "name": "Chicharito SF", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 760471893, 
+    "name": "Chick-fil-A Bowl 2013 OFFICIAL APP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 443693542, 
+    "name": "Chickasaw Times", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 881655055, 
+    "name": "Chico Enterprise Electronic Newspaper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 508376900, 
+    "name": "Chief Executive Election HK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 898084243, 
+    "name": "Chiefland Citizen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 407200669, 
+    "name": "Chiemgaukiosk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 557895368, 
+    "name": "Chievo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 583892348, 
+    "name": "Chievo Pro", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 771202511, 
+    "name": "Chievolive", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 422884013, 
+    "name": "Child Alert", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 527055989, 
+    "name": "Child Focus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 736293883, 
+    "name": "Chile Decide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 352342546, 
+    "name": "Chile Diario", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 510632698, 
+    "name": "Chile Front Page", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 408448547, 
+    "name": "Chile Noticias, News Online", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 830859033, 
+    "name": "Chilli In", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 545724382, 
+    "name": "Chillicothe Gazette", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 895152179, 
+    "name": "Chillicothe Gazette for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 600135620, 
+    "name": "Chillicothe Gazette Print Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 815516587, 
+    "name": "Chimpreports", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 595996597, 
+    "name": "China Africa Project", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 525671933, 
+    "name": "China Daily Asia Weekly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 808630629, 
+    "name": "China Daily Epaper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 591332910, 
+    "name": "China Daily Forum for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 591333583, 
+    "name": "China Daily Hong Kong", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 325933298, 
+    "name": "China Daily Hong Kong News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 905012321, 
+    "name": "China Daily News 1  - \u4e2d\u56fd\u65b0\u95fb\u7f51", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 469028185, 
+    "name": "China Daily News for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 330543698, 
+    "name": "China Daily News for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 900386877, 
+    "name": "China Digital Times Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 346549378, 
+    "name": "China Hot News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 473629733, 
+    "name": "China National Travel English for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 483923012, 
+    "name": "China News Today App: Daily Chinese Entertainment, Weather & Asia Business in English free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 359582105, 
+    "name": "China News, 24/7 English Paper", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 904939086, 
+    "name": "China Newspapers - \u4e2d\u56fd\u65e5\u62a5", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 428769767, 
+    "name": "CHINA SCIO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 438502871, 
+    "name": "China Smart News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 599578847, 
+    "name": "China Star News-\u4e2d\u56fd\u4e4b\u661f\u65b0\u95fb\u7f51", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 574368062, 
+    "name": "CHINA VIEW", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 736043133, 
+    "name": "CHINA-HOSPEQ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 699545725, 
+    "name": "ChinaNews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 683109076, 
+    "name": "ChinaNews HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 630390677, 
+    "name": "ChinaPrint", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 428357524, 
+    "name": "ChinaZines", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 622366555, 
+    "name": "Chinese Newspapers Plus - Chinese News Plus (by sunflowerapps)", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 378566639, 
+    "name": "Chinese Real Estate Weekly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 616554981, 
+    "name": "ChineseTomatoes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 352323425, 
+    "name": "Chinky I", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 580939287, 
+    "name": "Chinook Observer E-Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 414468283, 
+    "name": "CHIP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 453238686, 
+    "name": "CHIP Computers & Communications Italia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 441899171, 
+    "name": "Chip CZ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 457079900, 
+    "name": "Chip Ganassi Racing Teams", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 597490987, 
+    "name": "Chip HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 599495681, 
+    "name": "CHIP Indonesia Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 552874162, 
+    "name": "CHIP Kiosk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 579586430, 
+    "name": "Chip magazin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 495599814, 
+    "name": "CHIP Online TR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 470563099, 
+    "name": "CHIPHELL\uff0d\u7eaf\u51c0PC DIY\u8bba\u575b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 558480268, 
+    "name": "CHIP\u300a\u65b0\u7535\u8111\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 809689636, 
+    "name": "Chirnside Park Football Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 704481930, 
+    "name": "Chitralekha", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 486675676, 
+    "name": "Chitralekha Gujarati", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 486838804, 
+    "name": "Chitralekha Marathi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 801065884, 
+    "name": "Chivas Oficial", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 463547788, 
+    "name": "Chivas USA Live", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 336923583, 
+    "name": "CHN.fi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 732804600, 
+    "name": "CHOGM2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 536754931, 
+    "name": "Chopin Airport", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 432507767, 
+    "name": "Chorley and Leyland Guardian", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 722751445, 
+    "name": "Chorv\u00e1tsky Grob", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 845206818, 
+    "name": "CHP \u2013 Sosyal Medya ve Son Dakika Haberleri", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 796819073, 
+    "name": "Chrends", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 783088277, 
+    "name": "Chris Inside", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 661175473, 
+    "name": "Chrisitian Kert D\u00e9put\u00e9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 488720481, 
+    "name": "Christelijknieuws", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 532865261, 
+    "name": "Christelijknieuws for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 824340046, 
+    "name": "Christian Bouchet, pour Nantes Bleu Marine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 413249045, 
+    "name": "Christliches Medienmagazin pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 594200184, 
+    "name": "Christoph Str\u00e4sser (SPD)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 546043294, 
+    "name": "ChronHomes for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 421118739, 
+    "name": "Chronicle Apps", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 541076788, 
+    "name": "Chronicle Telegram Eedition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 597483779, 
+    "name": "Chronopassion", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 901315862, 
+    "name": "Chrysler Power", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 432954560, 
+    "name": "CHS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 848108817, 
+    "name": "Chunav '14", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 625105484, 
+    "name": "Chur 97", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 352318415, 
+    "name": "ChurchToast", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 554982009, 
+    "name": "Chytr\u00fd tisk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 494823903, 
+    "name": "Ch\u00e2teaubriant", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 552873018, 
+    "name": "CI Time Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 513281480, 
+    "name": "CIBERPA\u00cdS para iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 513281181, 
+    "name": "CIBERPA\u00cdS para iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 660181440, 
+    "name": "Ciclismo a fondo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 858773992, 
+    "name": "Cidade no Foco", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 783593999, 
+    "name": "Cidad\u00e3o TCE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 804751940, 
+    "name": "Ciel et Espace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 700659285, 
+    "name": "Cihan Tablet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 898554653, 
+    "name": "Cilento App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 524327365, 
+    "name": "CIM Consistoire Isra\u00e9lite de Marseille", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 733299950, 
+    "name": "Cimbom Haber", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 844331719, 
+    "name": "CIMM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 604712024, 
+    "name": "Cincinnati Baseball - a Reds News App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 358634030, 
+    "name": "Cincinnati Baseball Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348146207, 
+    "name": "Cincinnati College Basketball Fan - Scores, Stats, Schedule & News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 615460044, 
+    "name": "Cincinnati College Football Fan Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 332511753, 
+    "name": "Cincinnati College Football Scores", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348771451, 
+    "name": "Cincinnati Football Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 557030767, 
+    "name": "Cincinnati Football News Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 337655587, 
+    "name": "Cincinnati Pro Football Scores", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 390749633, 
+    "name": "Cincinnati.Com Bengals Football", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 390537231, 
+    "name": "Cincinnati.Com Reds Baseball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 730597811, 
+    "name": "Cincinnati.Com Xavier Musketeers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 688390321, 
+    "name": "Cincinnati.Com's Bearcats", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 498480986, 
+    "name": "Cincy Lineup", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 396265241, 
+    "name": "Cindy - RSS Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 435802465, 
+    "name": "Cineclick", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 593111986, 
+    "name": "Cinema e Filme - Cinel\u00e2ndia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 532168501, 
+    "name": "Cinemma - Cin\u00e9ma Belge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 480301645, 
+    "name": "CINewsNow", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 543874043, 
+    "name": "CIO East Africa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 666242803, 
+    "name": "CIO Insight \u4fe1\u606f\u65b9\u7565", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 393098758, 
+    "name": "CIO Kiosk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 411425504, 
+    "name": "CIO Sweden", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 689917988, 
+    "name": "CIO T\u00fcrkiye", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 702839512, 
+    "name": "CION vld", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 574176204, 
+    "name": "CIO\u4ff1\u4e50\u90e8", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 899902482, 
+    "name": "CIO\u53d1\u5c55\u4e2d\u5fc3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 367650730, 
+    "name": "Cipper RSS Reader", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 638924288, 
+    "name": "CIProud - WMBD-TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 594165539, 
+    "name": "Circ de Tarragona", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 517114354, 
+    "name": "Circa News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 494031526, 
+    "name": "Circle K International (CKI)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 709957592, 
+    "name": "Circleville Herald Newsroom", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 656708803, 
+    "name": "Circuits Dr\u00f4me", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 650553441, 
+    "name": "CISL FNP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 662922473, 
+    "name": "Cisl ME", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 369007421, 
+    "name": "Citizen Cannes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 777974163, 
+    "name": "Citizen Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 587936714, 
+    "name": "Citizen Press", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 390504104, 
+    "name": "Citizen Radio", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 475359266, 
+    "name": "Citizens' Eye", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 592247814, 
+    "name": "Citizens4Merritt", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 583676189, 
+    "name": "Citron Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 559784961, 
+    "name": "Citro\u00ebnNews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 873139949, 
+    "name": "Citrus County Chronicle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 872225264, 
+    "name": "Citt\u00e0 di Ariano", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 687641287, 
+    "name": "City & Archipelago News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 404715000, 
+    "name": "City And Press App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 420838311, 
+    "name": "City And Press for iPad", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 838920269, 
+    "name": "City App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 456304009, 
+    "name": "City Guide ST", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 460806416, 
+    "name": "City Guide ST for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 420931366, 
+    "name": "City Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 736375116, 
+    "name": "City Limits for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 736357682, 
+    "name": "City Limits for iPhone & iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 536584197, 
+    "name": "City Local News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 865085885, 
+    "name": "City Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 775150081, 
+    "name": "City Now", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 512351017, 
+    "name": "City of Aliso Viejo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 586673220, 
+    "name": "City of Belen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 433302015, 
+    "name": "City Of Calgary News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 472789312, 
+    "name": "City of Fort Collins", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 433833338, 
+    "name": "City of Regina CityApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 686647308, 
+    "name": "City of Tampa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 497263176, 
+    "name": "City Papers", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 655150554, 
+    "name": "City University of New York Athletics - CUNY Conference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 470823433, 
+    "name": "CityMobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 422910003, 
+    "name": "CityNews Toronto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 775772889, 
+    "name": "CityUser", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 622141752, 
+    "name": "Cit\u00e9 de la RV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 737292243, 
+    "name": "Cit\u0101d\u0101 Pasaule", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 576216073, 
+    "name": "CiVic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 494066575, 
+    "name": "Civil Engineering Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 635108990, 
+    "name": "Ci\u00eancias Paralelas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 603109666, 
+    "name": "CJREPORT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 493250655, 
+    "name": "CK iGazeta", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 417021591, 
+    "name": "CKNW News Talk 980", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 376980403, 
+    "name": "Clairi\u00e8re Braine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 376979760, 
+    "name": "Clairi\u00e8re BXL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 555470308, 
+    "name": "Clarinda Herald-Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 569000829, 
+    "name": "Clarinda Herald-Journal for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 391278025, 
+    "name": "ClarksvilleNow.com Local News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 442956047, 
+    "name": "Clar\u00edn para iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 737871899, 
+    "name": "Clar\u00edn Social", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 597509902, 
+    "name": "Clar\u00edn.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 513928725, 
+    "name": "ClassHorse.TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 613125643, 
+    "name": "Classic Car Weekly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 771611883, 
+    "name": "Classic Motor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 581348769, 
+    "name": "Classic Rock Lifestyle Italia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 528541462, 
+    "name": "Claude BERIT-DEBAT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 892583450, 
+    "name": "Claudeci Luart", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 658411330, 
+    "name": "Cleaner & Launderer Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 906919819, 
+    "name": "Clear Creek Courant", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348146259, 
+    "name": "Clemson College Basketball Fan - Scores, Stats, Schedule & News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 378999594, 
+    "name": "Clemson Football Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 863967589, 
+    "name": "Clemson OFFICIAL Kricket App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 784911939, 
+    "name": "Clemson Sports Talk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 497969611, 
+    "name": "Clermont FilmFest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 358634976, 
+    "name": "Cleveland Baseball Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 342466813, 
+    "name": "Cleveland Basketball Pro Fan - Scores, Stats, Schedules & News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348771792, 
+    "name": "Cleveland Football Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 337656359, 
+    "name": "Cleveland Pro Football Scores", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 561041717, 
+    "name": "Clever Lotto - Mega Millions & Powerball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 539585137, 
+    "name": "CleveScene", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 412414106, 
+    "name": "Clicanoo - Journal de l'\u00eele de la R\u00e9union", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 426130673, 
+    "name": "Click2Houston - KPRC Local 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 898649555, 
+    "name": "ClickMobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 656402481, 
+    "name": "ClickOnDetroit - WDIV Local 4 News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 426128464, 
+    "name": "ClickOrlando \u2014 WKMG Local 6 News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 421373956, 
+    "name": "ClickPB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 698558979, 
+    "name": "ClienKit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 407856257, 
+    "name": "Climatempo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 841949176, 
+    "name": "Clip HAY", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 876345298, 
+    "name": "Clip Hot", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 530411245, 
+    "name": "Clip Monitor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 583616193, 
+    "name": "Clipped", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 482598419, 
+    "name": "Cliqz for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 482594697, 
+    "name": "Cliqz News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 813728213, 
+    "name": "Clm24", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 418808519, 
+    "name": "ClockingNews", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 461961878, 
+    "name": "Clontarf FC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 589172181, 
+    "name": "Close Up Foundation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 346169500, 
+    "name": "Clothes Of Men Updates", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 489188576, 
+    "name": "Cloud News by Microsoft.ch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 511136066, 
+    "name": "Cloud System News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 899078873, 
+    "name": "CloudBoard News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 889663134, 
+    "name": "CloudENews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 683859706, 
+    "name": "CloudNews \u2013 ownCloud News Reader", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 412584931, 
+    "name": "CloudZine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 574729361, 
+    "name": "Club Balonmano Ademar Le\u00f3n. My Team", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 577401705, 
+    "name": "Club Balonmano Alcobendas. My Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 548561322, 
+    "name": "Club Balonmano Valladolid. My Team", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 550074062, 
+    "name": "Club Deportivo Legan\u00e9s. My Team", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 582594172, 
+    "name": "Club des 500", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 785537157, 
+    "name": "Club Events", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 784489627, 
+    "name": "Club Marconi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 439564294, 
+    "name": "Club Penguin Cheats", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 704821251, 
+    "name": "Club Penguin Cheats Full", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 620233941, 
+    "name": "Clube Atl\u00e9tico Mineiro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 635735833, 
+    "name": "Clube Flamengo RJ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 435932379, 
+    "name": "Clubic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 541100487, 
+    "name": "ClubLink", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 608829117, 
+    "name": "Clubs Foot Live - L'actu du football en temps r\u00e9el", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 557177329, 
+    "name": "ClubSaints", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 765538612, 
+    "name": "Clyde Weekly Press", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 650295140, 
+    "name": "Cl\u00e9s pour le train miniature - Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 663434003, 
+    "name": "CM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 403497718, 
+    "name": "CM Cartoons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 455241749, 
+    "name": "CM Jornal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 492013462, 
+    "name": "CM Thai Lotto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 882703904, 
+    "name": "CMedia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 458039216, 
+    "name": "CMJornal HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 827743035, 
+    "name": "CMN - News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 602181676, 
+    "name": "CMO News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 543631788, 
+    "name": "CMU AR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 388959749, 
+    "name": "CMV Reporter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 415035018, 
+    "name": "CnBetaHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 601367435, 
+    "name": "CNC Khmer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 630712320, 
+    "name": "CNC News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 392866061, 
+    "name": "CNC WORLD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 403538004, 
+    "name": "CNES", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 482414930, 
+    "name": "CNews Israel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 905306439, 
+    "name": "CNFS BLOG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 582391258, 
+    "name": "CNM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 331786748, 
+    "name": "CNN App for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 414667075, 
+    "name": "CNN T\u00fcrk for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 432899529, 
+    "name": "CNN T\u00fcrk iPad Uygulamas\u0131", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 492116980, 
+    "name": "CNNM\u00e9xico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 443074540, 
+    "name": "CNR: Conservative News Reader - Daily Republican Politics, Cartoons, Opinions & Talk Radio from the ...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 397951080, 
+    "name": "CNRI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 438375122, 
+    "name": "CNTV-\u7126\u70b9\u8bbf\u8c08", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 672618060, 
+    "name": "CNV Akkoord", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 524184909, 
+    "name": "CNY Central", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 641338117, 
+    "name": "CNYhomepage.com Powered by: WUTR and WFXV Eyewitness News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 322558885, 
+    "name": "Coast Guard News Reader", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 894928964, 
+    "name": "Coast News Group", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 643805018, 
+    "name": "Coast River Business Journal e-Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 758147890, 
+    "name": "Coastal Current E-Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 887855307, 
+    "name": "CoastLive", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 600747578, 
+    "name": "Coatesville", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 643026617, 
+    "name": "CobbGov", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 679613514, 
+    "name": "Cobblers FC", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 460034271, 
+    "name": "Cobi Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 589448165, 
+    "name": "Coche Actual", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 876213973, 
+    "name": "Cocoachina\u8bba\u575b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 428980075, 
+    "name": "Codacons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 548875244, 
+    "name": "CODE 20: Upload News Video Service", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 328266963, 
+    "name": "Code Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 446351488, 
+    "name": "Coillte", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 429614467, 
+    "name": "Coin Mania: The E-Sylum", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 886297156, 
+    "name": "Coin World Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 559828796, 
+    "name": "Colchester Daily Gazette", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 619890670, 
+    "name": "Coldstream Football Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 906694839, 
+    "name": "Colecao Biscuit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 872440402, 
+    "name": "Coleraine News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 660104102, 
+    "name": "Colgate University Athletics - Go Raiders", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 383324403, 
+    "name": "Collectivit\u00e9 Territoriale de Corse", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 412381891, 
+    "name": "College Basketball by StatSheet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 630429583, 
+    "name": "College Basketball Fan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 642862353, 
+    "name": "College Basketball News - Score Schedule Standing and Much More", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 499879387, 
+    "name": "College Basketball Radio Live & Schedules", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 559857922, 
+    "name": "College Football by StatSheet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 631184172, 
+    "name": "College Football Fan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 326209103, 
+    "name": "College Football Fan - Nebraska Scores, Stats, Schedule & News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 339462635, 
+    "name": "College Football Fan - USF Scores, Stats, Schedule & News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 342942443, 
+    "name": "College Football News and Rankings", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 622321538, 
+    "name": "College Football Score Schedule Standing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 806874240, 
+    "name": "College Hill Neighborhood Plan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 301197572, 
+    "name": "College Sports News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 598591175, 
+    "name": "Collegians Football Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 595968890, 
+    "name": "Collinadoro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 418983280, 
+    "name": "Colllumns", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 670533422, 
+    "name": "ColombiaGol", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 358635437, 
+    "name": "Colorado Baseball Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348146713, 
+    "name": "Colorado College Basketball Fan - Scores, Stats, Schedule & News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 615377662, 
+    "name": "Colorado College Football Fan Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 331154820, 
+    "name": "Colorado College Football Scores", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 833649223, 
+    "name": "Colorado College Tigers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 562307835, 
+    "name": "Colorado Governor John Hickenlooper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 350939604, 
+    "name": "Colorado Hockey Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 434578978, 
+    "name": "Colorado Springs Independent", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 650060590, 
+    "name": "Colorado ZH", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 901836842, 
+    "name": "Colour Red", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 378079581, 
+    "name": "Cols bleus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 566593756, 
+    "name": "Coltelli Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 323872954, 
+    "name": "ColtPower 2011 - Indianapolis Colts", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 342939426, 
+    "name": "Colts Authority", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 707240884, 
+    "name": "Columbus East Football", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 350940107, 
+    "name": "Columbus Hockey Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 707310884, 
+    "name": "Columbus North Football", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 441521217, 
+    "name": "Columbus Telegram", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 904576881, 
+    "name": "Colunista Marisa Linhares", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 527858349, 
+    "name": "Combat And Survival", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 679106345, 
+    "name": "Combat Forces", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 571235360, 
+    "name": "Comelec", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 886594900, 
+    "name": "COMEON5678", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 847375635, 
+    "name": "Comets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 527885552, 
+    "name": "Comex", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 588930446, 
+    "name": "Comfortable - Google Reader and Readability client", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 452438345, 
+    "name": "Comisi\u00f3n Europea en Espa\u00f1a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 576501878, 
+    "name": "Comment One", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 907239978, 
+    "name": "Commerce City Sentinel Express", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 683750300, 
+    "name": "Communaut\u00e9 de Communes du Pont du Gard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 478820803, 
+    "name": "Commune-it", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 651964244, 
+    "name": "Communication", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 650732082, 
+    "name": "Communication Today", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 871663078, 
+    "name": "Communist Party of India", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 871669901, 
+    "name": "Communist Party of India (Marxist)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 640191854, 
+    "name": "Community Advocate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 758828893, 
+    "name": "Community News & Review", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 578855284, 
+    "name": "Community Newspaper Group:  Community Newspaper Group Digital Editions", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 885813465, 
+    "name": "CommuTree", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 627943492, 
+    "name": "COMOS Connect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 677698661, 
+    "name": "Compact Equipment", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 630985214, 
+    "name": "Companion for Bioshock Infinity", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 663661907, 
+    "name": "Companion for Company of Heroes 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 601969412, 
+    "name": "Companion for Crysis 3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 579581806, 
+    "name": "Companion for Far Cry 3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 618598636, 
+    "name": "Companion for Heart of the Swarm SC2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 643250784, 
+    "name": "Companion for Injustice GAU", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 608056855, 
+    "name": "Companion for Tomb Raider", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 878074657, 
+    "name": "Comparative for Viber vs Skype", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 722814124, 
+    "name": "Compare the Cloud", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 829564040, 
+    "name": "Complaints Board PH", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 720353871, 
+    "name": "Complete Sports Nigeria", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 713172889, 
+    "name": "Complicitat S\u00e3o Paulo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 523540656, 
+    "name": "Compose News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 682373239, 
+    "name": "COMPOSITES EUROPE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 573227008, 
+    "name": "Comptoir Info", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 559921261, 
+    "name": "Comptoir Suisse", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 381301630, 
+    "name": "Computer Arts Italia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 568637862, 
+    "name": "COMPUTER BILD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 569095840, 
+    "name": "COMPUTER BILD SPIELE Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 836607376, 
+    "name": "Computer Business Review Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 537223802, 
+    "name": "Computer Hoy La revista de inform\u00e1tica y tecnolog\u00eda m\u00e1s vendida", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 874206817, 
+    "name": "Computer Idea", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 599420210, 
+    "name": "Computer Music Studio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 674829298, 
+    "name": "Computer Science News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 357046536, 
+    "name": "Computer Sweden f\u00f6r iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 460405444, 
+    "name": "Computer Sweden tablet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 398354958, 
+    "name": "Computer Weekly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 571302523, 
+    "name": "Computer World Romania", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 589353764, 
+    "name": "Computer \u0393\u03b9\u03b1 \u039f\u03bb\u03bf\u03c5\u03c2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 386775479, 
+    "name": "Computerra News Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 400873941, 
+    "name": "COMPUTERWOCHE Kiosk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 667965385, 
+    "name": "Computerworld HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 468636893, 
+    "name": "Computerworld Norge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 620441826, 
+    "name": "Computerworld Schweiz E-Paper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 890544696, 
+    "name": "Comune di Cadempino", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 661102490, 
+    "name": "Comune di Cagliari", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 889740683, 
+    "name": "Comune di Curio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 550403919, 
+    "name": "Comune di Gambarogno", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 458048529, 
+    "name": "Comune di Vibo Valentia - AidYourCity", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 735166790, 
+    "name": "Comune Isola", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 586583503, 
+    "name": "Comune Siena", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 593466269, 
+    "name": "Comuni", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 881905771, 
+    "name": "Comunidade Azul", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 579989137, 
+    "name": "Comuniqu\u00ea?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 647246035, 
+    "name": "Comunitee Social News App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 439637329, 
+    "name": "Con Sencillo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 573430580, 
+    "name": "Conapred", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 644527751, 
+    "name": "ConchoValleyHomePage - Home of KLST & KSAN-TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 906774967, 
+    "name": "Conciencia Publica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 736779944, 
+    "name": "Conciencia P\u00fablica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 604175323, 
+    "name": "Conclave - Not\u00edcias e Curiosidades sobre a Elei\u00e7\u00e3o Papal 2013", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 606203982, 
+    "name": "Conclave Alert", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 611737706, 
+    "name": "ConclaveNews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 451221319, 
+    "name": "Concord Monitor eEdition for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 875013279, 
+    "name": "Concordia Cavaliers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 826377239, 
+    "name": "Concorsi Polizia di Stato", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 524721174, 
+    "name": "Conduit Blog", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 577726486, 
+    "name": "Confartigianato Imprese Veneto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 587748596, 
+    "name": "Confartigianato Imprese Veneto +", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 897831620, 
+    "name": "Confcommercio Milano, Lodi, Monza e Brianza", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 643590544, 
+    "name": "Confederations Cup 2013 Brazil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 568041557, 
+    "name": "Conference: CCA Conference App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 641585656, 
+    "name": "Conferencia Episcopal Espa\u00f1ola", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 853828276, 
+    "name": "Confiadictos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 880044659, 
+    "name": "Confidencial Digital", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 731924634, 
+    "name": "Confsal VVF - Bari", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 376414804, 
+    "name": "ConGenova", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 356677684, 
+    "name": "Congleton Chronicle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 885998445, 
+    "name": "Congreso Guanajuato", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 725215442, 
+    "name": "Congress BISITE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 653714985, 
+    "name": "Congress by Sunlight Foundation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 871695263, 
+    "name": "Congress(YSRCP)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 514993366, 
+    "name": "Congressman Ander Crenshaw", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 551040694, 
+    "name": "Congressman Pete Sessions", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 730617124, 
+    "name": "Conjur", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 878624002, 
+    "name": "Connaissance de la Chasse", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 549906993, 
+    "name": "Connect Bridgeport", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 803949079, 
+    "name": "Connected Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 780651400, 
+    "name": "Connected World magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348146867, 
+    "name": "Connecticut College Basketball Fan - Scores, Stats, Schedule & News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 528233115, 
+    "name": "Connexions - le magazine des affaires en Chine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 423984181, 
+    "name": "Connoisseur Circle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 572088466, 
+    "name": "Conscience Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 572090024, 
+    "name": "Conscience Newsjournal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 529908251, 
+    "name": "Consciousness: A Special Report from Science News", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 327334560, 
+    "name": "Conseils aux Voyageurs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 586874182, 
+    "name": "Conseils aux Voyageurs HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 839505292, 
+    "name": "Consejo Abierto D.O. La mancha", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 335500869, 
+    "name": "Conserva - Right Wing News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 368440592, 
+    "name": "Conservative Fact Of The Day", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 346437626, 
+    "name": "Conservative Quote Of The Day", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 458382473, 
+    "name": "Conservative Talk LT - Talk Radio featuring Rush, Hannity, Levin and Savage Nation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 395147827, 
+    "name": "Conservative Talk Radio - featuring Rush Limbaugh, Sean Hannity,  Mark Levin and Savage Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 505509997, 
+    "name": "Conservative Talk Radio Live", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 867415287, 
+    "name": "ConservativeVoiceOfThePeople", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 420499828, 
+    "name": "Conspiracies, UFOs & The Truth", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 440575399, 
+    "name": "Constituci\u00f3n Espa\u00f1ola LA LEY HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 441016313, 
+    "name": "Constitui\u00e7ao Portuguesa Coimbra HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 574886090, 
+    "name": "Construir Mais Por Menos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 698227444, 
+    "name": "Constru\u00e7\u00e3o Mercado", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 830645470, 
+    "name": "Consulta 9N", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 783568830, 
+    "name": "Consulta View", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 839617454, 
+    "name": "Consulting-Specifying Engineer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 891285271, 
+    "name": "Consumatori in Rete", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 401283368, 
+    "name": "Consumer Alert", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 418338597, 
+    "name": "Consumer Reports Magazine iPad Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 704524946, 
+    "name": "Contact Center World", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 590254755, 
+    "name": "Contacts Cleaner Pro ( search and delete duplicate contacts in a simple )", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 572963114, 
+    "name": "Context Search", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 502421328, 
+    "name": "Continental FM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 572028307, 
+    "name": "Continental Radio for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 429780888, 
+    "name": "Contra Costa Times", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 479676946, 
+    "name": "Contra Costa Times for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 477113397, 
+    "name": "Contract Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 665157377, 
+    "name": "Contract Pharma", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 491703741, 
+    "name": "Contrepoints", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 839617091, 
+    "name": "Control Engineering", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 393822086, 
+    "name": "Control Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 890065062, 
+    "name": "Conway Arkansas Police", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 617237343, 
+    "name": "Cooltura", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 506662590, 
+    "name": "Cooperazione", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 649334902, 
+    "name": "Coop\u00e9ration", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 482829995, 
+    "name": "Cop Radio Police Scanner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 445107965, 
+    "name": "Copa America 2011 by La Tercera", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 595372141, 
+    "name": "Copa Bridgestone Libertadores", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 626902749, 
+    "name": "Copa Bridgestone Libertadores para iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 877593730, 
+    "name": "Copa de Brazil 14 - Live Scores and Calendar! Enjoy the best football party in the World (do Mundo!)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 883157839, 
+    "name": "Copa de Brazil 14+ (with notifications) - Best real time live scores and calendar app do mundo", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 560190178, 
+    "name": "Copa TOTAL Sudamericana", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 493648441, 
+    "name": "Copalive (Live Scores)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 307350357, 
+    "name": "Coqui News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 819460920, 
+    "name": "Corbara", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 547195576, 
+    "name": "Cordraw\u6559\u7a0b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 611825701, 
+    "name": "Corinthians SC News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 355846085, 
+    "name": "Corkman.ie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 553417867, 
+    "name": "CORNEA FRANZ Rechts-News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348147019, 
+    "name": "Cornell College Basketball Fan - Scores, Stats, Schedule & News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 886937736, 
+    "name": "Corner!", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 721507880, 
+    "name": "CornerNews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 417705604, 
+    "name": "Corona Developer Forums", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 661544838, 
+    "name": "Corp Counsel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 905220539, 
+    "name": "CorpGestFire - AHBVTrofa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 586633303, 
+    "name": "Corporate Toolkit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 904456319, 
+    "name": "CorrectionsOne", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 862536000, 
+    "name": "Correio Braziliense", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 706058965, 
+    "name": "Correio do Ribatejo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 560250712, 
+    "name": "Correio Popular", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 821782516, 
+    "name": "Correio*", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 561883269, 
+    "name": "Correre Edicola Digitale", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 527170710, 
+    "name": "Corriere Adriatico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 326634016, 
+    "name": "Corriere della Sera", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 371701657, 
+    "name": "Corriere della Sera - Digital Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 424027007, 
+    "name": "Corriere della Sera - Digital Edition per iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 394700154, 
+    "name": "Corriere delle Alpi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 406389530, 
+    "name": "Corriere dello Sport HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 791240435, 
+    "name": "Corriere di Ragusa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 895733365, 
+    "name": "Corriere Giallorosso", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 818704916, 
+    "name": "Corriere Ofanto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 505946190, 
+    "name": "Corse Economie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 655090110, 
+    "name": "Corse Info 112", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 625178447, 
+    "name": "Corse Net Infos - L'info corse gratuite en ligne", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 774880364, 
+    "name": "Corse Sport", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 603933124, 
+    "name": "Corse-Matin Num\u00e9rique", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 662930112, 
+    "name": "Corsica Loc Evenement", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 886756146, 
+    "name": "Corte", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 838296756, 
+    "name": "Cosenza Calcio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 553322756, 
+    "name": "Coshocton Tribune", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 896826071, 
+    "name": "Coshocton Tribune for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 608998453, 
+    "name": "Coshocton Tribune Print Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 589447017, 
+    "name": "CosmeticsDesign", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 726122445, 
+    "name": "Cosmopolitan Eesti", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 895447562, 
+    "name": "Cosmopolitan.hu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 889941053, 
+    "name": "Cotto e Mangiato Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 304784863, 
+    "name": "Couch Reader: Heise", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 356238655, 
+    "name": "Couch Tarts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 790784672, 
+    "name": "Councilman Elie Y. Katz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 864148015, 
+    "name": "CouponFeed", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 447805722, 
+    "name": "Courant Connecticut News Reader for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 391113483, 
+    "name": "Courant.com Connecticut News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 373075879, 
+    "name": "Courier & Press for iPhone  - Evansville, Ind.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 556093057, 
+    "name": "Courier & Press for the iPad - Evansville, Ind.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 587484002, 
+    "name": "Courier News Print Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 512607957, 
+    "name": "Courier Standard Enterprise", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 382819429, 
+    "name": "Courier-Herald", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 566331284, 
+    "name": "Courier-Post", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 789840748, 
+    "name": "Courier-Post for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 609003780, 
+    "name": "Courier-Post Print Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 537978524, 
+    "name": "Courrier Cadres", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 657333248, 
+    "name": "Courrier de l'Atlas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 639558677, 
+    "name": "Courrier Internacional", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 475761174, 
+    "name": "Courrier picard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 768708894, 
+    "name": "Courrier Picard pour iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 737478104, 
+    "name": "Coventry local news", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 684188027, 
+    "name": "Coventry Telegraph", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 637470890, 
+    "name": "Coventry Telegraph Newspaper for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 598586203, 
+    "name": "Cover Times (Newspapers, Press and News)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 418537323, 
+    "name": "Coverpage Viewer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 447506904, 
+    "name": "Cowboys News Live", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 573573786, 
+    "name": "COYR - The Official Matchday Programmes of Swindon Town FC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 715464469, 
+    "name": "Cozy for Feedly 2 - an RSS Reader Client with Big Fonts", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 427789138, 
+    "name": "CP24 GO - Toronto's Breaking News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 444455541, 
+    "name": "CPN Party", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 904887399, 
+    "name": "CPNSONLINE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 470117634, 
+    "name": "CPPS ITALIA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 657788735, 
+    "name": "CQ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 885245354, 
+    "name": "CR Digital", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 897366196, 
+    "name": "Craft Ideas Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 638240604, 
+    "name": "Craigieburn Football Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 898789723, 
+    "name": "Cral Asl Chieti 02", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 520133917, 
+    "name": "Cras Basket Taranto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 430749189, 
+    "name": "Crawfish Boil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 670170275, 
+    "name": "Crawford4Ways", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 351847684, 
+    "name": "CRAYPION Web MESSAGES", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 887778603, 
+    "name": "Crazy Cup 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 862244287, 
+    "name": "Crazy Guidance for Clash Of Clans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 425352306, 
+    "name": "Creating Time", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 366829819, 
+    "name": "Creative Review Annual 2010", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 539514237, 
+    "name": "CRECER FELIZ Revista", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 458592371, 
+    "name": "Credit Collections & Risk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348147238, 
+    "name": "Creighton College Basketball Fan - Scores, Stats, Schedule & News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 889710771, 
+    "name": "Cremades & Calvo-Sotelo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 535121443, 
+    "name": "Cretevents", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 726122663, 
+    "name": "Crewe Chronicle Newspaper for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 369656333, 
+    "name": "CRI Expo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 380642981, 
+    "name": "CRI Expo for all", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 370535416, 
+    "name": "CRI Expo for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 380655756, 
+    "name": "CRI Expo-10", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 382213757, 
+    "name": "CRI Expo-11", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 382788747, 
+    "name": "CRI Expo-12", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 389739018, 
+    "name": "CRI Expo-13", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 372155134, 
+    "name": "CRI Expo-2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 372735905, 
+    "name": "CRI Expo-2 for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 372956356, 
+    "name": "CRI Expo-3 for ipad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 372958541, 
+    "name": "CRI Expo-3 for iphone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 374141834, 
+    "name": "CRI Expo-4", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 374147116, 
+    "name": "CRI Expo-4 for iphone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 376326490, 
+    "name": "Cri Expo-5", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 376618285, 
+    "name": "CRI Expo-6", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 377600107, 
+    "name": "CRI Expo-7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 377597822, 
+    "name": "CRI Expo-7 for iphone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 379029012, 
+    "name": "CRI Expo-8", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 378990005, 
+    "name": "CRI Expo-8 for iphone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 379853121, 
+    "name": "CRI Expo-9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 421328906, 
+    "name": "CRI VIEW eMagazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 415195013, 
+    "name": "CricAlert", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 360466413, 
+    "name": "Cricbuzz - THE Cricket App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 612231392, 
+    "name": "Crici\u00fama EC News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348668739, 
+    "name": "Cricket Australia News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348669188, 
+    "name": "Cricket Bangladesh News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348669795, 
+    "name": "Cricket Blogs", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 359031575, 
+    "name": "Cricket Calling", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 359705113, 
+    "name": "Cricket Champions Free", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348670049, 
+    "name": "Cricket England News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 681704672, 
+    "name": "Cricket Feast", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 909368593, 
+    "name": "Cricket Fever", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348670309, 
+    "name": "Cricket Global News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 352927745, 
+    "name": "Cricket Hot News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348671567, 
+    "name": "Cricket India News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 450442555, 
+    "name": "Cricket LIVE Scores Cricitch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348671759, 
+    "name": "Cricket Magazine", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 558463252, 
+    "name": "Cricket Mazaa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348672199, 
+    "name": "Cricket New Zealand News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 588213342, 
+    "name": "Cricket News - The Ashes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 401385445, 
+    "name": "Cricket News and Scores", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 554923248, 
+    "name": "Cricket News, Live Scores & Videos - Sportfusion", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 349300171, 
+    "name": "Cricket Pakistan News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 845097165, 
+    "name": "Cricket Score & News gocricket", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 824757634, 
+    "name": "Cricket Shepparton", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348672804, 
+    "name": "Cricket South Africa News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348672878, 
+    "name": "Cricket Sri Lanka News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 349303295, 
+    "name": "Cricket T20", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 456912651, 
+    "name": "Cricket Tracker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 349301684, 
+    "name": "Cricket West Indies News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 418869166, 
+    "name": "Cricket World Cup", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 349301884, 
+    "name": "Cricket Zimbabwe News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 527040944, 
+    "name": "Crime Near You", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 894482062, 
+    "name": "Crime Stoppers Victoria", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 623418520, 
+    "name": "CrimeAlert", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 397128149, 
+    "name": "Crimesite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 875155204, 
+    "name": "CRIMEWATCH Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 895323989, 
+    "name": "Crisis response journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 802066896, 
+    "name": "Crisis Response Journal Volume 9 Issue 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 560756409, 
+    "name": "Cristiano Riformisti", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 669940977, 
+    "name": "Croatia Open Umag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 691209092, 
+    "name": "CrocoTicker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 866035307, 
+    "name": "Cronaca Eugubina", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 367034179, 
+    "name": "Cronicalocal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 366842986, 
+    "name": "Cronicamadrid", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 744546889, 
+    "name": "CronicaNoticias", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 401412046, 
+    "name": "Cross Country Skiing News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 725634244, 
+    "name": "Cross the Streams Radio Show", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 525733055, 
+    "name": "Crossroads Today", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 495705109, 
+    "name": "Crotone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 732329533, 
+    "name": "CrotoneSulWeb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 633859447, 
+    "name": "Cruise Ship News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 611731860, 
+    "name": "Cruise Ship News for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 680562589, 
+    "name": "Cruising Heights", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 563275650, 
+    "name": "Cruzeiro Oficial", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 587199548, 
+    "name": "Crystal Radio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 718821763, 
+    "name": "CS KMUTNB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 580780766, 
+    "name": "Csal\u00e1di Lap", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 601839550, 
+    "name": "Csal\u00e1di Lap HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 598313302, 
+    "name": "CSC Trasporti", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 599235208, 
+    "name": "Csdn\u8bba\u575b\u9605\u8bfb\u5668", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 890100484, 
+    "name": "CSE 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 441620689, 
+    "name": "CSILuxembourg", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 853807599, 
+    "name": "CSI\u00b7F II.PP.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 853417117, 
+    "name": "CSI\u00b7F MADRID", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 893349661, 
+    "name": "CSN Baltimore", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 660809434, 
+    "name": "CSN Houston", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 491928424, 
+    "name": "CSP Magazine HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 887341205, 
+    "name": "CSP72", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 903128855, 
+    "name": "CSPB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 674086005, 
+    "name": "CSS Reporter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 717053884, 
+    "name": "CSU Homecoming 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 623196354, 
+    "name": "CSV BOL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 661559811, 
+    "name": "CT Law Trib", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 486421782, 
+    "name": "CT Newspapers", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 534559222, 
+    "name": "CTBTO Spectrum", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 775643886, 
+    "name": "CTEplus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 368469628, 
+    "name": "CTnow Connecticut News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 827614902, 
+    "name": "Ctouch kiosk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 619421365, 
+    "name": "CTP-BG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 495603880, 
+    "name": "CTS UShare", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 884001306, 
+    "name": "CTV Magazin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 427789951, 
+    "name": "CTV News GO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 564779079, 
+    "name": "CTVM.info", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 771689807, 
+    "name": "Cuadernos de Dise\u00f1o en la Obra P\u00fablica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 794815122, 
+    "name": "Cub Hill Church Media App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 796810574, 
+    "name": "Cub Hill Church Tablet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 815899304, 
+    "name": "Cuba Sin Censura", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 432358195, 
+    "name": "Cuba Update News", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 434732508, 
+    "name": "Cubbies Fan: Chicago Baseball News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 871211692, 
+    "name": "Cubs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 352582572, 
+    "name": "CUE Connect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 834992164, 
+    "name": "CukurovaTURK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 893937040, 
+    "name": "Cullar Vega", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 590397893, 
+    "name": "Culleredo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 648622623, 
+    "name": "Cult Of Mac Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 756905480, 
+    "name": "Cult TV Times", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 698092079, 
+    "name": "Cultivar App'bovins", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 600185964, 
+    "name": "CulTOUR of KOREA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 571216838, 
+    "name": "Cultura", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 852967024, 
+    "name": "Cultura Colectiva", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 571244721, 
+    "name": "Cultura per iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 868174618, 
+    "name": "Culturalh", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 648273701, 
+    "name": "Culturebox", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 512252697, 
+    "name": "CultureLink", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 900396272, 
+    "name": "Cultuurzomer Achterhoek", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 731992083, 
+    "name": "Cumhuriyet Gazetesi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 356365889, 
+    "name": "Cup 2010", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 887799473, 
+    "name": "Cup 2014 - Football live score Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 887775242, 
+    "name": "Cup 2014 - Football live score Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 608207638, 
+    "name": "Cup of News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 888373354, 
+    "name": "Cup.ir", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 735536127, 
+    "name": "Curacao Chronicle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 578158430, 
+    "name": "Curacao News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 902178871, 
+    "name": "CuraIT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 901418729, 
+    "name": "Curitiba Na Hora", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 376768884, 
+    "name": "Current Issue Clocks", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 581719047, 
+    "name": "CurrentAffairs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 460918283, 
+    "name": "Currently Technology News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 863063478, 
+    "name": "CurrentSee", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 542982075, 
+    "name": "Currie Cup 2012", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 356229076, 
+    "name": "Curse of Cleveland", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 603372764, 
+    "name": "Cursor for Hacker News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 895743404, 
+    "name": "Cus Jonico Basket Taranto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 715504879, 
+    "name": "Cus Pisa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 351232088, 
+    "name": "Customers.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 492810917, 
+    "name": "CUTV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 522580681, 
+    "name": "CUTV\u67f3\u5dde\u53f0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 572480084, 
+    "name": "CUTV\u9ad8\u6e05", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 594172581, 
+    "name": "Cuxhaven", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 725477620, 
+    "name": "Cuxhaven-Niederelbe Verlagsgesellschaft e-Paper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 504265393, 
+    "name": "CV Wieringermeer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 869825600, 
+    "name": "CVR Group", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 703344563, 
+    "name": "CVV-Mercurius", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 378250779, 
+    "name": "CW33 GameDay", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 727365751, 
+    "name": "CWA 1298 Connect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 376365290, 
+    "name": "CWA Union Movement Builder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 860724591, 
+    "name": "CWDer's fran\u00e7ais", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 554718087, 
+    "name": "CWU", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 459096592, 
+    "name": "CWU Voice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 845317918, 
+    "name": "CWW Now!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 900921899, 
+    "name": "Cyber Aman", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 694666205, 
+    "name": "CyberNan Tech News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 511330108, 
+    "name": "CyberSAX", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 690872881, 
+    "name": "Cybersec", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 715093107, 
+    "name": "CycleWorld", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 352743167, 
+    "name": "Cycling Hot News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 894556188, 
+    "name": "Cycling News UCI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 859957225, 
+    "name": "Cycling News, Reviews & Routes - Sportfusion", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 453704977, 
+    "name": "Cycling Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 530515341, 
+    "name": "CyclismeMag.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 902486511, 
+    "name": "Cyclone Fanatic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 352262775, 
+    "name": "Cyndi Loza", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 898078221, 
+    "name": "Cynthiana Democrat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 789648639, 
+    "name": "Cypress Phoenix Baseball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 434213769, 
+    "name": "Cyprus News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 786182613, 
+    "name": "Cyprus Star", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 908824672, 
+    "name": "Czech Masters", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 482038976, 
+    "name": "Czech Ski Test 2011 / \u010cesk\u00fd ly\u017ea\u0159sk\u00fd test 2011", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 554506727, 
+    "name": "CZMobile", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 762122251, 
+    "name": "C\u00e2mara Municipal de S\u00e3o Paulo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 820692773, 
+    "name": "C\u00f3digo Cero", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 874671400, 
+    "name": "C\u00f3digo Cero para iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 441016275, 
+    "name": "C\u00f3digo Civil Coimbra HD", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 440576586, 
+    "name": "C\u00f3digo Civil LA LEY HD", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 441016293, 
+    "name": "C\u00f3digo Penal Coimbra HD", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 440577386, 
+    "name": "C\u00f3digo Penal LA LEY HD", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 709780348, 
+    "name": "C\u00f3mo Funciona", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 820930946, 
+    "name": "C\u00f4t\u00e9 Brest - le journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 442408503, 
+    "name": "C\u00f4t\u00e9 Caen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 820955258, 
+    "name": "C\u00f4t\u00e9 Caen - le journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 820955825, 
+    "name": "C\u00f4t\u00e9 Manche - le journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 820961985, 
+    "name": "C\u00f4t\u00e9 Quimper - le journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 820962225, 
+    "name": "C\u00f4t\u00e9 Rambouillet - le journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 820962461, 
+    "name": "C\u00f4t\u00e9 Rouen - le journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 820962572, 
+    "name": "C\u00f4t\u00e9 Val d\u2019Oise - le journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 820968532, 
+    "name": "C\u00f4t\u00e9 Versailles - le journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 820971955, 
+    "name": "C\u00f4t\u00e9 Yvelines - le journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 394224869, 
+    "name": "C\u030cASOPISI IN REVIJE", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 660797413, 
+    "name": "D&C iWP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 686429714, 
+    "name": "D'elpidio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 421113100, 
+    "name": "D.N.A", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 828941440, 
+    "name": "D66 Hoogezand-Sappemeer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 829024572, 
+    "name": "D66 Lingewaard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 864078147, 
+    "name": "DAF Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 539407425, 
+    "name": "DAGBLADET", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 474747747, 
+    "name": "Dagbladet eAvis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 784389167, 
+    "name": "Dagbladet i Sundsvall e-tidning", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 554619268, 
+    "name": "Dagbladet Information e-avis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 522678849, 
+    "name": "Dagbladet Ringk\u00f8bing-Skjern", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 885685266, 
+    "name": "Dagbl\u00f6\u00f0 IS", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 444919131, 
+    "name": "Dagens Nyheter.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 868745708, 
+    "name": "Dahr El Sawan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 867407355, 
+    "name": "Daijiworld News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 374984892, 
+    "name": "Daily & Sunday Express", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 360534571, 
+    "name": "Daily Asterisk News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 580941526, 
+    "name": "Daily Astorian E-Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 422019999, 
+    "name": "Daily Bulletin for iPad", 
+    "price": 0.0
+  }
+]

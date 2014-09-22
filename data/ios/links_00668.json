@@ -1,0 +1,5960 @@
+[
+  {
+    "genre": "Lifestyle", 
+    "id": 456632782, 
+    "name": "Cigar Boss Pro", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 538405757, 
+    "name": "Cigar Boss Pro HD", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 595282027, 
+    "name": "Cigar Cave - Powered By Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 595292279, 
+    "name": "Cigar Cave HD - Powered By Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 783463589, 
+    "name": "Cigar Chateau - Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 783463461, 
+    "name": "Cigar Chateau HD - Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 456177069, 
+    "name": "Cigar Finder", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 440513482, 
+    "name": "Cigar Glossary", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 522629828, 
+    "name": "Cigar Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 563206873, 
+    "name": "Cigar Inventory Tracker", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 906952657, 
+    "name": "Cigar King - Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 906952306, 
+    "name": "Cigar King HD - Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 520442024, 
+    "name": "Cigar Notes", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 888102072, 
+    "name": "Cigar Oasis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 492586924, 
+    "name": "Cigar Places", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 749033884, 
+    "name": "Cigar Realm - Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 749028884, 
+    "name": "Cigar Realm HD - Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 663795317, 
+    "name": "Cigar Room", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 329237244, 
+    "name": "Cigar Shapes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 706011197, 
+    "name": "CigarCities", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 878541232, 
+    "name": "Cigardeluxe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 555309816, 
+    "name": "CigarDojo the social cigar app", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 440501899, 
+    "name": "Cigares \u00e0 Paris", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 774487196, 
+    "name": "Cigarette-Burns", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 784472617, 
+    "name": "CigaretteElec", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 487649966, 
+    "name": "CigarReviewPro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 612497038, 
+    "name": "Cigars & More - Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 612496842, 
+    "name": "Cigars & More HD - Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 425936153, 
+    "name": "CigarShopLocator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 460140999, 
+    "name": "CigarStar Organizer", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 898265573, 
+    "name": "Cigarvida", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 421385528, 
+    "name": "Cikado Alarm Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 836488956, 
+    "name": "Ciklusnapl\u00f3 - Eg\u00e9szs\u00e9g\u00fcgyi napt\u00e1r h\u00f6lgyeknek", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 626596053, 
+    "name": "CIL Travel Saver", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 890375687, 
+    "name": "CIMEXPO - MONTLU\u00c7ON", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 372239781, 
+    "name": "CIN Color Lab Spy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 855274310, 
+    "name": "Cinamatic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 907910409, 
+    "name": "Cinch Polls", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 504271826, 
+    "name": "CinchToShop", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 522830148, 
+    "name": "Cincinnati City Hall Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 472182161, 
+    "name": "Cincinnati Fertility", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 406811645, 
+    "name": "Cincinnati Local News Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 561263494, 
+    "name": "Cincinnati Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 552823549, 
+    "name": "Cincinnati Screens", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 552823566, 
+    "name": "Cincinnati Screens Pro", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 726232196, 
+    "name": "CincoSport", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 656689620, 
+    "name": "Cinderella's Cellar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 882523980, 
+    "name": "Cinecitta", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 569694701, 
+    "name": "CineLoren", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 439630236, 
+    "name": "Cinema City", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 453915750, 
+    "name": "Cinema Radio", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 470150861, 
+    "name": "CinemaGPS", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 879383004, 
+    "name": "CinemagramDownloader - for Cinemagram", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 887866136, 
+    "name": "CINEMAN\u00cdA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 463198584, 
+    "name": "CinematicFoto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 905065346, 
+    "name": "CinematicsPro", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 838900914, 
+    "name": "Cineros", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 541610141, 
+    "name": "Cinnabar Hills Golf Club Tee Times", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 457533721, 
+    "name": "CINOA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 541832656, 
+    "name": "CINQUAIN CELLARS for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 684032475, 
+    "name": "Cinsel Zeka Testi", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 539914339, 
+    "name": "Cinta Sekali Lagi di Hari Raya", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 582059402, 
+    "name": "Cin\u00e9ma Le Select - Saint Jean de Luz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 492876039, 
+    "name": "Cin\u00e9PACA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 492880143, 
+    "name": "Cin\u00e9PACA online", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 821587801, 
+    "name": "CIO Asia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 355840401, 
+    "name": "CioccoRicette", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 547570595, 
+    "name": "Ciociaria Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 470896693, 
+    "name": "CIOE' DIGITAL EDITION", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 384713162, 
+    "name": "Circle BMW DealerApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 647204917, 
+    "name": "Circle Interval Timer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 709403195, 
+    "name": "Circle K Arizona", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 576379456, 
+    "name": "Circle Me", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 652169338, 
+    "name": "Circle the Smokies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 506858172, 
+    "name": "Circle Track", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 852323557, 
+    "name": "Circle: Daily Reading Planner for the Book of Mormon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 853795194, 
+    "name": "Circles - Smartwatch Face and Alarm Clock", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 605349638, 
+    "name": "Circles of Subiaco", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 535887902, 
+    "name": "CircleTime - New Round Calendar", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 886113231, 
+    "name": "Circlic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 830744731, 
+    "name": "Circo Volador", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 532662606, 
+    "name": "Circuit of the Americas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 451398141, 
+    "name": "Circuito gastronomico Audi - Edizione 2011/2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 897472864, 
+    "name": "Circuitos Tur\u00edsticos de Goi\u00e1s", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 636227672, 
+    "name": "Circular One Hair & Beauty", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 905538948, 
+    "name": "Cirque Hair & Beauty", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 838773065, 
+    "name": "Cirrus Bangalore", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 887695451, 
+    "name": "CIS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 793269383, 
+    "name": "Citadel Catholic Community", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 656636245, 
+    "name": "Citadel Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 400152483, 
+    "name": "Citadines Melbourne City Explorer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 713270884, 
+    "name": "Citalia Secrets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 784331722, 
+    "name": "CitApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 362369512, 
+    "name": "Citazioni Famose", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 785422113, 
+    "name": "CITI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 564187029, 
+    "name": "CITI TRENDS Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 628478527, 
+    "name": "Citiboard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 682226010, 
+    "name": "Cities Of Tomorrow", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 572520787, 
+    "name": "Citihood", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 905092691, 
+    "name": "Citikiosk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 579831443, 
+    "name": "Citivox", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 434806602, 
+    "name": "CITIZEN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 545386853, 
+    "name": "Citizen Band", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 500479573, 
+    "name": "Citizen Band free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 631959732, 
+    "name": "Citizen COP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 552860768, 
+    "name": "CITIZEN Eco-Drive Proximity", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 819219017, 
+    "name": "Citizen K International & Homme Sport", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 903728930, 
+    "name": "Citizen Monitoring", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 302955821, 
+    "name": "Citizen's Arrest", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 637974356, 
+    "name": "CitizenApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 740485565, 
+    "name": "Citizenpost", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 666058919, 
+    "name": "CitizenshipWorks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 665746199, 
+    "name": "Citrine Beauty", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 665746349, 
+    "name": "Citrine Beauty Spa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 539364509, 
+    "name": "Citroen", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 645840508, 
+    "name": "CITROEN ARLES", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 553148187, 
+    "name": "Citroen Car Club", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 419606703, 
+    "name": "Citroen Valenciennes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 521141318, 
+    "name": "Citro\u00ebn Nedey", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 352228138, 
+    "name": "CitrusFacts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 742608988, 
+    "name": "Citr\u00f6en C4 Lounge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 600467936, 
+    "name": "Cittadella Life", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 369121428, 
+    "name": "City", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 892108867, 
+    "name": "City & Rural Real Estate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 579320401, 
+    "name": "City & Shore Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 526318315, 
+    "name": "City Advisor", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 641180532, 
+    "name": "City App Home", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 879396212, 
+    "name": "City Art et Corporel Art", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 491484123, 
+    "name": "City Bikes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 512507338, 
+    "name": "City Boys Tire & Brake", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 446463323, 
+    "name": "City Breaks Holidays and Boutique Hotels", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 599165715, 
+    "name": "City Center at White Plains", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 722750911, 
+    "name": "City Centre Malls - Official App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 405923035, 
+    "name": "City Cheers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 814861979, 
+    "name": "City Church _", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 898922250, 
+    "name": "City Church AC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 756313885, 
+    "name": "City Church Billings", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 589241080, 
+    "name": "City Church Chicago", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 530549953, 
+    "name": "City Cloud", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 469963182, 
+    "name": "City Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 641527331, 
+    "name": "City Compass Romania", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 890383764, 
+    "name": "City Cube\u57ce\u5e02\u9b54\u65b9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 827788626, 
+    "name": "CITY DOWNHILL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 476308879, 
+    "name": "City Finder", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 698199891, 
+    "name": "City Garden Hotel, Hong Kong", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 490603378, 
+    "name": "City Grow", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 484566289, 
+    "name": "City Guides", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 427058578, 
+    "name": "City Harmonic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 849177263, 
+    "name": "City Harvest Church", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 855358379, 
+    "name": "City Horsens", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 442911517, 
+    "name": "City ICA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 678630490, 
+    "name": "City Impact Church", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 810089969, 
+    "name": "City is Yours App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 897486702, 
+    "name": "City Juwelier", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 529459578, 
+    "name": "City Kolding", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 590288329, 
+    "name": "City LV Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 532239974, 
+    "name": "CITY MAGAZINE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 877679954, 
+    "name": "City Market at O - Resident App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 742206906, 
+    "name": "City Never Sleeps", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 383886914, 
+    "name": "City Night Scene(HD)", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 408897505, 
+    "name": "City of Arlington, TX", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 899767949, 
+    "name": "City of Aurora Tee Times", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 892905782, 
+    "name": "City of Beachwood Ohio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 898137916, 
+    "name": "City of Boerne", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 867127896, 
+    "name": "City of Byram", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 535219799, 
+    "name": "City of Calgary Canada Day", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 464141446, 
+    "name": "City of Calgary Pathways & Bikeways", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 433295226, 
+    "name": "City of Calgary Pets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 881877237, 
+    "name": "City of Chino", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 896814045, 
+    "name": "City of Claremont", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 879214377, 
+    "name": "City Of Cocoa Beach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 551779870, 
+    "name": "City of Evansville Citizen Concern Portal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 875876903, 
+    "name": "City of Griffin Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 518997821, 
+    "name": "City of Kingston App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 891562200, 
+    "name": "City of Lake Worth", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 869477800, 
+    "name": "City of Love Church", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 497721611, 
+    "name": "City of Maysville, Ky", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 896798626, 
+    "name": "City of Moreno Valley", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 385461195, 
+    "name": "City of North Las Vegas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 613366763, 
+    "name": "City of Norwich/Chenango County, NY Joint Emergency Operations Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 523783444, 
+    "name": "City of Opelika Alabama for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 590278411, 
+    "name": "City of Portola", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 720041112, 
+    "name": "City of Refuge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 900225359, 
+    "name": "City of San Gabriel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 725076825, 
+    "name": "City of St. George", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 893238925, 
+    "name": "City of Tucson Golf Tee Times", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 559006276, 
+    "name": "City of Venice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 663002073, 
+    "name": "City of Waukesha Chamber of Commerce", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 877806977, 
+    "name": "City Offers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 653593040, 
+    "name": "City Pharmacy Pharmachoice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 750570912, 
+    "name": "City Place", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 631060652, 
+    "name": "City Place Cigar HD Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 631060908, 
+    "name": "City Place Cigar Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 510624993, 
+    "name": "City Press iMagazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 414880740, 
+    "name": "City QR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 702472894, 
+    "name": "City Radio Leipzig", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 433452589, 
+    "name": "City Report", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 890044541, 
+    "name": "City Reporter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 543836090, 
+    "name": "City Roul' - la voiture en libre service", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 884873860, 
+    "name": "City Salvos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 600524912, 
+    "name": "City Scanner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 569191698, 
+    "name": "City Shop", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 589626801, 
+    "name": "City Shopper", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 588754468, 
+    "name": "City Shopper Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 552834573, 
+    "name": "City Sightseeing PA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 640555983, 
+    "name": "City Sound Project", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 368261656, 
+    "name": "City Stories Medical London Bloomsbury", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 840902147, 
+    "name": "City Transports", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 843262495, 
+    "name": "City Tunes - listen to the sound of rain in the city, the crowd, the station, the office, the sound ...", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 704076094, 
+    "name": "City Weather Forecast", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 429843939, 
+    "name": "City Weekend Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 369307342, 
+    "name": "City2Click", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 849672090, 
+    "name": "City4dogs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 595678872, 
+    "name": "CITYA - MER & SOLEIL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 742334941, 
+    "name": "CITYapp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 783231897, 
+    "name": "CityApp Orbassano", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 604799664, 
+    "name": "CityApp \u05e0\u05e1-\u05e6\u05d9\u05d5\u05e0\u05d4", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 492266956, 
+    "name": "CityBeZen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 580846238, 
+    "name": "CityBites - Toronto's guide to great food and drink", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 892710915, 
+    "name": "CityBus - \u041e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 898079312, 
+    "name": "CityByApp\u00ae Canyon Lake!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 904707781, 
+    "name": "CityByApp\u00ae Corona!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 904428176, 
+    "name": "CityByApp\u00ae Hemet!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 738778886, 
+    "name": "CityByApp\u00ae Lake Elsinore!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 904716195, 
+    "name": "CityByApp\u00ae Moreno Valley!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 687854485, 
+    "name": "CityByApp\u00ae Murrieta!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 890649672, 
+    "name": "CityByApp\u00ae Perris!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 904711939, 
+    "name": "CityByApp\u00ae Riverside!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 807519557, 
+    "name": "CityByApp\u00ae San Jacinto!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 660952312, 
+    "name": "CityByApp\u00ae Temecula!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 761277634, 
+    "name": "CityByApp\u2122 Dixon!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 752266884, 
+    "name": "CityByApp\u2122 Eastvale!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 752009886, 
+    "name": "CityByApp\u2122 Fallbrook!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 757112266, 
+    "name": "CityByApp\u2122 Menifee!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 757139899, 
+    "name": "CityByApp\u2122 Wildomar!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 698470910, 
+    "name": "CITYCOLOR\u7f8e\u599d\u8cfc\u7269\u72c2:\u5e73\u50f9\u6642\u5c1a\u7684\u5962\u83ef\u5f69\u599d", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 866291109, 
+    "name": "CityCop - Community Watch GPS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 437197704, 
+    "name": "CityDiscovery", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 862416699, 
+    "name": "CityDotz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 447072308, 
+    "name": "Citydropz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 523056374, 
+    "name": "Cityexplora", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 869378966, 
+    "name": "CityExplore", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 422137868, 
+    "name": "CityFashion StoreConnect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 897530194, 
+    "name": "CityFM Radio Albania", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 896202437, 
+    "name": "CityFootball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 638601756, 
+    "name": "CityGallery \u5c55\u57ce\u9928", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 505955763, 
+    "name": "CityGardens - la nature dans la ville", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 640101418, 
+    "name": "Citygram", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 426199567, 
+    "name": "CityGrounds", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 370137490, 
+    "name": "CityGuideDeals \u2013 San Francisco Coupons / Discounts \u2013 City Guide Deals for Visitors and Locals", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 820652696, 
+    "name": "Cityheld", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 829167714, 
+    "name": "Cityhope App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 820342935, 
+    "name": "CITYHOTEL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 554577863, 
+    "name": "CityKit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 874283531, 
+    "name": "CityLeeks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 375302752, 
+    "name": "Citylets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 581867744, 
+    "name": "CityLife Church", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 554060015, 
+    "name": "CityLife Social", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 465616999, 
+    "name": "Citylife.dk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 544201418, 
+    "name": "Cityliving", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 478839995, 
+    "name": "Citymall Almere", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 503868242, 
+    "name": "Citymaps \u2014 Your logo map", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 903744000, 
+    "name": "CityNearBy Asia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 381723365, 
+    "name": "CityNews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 597135231, 
+    "name": "Citynow.it", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 505130796, 
+    "name": "Cityo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 584025969, 
+    "name": "CityOffers Quito", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 903374178, 
+    "name": "CityOffers.co", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 490965184, 
+    "name": "CityPlan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 398967146, 
+    "name": "CityPower mobil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 537061026, 
+    "name": "Cityprix", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 466886978, 
+    "name": "CityRangers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 569849505, 
+    "name": "CityScan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 298458698, 
+    "name": "Citysearch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 448942981, 
+    "name": "CityShopping.dk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 885577823, 
+    "name": "CitySkin - Which color is your city?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 873629059, 
+    "name": "CitySpade", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 732545399, 
+    "name": "CityStylistApp", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 390096357, 
+    "name": "CITYTAG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 651372702, 
+    "name": "Citytips", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 515235501, 
+    "name": "CityTrove", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 447744159, 
+    "name": "CityUp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 810647800, 
+    "name": "CityVision", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 478746709, 
+    "name": "Citywalk \u8343\u65b0\u5929\u5730", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 543131490, 
+    "name": "Cityzen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 464017634, 
+    "name": "City\u30ac\u30a4\u30c9-\u5317\u533a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 464027372, 
+    "name": "City\u30ac\u30a4\u30c9-\u54c1\u5ddd", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 452181524, 
+    "name": "City\u30ac\u30a4\u30c9-\u6587\u4eac\u533a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 451395533, 
+    "name": "City\u30ac\u30a4\u30c9-\u65b0\u5bbf", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 451396572, 
+    "name": "City\u30ac\u30a4\u30c9-\u6e0b\u8c37", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 464028311, 
+    "name": "City\u30ac\u30a4\u30c9-\u6e2f\u533a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 464020891, 
+    "name": "City\u30ac\u30a4\u30c9-\u76ee\u9ed2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 742652884, 
+    "name": "Cit\u00e9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 544208990, 
+    "name": "Cit\u00e9 Europe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 642741128, 
+    "name": "Ciudad de la Justicia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 525956187, 
+    "name": "Ciudadano Habla", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 549806534, 
+    "name": "Ciudades Que Danzan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 465285385, 
+    "name": "Civic 2014 Accessories", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 396602426, 
+    "name": "Civic Duty - Ottawa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 782783216, 
+    "name": "Civic Tourer 2014 Accessories", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 692772168, 
+    "name": "Civicity", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 887561227, 
+    "name": "Cividade", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 388156765, 
+    "name": "Civil Aircraft", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 328964955, 
+    "name": "Civil Rights", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 395976225, 
+    "name": "CJ Barbers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 779666340, 
+    "name": "CJ Stewart Foundation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 890731355, 
+    "name": "CJF \u9293\u9245\u798f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 635315868, 
+    "name": "CJH Financial Planning", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 366509410, 
+    "name": "CJmall", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 405211623, 
+    "name": "CJmall for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 530759425, 
+    "name": "CJMR 1320", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 873779010, 
+    "name": "CJ\uc62c\ub9ac\ube0c\uc601", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 718041663, 
+    "name": "CJ\ud5ec\ub85c\uad6d\uc81c", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 850889579, 
+    "name": "CKISAM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 762529900, 
+    "name": "CKR.jobs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 689854765, 
+    "name": "CLA-Class Estimate Simulation \u2010 Mercedes-Benz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 780817461, 
+    "name": "Clackamas Town Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 791246699, 
+    "name": "Cladview", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 669470262, 
+    "name": "CLAGE Smart Control", 
+    "price": 54.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 881799156, 
+    "name": "CLAIM Di i lert u", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 852290635, 
+    "name": "Claim Personal Injury", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 840057464, 
+    "name": "Clair Beauty \u638c\u63e1\u6700\u65b0\u6d41\u884c\u7f8e\u599d\u9aee\u578b\u8cc7\u8a0a\u8b93\u60a8\u8b8a\u7f8e\u9e97", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 686588510, 
+    "name": "Claire - Getting Things Done", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 666587902, 
+    "name": "Claire Wallace Hair and Make up", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 851718889, 
+    "name": "Clairporium", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 400625336, 
+    "name": "Clairvoyance and Occult Powers - Telepathy, Mind Reading and Crystal Gazing Explained", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 795454097, 
+    "name": "CLAM Devotional", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 418163505, 
+    "name": "Clameurs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 719208656, 
+    "name": "Clamotty NET", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 699462090, 
+    "name": "Clandestine Chat", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 820497193, 
+    "name": "Clandestino - Stockholm", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 899903256, 
+    "name": "CLAN \u6c0f\u65cf", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 341833365, 
+    "name": "ClapClock Atomium", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 313750975, 
+    "name": "ClapClock C", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 331323962, 
+    "name": "ClapClock Comet", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 331345682, 
+    "name": "ClapClock Comet FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 331945065, 
+    "name": "ClapClock Crystalo", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 332026422, 
+    "name": "ClapClock Crystalo FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 316233909, 
+    "name": "ClapClock D", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 569123894, 
+    "name": "Clapham Hero", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 753750884, 
+    "name": "Clara Revista", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 545640364, 
+    "name": "Clare Controls", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 877463584, 
+    "name": "Claremont Executive Services", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 804455443, 
+    "name": "ClareVision", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 804459057, 
+    "name": "ClareVision for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 853550928, 
+    "name": "Clarion Hotel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 852478992, 
+    "name": "Clarity Real Estate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 897485140, 
+    "name": "Clarity Wealth Management LLP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 907442231, 
+    "name": "ClarityHD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 643787469, 
+    "name": "Clark County Live!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 766881033, 
+    "name": "Clark Rubber", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 892825650, 
+    "name": "Clarke County EMA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 625278877, 
+    "name": "Clarke Gammon Wellers \u2013 Property Search", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 395950599, 
+    "name": "Clarkes Estates", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 789833007, 
+    "name": "Clarksville City Saver 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 492574127, 
+    "name": "Claro Postales Moviles", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 538824435, 
+    "name": "Clase A", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 596335565, 
+    "name": "Clasico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 453941277, 
+    "name": "Class Note", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 592939198, 
+    "name": "ClassAct Mag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 695809663, 
+    "name": "Classez!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 495925305, 
+    "name": "Classic & Sports Car Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 447307983, 
+    "name": "Classic 100 \"The Most Beloved\" Collection", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 500695250, 
+    "name": "Classic Aircraft Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 632040424, 
+    "name": "Classic Airliner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 567123033, 
+    "name": "Classic American \u2013 the UK\u2019s No1 all American car magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 537221015, 
+    "name": "Classic Bike Guide - a guide to buying, running and owning a classic bike. Broad minded with a pract...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 567454061, 
+    "name": "Classic Bike Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 567092702, 
+    "name": "Classic Bike Mechaniker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 329100438, 
+    "name": "Classic Car", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 399576828, 
+    "name": "Classic Car Black&White", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 399576428, 
+    "name": "Classic Car Black&White Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 595316707, 
+    "name": "Classic Car Buyer - Britain\u2019s leading weekly publication for classic car enthusiasts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 396106721, 
+    "name": "Classic Car Buyer\u2019s Guide", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 340255307, 
+    "name": "Classic Car Envi", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 643326115, 
+    "name": "Classic Car Mart \u2013 The Number 1 Magazine for Buying and Selling Classic Cars", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 590229757, 
+    "name": "Classic Cars Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 399576851, 
+    "name": "Classic Cars Posters", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 329092612, 
+    "name": "Classic Cars Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 321809917, 
+    "name": "CLASSIC CARS \u2013- Collection of Vintage and Antique Automobiles", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 666139275, 
+    "name": "Classic Casino Slots Free Single Slot Machine Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 345299285, 
+    "name": "Classic Christmas Cards", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 486211401, 
+    "name": "Classic Christmas Songs - Instrumental", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 641420316, 
+    "name": "Classic Dialer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 752859885, 
+    "name": "Classic Eyes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 827711967, 
+    "name": "Classic Feel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 451397624, 
+    "name": "Classic Ford: the classic car magazine for Ford fans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 370834162, 
+    "name": "Classic Love Cards", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381462086, 
+    "name": "Classic maxim", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 537163428, 
+    "name": "Classic Motorcycle Mechanics - Running, riding and repairing Japanese, European and American classic...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 504534108, 
+    "name": "Classic Motoring", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 904540707, 
+    "name": "Classic music 24/7 classical music collection - Tune in to the best concertos , sonatas & symphonies...", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 686328515, 
+    "name": "Classic Piano.", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 516583291, 
+    "name": "Classic Porsche Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 364385625, 
+    "name": "Classic Radio", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 819311424, 
+    "name": "Classic Rock Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 447983375, 
+    "name": "Classic Rock Radio", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 618969010, 
+    "name": "Classic Safari Camps Namibia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 538397395, 
+    "name": "Classic Scooterist Magazine -  The spirit of the sixties revisited. This is where the classic scoote...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 828918569, 
+    "name": "Classic Touch Cakes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 836255947, 
+    "name": "Classic Tractor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 878573725, 
+    "name": "Classic Trains Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 662022848, 
+    "name": "Classic Travel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 681443992, 
+    "name": "Classic Trucks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 349317141, 
+    "name": "Classic Valentine Cards", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 590459860, 
+    "name": "Classic Wheels", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 456639097, 
+    "name": "Classical French Paintings", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 703246344, 
+    "name": "Classical Guitar Music: Master Collection 100", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 827426939, 
+    "name": "Classical Music Box: sweet soothing melodies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 464678312, 
+    "name": "Classical Music for Meditation", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 454379623, 
+    "name": "Classical Music Radio", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 595859384, 
+    "name": "Classical Music Radio Petite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 584605818, 
+    "name": "Classical Music \u2122", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 373763903, 
+    "name": "Classical Musicbank Standard -1", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 373765695, 
+    "name": "Classical Musicbank Standard -2", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 533351189, 
+    "name": "Classical Nude Art", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 461374272, 
+    "name": "Classical Nude Paintings", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 334199649, 
+    "name": "Classical Radio", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 570368452, 
+    "name": "Classical \u2122", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 425297707, 
+    "name": "ClassicBooth", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 533236119, 
+    "name": "ClassicCars.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 415526969, 
+    "name": "ClassicDial - the dialplate", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 427445432, 
+    "name": "ClassicDial - Rotary Dialer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 876345519, 
+    "name": "Classicfeel Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 365889139, 
+    "name": "ClassicInsta", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 451399229, 
+    "name": "Classics Monthly: the UK's most practical classic car magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 360555240, 
+    "name": "ClassicToy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 479484760, 
+    "name": "ClassicWatch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 309634897, 
+    "name": "Classifieds Pro", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 697939349, 
+    "name": "Classique Camera - Retro Vintage 8mm Photo & Video Filters Movie Effects Recorder", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 697939516, 
+    "name": "Classique Camera HD - Retro Vintage 8mm Photo Filters & Video Movie Effects Recorder", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 904665924, 
+    "name": "Classy - Student Marketplace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 907459922, 
+    "name": "Classy Chassis Car Wash & Detailing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 645783926, 
+    "name": "Classy, BlackGirl.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 485249439, 
+    "name": "CLASSY.ONLINE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 431219078, 
+    "name": "Claude Monet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 480527936, 
+    "name": "Claude Monet !!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 575508570, 
+    "name": "Claude Monet I", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 490130019, 
+    "name": "Claude Monet Paintings", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 436298467, 
+    "name": "Claude Monet Paintings HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 525432067, 
+    "name": "Claude Monet Wallpaper", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 433397151, 
+    "name": "CLAUDIA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 895468405, 
+    "name": "Claudia Meyer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 795542495, 
+    "name": "Claudio Freidzon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 887872965, 
+    "name": "Claves de la Raz\u00f3n Pr\u00e1ctica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 881056429, 
+    "name": "Claye Souilly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 592081063, 
+    "name": "Clayton Bailey", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 897607983, 
+    "name": "Clayton Fisheries, Huddersfield", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 897301314, 
+    "name": "Clayton King Ministries", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 574927950, 
+    "name": "Clayton's Siesta Grille", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 608206578, 
+    "name": "CLB Cabinet Making", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 864212639, 
+    "name": "CLC Austin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 710531917, 
+    "name": "CLC World Europe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 787026068, 
+    "name": "CLChurch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 864823339, 
+    "name": "Clctin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 594912341, 
+    "name": "CLCtoday", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 706235297, 
+    "name": "Clean Alarm Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 782612901, 
+    "name": "Clean And Green", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 885582766, 
+    "name": "Clean Car Up Up", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 775019918, 
+    "name": "Clean Direct", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 815885872, 
+    "name": "Clean Eating Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 628036923, 
+    "name": "Clean Seat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 773304571, 
+    "name": "Clean Smoker GmbH", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 420091395, 
+    "name": "Clean Up Australia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 796150511, 
+    "name": "Clean Up Stockton", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 847766723, 
+    "name": "Clean Water Tour", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 507885140, 
+    "name": "CleanBill", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 586654920, 
+    "name": "Cleaning of Japan", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 903634245, 
+    "name": "Cleaning Services", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 545604264, 
+    "name": "CleanLah", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 820998720, 
+    "name": "Cleanly - On-Demand Laundry & Dry-Cleaning Delivery NYC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 765220412, 
+    "name": "Cleanse America", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 643027068, 
+    "name": "Clear Intentions' Breakthrough Muscle Testing App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 516681390, 
+    "name": "Clear Magazine 10th Anniversary Pt. 2 French Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 517005763, 
+    "name": "Clear Magazine 10th Anniversary Pt.2 Spanish Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 635927748, 
+    "name": "Clear Springs Baptist Church App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 493136154, 
+    "name": "Clear \u2013 Tasks, Reminders & To-Do Lists", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 649305503, 
+    "name": "Clear-Hotel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 742692229, 
+    "name": "Clearance49", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 602848379, 
+    "name": "Clearbrook", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 630768804, 
+    "name": "Clearcreek Chapel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 592386667, 
+    "name": "Clearer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 554020890, 
+    "name": "ClearLife - \u5317\u6d77\u9053\u306e\u9b45\u529b\u3092Facebook\u3067\u30c1\u30a7\u30c3\u30af\uff01", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 390843284, 
+    "name": "ClearlyLethbridge.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 393491253, 
+    "name": "ClearlyMedicineHat.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 393492325, 
+    "name": "ClearlyRedDeer.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 367287616, 
+    "name": "ClearType - Type and Walk", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 561543050, 
+    "name": "ClearWeather Free - Color forecast", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 576939451, 
+    "name": "ClearWeather HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 396108835, 
+    "name": "Clemenza's Notepad", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 813461450, 
+    "name": "Cleo Magazine Australia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 586922551, 
+    "name": "CLEO Malaysia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 586922781, 
+    "name": "CLEO Singapore", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 434815052, 
+    "name": "Clerkenwell Design Week", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 671117263, 
+    "name": "Clermont Fun", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 403692175, 
+    "name": "CLES pour iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 581783905, 
+    "name": "Cleu Alarm", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 728659401, 
+    "name": "Cleveland APL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 324538512, 
+    "name": "Cleveland Local News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 324538579, 
+    "name": "Cleveland Local News Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 508815478, 
+    "name": "Cleveland Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 736644925, 
+    "name": "CLEVER APP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 573523591, 
+    "name": "CleverCards: Free eCards on Facebook", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 540316238, 
+    "name": "CleverList", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 548944503, 
+    "name": "CleverTaxi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 642742966, 
+    "name": "CLEVERTE IMMOBILIER", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 554929539, 
+    "name": "CLEWR CARD mobil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 583314314, 
+    "name": "Clic-Immo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 298667907, 
+    "name": "CLIC2C", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 637438762, 
+    "name": "Clich\u00e9 Mag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 862487632, 
+    "name": "Click", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 378633777, 
+    "name": "Click & Track", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 647279264, 
+    "name": "Click AD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 554929767, 
+    "name": "Click Clack Camera", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 884265590, 
+    "name": "Click Flick", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 578891360, 
+    "name": "Click For Food", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 532687446, 
+    "name": "Click Hear", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 834339891, 
+    "name": "Click Serendipity", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 311530721, 
+    "name": "Click Train", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 571118452, 
+    "name": "Click4Ride", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 747621949, 
+    "name": "ClickAndFlirt \u2014 go date!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 359115059, 
+    "name": "ClickATable - \u05e7\u05dc\u05d9\u05e7\u05d0\u05d8\u05d9\u05d9\u05d1\u05dc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 583863149, 
+    "name": "ClickBox", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 889723827, 
+    "name": "Clickbus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 787053804, 
+    "name": "ClickCall", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 688704511, 
+    "name": "Clickee", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 894477666, 
+    "name": "ClickIt! - The Simple and Smart Dog Training Clicker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 581527103, 
+    "name": "ClickMonaco", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 878943948, 
+    "name": "ClickPic Photos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 873237089, 
+    "name": "ClickPrime Plus", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 566325967, 
+    "name": "Clickshop.ro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 505397332, 
+    "name": "ClickStik", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 492751605, 
+    "name": "ClickToBuy App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 430166967, 
+    "name": "Clicq App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 529086245, 
+    "name": "ClicRewards", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 882518153, 
+    "name": "Clicstreet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 829675905, 
+    "name": "Client Roi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 627410001, 
+    "name": "Cliente @firma movil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 459998576, 
+    "name": "Cliff Hotel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 850244442, 
+    "name": "Clifton Life", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 845512004, 
+    "name": "Clima Control", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 887175939, 
+    "name": "ClimaCast", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 581468216, 
+    "name": "Climagest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 881105538, 
+    "name": "Climate Justice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 884463813, 
+    "name": "Climate Justice Network", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 505897090, 
+    "name": "Climate Wise\u2122 Plant Hardiness Zone Finder", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 564169356, 
+    "name": "Climatecars", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 882695113, 
+    "name": "Climawin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 440997579, 
+    "name": "Climbing Grades", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 514545598, 
+    "name": "Climbing LogBook", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 529562950, 
+    "name": "Climbing Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 478266278, 
+    "name": "CLIMBOS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 496885820, 
+    "name": "Climote Remote Heating Control App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 460129943, 
+    "name": "Clin d'oeil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 805612129, 
+    "name": "Clingme", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 838826943, 
+    "name": "Clinique by invitation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 894532392, 
+    "name": "Clinique Esth\u00e9tique Saint Aubin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 367811027, 
+    "name": "Clink - Open sites on your iDevice", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 838740201, 
+    "name": "Clinkey", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 301128615, 
+    "name": "Clinometer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 880352520, 
+    "name": "Clinton First United Methodist Church", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 605808546, 
+    "name": "Clinton Hill Golf Course", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 843204264, 
+    "name": "CLIO Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 545190138, 
+    "name": "ClioMakeUp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 671509569, 
+    "name": "Clip the best moment of your smiling baby\u300cMemory Of Baby\u300d", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 640591791, 
+    "name": "Clip'd", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 830680002, 
+    "name": "Clipagram = Photos + Audio = Amazing Video", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 496431173, 
+    "name": "ClipAlbum+", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 502813663, 
+    "name": "Clipanda", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 690476064, 
+    "name": "Cliparts Vintage Style Vol 1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 690479270, 
+    "name": "Cliparts Vintage Style Vol 2", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 690480806, 
+    "name": "Cliparts Vintage Style Vol 3", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 690483916, 
+    "name": "Cliparts Vintage Style Vol 4", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 690487050, 
+    "name": "Cliparts Vintage Style Vol 5", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 895363638, 
+    "name": "Clipboard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 514506637, 
+    "name": "Clipbox - Scrap/Memo/Note & Organize", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 532456584, 
+    "name": "Clipbox Lite - Scrap/Memo/Note & Organize", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 536149678, 
+    "name": "Clipie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 498495170, 
+    "name": "Clipix", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 876053516, 
+    "name": "ClipMyStyle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 889842543, 
+    "name": "Clippe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 871680965, 
+    "name": "Clipr - Loyalty rewards and offers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 449470554, 
+    "name": "Clips ~ Teach the Bible; Use scenes from movies", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 597758516, 
+    "name": "Clipsal iSelect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 871839657, 
+    "name": "ClipUp - Collect & Organize Ideas", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 542684846, 
+    "name": "CLIQ.r", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 454058692, 
+    "name": "Clique", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 495993757, 
+    "name": "Clique Sav", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 563446682, 
+    "name": "CLIQ\u2122 | Give Your Group a Voice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 605327890, 
+    "name": "Clive Pearce", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 642378883, 
+    "name": "Clive Pearce for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 561927431, 
+    "name": "Clive Watkin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 730090961, 
+    "name": "CLM Lettings", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 826138654, 
+    "name": "Cloaq", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 556377958, 
+    "name": "Clock 'Klok' - Casual Time Indication", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 562904361, 
+    "name": "Clock 'Klok' - Preview", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 554443634, 
+    "name": "Clock - Digital", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 818273888, 
+    "name": "Clock App- clono", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 845916375, 
+    "name": "Clock Bounce Ball", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 593747769, 
+    "name": "Clock B|W", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 689359861, 
+    "name": "Clock Chain", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 465705391, 
+    "name": "Clock Chimes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 631381812, 
+    "name": "Clock Clocca", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 365287503, 
+    "name": "Clock Gear", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 360318556, 
+    "name": "Clock J", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 477028404, 
+    "name": "Clock Metal", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 549386250, 
+    "name": "Clock Pro for iPad", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 549387647, 
+    "name": "Clock Pro Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 376826715, 
+    "name": "Clock Pro HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 405945700, 
+    "name": "Clock Pro HD Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 543309695, 
+    "name": "Clock Screensaver", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 542910738, 
+    "name": "Clock Stand", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 495940617, 
+    "name": "Clock++", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 318788530, 
+    "name": "Clock01", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 319495777, 
+    "name": "Clock02", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 319898091, 
+    "name": "Clock03", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 319930362, 
+    "name": "Clock04", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 320132700, 
+    "name": "Clock05", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 320239044, 
+    "name": "Clock06", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 320239295, 
+    "name": "Clock07", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 321084237, 
+    "name": "Clock08", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 322945933, 
+    "name": "Clock09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 346298797, 
+    "name": "Clock10", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 346959663, 
+    "name": "Clock11", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 346998187, 
+    "name": "Clock12", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 307374924, 
+    "name": "Clock: Grid Patterns", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 463176253, 
+    "name": "ClockCc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 384893519, 
+    "name": "ClockClockClock", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 895471605, 
+    "name": "Clocked", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 850852016, 
+    "name": "ClockFlowPro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 456010750, 
+    "name": "ClockPlate", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 416980665, 
+    "name": "ClockRing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 366242899, 
+    "name": "Clocks Colors", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 365226405, 
+    "name": "Clocks for Moms : Analog and Digital Clocks for All Mothers", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 429412335, 
+    "name": "Clocktone", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 655417935, 
+    "name": "ClockWatcher - Work/Life Balance Timer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 336568026, 
+    "name": "ClockWoot - Wakeup to the Woot", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 412680896, 
+    "name": "Clockwork Light", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 458690085, 
+    "name": "Clock\u2122", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 708627884, 
+    "name": "Cloe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 675035914, 
+    "name": "Clogau Ring Sizer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 743811901, 
+    "name": "Cloggs Shoes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 647554947, 
+    "name": "Clone Magic - Clone Yourself, Split Pic, Clone Camera and Air Pic Maker for SnapChat, Tumblr, Kik Me...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 646668914, 
+    "name": "Clone Magic Pro - Clone Yourself", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 509469703, 
+    "name": "Cloogy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 383065665, 
+    "name": "ClopClop - les tabacs ouverts \u00e0 proximit\u00e9", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 869324747, 
+    "name": "ClopeAndClope", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 652886511, 
+    "name": "Cloquo-Pocket Alarms From Web", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 648988497, 
+    "name": "Clorets Socializer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 369010329, 
+    "name": "Clorox myStain - Great tips for stain removal and laundry advice! Including tips to remove a wine st...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 859989809, 
+    "name": "Clorox Pool&Spa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 835572779, 
+    "name": "Close By.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 887406075, 
+    "name": "Close Up Runway Kids", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 903865730, 
+    "name": "Close-Up Kids", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 887409106, 
+    "name": "Close-Up Man Outerwear", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 904887483, 
+    "name": "Close-Up Man Shirt", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 887418662, 
+    "name": "Close-Up Man Sportswear", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 904525421, 
+    "name": "Close-Up Man T-Shirt", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 887418373, 
+    "name": "Close-Up Runway Man", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 903868918, 
+    "name": "Close-Up Woman Denim & Casual", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 438218006, 
+    "name": "Closer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 426017193, 
+    "name": "Closer & Closer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 634904446, 
+    "name": "Closer DE ePaper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 621473193, 
+    "name": "Closer UK Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 594210957, 
+    "name": "Closer \u2013 You never know", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 739728174, 
+    "name": "Closer2Fabulous", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 796944174, 
+    "name": "Closet - your fashion partner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 556307434, 
+    "name": "Closet Fashions Wardrobe Manager", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 309532414, 
+    "name": "Closet+", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 840594894, 
+    "name": "Closet.M", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 777647761, 
+    "name": "ClosetApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 643868732, 
+    "name": "Closett Social Shopper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 906357664, 
+    "name": "CloseUp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 436130068, 
+    "name": "CloseWatch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 714298367, 
+    "name": "Closit!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 464306737, 
+    "name": "Cloth", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 488215513, 
+    "name": "Cloth Paper Scissors Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 463862129, 
+    "name": "Clothes Calendar", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 668112741, 
+    "name": "Clothes Calendar Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 382478688, 
+    "name": "Clothes Color Coordinator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 382797076, 
+    "name": "Clothes Concierge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 806789878, 
+    "name": "Clothes Your Screen - Wallpapers and Themes for iOS 7", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 474404534, 
+    "name": "ClothesDays", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 718914514, 
+    "name": "Clothesi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 589027919, 
+    "name": "Clothespin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 719655289, 
+    "name": "ClothesRight", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 835945148, 
+    "name": "Clothfriend", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 517150397, 
+    "name": "Clothia Closet & Stylist - create trendy looks and shop clothes by outfits", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 772289888, 
+    "name": "Clothing Finder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 633766410, 
+    "name": "Clothing Pics", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 634038452, 
+    "name": "Clothing Pics Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 845039151, 
+    "name": "Clothing Plan", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 495184281, 
+    "name": "Clothing Size 2012", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 485433963, 
+    "name": "Clothing Sizes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 733743211, 
+    "name": "Clothy", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 821612987, 
+    "name": "Clothy Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 886522133, 
+    "name": "Cloud 9 Beauty Kildare", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 617803135, 
+    "name": "Cloud 9 Carmarthen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 562435653, 
+    "name": "Cloud 9 Cycles", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 871795832, 
+    "name": "Cloud 9 sky bar & lounge (cz)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 879369959, 
+    "name": "Cloud 9 sky bar & lounge (en)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 584171269, 
+    "name": "Cloud 9 Spa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 432791399, 
+    "name": "Cloud Baby Monitor ~ Unlimited Range Video Baby Monitor (Wi-Fi, 3G, LTE, Bluetooth)", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 905744107, 
+    "name": "Cloud Card 1.0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 520369519, 
+    "name": "Cloud Frame", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 518580354, 
+    "name": "Cloud Frame Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 893539684, 
+    "name": "Cloud Maker-God's Weather", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 735716884, 
+    "name": "Cloud Power", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 540911792, 
+    "name": "Cloud2You", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 854999426, 
+    "name": "CloudDiskHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 448268037, 
+    "name": "Cloude Monet Paintings", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 705661187, 
+    "name": "Cloudhawk App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 450502786, 
+    "name": "CloudList", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 675237912, 
+    "name": "CloudNote Pro for Dropbox - Perfectly Synchronised Note Taking & Writing App", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 699597535, 
+    "name": "CloudQRScan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 847325730, 
+    "name": "CloudShare", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 481141561, 
+    "name": "CloudShouts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 867777346, 
+    "name": "Clover - \u53cb\u4eba\u3084\u540c\u50da\u306e\u60c5\u5831\u3092\u7c21\u5358\u306b\u7ba1\u7406\u51fa\u6765\u308b\u30a2\u30d7\u30ea", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 528593219, 
+    "name": "Clover Valley Golf Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 535111594, 
+    "name": "Clowby", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 691789499, 
+    "name": "Clowire \u667a\u80fd\u5bb6\u5c45", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 406796788, 
+    "name": "Clowner utan Gr\u00e4nser", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 385461148, 
+    "name": "Clox", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 742275918, 
+    "name": "CLOZ - reminder of looks!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 885905406, 
+    "name": "Clozzle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 450725907, 
+    "name": "CLP Hong Kong App \u4e2d\u96fb\u9999\u6e2f App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 864853293, 
+    "name": "Club Alltogether", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 875210284, 
+    "name": "Club Amici del Toscano", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 550579724, 
+    "name": "Club Athletico Paulistano", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 895472351, 
+    "name": "CLUB AURA EROS BAR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 853153434, 
+    "name": "Club Campestre", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 581478499, 
+    "name": "Club Cara' - Forum Auto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 581399624, 
+    "name": "Club Centenario Paraguay", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 568069284, 
+    "name": "Club Collage", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 465622217, 
+    "name": "Club Danube", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 619054856, 
+    "name": "Club de Benefits", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 824270022, 
+    "name": "Club De Compras", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 469017159, 
+    "name": "Club de Golf Alcanada", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 544796741, 
+    "name": "Club Fine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 694006817, 
+    "name": "Club Garros", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 587702709, 
+    "name": "CLUB HARLEY", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 403697153, 
+    "name": "Club Hedonism", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 685798785, 
+    "name": "Club Humidor - Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 685798682, 
+    "name": "Club Humidor HD - Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 383124599, 
+    "name": "Club iOS Italia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 440656092, 
+    "name": "Club Jive", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 890519026, 
+    "name": "Club Judge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 827696870, 
+    "name": "Club KYO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 656068825, 
+    "name": "Club Lagunen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 590196442, 
+    "name": "Club Lighting Player", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 837173885, 
+    "name": "Club Love App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 639542226, 
+    "name": "CLUB MAGIC LIFE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 740459889, 
+    "name": "Club Magnum", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 484580712, 
+    "name": "Club Milano Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 420449976, 
+    "name": "Club Mural", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 684774636, 
+    "name": "Club N - \ud074\ub7fd\ub9e4\ub2c8\uc544 \uacf5\uc2dd \uc5b4\ud50c\ub9ac\ucf00\uc774\uc158", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 773396884, 
+    "name": "Club O Zone's InDaClub", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 513635373, 
+    "name": "Club Ovahi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 762015961, 
+    "name": "CLUB Panasonic.my", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 806083263, 
+    "name": "Club Policl\u00ednica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 551335838, 
+    "name": "Club Prestige", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 406173162, 
+    "name": "Club Reforma", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 683792529, 
+    "name": "Club Ride Rewards", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 901371945, 
+    "name": "Club Salima Hotel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 773282762, 
+    "name": "Club Scala", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 600136748, 
+    "name": "Club Scores", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 858541560, 
+    "name": "Club Sylvia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 656301204, 
+    "name": "CLUB THE A", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 519632110, 
+    "name": "Club TOTAL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 403229435, 
+    "name": "Club Wonk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 712391519, 
+    "name": "Club125R\u00e9union", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 533991661, 
+    "name": "Clubbing City", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 794559095, 
+    "name": "Clube da Lu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 839154260, 
+    "name": "Clube de Campo de S\u00e3o Paulo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 698705802, 
+    "name": "Clube do Champanhe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 813958028, 
+    "name": "Clube FM Bras\u00edlia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 293028319, 
+    "name": "Clube Mais Bela", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 862770964, 
+    "name": "Clube Paineiras do Morumby", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 891461435, 
+    "name": "Clubee", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 596805294, 
+    "name": "ClubGolf", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 902936532, 
+    "name": "Clubhead - Sydney Nightlife", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 571831513, 
+    "name": "ClubintheChi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 296855316, 
+    "name": "ClubKit", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 299732699, 
+    "name": "ClubKit-Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 600845512, 
+    "name": "ClubLaCasa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 673135754, 
+    "name": "Clublife EDM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 518376570, 
+    "name": "Clubmaker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 410012043, 
+    "name": "Clubmaker HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 727332666, 
+    "name": "Clubmapp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 903731277, 
+    "name": "ClubMGMT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 408216605, 
+    "name": "ClubSeen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 898869219, 
+    "name": "ClubSelfieApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 852969251, 
+    "name": "ClubShopster", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 709891969, 
+    "name": "Clubstars Webradio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 516959299, 
+    "name": "ClubSwan Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 849760562, 
+    "name": "Cluck-ulator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 752114889, 
+    "name": "Clue Video", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 352893348, 
+    "name": "Clumsy Match Maker", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 881057340, 
+    "name": "Clustered Spires Golf Tee Times", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 589187593, 
+    "name": "Clutter Rescue", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 883932864, 
+    "name": "Clutterly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 579533385, 
+    "name": "CLV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 594076625, 
+    "name": "Clyde's Garden Planner", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 726005366, 
+    "name": "CL\u00c1SICOS EXCLUSIVOS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 665853931, 
+    "name": "Cl\u00ednica Cmes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 735181393, 
+    "name": "Cl\u00ednica Dental Almagro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 722185750, 
+    "name": "Cl\u00ednica Dental Burdeos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 658804142, 
+    "name": "Cl\u00ednica Dental Salteras", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 711475987, 
+    "name": "Cl\u00ednica Dra. Mart\u00ednez", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 789645280, 
+    "name": "Cl\u00ednica Rom\u00e1n Jara", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 784500118, 
+    "name": "Cl\u00ednica SaludVet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 514153442, 
+    "name": "CM Feed", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 638370079, 
+    "name": "CM Fox", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 638374639, 
+    "name": "CM Fox for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 545714213, 
+    "name": "CM Punk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 591332061, 
+    "name": "CM108", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 728359331, 
+    "name": "CMA 14", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 458875154, 
+    "name": "CMA Apps", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 650741385, 
+    "name": "CMe - See who's looking at you", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 893674351, 
+    "name": "CMEtv", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 504505143, 
+    "name": "CMGLIVE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 416016034, 
+    "name": "CMR Atlas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 597664439, 
+    "name": "CMSTimeTracker 1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 759425888, 
+    "name": "CMVS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 379039431, 
+    "name": "CMX Viewer Lite", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 489725176, 
+    "name": "CNBC Arabia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 592997518, 
+    "name": "CnBuyNet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 859905149, 
+    "name": "CNC Keller GmbH En", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 447763430, 
+    "name": "CND : Che Donna Sei?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 383989837, 
+    "name": "CNET", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 826183157, 
+    "name": "CNNAVI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 465916982, 
+    "name": "CNTraveller Russia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 486604536, 
+    "name": "CNTV-\u65b0\u95fb\u8054\u64ad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 792622718, 
+    "name": "CNY Prosperous Steed", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 593926189, 
+    "name": "CNY32 degrees", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 721643807, 
+    "name": "CO 211", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 686737697, 
+    "name": "CO Everywhere \u2013 Local news and social events, worldwide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 568276749, 
+    "name": "CO&CO CYAN Corporate Design Magazine // Branding // Logo // Graphic Design // Inspiration", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 719367311, 
+    "name": "Co-Blog", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 573048102, 
+    "name": "Co-op CRS App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 571543327, 
+    "name": "Co-Parenting", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 738022461, 
+    "name": "Co:walking", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 470165365, 
+    "name": "Coach Yourself!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 548886590, 
+    "name": "Coach Ron Tunick", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 445350993, 
+    "name": "Coaching for Golf HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 880301862, 
+    "name": "Coaching: Di\u00e1rio de Bordo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 484785790, 
+    "name": "Coachingskalender", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 489400070, 
+    "name": "Coachingskalender voor iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 769361823, 
+    "name": "Coaching Sessions", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 799032081, 
+    "name": "Coaching Sessions Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 693485739, 
+    "name": "Winning Streak", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 693486118, 
+    "name": "Coach", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 722853295, 
+    "name": "COACo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 856938884, 
+    "name": "Coalesce", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 558461827, 
+    "name": "CoalitieKiezer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 508412891, 
+    "name": "Coast And Country", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 509140769, 
+    "name": "Coast And Country - iPad version", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 840222674, 
+    "name": "Coast Community Church", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 626727729, 
+    "name": "Coast To Coast", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 551982390, 
+    "name": "Coast UK Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 583451149, 
+    "name": "Coastal Bend Home Search", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 538796276, 
+    "name": "Coastal Bend Redbook", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 493968482, 
+    "name": "Coastal Byway", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 564787316, 
+    "name": "Coastal Cottages of Pembrokeshire", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 897200624, 
+    "name": "Coastal Edge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 530163386, 
+    "name": "Coastal Home", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 473775345, 
+    "name": "COASTAL LIVING Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 674730341, 
+    "name": "Coastal MD Home Search", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 674733553, 
+    "name": "Coastal MD Home Search for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 439457425, 
+    "name": "Coastal Sands Properties", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 598073666, 
+    "name": "Coastal Taxis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 835887128, 
+    "name": "COASTE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 683453029, 
+    "name": "COASTER Mobile Tickets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 780821485, 
+    "name": "Coastland Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 588058794, 
+    "name": "Coastline", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 762571993, 
+    "name": "Coastline Housing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 585343750, 
+    "name": "Coastline Properties Corpus Christi Real Estate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 453429557, 
+    "name": "Cobalt Industrial Co., Ltd.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 778791902, 
+    "name": "Cobella", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 473630438, 
+    "name": "Cobone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 481367140, 
+    "name": "Cobone For iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 423555115, 
+    "name": "Coborn's", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 816065799, 
+    "name": "Cobra Exhaust Sounds", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 741920597, 
+    "name": "Cobra H-D Exhaust Sounds", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 897509153, 
+    "name": "Coca-Cola Zero dublinbikes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 859841401, 
+    "name": "Cocaines - Mobile Store", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 416673344, 
+    "name": "Coccia Real Estate Group", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 560450213, 
+    "name": "Coccinelle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 623749665, 
+    "name": "Cocina Ligera", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 694999955, 
+    "name": "Cocinas y Muebles Angulo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 433943331, 
+    "name": "Cocker Dog Book", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 890417826, 
+    "name": "Cocker Spaniels Downunder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 765309287, 
+    "name": "Cocktail Drink Recipes Chat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 558805906, 
+    "name": "Cocktail Memo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 390435448, 
+    "name": "Cocktails & Drinks", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 553851818, 
+    "name": "Cocktails By Flavour", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 363421598, 
+    "name": "Cocktails by The Regans for iPad", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 419071726, 
+    "name": "Cocktails!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 449598981, 
+    "name": "Coco", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 842266721, 
+    "name": "Coco Converter", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 600155087, 
+    "name": "Coco the Siesta Key Beach Dog", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 626870605, 
+    "name": "Coco39", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 721094770, 
+    "name": "CoCoBokeh Wallpaper for iOS7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 705982484, 
+    "name": "CoCoCamera For iOS7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 517509958, 
+    "name": "CoCoControl", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 668873054, 
+    "name": "Cocohana\u624b\u5e33", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 557794036, 
+    "name": "Cocollage", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 727736087, 
+    "name": "CoCoMosaic Wallpaper for iOS7", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 903798807, 
+    "name": "Cocosa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 773180449, 
+    "name": "CoCoSpace Wallpaper for iOS7   Make your own wallpaper!", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 554935053, 
+    "name": "Cocotraie Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 416784888, 
+    "name": "Cocovaja", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 432257446, 
+    "name": "Cocoyon", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 571655384, 
+    "name": "CoCreation ThetaHealing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 445187489, 
+    "name": "CoctelAcapulco", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 870564668, 
+    "name": "COD themes - Wallpapers for Call of Duty 2014", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 868053103, 
+    "name": "CodCat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 498327587, 
+    "name": "Code Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 863984032, 
+    "name": "Code Keeper", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 851202027, 
+    "name": "Code Metrics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 765484227, 
+    "name": "Code Reader .Simply - Read QR, Aztec, PDF417 and Bar Codes", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 689722616, 
+    "name": "Code Scanner-All in One", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 524626548, 
+    "name": "Codecor Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 525901533, 
+    "name": "Codee", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 725274008, 
+    "name": "Codemotion Madrid", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 446321633, 
+    "name": "CodeNote -fashion style-", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 520035280, 
+    "name": "Coderwall", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 417028824, 
+    "name": "Codes de r\u00e9duction - Rembourser.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 420458608, 
+    "name": "CodesbyVIN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 587574813, 
+    "name": "Codi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 673939679, 
+    "name": "Codiwise", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 563923627, 
+    "name": "Cody and Company Salon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 885919317, 
+    "name": "Cody Rose Salon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 829039610, 
+    "name": "COE Offers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 885027126, 
+    "name": "Coeliac UK \u2013 Gluten-free on the move", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 796990644, 
+    "name": "Coemico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 497404676, 
+    "name": "Coesfeld", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 542378104, 
+    "name": "Coeur des lacs de Champagne, audio tour", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 633444725, 
+    "name": "COF Connect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 437780918, 
+    "name": "Coffee & Life", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 415130541, 
+    "name": "Coffee Addict", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 338985297, 
+    "name": "Coffee Around", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 501943911, 
+    "name": "Coffee Break", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 521458197, 
+    "name": "Coffee Break Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 533415148, 
+    "name": "Coffee Cafe Order", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 837884259, 
+    "name": "Coffee Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 691053314, 
+    "name": "Coffee Creek Church", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 386325343, 
+    "name": "Coffee Cupping", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 877983055, 
+    "name": "Coffee Date", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 431782961, 
+    "name": "Coffee Expert", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 435276357, 
+    "name": "Coffee Glossary", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 901382435, 
+    "name": "Coffee Guff", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 386600784, 
+    "name": "Coffee Guide", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 423242723, 
+    "name": "Coffee Lover", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 397671028, 
+    "name": "Coffee Master - Make the perfect cup of coffee", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 907350332, 
+    "name": "Coffee On Canvas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 311879629, 
+    "name": "Coffee Order", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 514049654, 
+    "name": "Coffee Quest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 431708146, 
+    "name": "Coffee Shop Locator", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 648989073, 
+    "name": "Coffee shop Locator for Starbucks", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 471665063, 
+    "name": "Coffee Timer!", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 809772886, 
+    "name": "Coffeebalance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 314436782, 
+    "name": "CoffeeCalc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 528765789, 
+    "name": "CoffeeConnect (CoCo)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 419907913, 
+    "name": "CoffeeDash", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 387761976, 
+    "name": "CoffeeGIANT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 847710889, 
+    "name": "Coffeegram", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 779505526, 
+    "name": "CoffeeGuy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 429024268, 
+    "name": "CoffeeRun!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 465466364, 
+    "name": "CoffeeRunFree", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 712015901, 
+    "name": "Coffees", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 580819428, 
+    "name": "Coffeetopia - find, rate & share great coffee!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 405883945, 
+    "name": "CoffeeTrip: Find Specialty Coffee", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 512112414, 
+    "name": "CoffeeXP", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 608858533, 
+    "name": "COFIM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 383130834, 
+    "name": "Cofinoga Mobile Shopping", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 498070212, 
+    "name": "COG Fling", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 500982803, 
+    "name": "COGIC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 578229900, 
+    "name": "COGIT IMMO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 571018132, 
+    "name": "CogniFit MoodCraft", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 599971812, 
+    "name": "Cognomi & Stemmi", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 635632223, 
+    "name": "Cognomi & Stemmi LITE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 771350043, 
+    "name": "Cohabi: Making Houses Happy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 601639826, 
+    "name": "Cohere", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 826220343, 
+    "name": "Cohort", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 897127845, 
+    "name": "Coiff and Co", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 566277688, 
+    "name": "Coiffeur en France", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 889080037, 
+    "name": "Coiffeur Luda Kossa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 899103162, 
+    "name": "Coiffeur num\u00e9rique", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 749442964, 
+    "name": "Coiffeur Pauli", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 760306966, 
+    "name": "Coiffeur Sergio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 814422982, 
+    "name": "Coiffure", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 896167192, 
+    "name": "Coiffure Et Beaute", 
+    "price": 0.0
+  }
+]

@@ -1,0 +1,5984 @@
+[
+  {
+    "genre": "Business", 
+    "id": 851191943, 
+    "name": "Q*s Kraftbier", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Catalogs", 
+    "id": 578546056, 
+    "name": "Q-book AMS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 881955112, 
+    "name": "Q-Check", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 876330758, 
+    "name": "Q-Clean", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 862974474, 
+    "name": "Q-Desk", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 322180484, 
+    "name": "Q-Dialer Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 397111422, 
+    "name": "Q-Focus - QUIPSY Qualit\u00e4tsmonitor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 883484037, 
+    "name": "Q-iSALE", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 654713722, 
+    "name": "Q-Links", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 622727408, 
+    "name": "Q-Metrics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 484015096, 
+    "name": "Q-Pulse Audit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 458615033, 
+    "name": "Q-Pulse Docs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 558457102, 
+    "name": "Q-Pulse Reporting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 522318733, 
+    "name": "Q-See QC View", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 517916989, 
+    "name": "Q-See QC View HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 517152334, 
+    "name": "Q-See QT View", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 524586306, 
+    "name": "Q-See QT View HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 576228003, 
+    "name": "Q-shot", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 576350924, 
+    "name": "Q-shot2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 501331159, 
+    "name": "Q-Up Plus", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 380323037, 
+    "name": "Q-Web", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 667221379, 
+    "name": "Q.audit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 555281803, 
+    "name": "Q70512", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 903653906, 
+    "name": "Q8 Promo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 526079668, 
+    "name": "Q8'RealEstate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 791491682, 
+    "name": "Q88\u7535\u5546", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 882301428, 
+    "name": "Q8bay", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 886120217, 
+    "name": "Q8BUY", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 466312560, 
+    "name": "Q8Car", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 813597992, 
+    "name": "Q8Flowers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 586045740, 
+    "name": "Q8HomeStore", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 532082985, 
+    "name": "Q_Insurance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 428893353, 
+    "name": "Q_Remote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 688150815, 
+    "name": "Q_RemotePro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 849956554, 
+    "name": "QAD Explore", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 455783691, 
+    "name": "QAD Mobile BI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 559943506, 
+    "name": "QAD Mobile Browse", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 507599670, 
+    "name": "QAD Mobile GRS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 839177453, 
+    "name": "QAD Partner Scanner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 720034011, 
+    "name": "QAddress", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 505582700, 
+    "name": "QAG EEED", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 420874536, 
+    "name": "Qaleido Sync", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 560097643, 
+    "name": "QALL Telefoni", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 555256957, 
+    "name": "Qantas Freight", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 596333385, 
+    "name": "Qapel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 515363015, 
+    "name": "Qashout", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 669189894, 
+    "name": "Qatar Business Directory", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 669209220, 
+    "name": "Qatar Business Directory - Tablet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 466305931, 
+    "name": "Qatar Gate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 672278881, 
+    "name": "Qatar Image Bank", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 660071999, 
+    "name": "Qatar Mall", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 844476952, 
+    "name": "Qatar Point - \u062f\u0644\u064a\u0644 \u0642\u0637\u0631 \u0627\u0644\u062a\u062c\u0627\u0631\u064a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 669201191, 
+    "name": "Qatar Product Finder  - Tablet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 465046546, 
+    "name": "Qatar Today Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 786338043, 
+    "name": "Qatar Tribune", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 887996598, 
+    "name": "QatarSale  \u0642\u0637\u0631 \u0633\u064a\u0644", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 524985701, 
+    "name": "Qazzoo.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 896124532, 
+    "name": "QA\u884c\u52d5\u57fa\u91d1\u7cfb\u7d71", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 823539616, 
+    "name": "Qbank", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 853561300, 
+    "name": "Qbay", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 417202697, 
+    "name": "QBE Connect - First Contact", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 716354785, 
+    "name": "QBE Investor Relations app for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 536792420, 
+    "name": "QBFacilioV1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 470195794, 
+    "name": "Qbil iReports", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 524668639, 
+    "name": "QBIS CRM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 571955394, 
+    "name": "QBIS Service Desk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 524674541, 
+    "name": "QBIS Time", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 737568220, 
+    "name": "Qbon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 448457926, 
+    "name": "QBOT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 592878598, 
+    "name": "QBQ!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 698691626, 
+    "name": "Qbuscas Huesca", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 743609301, 
+    "name": "Qbuscas Madrid", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 711335890, 
+    "name": "Qbuscas Valencia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 698689967, 
+    "name": "Qbuscas Zaragoza", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 614483869, 
+    "name": "QC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 467036860, 
+    "name": "QC  7\u5927\u624b\u6cd5", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 502492034, 
+    "name": "QC Creativos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 533377800, 
+    "name": "QC Events", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 885970337, 
+    "name": "QC Industries' Conveyor Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 696524616, 
+    "name": "QC Mgr", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 613775757, 
+    "name": "QC-Track", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 623736192, 
+    "name": "QCalendar", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 713139301, 
+    "name": "QcaRd", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 480480806, 
+    "name": "QCatalog", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 709848923, 
+    "name": "QCC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 866762024, 
+    "name": "QCC Jawdah - \u062c\u0648\u062f\u0629", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 866758769, 
+    "name": "QCC Jawdah \u062c\u0648\u062f\u0629", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 349540178, 
+    "name": "QCon London Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 722000855, 
+    "name": "QCon\u4e0a\u6d772013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 634466518, 
+    "name": "Qcon\u5927\u4f1a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 742138930, 
+    "name": "Qcrazy Mobile Coupons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 686581720, 
+    "name": "QD 550 LB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 659028987, 
+    "name": "QD PM App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 686664981, 
+    "name": "QD PVOFF CO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 687415417, 
+    "name": "QD PVON AP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 687407210, 
+    "name": "QD PVON TX", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 659067839, 
+    "name": "QD Sales App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 511284590, 
+    "name": "QDelegate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 511285116, 
+    "name": "QDelegate Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 543174017, 
+    "name": "QDigitizing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 465035878, 
+    "name": "QDOS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 420933671, 
+    "name": "QE Global Energy Saving Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 593699143, 
+    "name": "QED OE Touch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 777937896, 
+    "name": "QEDC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 479219851, 
+    "name": "QETF - NASDAQ OMX QFOLIO for ETFs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 712303667, 
+    "name": "QeyBox ERP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 543940213, 
+    "name": "QFest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 680665476, 
+    "name": "QFFS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 462743092, 
+    "name": "QFINANCE Dictionary of Business and Finance (QDictionary)", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 631158689, 
+    "name": "QFMA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 575175157, 
+    "name": "QG Europe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 657634288, 
+    "name": "QGenda", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 599054039, 
+    "name": "Qgiv Mobile Virtual Terminal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 659278651, 
+    "name": "QGood", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 412375261, 
+    "name": "QGS Cash Book", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 791867593, 
+    "name": "QGS FAMMS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 628377599, 
+    "name": "QGS Kiosk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 570134838, 
+    "name": "QGS Pay", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 774662217, 
+    "name": "QGS Touch - F&B", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 534445971, 
+    "name": "QGS Touch - POS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 669954990, 
+    "name": "QGS Touch Dental", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 563243969, 
+    "name": "QGS Touch Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 666198441, 
+    "name": "QH20O Invoicing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 869823732, 
+    "name": "QHBS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 697801270, 
+    "name": "QHouse", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 630738563, 
+    "name": "QHSE", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 731893460, 
+    "name": "QHSE MS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 883252935, 
+    "name": "QI Barber Shop", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 793102528, 
+    "name": "QI Conference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 891814819, 
+    "name": "Qi Long Shi Jia Fu Hang", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 869889798, 
+    "name": "Qi Men Dun Jia 1080 Ju", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 869421565, 
+    "name": "Qi Men Dun Jia 1080 Ju HD", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 373535176, 
+    "name": "QIA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 428933737, 
+    "name": "QIA All", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 428896656, 
+    "name": "QIAGEN Publications", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 785198830, 
+    "name": "QianLong Industry and Trade", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 590208337, 
+    "name": "QiaoQiao", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 385497874, 
+    "name": "QIAPSurvey", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 626212106, 
+    "name": "QIAscanAR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 861866151, 
+    "name": "QIIB Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 785203084, 
+    "name": "QikDesk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 893400198, 
+    "name": "QikDOOR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 549053574, 
+    "name": "QikPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 510843990, 
+    "name": "QikPASS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 661630510, 
+    "name": "QikScan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 820797700, 
+    "name": "QikSocial", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 678919540, 
+    "name": "Qiky QR - Free Business Cards", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 854348145, 
+    "name": "QIMP.ME", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 532535685, 
+    "name": "QinetiQ Investor Relations App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 688123429, 
+    "name": "Qingdao Wintin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 853674794, 
+    "name": "QIQ - Event Guest List and Ticket Scanning", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 837645968, 
+    "name": "Qiscus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 504587465, 
+    "name": "QITCOM 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 880677400, 
+    "name": "QITCOM 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 737048161, 
+    "name": "Qivvy Scan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 335585055, 
+    "name": "Qiwi Credit Card", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 412446409, 
+    "name": "Qiwi HD", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 315776020, 
+    "name": "QIWI Observer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 424615367, 
+    "name": "Qiwi XL", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 641073564, 
+    "name": "QIWI \u041c\u043e\u043d\u0438\u0442\u043e\u0440", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 557484014, 
+    "name": "Qi\u691c\u7d22 powered by \u30e2\u30d0\u30a4\u30e9\u30fc\u30ba\u30aa\u30a2\u30b7\u30b9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 785309995, 
+    "name": "QJA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 553246815, 
+    "name": "QK Maker", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 540631170, 
+    "name": "QLA Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 571845952, 
+    "name": "QleanAir", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 883610898, 
+    "name": "Qleisure", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 803288148, 
+    "name": "Qlibri - Connects the Coolest Businesses With Their Coolest Clients", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 641545797, 
+    "name": "Qlientstream", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 871157983, 
+    "name": "Qlik Customer Stories", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 728246199, 
+    "name": "Qlik Investor Relations App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 839962790, 
+    "name": "Qlik Investor Relations App for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 731410476, 
+    "name": "QlikReport", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 880582606, 
+    "name": "QlikView for Good", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 581770691, 
+    "name": "Qlinx", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 796600980, 
+    "name": "QM Group", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 740556261, 
+    "name": "QM Kompakt - Das T\u00dcV S\u00dcD QM-Lexikon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 605725080, 
+    "name": "Qm+ mobil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 346484527, 
+    "name": "QM-Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 836503505, 
+    "name": "Qmags Preview", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 733539152, 
+    "name": "Qmarkets Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 556786960, 
+    "name": "QMB2866", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 556866873, 
+    "name": "QMB2867", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 556851119, 
+    "name": "QMB2868", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 556919954, 
+    "name": "QMB2876", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 448108491, 
+    "name": "QMBA", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Catalogs", 
+    "id": 527939199, 
+    "name": "QMC Brochure", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 799498996, 
+    "name": "QMEye", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 775723884, 
+    "name": "QMiiD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 490499236, 
+    "name": "Qminder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 533847552, 
+    "name": "Qminder Connect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 898707378, 
+    "name": "QMindMap", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 462760431, 
+    "name": "QMM Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 464257643, 
+    "name": "QMM Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 640245352, 
+    "name": "QMSS OBS BM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 727297333, 
+    "name": "QMT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 386459200, 
+    "name": "QN - Quotidiano Nazionale", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 498784584, 
+    "name": "QNA News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 540800417, 
+    "name": "QNB Bank Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 426172922, 
+    "name": "QNB Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 548987113, 
+    "name": "QNBFS Trading", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 657882215, 
+    "name": "Qnekt - Digital event guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 869310285, 
+    "name": "QNET Edge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 475290114, 
+    "name": "QNET \uc911\uad6d\uc9c1\ud1b5 \uad6d\uc81c\uc804\ud654", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 592666741, 
+    "name": "Q-note", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 720782025, 
+    "name": "Qnstar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 828123888, 
+    "name": "Qonnections 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 481575082, 
+    "name": "Qoo10 Global", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 481569336, 
+    "name": "Qoo10 ID", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 481574284, 
+    "name": "Qoo10 MY", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 477614813, 
+    "name": "Qoo10 SG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 876375963, 
+    "name": "Qoo10 SG for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 541529183, 
+    "name": "Qoo10 \u8da3\u5929", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 541529443, 
+    "name": "Qoo10 \u9999\u6e2f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 490078053, 
+    "name": "Qoo10\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 888958379, 
+    "name": "Qoo10\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0 for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 626624210, 
+    "name": "Qooco Hospitality", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 902272323, 
+    "name": "Qool Enviro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 844333097, 
+    "name": "Qooway Merchant", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 896808077, 
+    "name": "Qooway Merchant for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 571197249, 
+    "name": "QoQa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 482435145, 
+    "name": "QOrder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 526273131, 
+    "name": "QOrder for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 511624849, 
+    "name": "QOrder RP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 345636405, 
+    "name": "QOS22 Exam Prep", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 791503069, 
+    "name": "Qosmioalpha Multimedia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 577369818, 
+    "name": "QPC Presenter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 647245808, 
+    "name": "QPData", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 779370072, 
+    "name": "QPets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 492400648, 
+    "name": "QPG (Quick Password Generator)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 630412635, 
+    "name": "Qpino Gutscheine Kundenkarten", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 630455618, 
+    "name": "QpinoB2B", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 794865840, 
+    "name": "Qpresenter Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 541996612, 
+    "name": "QQ Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 689926685, 
+    "name": "QQBOW\u5973\u88dd", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 454060939, 
+    "name": "QQR", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 493895630, 
+    "name": "QQ\u4fbf\u6c11", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 531014411, 
+    "name": "QQ\u56e2\u8d2d", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 449189822, 
+    "name": "QQ\u5728\u7ebf\u67e5\u8be2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 516361137, 
+    "name": "QR & Barcode Reader and Scanner", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 469062149, 
+    "name": "QR Buddy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 735066648, 
+    "name": "QR Card Verification", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 645943977, 
+    "name": "QR Check In", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 767108416, 
+    "name": "QR Check-in Anywhere", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 459324783, 
+    "name": "QR Code Beamer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 420721328, 
+    "name": "QR Code Facebook Post", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 415109965, 
+    "name": "QR Code Generator/Scanner (QRS+)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 513617634, 
+    "name": "QR Code Maker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 496869419, 
+    "name": "QR Code Pro - QR Code Scanner and Generator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 436182189, 
+    "name": "QR Code Reader and Creator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 423513694, 
+    "name": "QR Code Reader HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 459371457, 
+    "name": "QR Code Reader Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 562464782, 
+    "name": "QR Code Reader \u2013 Super Fast Code Scanner", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 494323278, 
+    "name": "QR Code Reader. Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 519100933, 
+    "name": "QR Code Reader. Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 469988652, 
+    "name": "QR Code Scan Reader Best and Fastest for iPhone", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 450272241, 
+    "name": "QR Code Scanner", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 519384317, 
+    "name": "QR code scanner free.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 887385326, 
+    "name": "QR Code Scanner X - Unique BULK scanning capability!", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 887334897, 
+    "name": "QR Code Scanner X Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 481182993, 
+    "name": "QR Code Scanner. for Scanning faster than your shadow", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 715983107, 
+    "name": "QR Code Speaker", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 494366803, 
+    "name": "QR Coder Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 895290633, 
+    "name": "QR Collect Application", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 451034260, 
+    "name": "QR Collection", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 849801947, 
+    "name": "QR Conference Buddy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 537148036, 
+    "name": "QR Connect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 572031961, 
+    "name": "QR Creator - Reading, generating and sharing of QR Codes", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 545997346, 
+    "name": "QR Generator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 737835920, 
+    "name": "QR Guest Code Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 840349195, 
+    "name": "QR Inventory: QR Codes or UPC Barcodes Based Inventory Management Solution For Small Business", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 630478348, 
+    "name": "QR Italon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 778607716, 
+    "name": "QR Kit: All QR Code, Bar Code, Data Matrix Code Reader & Generator", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 505553913, 
+    "name": "QR Leadr: Lead Retrieval for Expos and Tradeshows", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 695518916, 
+    "name": "QR Literacy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 492341138, 
+    "name": "QR NameCard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 804532761, 
+    "name": "QR Pass", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 826138568, 
+    "name": "QR Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 483336710, 
+    "name": "QR Reader+", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 592096198, 
+    "name": "QR Scan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 449262281, 
+    "name": "QR Scanner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 451102269, 
+    "name": "QR Sequence Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 452947109, 
+    "name": "QR Sequence Reader+", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 881431518, 
+    "name": "QR Shop2Go", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 590367339, 
+    "name": "QR standard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 410690030, 
+    "name": "QR to vcard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 552112846, 
+    "name": "QR Trader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 558773035, 
+    "name": "QR vCard", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 865349652, 
+    "name": "QR X - QR and barcode scanner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 667588687, 
+    "name": "QR \u0412\u0438\u0437\u0438\u0442\u043a\u0430", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 860525216, 
+    "name": "QR \u6587\u4ef6\u5feb\u9a57\u901a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 445323574, 
+    "name": "QR \uba85\ud568", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 707366935, 
+    "name": "QR-Barcode Scanner", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 707366944, 
+    "name": "QR-Barcode Scanner Pro", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 493302478, 
+    "name": "QR-Code BR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 716723581, 
+    "name": "QR-IT", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 722252742, 
+    "name": "QR-IT Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 527109929, 
+    "name": "QR-Print", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 508017636, 
+    "name": "QR-Skanner", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 523776887, 
+    "name": "QR2vCARD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 767569809, 
+    "name": "Qr_Crela", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 363612419, 
+    "name": "QRab", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 821084707, 
+    "name": "QRappoint", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 718250278, 
+    "name": "QRaze", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 838045731, 
+    "name": "QRCheckin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 817059886, 
+    "name": "QRcode Create Reader Generator Scanner", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 448292686, 
+    "name": "QRCode Reader HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 528741428, 
+    "name": "Qrcode Tools", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 498473371, 
+    "name": "QRCode \u6383\u63cf\u5668 Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 879496179, 
+    "name": "QRCode Read, manage, and create QR's", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 625235375, 
+    "name": "QRCode.me", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 870067884, 
+    "name": "QRCodePlus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 653295404, 
+    "name": "QRCoder - QR Code Scanner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 556672288, 
+    "name": "QRContact.", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 894461024, 
+    "name": "Qreader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 897371179, 
+    "name": "QReal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 784541761, 
+    "name": "Qredits", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 507890942, 
+    "name": "QREmail", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 601761533, 
+    "name": "QReminder", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 591370774, 
+    "name": "QRentry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 553933087, 
+    "name": "QReventos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 480524927, 
+    "name": "QRForce", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 888934837, 
+    "name": "QRgen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 407825936, 
+    "name": "QRickets 4 - Guest List and Ticket Check-in", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 790862884, 
+    "name": "QRIDS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 663659550, 
+    "name": "Qrinks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 563266356, 
+    "name": "Qrious", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 889661631, 
+    "name": "Qrious Organizer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 595094229, 
+    "name": "QRit free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 450439437, 
+    "name": "QRJOY", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 474146114, 
+    "name": "QRLauncher", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 405400605, 
+    "name": "QRMaker", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 640005842, 
+    "name": "QRMoA Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 639982927, 
+    "name": "QRMoA Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 513239565, 
+    "name": "QRnJoy English", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 481332244, 
+    "name": "QRPing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 635625123, 
+    "name": "QrQpons client", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 622188597, 
+    "name": "QrQpons Commerce", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 542699758, 
+    "name": "Qrricula", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 902441665, 
+    "name": "QRS Data Capture", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 492593992, 
+    "name": "QRS Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 375621423, 
+    "name": "QRShow", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Catalogs", 
+    "id": 830365571, 
+    "name": "QRSite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 508272330, 
+    "name": "QRSMS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 867341625, 
+    "name": "QRStudy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 411853868, 
+    "name": "QRSYNQ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 874953268, 
+    "name": "QRTax Estimator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 682367963, 
+    "name": "QRTi.me", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 528960825, 
+    "name": "QRtization", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 465637676, 
+    "name": "QRTribe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 862472541, 
+    "name": "QRUG-2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 600674860, 
+    "name": "QRunchCodes!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 464084208, 
+    "name": "QRUnity", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 515552256, 
+    "name": "QRvox", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 571026514, 
+    "name": "QRwave - B2B Mobile Commerce", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 506568842, 
+    "name": "QRWebRD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 708170535, 
+    "name": "QRYiMMO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 556407809, 
+    "name": "QRYou", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 500990035, 
+    "name": "Qryptal QR Code Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 757436103, 
+    "name": "QR\u3071\u3093\u3060de\u68da\u5378", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 757467018, 
+    "name": "QR\u3071\u3093\u3060de\u68da\u5378 LITE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 736182754, 
+    "name": "QR\u30b3\u30fc\u30c9\u30c1\u30a7\u30c3\u30ab\u30fc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 654656067, 
+    "name": "QR\u30b3\u30fc\u30c9\u30ea\u30fc\u30c0\u30fc PASSSS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 873068070, 
+    "name": "QR\u30b3\u30fc\u30c9\u30ea\u30fc\u30c0\u30fcEQS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 394019143, 
+    "name": "QR\u30d7\u30e9\u30b9", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 855153145, 
+    "name": "QS Tap", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 863139469, 
+    "name": "QS-MAPLE Conference & Exhibition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 849729368, 
+    "name": "QS/1 Events", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Catalogs", 
+    "id": 897936929, 
+    "name": "QSC Product Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 627472300, 
+    "name": "QSC-Cospace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 436180052, 
+    "name": "Qscript", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 661116328, 
+    "name": "QSDB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 547167222, 
+    "name": "QSE Market Watch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 713921589, 
+    "name": "QSNCC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 908993711, 
+    "name": "QSNote(Pro)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 401877065, 
+    "name": "QST Mobile - Quick Screen Trading", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 818335274, 
+    "name": "QStocksTracker", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 516174249, 
+    "name": "Qstyle Singapore", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 516178277, 
+    "name": "Qstyle\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 636933745, 
+    "name": "QTCApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 883036785, 
+    "name": "Qtel Voice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 809100736, 
+    "name": "QTenders", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 793075608, 
+    "name": "QTimeCards", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 890855320, 
+    "name": "QTimeCards Tasks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 500643035, 
+    "name": "QTimesheet", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 504266623, 
+    "name": "QTimesheet Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 585733525, 
+    "name": "QTrak", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 409120942, 
+    "name": "QTrust 2go", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 547195762, 
+    "name": "QTrust Smart", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 639540235, 
+    "name": "QUA Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 593319768, 
+    "name": "Quaade", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 302023691, 
+    "name": "Quad Level", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 902490245, 
+    "name": "Quad/Graphics Soft Proof Manager", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 379608482, 
+    "name": "QuadGraphics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 401636203, 
+    "name": "Quadmon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 542189569, 
+    "name": "Quadpack", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 638268378, 
+    "name": "QuadraMed AccessNow", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 725222774, 
+    "name": "Quadranto", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 518825008, 
+    "name": "Quadratic Equation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 383828774, 
+    "name": "Quadratus iBureau", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 560882519, 
+    "name": "Quadri Falsi d'Autore - iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 763433258, 
+    "name": "Quadrox Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 544717009, 
+    "name": "Quadrum", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 658048158, 
+    "name": "QUADView2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 496569956, 
+    "name": "QuadWire Merchants", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 430303144, 
+    "name": "QuaerO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 435089697, 
+    "name": "QuaerO HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 503531446, 
+    "name": "Quaestus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 883173050, 
+    "name": "Quai Ouest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 575657562, 
+    "name": "Quaid Harley-Davidson", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 610774063, 
+    "name": "Quaid Temecula Harley-Davidson", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 589494122, 
+    "name": "Quail Meadow", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 589500097, 
+    "name": "Quail Ridge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 872775481, 
+    "name": "QuakeCon\u00ae Interactive Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 800737884, 
+    "name": "Quakecv", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 867428264, 
+    "name": "Quakelplant", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 426533744, 
+    "name": "QuakeNews", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 839695338, 
+    "name": "Quaker Days 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 572845557, 
+    "name": "Quakevision Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 460765872, 
+    "name": "Qual Im\u00f3vel - Guia de Im\u00f3veis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 492744703, 
+    "name": "Qual Im\u00f3vel Premium", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 684539727, 
+    "name": "Qualatex", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 533889241, 
+    "name": "QualBoard Mobile 1.1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 906912071, 
+    "name": "Qualcomm UplinqTM 2014 Official App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 598569880, 
+    "name": "Qualia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 739251894, 
+    "name": "Qualiet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 563471046, 
+    "name": "Qualification Check", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 765112558, 
+    "name": "Qualified", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 791934960, 
+    "name": "Qualified Careers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 712282136, 
+    "name": "Qualified Remodeler Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 613244363, 
+    "name": "Qualissan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 748168885, 
+    "name": "Qualitair", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 665442984, 
+    "name": "Qualitas Annual Report 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 604877902, 
+    "name": "Qualitor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 490988439, 
+    "name": "Quality Assurance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 596755996, 
+    "name": "Quality Assurance Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 576207157, 
+    "name": "Quality Buddy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 862231335, 
+    "name": "Quality Calculator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 470861570, 
+    "name": "QUALITY CHECK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 734257481, 
+    "name": "QUALITY DIET REVIEWS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 622657273, 
+    "name": "Quality Edge University", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 895799334, 
+    "name": "Quality Estate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 553817255, 
+    "name": "Quality Evaluation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 435070829, 
+    "name": "Quality Express Group", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 691951851, 
+    "name": "Quality for Photovoltaics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 538830675, 
+    "name": "Quality Meat Scotland", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 896034250, 
+    "name": "Quality Northwest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 609424026, 
+    "name": "Quality Observer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 852380172, 
+    "name": "Quality Programs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Catalogs", 
+    "id": 630541401, 
+    "name": "Quality Store", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 720143369, 
+    "name": "Quality Toyota", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 887590600, 
+    "name": "Quality Toyota MN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 635286009, 
+    "name": "Quality Valve - QVI - OEM Relief Valve Replacement Parts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 735154721, 
+    "name": "Quality Vision", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 893076366, 
+    "name": "Quality Window Solutions Inc - Indio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 635196538, 
+    "name": "Qualityflex", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 789697983, 
+    "name": "QualityGroceries", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 556853804, 
+    "name": "QualityLine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 499097660, 
+    "name": "QualityNet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 888235703, 
+    "name": "QualityNet for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 455729789, 
+    "name": "QualityStocks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 641299398, 
+    "name": "QualiWare", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 501233295, 
+    "name": "QUALocator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 671910896, 
+    "name": "Qualtrics Surveys", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 768702313, 
+    "name": "Qualysoft recruiter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 852963496, 
+    "name": "Qualysoft recruiter HU", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 646284354, 
+    "name": "Quamnet FX Action", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 648411365, 
+    "name": "Quant Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 451734327, 
+    "name": "Quanta Jobs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 591598711, 
+    "name": "Quantify", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 525039887, 
+    "name": "Quantivate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 430854493, 
+    "name": "Quantore Kantoorartikelen Catalogus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 706162888, 
+    "name": "Quantum Flooring Solutions", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 729548885, 
+    "name": "Quantum Flooring Solutions for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 897435363, 
+    "name": "Quantum Mail", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 452105428, 
+    "name": "Quantum Vision", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 774523195, 
+    "name": "QUANTUM.TMS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 861257344, 
+    "name": "Quargo Event", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 520133137, 
+    "name": "Quarking", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 563552642, 
+    "name": "Quarri Agent", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 823528555, 
+    "name": "Quarry Management Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 854694053, 
+    "name": "Quarterly Mullet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 483621139, 
+    "name": "Quartier Lagoa Nova", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 771021900, 
+    "name": "Quartos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 688779343, 
+    "name": "Quast Properties", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 715887056, 
+    "name": "Quatenus MX MyCar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 434602988, 
+    "name": "Quatenus MX MyFleet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 524403185, 
+    "name": "Quattra Empreendimentos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 881226145, 
+    "name": "Quattro - Four Needs One Partner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 816459973, 
+    "name": "Quattro Pazzi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 819185855, 
+    "name": "Quattro Tempi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 878450335, 
+    "name": "Quattro: Advertise Responsibly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 895378756, 
+    "name": "Quay Carpentry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 578536884, 
+    "name": "Quayside Motors", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Catalogs", 
+    "id": 899963505, 
+    "name": "QuayWestv1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 571649339, 
+    "name": "Quazar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 829461612, 
+    "name": "Quazarteam Publisher for Publishing Houses", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 662026896, 
+    "name": "Qua\u624b\u673a\u591a\u65b9\u901a\u8bdd/\uff08\u7535\u8bdd\u4f1a\u8bae\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 659775869, 
+    "name": "QUBE iHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 500109580, 
+    "name": "Qube Learning System QBit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 656481308, 
+    "name": "QUBE Plus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 891749724, 
+    "name": "Qube Site Survey", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 904421544, 
+    "name": "Qubiqle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 889841988, 
+    "name": "Qudaka", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 804016644, 
+    "name": "Quebec Intl", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 800986018, 
+    "name": "Quebec911", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 784479015, 
+    "name": "Quebre as Regras", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 529525014, 
+    "name": "Queen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 903715567, 
+    "name": "QUEEN OF HEARTS - XL CLOSET", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 531647991, 
+    "name": "Queen Stone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 715431384, 
+    "name": "Queen's Tandoor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 909267625, 
+    "name": "Queens Hotel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 899378293, 
+    "name": "Queensland Association Of State School Principals", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 567087436, 
+    "name": "Queensland Drive Away Price Calculator", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 672555344, 
+    "name": "Queensland Gas Conference & Exhibition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 858250162, 
+    "name": "Queensland Mining & Engineering Exhibition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 848397064, 
+    "name": "Queenz Secrets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 701059424, 
+    "name": "Queen\u2019s Head Sarn", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 525843390, 
+    "name": "Queer Alliance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 810010492, 
+    "name": "Queer Berlin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 568756802, 
+    "name": "Queiroz Silveira", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 590222687, 
+    "name": "Quelinka", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 537925835, 
+    "name": "Quem \u00e9 Quem - Semana Inform\u00e1tica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 648945380, 
+    "name": "Quench Biz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 403580975, 
+    "name": "Queo Noticias", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 653490144, 
+    "name": "Quercar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 488067742, 
+    "name": "Querdenker", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 480151834, 
+    "name": "Querdenker App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 587465175, 
+    "name": "QueroVagas - Empregos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 525719709, 
+    "name": "Query Portal Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 586174692, 
+    "name": "QueryStyle Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 791720447, 
+    "name": "Quest Diagnostics Meetings", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 593656969, 
+    "name": "Quest Diagnostics NSM 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 593657216, 
+    "name": "Quest Diagnostics NSM 2013 HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 772031851, 
+    "name": "Quest Global", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 908897833, 
+    "name": "Quest Infocus User Conference ANZ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 593115636, 
+    "name": "Quest Solution Order Entry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 845067690, 
+    "name": "QuestConsulting ErfolgNachPlan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 887775967, 
+    "name": "QUESTEK View 1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 662918425, 
+    "name": "Quester", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 414328637, 
+    "name": "Questetra BPM for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 716913976, 
+    "name": "Questex Hospitality Asia Events", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 527549248, 
+    "name": "Questioner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 401940526, 
+    "name": "Questioning for Needs", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 404179749, 
+    "name": "Questioning for Needs Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 439126475, 
+    "name": "Questionnaire", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 496842860, 
+    "name": "QuestionPro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 592827474, 
+    "name": "Quetzal Shoes and Apparel POS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 764530372, 
+    "name": "QueuEasyCall", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 473590016, 
+    "name": "QueueSim", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 397469850, 
+    "name": "QUI", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 901759528, 
+    "name": "QUI!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 609843075, 
+    "name": "Quibble It", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 640157428, 
+    "name": "QUIC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 507721046, 
+    "name": "Quick Add Contacts and group managment", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 510886753, 
+    "name": "Quick Agent", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 852531545, 
+    "name": "Quick Attach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 588258272, 
+    "name": "Quick Biz Cards - Business Card Designer and Builder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 452170755, 
+    "name": "Quick Business Appraisal", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Catalogs", 
+    "id": 793979686, 
+    "name": "Quick Cable Battery Accessory Products", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 404002035, 
+    "name": "Quick Calc Hydraulics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 808594767, 
+    "name": "Quick Case Entry Smartphone for JD Edwards EnterpriseOne", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 305711629, 
+    "name": "Quick Chart", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 368528009, 
+    "name": "Quick Chart XL", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 588959204, 
+    "name": "Quick Checkbook", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 599512379, 
+    "name": "Quick Checkbook for iPad", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 589372357, 
+    "name": "Quick Checkbook Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 600314929, 
+    "name": "Quick Checkbook Free for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 614659900, 
+    "name": "iCheckin DNI", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 615239994, 
+    "name": "Quick Checkin Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 742162083, 
+    "name": "Quick Clean", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 883569553, 
+    "name": "Quick Comments", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 419618752, 
+    "name": "Quick contact swap by scan QRcode", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 566898066, 
+    "name": "Quick Credit Calculator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 727168833, 
+    "name": "Quick Currency Converter", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 727365720, 
+    "name": "Quick Currency Converter Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 683121660, 
+    "name": "Quick Doc Pro", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 488691746, 
+    "name": "Quick Docs", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 349502357, 
+    "name": "Quick Domain Check", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 383073163, 
+    "name": "Quick Domain Check for iPad", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 401433334, 
+    "name": "Quick Domain Check FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 511459715, 
+    "name": "Quick Edit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 648146725, 
+    "name": "Quick Entry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 870425449, 
+    "name": "Quick Flood Quote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 844284832, 
+    "name": "Quick Fuel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 464400212, 
+    "name": "Quick Internal Rate of Return", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 897856963, 
+    "name": "Quick Invoice Pro", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 551192679, 
+    "name": "Quick Join", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 902321254, 
+    "name": "Quick Letters Pro - for Personal & Business Letters", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 904170020, 
+    "name": "QUICK MAP1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 887848878, 
+    "name": "Quick Meeting Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 888313991, 
+    "name": "Quick Meeting Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 791500776, 
+    "name": "Quick Move", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 458620350, 
+    "name": "Quick Note Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 452590523, 
+    "name": "Quick Note Pro", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 902943002, 
+    "name": "Quick Order", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 882778202, 
+    "name": "Quick PDF Converter - Convert Documents , Map , WebPages into PDF", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 463739467, 
+    "name": "Quick Present Value", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 517199530, 
+    "name": "Quick QR & Barcode Scanner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 372578576, 
+    "name": "Quick Quack Car Wash", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 687729344, 
+    "name": "Quick Quote for iOS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 640421551, 
+    "name": "Quick Quotes HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 662104953, 
+    "name": "Quick RA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 540205892, 
+    "name": "Quick Reader", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 498711625, 
+    "name": "Quick Record Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 471679189, 
+    "name": "Quick Record Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 790355891, 
+    "name": "Quick Recorder (Voice Recorder)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 652897603, 
+    "name": "Quick Recorder\u00ae - One Touch Recording", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 567727160, 
+    "name": "Quick Reminders", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 881994562, 
+    "name": "Quick Request", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 657764171, 
+    "name": "Quick Resume", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 787619884, 
+    "name": "Quick Resume - Resumes Builder and Designer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 764279170, 
+    "name": "Quick Resume Pro \u2013 Resumes Builder and Designer", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 364905884, 
+    "name": "Quick Sale", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 456124510, 
+    "name": "Quick Sale Pro", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 680433035, 
+    "name": "Quick Sale Pro Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 854448272, 
+    "name": "Quick Sales", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 738375053, 
+    "name": "Quick Scanner : Read Any Barcode, QR Code & Generate Your Own QR Code Easily!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 694831622, 
+    "name": "Quick Service Estimates and Invoices", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 525393558, 
+    "name": "Quick Signature - Multiple Email Signatures", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 383033560, 
+    "name": "Quick Start Job Guide - Ace the Interview and Land the Job of Your Dreams", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 366795770, 
+    "name": "Quick Tax Reference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 542021711, 
+    "name": "Quick Teleprompter", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 340782781, 
+    "name": "Quick Text", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 583729997, 
+    "name": "Quick Text Message - Fast SMS and Group iMessage Manager", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 822942890, 
+    "name": "Quick VAT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 584368017, 
+    "name": "Quick View for iOS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 396353721, 
+    "name": "Quick Week Number - Free Week Calendar App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 668432480, 
+    "name": "Quick Write - for Microsoft Office Word Processor", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 730031699, 
+    "name": "Quick-Mind", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 774662043, 
+    "name": "Quick2257", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 649467722, 
+    "name": "Quick_Chart", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 581869128, 
+    "name": "QuickAcctSalesHD", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 495845748, 
+    "name": "QuickAdsense - Google Adsense App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 410380484, 
+    "name": "QuickAgenda", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 740469032, 
+    "name": "QuickApps.PRO Player", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 286753971, 
+    "name": "QuickBank Checkbook with Desktop Exporting", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 292043047, 
+    "name": "QuickBank Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 698703001, 
+    "name": "QuickBite Magazine  \u2018the uk\u2019s largest food-to-go magazine\u2019", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 523039986, 
+    "name": "QuickBoard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 629520219, 
+    "name": "QuickBooking Adv", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 635824797, 
+    "name": "QuickBooking Basic", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 584606479, 
+    "name": "QuickBooks Online", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 393232373, 
+    "name": "QuickBooks Online for iPhone (Old)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 377663723, 
+    "name": "QuickCal - The natural language calendar for iOS", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 665774846, 
+    "name": "QuickCallPlumber", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 611693424, 
+    "name": "QuickChart Lite", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 663552025, 
+    "name": "QuickCheck", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 641581173, 
+    "name": "QuickCheck Rind", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 657380100, 
+    "name": "QuickCheck Sau", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 582657791, 
+    "name": "QuickCheckPro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 712575117, 
+    "name": "QuickConference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 547947238, 
+    "name": "QuickCORE", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 593452214, 
+    "name": "QuickCRM for SugarCRM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 472620183, 
+    "name": "QuickCV for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 792068784, 
+    "name": "Quickdevis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 902766617, 
+    "name": "QuickDraw Pad", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 689271101, 
+    "name": "QuickDrop", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 477971236, 
+    "name": "Quicke", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 499306308, 
+    "name": "Quicker kw", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 452710770, 
+    "name": "Quicket", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 880520835, 
+    "name": "Quickfee Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 458378847, 
+    "name": "QuickInvoicesFree", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 418791386, 
+    "name": "QuickJournal", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 906654874, 
+    "name": "Quicklets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 427184503, 
+    "name": "QuickLetters", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 772875442, 
+    "name": "Quicklink Al Jazeera IFB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 773197019, 
+    "name": "Quicklink Al Jazeera Live LNG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 575455672, 
+    "name": "Quicklink IFB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 443797444, 
+    "name": "Quicklink LNG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 855348567, 
+    "name": "QuickLinkt", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 567100971, 
+    "name": "Quicklog kj\u00f8rebok", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 850734691, 
+    "name": "Quickly Pitch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 354890919, 
+    "name": "Quicklytics - Google Analytics App", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 500983180, 
+    "name": "QuickmailAU", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 458302882, 
+    "name": "QuickNib", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 535465796, 
+    "name": "QuickNozbe", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 578386521, 
+    "name": "Quickoffice  - edit Office documents, spreadsheets, and presentations", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 889011512, 
+    "name": "Quickoffice\u00ae - Pro", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 874776696, 
+    "name": "Quickoffice\u00ae Pro-for Microsoft Office Word, Excel, Powerpoint Edition", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 648795591, 
+    "name": "QuickParking", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 597381837, 
+    "name": "QuickPie", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 782346977, 
+    "name": "QuickPlan - Project Plan HD", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 699434089, 
+    "name": "QuickPlan Pro - Project Plan", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 621375878, 
+    "name": "QuickPlan Pro - Project Plan HD", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 579178364, 
+    "name": "QuickPO", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 579309164, 
+    "name": "QuickPOFree", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 495860286, 
+    "name": "QuickPos", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 399193397, 
+    "name": "QuickPrint", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 661236550, 
+    "name": "QuickPrint Shop", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 460067013, 
+    "name": "QuickQuotation", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 458963446, 
+    "name": "QuickQuotationFree", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 772982405, 
+    "name": "Quickreads", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 808431014, 
+    "name": "QuickRecruit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 437453576, 
+    "name": "Quicks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 904493076, 
+    "name": "QuickScan - Photo to PDF Document Scanner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 904490792, 
+    "name": "QuickScan Pro for iPad - Photo to PDF Document Scanner", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 904490313, 
+    "name": "QuickScan Pro for iPhone - Photo to PDF Document Scanner", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 679034716, 
+    "name": "QuickScanner", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 733594082, 
+    "name": "QuickSchedule", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 525434384, 
+    "name": "QuickSearch PDF Reader", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 514523039, 
+    "name": "QuickSell", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 840454300, 
+    "name": "QuickSeller", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 792000891, 
+    "name": "QuickServ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 621551654, 
+    "name": "QuickSpecs\u2122 Wheel Alignment Specs by QuickTrick\u2122", 
+    "price": 20.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 532914850, 
+    "name": "QuickStar", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 425467320, 
+    "name": "QuickTapSurvey - Mobile Surveys & Offline Data Collection for Research, Feedback, Lead Capture, Audi...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 888706089, 
+    "name": "QuickTask Mobile Property Management", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 902321259, 
+    "name": "QuickTax", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 340875627, 
+    "name": "QuickTimer", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 370193045, 
+    "name": "QuickTimer LITE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 285924450, 
+    "name": "QuickTip\u2122 Tip Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 335136221, 
+    "name": "QuickTodo", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 879408836, 
+    "name": "QuickTrade Live", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 401953432, 
+    "name": "QuickTrans", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 622768258, 
+    "name": "QuickTrigger", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 794067248, 
+    "name": "Quickview", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 880956048, 
+    "name": "Quickviews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 285877935, 
+    "name": "QuickVoice2Text Email (PRO Recorder)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 284675296, 
+    "name": "QuickVoice\u00ae Recorder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 490076267, 
+    "name": "QuickVotes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 885451708, 
+    "name": "QuickWin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 885729508, 
+    "name": "QUICSEAL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 843518733, 
+    "name": "Quicx", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 557336561, 
+    "name": "Quid Pro Quo - Quick Service Estimates", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 516504143, 
+    "name": "QuidBI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 525556382, 
+    "name": "Quidditch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 870275884, 
+    "name": "Quien quiere ser empresario", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 574492127, 
+    "name": "QuietScanner", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 590838203, 
+    "name": "Quietto", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 418822405, 
+    "name": "Quik", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 532571356, 
+    "name": "Quik Dry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 545995743, 
+    "name": "QuikAnalyze", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 573118483, 
+    "name": "QuikCoupon", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 387301959, 
+    "name": "Quikly Alarm", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 530325939, 
+    "name": "QuikNote", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 858369436, 
+    "name": "Quiko Italy electric gates", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 799491050, 
+    "name": "QuikPark.me", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 876461811, 
+    "name": "Quilder Estimate & Quote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 508786983, 
+    "name": "Quill & Quire Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 583930768, 
+    "name": "Quilter Cheviot", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 796390926, 
+    "name": "Quimicral", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 561381283, 
+    "name": "Quing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 653346645, 
+    "name": "Quinn Real Estate - Australia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 732127508, 
+    "name": "Quinta", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 797883251, 
+    "name": "Quintant", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 892105463, 
+    "name": "Quintara LabScan", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 504836526, 
+    "name": "Quintessentially Driven", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 626604364, 
+    "name": "Quintet Dental Laboratory", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 501634538, 
+    "name": "Quintro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 722091517, 
+    "name": "Quintus energie app", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 484097475, 
+    "name": "Quinyx Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 432862653, 
+    "name": "Quiosco Talentya Hipermedia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 488724803, 
+    "name": "Quira Pro Lite", 
+    "price": 28.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 657063380, 
+    "name": "Quirkli", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 767779086, 
+    "name": "Quirky and Quaint", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 858739914, 
+    "name": "Quirky QQ Qwerty", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 418554163, 
+    "name": "Quirk\u2019s Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 418552850, 
+    "name": "Quirk\u2019s Magazine - Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 874253503, 
+    "name": "Quiromasajes Aljarafe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 456879219, 
+    "name": "Quisitive Trademark Search", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 781659061, 
+    "name": "Quit Your Job", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 651810883, 
+    "name": "QuitClaimPro - Draft Your Quit Claim Deed", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 464738556, 
+    "name": "Quittungsblock", 
+    "price": 64.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 599455675, 
+    "name": "Quivers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 720738517, 
+    "name": "Quixpanel - Analytics on the road", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 327054121, 
+    "name": "Quiz Brands", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 542636122, 
+    "name": "Quiz Manager Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 807469559, 
+    "name": "Quiz Nights", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 472474134, 
+    "name": "Quiz Of Country Flags", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 431969345, 
+    "name": "Quiz Of U.S Facts", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 638370481, 
+    "name": "Quiz STF - Informativos em quest\u00f5es comentadas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 821188906, 
+    "name": "QuizFlix", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 882745844, 
+    "name": "QuizOAM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 888320566, 
+    "name": "Qulu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 508978147, 
+    "name": "Qumu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 880905496, 
+    "name": "Qumu for Good", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 477259042, 
+    "name": "Qumu HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 880904890, 
+    "name": "Qumu HD for Good", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 567897653, 
+    "name": "QUNIEOrderChaser", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 567408978, 
+    "name": "QUNIESalesSupport", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Catalogs", 
+    "id": 561743623, 
+    "name": "Quoizel Glow", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 661100081, 
+    "name": "QuoJob. APP.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 850440828, 
+    "name": "Quokky", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 833108889, 
+    "name": "QuooVadis 360\u00b0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 473046718, 
+    "name": "Quorum Mobile Banking", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 734601323, 
+    "name": "QUOSA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 436214174, 
+    "name": "Quosal Order Porter Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 674402022, 
+    "name": "Quota", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 584908741, 
+    "name": "Quota Maker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 711389331, 
+    "name": "Quotas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 547090563, 
+    "name": "Quotation Catalog - An Electronic Quoting Handbook", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 777325897, 
+    "name": "Quotationz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 771769467, 
+    "name": "Quote 500 - 2013", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 733715876, 
+    "name": "Quote 500 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 903728363, 
+    "name": "Quote and Invoice", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 655895282, 
+    "name": "Quote It!", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 739088405, 
+    "name": "Quote Junior ABC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 804010547, 
+    "name": "Quote Kite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 707728884, 
+    "name": "Quote maker- Generate and make quotes on the spot", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 783618129, 
+    "name": "Quote Nederland", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 728374292, 
+    "name": "QUOTE Nieuws", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 342786655, 
+    "name": "Quote NOW", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 477972467, 
+    "name": "Quote Roller - Send and Track Irresistible Business Proposals from Anywhere", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 545741855, 
+    "name": "QuoteBrite Estimates", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 486283767, 
+    "name": "QuoteMaker Pro", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 600040384, 
+    "name": "Quotes & Billing", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 600854951, 
+    "name": "Quotes & Billing Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 667519813, 
+    "name": "Quotes Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 325676536, 
+    "name": "QuotesOnTap - multiple company life insurance and term insurance comparisons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 886218069, 
+    "name": "QuoteSpoke", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 675153017, 
+    "name": "Quotestream Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 425113842, 
+    "name": "QuoteZilla", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 602100369, 
+    "name": "Quotidiano di Puglia per iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 365589715, 
+    "name": "QuoTrek", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 847315927, 
+    "name": "QUp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 651438095, 
+    "name": "Qupik", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 860239433, 
+    "name": "QUT Retail", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 520936641, 
+    "name": "Quwii", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 887784017, 
+    "name": "Quximo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 586161907, 
+    "name": "Qu\u00e0 Gi\u00e1ng Sinh", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 715048452, 
+    "name": "Qu\u00e1litas Controladora Investor Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 648956670, 
+    "name": "Qu\u1ea3n l\u00fd ph\u00f2ng Karaoke", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 829833020, 
+    "name": "Qvidian Connect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 521117285, 
+    "name": "QvikCard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 488012087, 
+    "name": "Qvis Viewer Standard", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 587682946, 
+    "name": "Qvision", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 724742326, 
+    "name": "Qvols Barcelona", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 654750858, 
+    "name": "QVols Lleida", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 690545788, 
+    "name": "QVols Tarragona", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 608954232, 
+    "name": "Qvoto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 816613727, 
+    "name": "QVprep Learn Human Resources Management", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 701107257, 
+    "name": "QVprep Learn Marketing Management : Learn Test Review for MBA students, College majors in Marketing,...", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 639048767, 
+    "name": "QVR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 889036501, 
+    "name": "QVS-StechUhr", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 613033425, 
+    "name": "QVVH Vet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 763954180, 
+    "name": "Qwasi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 703071145, 
+    "name": "Qwenty - \u0420\u0430\u0431\u043e\u0442\u0430 \u0440\u044f\u0434\u043e\u043c", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 491803039, 
+    "name": "Qwick Codes Mobile Wallet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 371172197, 
+    "name": "QwickPAY", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 453258253, 
+    "name": "Qwiqq - A Quick & Easy Way to Sell on Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 497561123, 
+    "name": "Qwite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 860943464, 
+    "name": "Qwizdom Notes+", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 408832020, 
+    "name": "QX9.COM: Machines, parts and accessories marketplace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 864946567, 
+    "name": "Q|ask", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 786098525, 
+    "name": "Q\u4e2d\u56fd", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 574691139, 
+    "name": "R & R Hire Services", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 657765660, 
+    "name": "R Davis Bail", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 819207885, 
+    "name": "R E Businessapp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 609544847, 
+    "name": "R Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 635400099, 
+    "name": "R O Hope", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 532578964, 
+    "name": "R U McSafe Augmented Reality", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 441139119, 
+    "name": "R&B Bookkeeper", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 906685728, 
+    "name": "R&B FOOD TRUCK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 869326601, 
+    "name": "R&C", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 564152646, 
+    "name": "R&D Security", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 853048286, 
+    "name": "R&L", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 756969236, 
+    "name": "R&R Tax", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 482100386, 
+    "name": "R'Factory", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 447763424, 
+    "name": "R+F", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 828088404, 
+    "name": "R+V Generalagentur Stefan Bach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 474155727, 
+    "name": "R-Markis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 646063430, 
+    "name": "R-O PaintPro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 292982406, 
+    "name": "R-U-ON", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 901408577, 
+    "name": "R. FUCHS Partner AG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 672632097, 
+    "name": "R. Wadiwala Client", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 867987307, 
+    "name": "R. Wadiwala CRM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 634282664, 
+    "name": "R. Wadiwala PMS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 903908070, 
+    "name": "R.C.A.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 550867537, 
+    "name": "R.O.E.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 569192225, 
+    "name": "R.P.C.", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 491797345, 
+    "name": "R1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 793088797, 
+    "name": "R2 Projects", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 496599738, 
+    "name": "R24", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 574795265, 
+    "name": "R2P Tracking Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 442983810, 
+    "name": "R3altor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 407331429, 
+    "name": "R4 Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 406567899, 
+    "name": "R7 - la Repubblica settimanale", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 797639079, 
+    "name": "R:COM Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 596406727, 
+    "name": "RA Bex", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 899090488, 
+    "name": "RA Feria", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 725003995, 
+    "name": "RA Iveco Hiway", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 526457841, 
+    "name": "RA Promoter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 661807339, 
+    "name": "RA Scharlach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 689934497, 
+    "name": "RA Summit 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 423238825, 
+    "name": "RA Thon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 504561995, 
+    "name": "RaadDigitaal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 604812293, 
+    "name": "Raadhuys Makelaars", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 501940332, 
+    "name": "Raadsledennieuws", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 524635242, 
+    "name": "Rabatt Rechner", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 531858314, 
+    "name": "Rabbit 2012 SouthEast", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 509902990, 
+    "name": "Rabbit 2012 SouthWest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 436609416, 
+    "name": "RabbitCalc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 503629536, 
+    "name": "Raben Track And Trace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 669994351, 
+    "name": "Rabine Snow Pros", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 477158364, 
+    "name": "Rabo eVisie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 527163650, 
+    "name": "Rabo Floreren", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 603516782, 
+    "name": "Rabo Kennis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 587783126, 
+    "name": "Rabo legpluimveehouderij", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 471268334, 
+    "name": "Rabo Vacatures", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 714882796, 
+    "name": "Rabobank Food and Agri Research app", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 889781604, 
+    "name": "RaboDirect Australia Mobile Banking", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 895787003, 
+    "name": "RAC App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 591662996, 
+    "name": "Race Car Market", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 467129384, 
+    "name": "Race Merchandise", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 855632118, 
+    "name": "Race Weekend 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 498228041, 
+    "name": "Race'n'Fun", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 904308432, 
+    "name": "Racecar Engineering Directory", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 792729550, 
+    "name": "Racer AR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 813233428, 
+    "name": "RaceTestEQ", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 840130289, 
+    "name": "RACGP Clinical Update Weekend", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 541577361, 
+    "name": "Rachat Cr\u00e9dit Immobilier", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 541518102, 
+    "name": "Rachat de cr\u00e9dit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 725679109, 
+    "name": "Rachat de Cr\u00e9dit - Calcul et simulation de vos gains", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 548287684, 
+    "name": "Rachat de Cr\u00e9dits", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 570936055, 
+    "name": "Rachel Ezra", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 668353251, 
+    "name": "Rachel Yancer Photography", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 640418380, 
+    "name": "Rachoo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 647725911, 
+    "name": "RACI Map", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 444717684, 
+    "name": "Racing Planet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 724226667, 
+    "name": "Racing Planet CH", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 472655198, 
+    "name": "Racing Planet SE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 724226435, 
+    "name": "Racing Planet UK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 723620024, 
+    "name": "Racing Planet USA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 743929921, 
+    "name": "Racing Tortoise", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 866816339, 
+    "name": "Racks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 672443103, 
+    "name": "Rackspace Cloud Control", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 417412567, 
+    "name": "Racofix\u00ae", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 824151734, 
+    "name": "Racold's Steam A Doodle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 820273264, 
+    "name": "RaCoupon\u300c\u8cb7\u3046\u30af\u30fc\u30dd\u30f3\u300d\u5e97\u8217\u5411\u3051\u7ba1\u7406\u30c4\u30fc\u30eb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 849453395, 
+    "name": "RACP Congress 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 604125813, 
+    "name": "RacquetClubSH", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 531450692, 
+    "name": "RACS Reflect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 849976836, 
+    "name": "Racunalo.com iPad version", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 846719495, 
+    "name": "Racunalo.com iPhone version", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 808998316, 
+    "name": "RAD Coin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 874877215, 
+    "name": "Radan-Store", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 805552170, 
+    "name": "Radar Avi\u00f5es", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 698728405, 
+    "name": "Radar Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 703761109, 
+    "name": "Radar Oferta", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 797491201, 
+    "name": "Radarly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 549438882, 
+    "name": "RadarReminder", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 719525713, 
+    "name": "Radca Prawny", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 897701581, 
+    "name": "Radde Investigations", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 584749656, 
+    "name": "Raddon Court Warehouse", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 874341042, 
+    "name": "Raderberger Leben - Zu Hause im K\u00f6lner S\u00fcden", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 624493803, 
+    "name": "Radia Client Automation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 840173798, 
+    "name": "Radian6 Buddy Media Social Studio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 419336570, 
+    "name": "Radian6 Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 586719301, 
+    "name": "Radiance Insurance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 692783226, 
+    "name": "Radiance Skincare", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 804271277, 
+    "name": "Radiant Craft", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 651454025, 
+    "name": "Radiant Global Logistics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 876088315, 
+    "name": "RadiantStyles", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 573832156, 
+    "name": "Radiateurs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 632732389, 
+    "name": "RadiCal - The Weekly Calendar", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 452112870, 
+    "name": "Radical Innovation Mapper", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 853004237, 
+    "name": "Radio Agape", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 635439335, 
+    "name": "Radio Agro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 758618888, 
+    "name": "Radio Arysta", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 885424853, 
+    "name": "Radio Cabs YEOVIL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 809041159, 
+    "name": "Radio Emprende", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 596139549, 
+    "name": "Radio Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 645673992, 
+    "name": "Radio MundialFM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 787098231, 
+    "name": "Radio OBS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 896275566, 
+    "name": "Radio Pakistan Toronto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 578376566, 
+    "name": "Radio Paranaiba FM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 834630995, 
+    "name": "Radio Paz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 551022608, 
+    "name": "Radio Pirata", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 462231532, 
+    "name": "Radio Show", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 796966168, 
+    "name": "RADIO TAXI ABC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 834380286, 
+    "name": "Radio Taxi Aljarafe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 799418084, 
+    "name": "RADIO TAXI CGD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 757932007, 
+    "name": "Radio Taxis Fareham", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 875907155, 
+    "name": "Radio T\u00e1xi JP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 579728670, 
+    "name": "Radio World+", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 364125647, 
+    "name": "Radio-Canada", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 879039715, 
+    "name": "Radio1240am", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 484729639, 
+    "name": "Radioapt by BBM Analytics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 836497039, 
+    "name": "Radiodays Europe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 609408548, 
+    "name": "Radioddity", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 720151451, 
+    "name": "RadioFestival", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 633917968, 
+    "name": "Radiofonic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 604976791, 
+    "name": "RadioFreeQB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 887229290, 
+    "name": "RadioHouseApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 436154436, 
+    "name": "Radiologieforum Magazin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 648940585, 
+    "name": "Radiology Jobs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 803916600, 
+    "name": "RadioMetrics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 497469386, 
+    "name": "RadioShack Trade & Save", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 824093896, 
+    "name": "RadioSri V1.0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 797488287, 
+    "name": "RADIOTAXI SAS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 807510625, 
+    "name": "RadioTaxiBari", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 908642580, 
+    "name": "RADIOTAXIUNIAO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 431533459, 
+    "name": "RadioTodayUK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 894305419, 
+    "name": "RadiumOne Connect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 453210969, 
+    "name": "Radius Calculator", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 703546600, 
+    "name": "Radius Expenses", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 828051142, 
+    "name": "Radius Travel Live", 
+    "price": 0.0
+  }
+]

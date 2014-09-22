@@ -1,0 +1,5966 @@
+[
+  {
+    "genre": "Lifestyle", 
+    "id": 619323080, 
+    "name": "Yourec", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 834798133, 
+    "name": "YourFreeTree", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 871122349, 
+    "name": "YourGuy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 391248331, 
+    "name": "YourHair-V1", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 611203790, 
+    "name": "YourHair-Vol2", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 588228626, 
+    "name": "YourJournal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 586929104, 
+    "name": "YourLife+", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 862290569, 
+    "name": "YourLinkePlace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 385887932, 
+    "name": "YourMakeUp", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 391062997, 
+    "name": "YourMakeUp-Vol2", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 611012269, 
+    "name": "YourMakeUp-Vol3", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 757554909, 
+    "name": "YourMechanic Mobile App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 730326630, 
+    "name": "YourMobi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 418148923, 
+    "name": "YourObserver", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 578068026, 
+    "name": "YourPhoto - view with HD filters", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 806173690, 
+    "name": "YourPlace - \u043b\u0443\u0447\u0448\u0438\u0435 \u0437\u0430\u0432\u0435\u0434\u0435\u043d\u0438\u044f, \u043f\u043e\u0434\u0430\u0440\u043a\u0438 \u0438 \u0441\u043a\u0438\u0434\u043a\u0438 \u0432 \u0410\u043b\u043c\u0430\u0442\u044b!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 706762912, 
+    "name": "YourRoomFlow", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 614379639, 
+    "name": "Yours HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 813441022, 
+    "name": "Yours Magazine Australia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 839685549, 
+    "name": "YourShoes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 490148618, 
+    "name": "YourSkinDiary", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 581871617, 
+    "name": "YourSurround", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 457022290, 
+    "name": "YourVilla Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 660203636, 
+    "name": "YourWellness Magazine App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 521724438, 
+    "name": "YOURZZ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 435694191, 
+    "name": "Yous", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 441466092, 
+    "name": "Yous Real Estate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 860447267, 
+    "name": "YouShop - Make Your Shop Mobile !", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 646719313, 
+    "name": "Youth Alive", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 545246303, 
+    "name": "Youth for America", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 509350594, 
+    "name": "Youth Masks", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 903011467, 
+    "name": "Youth New World", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 493619326, 
+    "name": "Youth Voice Nation", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 520814608, 
+    "name": "YouthMinistry", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 593816936, 
+    "name": "YouTrack Dashboard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 887177579, 
+    "name": "Youtubers : Discover and search the Creators of youtube", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 534506839, 
+    "name": "Youxx", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 896625579, 
+    "name": "YouYou\u4e16\u754c\u5e7f\u64ad\u7ad9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 507296469, 
+    "name": "Yowl Guard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 561687037, 
+    "name": "Yowzit India", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 627877948, 
+    "name": "YOYO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 695492085, 
+    "name": "YOYOGO: \u91cb\u653e\u6700\u7d14\u6de8\u7684\u6e34\u671b\uff01", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 698727537, 
+    "name": "YPI Selection", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 548299626, 
+    "name": "YPO CONNECT RM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 877594050, 
+    "name": "YPO Mayfair", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 660247098, 
+    "name": "YPO-WPO Alpine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 880498438, 
+    "name": "Yrain", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 478259474, 
+    "name": "YRB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 466178234, 
+    "name": "YSH_wedding", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 552678926, 
+    "name": "Yshop", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 406317555, 
+    "name": "YSL - ROUGE PUR COUTURE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 550431149, 
+    "name": "Ysmoke", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 739101861, 
+    "name": "YST 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 881477160, 
+    "name": "Ysta Bilcenter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 476863089, 
+    "name": "YSU01", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 895444569, 
+    "name": "Yu Xuan Meng Feng Shui", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 867923285, 
+    "name": "YUAM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 592792158, 
+    "name": "Yuba Sutter Chamber of Commerce", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 529964014, 
+    "name": "Yuba-Sutter Life", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 832735884, 
+    "name": "Yubixi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 829127626, 
+    "name": "Yucatan Country Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 731753318, 
+    "name": "Yucat\u00e1n a la Mano", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 893090842, 
+    "name": "Yuelong BBQ Grills", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 525969181, 
+    "name": "YuenLongPlaza", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 741597223, 
+    "name": "Yuggler, fun activities for kids and family", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 548333865, 
+    "name": "Yuhua", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 403193455, 
+    "name": "YuiClock-@sphia Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 403194098, 
+    "name": "YuiClock_Signfiant Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 642762507, 
+    "name": "Yukendu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 375718489, 
+    "name": "Yukio Kitsukawa's Shinkokyu", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 384844746, 
+    "name": "Yukio Kitsukawa's Shinkokyu (free)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 639519605, 
+    "name": "YukiStore", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 647144706, 
+    "name": "Yuli Machinery", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 647146367, 
+    "name": "Yuli Machinery HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 657693851, 
+    "name": "Yum", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 633607000, 
+    "name": "YUM Food & Fun for Kids- For families who  love to cook!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 543557895, 
+    "name": "Yum Seafood", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 350185328, 
+    "name": "Yum Valentine's Countdown", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 878148825, 
+    "name": "YumaMWR app", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 488106249, 
+    "name": "YUMEMIRU - Control Your Dreams -", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 626883337, 
+    "name": "YuMingle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 525256014, 
+    "name": "Yumixo - Meet New People with a Swipe!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 468058402, 
+    "name": "YUMM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 872535803, 
+    "name": "Yummo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 440684145, 
+    "name": "Yummy Yummy", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 333203578, 
+    "name": "YummyCook Recipes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 348731703, 
+    "name": "YummyCook Recipes - Japanese", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 425586477, 
+    "name": "YummyDiary", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 432738943, 
+    "name": "YummySoup! Recipe Manager", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 417165095, 
+    "name": "Yuna", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 834194354, 
+    "name": "Yuniku", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 871991526, 
+    "name": "Yuno Moederdag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 844343535, 
+    "name": "Yunpi", 
+    "price": 10.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 864837884, 
+    "name": "YuoMee", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 485077741, 
+    "name": "Yupeat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 626095759, 
+    "name": "Yuppi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 523529208, 
+    "name": "Yupty - social shopping opinions", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 467330402, 
+    "name": "YURE memo", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 883922998, 
+    "name": "YURY salon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 688512101, 
+    "name": "Yusif Hallal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 879483836, 
+    "name": "Yuu Beauty", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 895303536, 
+    "name": "YuuZoo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 871595408, 
+    "name": "YuuZoo China", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 592489230, 
+    "name": "Yvette's Kitchen", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 645401896, 
+    "name": "YVMIN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 478102527, 
+    "name": "YVN", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 876525134, 
+    "name": "YWCA of Minneapolis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 554504430, 
+    "name": "Ywork", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 806863887, 
+    "name": "YXO Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 874569110, 
+    "name": "YY Salon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 563965468, 
+    "name": "YYoga", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 827762319, 
+    "name": "YYP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 581871454, 
+    "name": "YY\u627e\u623f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 906528999, 
+    "name": "YZ Fashion Bridal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 670180550, 
+    "name": "Yzentis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 732696177, 
+    "name": "Yzentis Zaio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 480997013, 
+    "name": "Y\u00fcr\u00fc & Yaz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 524497391, 
+    "name": "Y\u00fczde Robotu", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 406648150, 
+    "name": "Y\u0131lba\u015f\u0131", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 408463556, 
+    "name": "Y\u0131lba\u015f\u0131 Mesajlar\u0131", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 874046772, 
+    "name": "Y\u0131ld\u0131z Saati", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 482911429, 
+    "name": "Y\u0442\u0440\u043e.Ru", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 781637902, 
+    "name": "Y\u8cfc\u5c0f\u5e6b\u624b - \u8cfc\u7269\u6ae5\u7a97 (Shopmemo)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 628131855, 
+    "name": "Z Bridal Studio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 848775419, 
+    "name": "Z Chauffeurs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 408535148, 
+    "name": "Z MP3 - \u0110\u1ec9nh cao \u00e2m nh\u1ea1c", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 630947876, 
+    "name": "Z!nk Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 504616329, 
+    "name": "Z-Team Cycling", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 591060429, 
+    "name": "Z-Wave", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 902965154, 
+    "name": "Z-Wave Home HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 569743272, 
+    "name": "Z-Way", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 866761660, 
+    "name": "Z-Way Tablet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 665852765, 
+    "name": "Z41 Remote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 602489563, 
+    "name": "Zaapin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 456268749, 
+    "name": "ZabelPhoto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 515106051, 
+    "name": "Zaca Mesa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 497178289, 
+    "name": "ZackZack", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 427093441, 
+    "name": "Zadachi (Task Manager)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 586888368, 
+    "name": "Zadig & Voltaire Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 843253944, 
+    "name": "Zadora Store", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 426731913, 
+    "name": "Zadovoljna", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 667447787, 
+    "name": "Zaginieni", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 491666180, 
+    "name": "Zagreb & Belgrade Gay Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 779476274, 
+    "name": "Zagrebacki festival", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 763501826, 
+    "name": "Zahi Esmalteria", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 736620220, 
+    "name": "Zahn Service Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 784409119, 
+    "name": "Zahran Air Travel & Tourism", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 719462054, 
+    "name": "Zakat Calculator - Az-zakah - Calculate and Pay Charity", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 733197650, 
+    "name": "Zakat Calculator - Az-zakah - Calculate and Pay Charity - Full Featured", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 774703982, 
+    "name": "Zakat Fund - \u0635\u0646\u062f\u0648\u0642 \u0627\u0644\u0632\u0643\u0627\u0629", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 666385143, 
+    "name": "ZAKKA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 488662866, 
+    "name": "Zalando eMag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 496807316, 
+    "name": "Zallatur", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 674394965, 
+    "name": "Zalongo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 546678250, 
+    "name": "Zaman Viewer - G\u00f6r\u00fcnt\u00fcl\u00fc Gazete", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 546103833, 
+    "name": "Zamar Student Choir", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 596083092, 
+    "name": "Zambezi Traveller 11", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 635805501, 
+    "name": "Zambezi Traveller 12", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 725539225, 
+    "name": "Zambezi Traveller 13", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 497345669, 
+    "name": "Zamsap", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 586657867, 
+    "name": "Zane BuyCar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 692155120, 
+    "name": "Zane Tag Safe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 873077557, 
+    "name": "Zanimos.re", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 636497016, 
+    "name": "ZANK-Gay\u53cb\u5fc5\u5907\u7684\u540c\u5fd7\u4ea4\u53cb\u5e94\u7528", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 502379326, 
+    "name": "Zankiu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 568892397, 
+    "name": "Zankyou", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 658770263, 
+    "name": "Zano", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 891627754, 
+    "name": "ZANTE TAKEOVER 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 853664166, 
+    "name": "Zanvic la tienda online de regalos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 663544079, 
+    "name": "Zap City", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 808192040, 
+    "name": "Zapacab", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 906723645, 
+    "name": "Zapatos", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 765063956, 
+    "name": "Zapcher", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 877599094, 
+    "name": "Zapf-Druck Rechner", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 875273402, 
+    "name": "Zaplanet Clubbers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 480092954, 
+    "name": "Zaplox", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 670210826, 
+    "name": "Zapp TV - La guia de televisi\u00f3n TDT m\u00e1s social en Espa\u00f1a. TV en Directo y F\u00fatbol en Directo Gratis e...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 533286839, 
+    "name": "Zapp!", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 550103348, 
+    "name": "ZappApp", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 487362365, 
+    "name": "Zappd", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 547953205, 
+    "name": "ZARA for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 547951480, 
+    "name": "ZARA for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 640486366, 
+    "name": "Zaragoza - Gu\u00eda de Viajes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 474175190, 
+    "name": "ZaraHome Shop Online", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 668905297, 
+    "name": "Zarka Cigar Lounge - Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 668910199, 
+    "name": "Zarka Cigar Lounge HD - Powered by Cigar Boss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 882401360, 
+    "name": "Zarz\u0105dzaj czasem", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 503550917, 
+    "name": "Zasumi - Angebote in Deiner Umgebung", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 871169006, 
+    "name": "ZAUSINGER", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 719469104, 
+    "name": "Zavio SNVR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 884704862, 
+    "name": "Zavtra", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 551353820, 
+    "name": "Zawaji - \u0632\u0648\u0627\u062c\u064a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 876897349, 
+    "name": "ZAZA STORE \u697d\u5929\u5e02\u5834\u5e97", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 895780600, 
+    "name": "Zazen Coiffure", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 824763185, 
+    "name": "ZbBz \u300a\u65e9\u62a5\u62a5\u5fd7\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 419113464, 
+    "name": "ZBee", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 734411759, 
+    "name": "Ze Bible", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 710501055, 
+    "name": "Zeal Alert", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 580528601, 
+    "name": "Zebra Wallpapers - 40000+ Retina Background for iPhone5S/5C/5,iPhone4S/4,Support iOS7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 882777333, 
+    "name": "Zebrae", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 530917073, 
+    "name": "Zebrareach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 834299900, 
+    "name": "ZEBULE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 540677041, 
+    "name": "Zed!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 605352341, 
+    "name": "Zedz Hair, Beauty Salon and Day Spa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 825631837, 
+    "name": "Zeek - \u05dc\u05de\u05db\u05d5\u05e8 \u05d5\u05dc\u05e7\u05e0\u05d5\u05ea \u05d6\u05d9\u05db\u05d5\u05d9\u05d9\u05dd", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 799414038, 
+    "name": "Zeeland2040", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 477290569, 
+    "name": "ZeeYaa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 580142486, 
+    "name": "Zefear", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 376361550, 
+    "name": "ZEG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 737655202, 
+    "name": "Zegarki sportowe sklep", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 895277989, 
+    "name": "Zeghani", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 737311991, 
+    "name": "Zeichenblock", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 673524404, 
+    "name": "Zeiss Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 572390839, 
+    "name": "Zeit", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 785530605, 
+    "name": "ZEIT AUDIO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 375321540, 
+    "name": "ZEIT ONLINE plus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 808725593, 
+    "name": "Zeitnot", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 819182891, 
+    "name": "Zeki Ticaret", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 803057121, 
+    "name": "Zeleb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 672174187, 
+    "name": "Zelieux", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 887429957, 
+    "name": "Zelzele", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 496189544, 
+    "name": "Zemi Beach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 599920348, 
+    "name": "Zempafy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 433127501, 
+    "name": "Zen 2010", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 640519681, 
+    "name": "Zen Balagares", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 328527788, 
+    "name": "Zen Calendar", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 353451395, 
+    "name": "Zen Chime Box", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 434551171, 
+    "name": "\u79aa\u5b97\u8a08\u6578 ( Zen Counter )", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 681123869, 
+    "name": "Zen Habits - Daily Quotes, Articles and Posters", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 609632218, 
+    "name": "Zen Lamp", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 437762332, 
+    "name": "Zen Master Plus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 643819510, 
+    "name": "Zen Moments", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 642697107, 
+    "name": "Zen Moments for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 329933815, 
+    "name": "Zen Music", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 482548216, 
+    "name": "ZEN ONLINE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 352273420, 
+    "name": "Zen Quotes & Sayings", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 382005874, 
+    "name": "Zen Quotes & Sayings Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 821233060, 
+    "name": "Zen Sketch - The Art of Drawing and Sketching", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 371463710, 
+    "name": "Zen Space", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 909038353, 
+    "name": "Zen Stories - Tell your story, capture your moments.", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 565857858, 
+    "name": "Zen Themes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 414329570, 
+    "name": "Zen Wisdom", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 367498372, 
+    "name": "Zen-Goyomi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 398958156, 
+    "name": "Zen-Goyomi2011", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 482380080, 
+    "name": "Zen-Goyomi2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 795920968, 
+    "name": "ZenAlone", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 765345646, 
+    "name": "ZenB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 345831896, 
+    "name": "ZenChimes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 896227700, 
+    "name": "Zenefit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 833606186, 
+    "name": "Zeneo Spa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 583282704, 
+    "name": "ZenGoyomi 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 523430368, 
+    "name": "Zeno Watch Basel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 667436526, 
+    "name": "Zenopa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 463170023, 
+    "name": "ZenToDone - completing tasks without distractions", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 717468164, 
+    "name": "Zentralia Churubusco", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 717474655, 
+    "name": "Zentralia Coacalco", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 696974351, 
+    "name": "Zentralia Colima", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 653302264, 
+    "name": "Zentries:  The Art of Journaling", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 552791788, 
+    "name": "Zentrum Chiropraktik", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 860459148, 
+    "name": "ZENT\u540d\u53e4\u5c4b\u5317\u5e97", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 517672336, 
+    "name": "Zenues", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 494991954, 
+    "name": "ZenWater", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 490106015, 
+    "name": "Zenwego", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 524101820, 
+    "name": "ZEON SmartSafe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 572057627, 
+    "name": "Zepeel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 721106897, 
+    "name": "Zephyr Hair Design", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 805596813, 
+    "name": "Zephyr Pub", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 468658018, 
+    "name": "Zephyr Real Estate Search", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 738455135, 
+    "name": "Zepp Baseball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 785136858, 
+    "name": "Zepp Baseball for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 738428692, 
+    "name": "Zepp Golf", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 785135981, 
+    "name": "Zepp Golf for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 673372929, 
+    "name": "Zermatt Apartments Collection", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 683551657, 
+    "name": "Zermatt Apartments Collection!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 898072364, 
+    "name": "Zero Bid Finder for eBay", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 596423381, 
+    "name": "Zero Motorcycles", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 475946430, 
+    "name": "Zero to Sixty Times", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 801031884, 
+    "name": "Zero Zero", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 654665990, 
+    "name": "Zero-G 400", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 602702923, 
+    "name": "Zero-G 500", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 432468194, 
+    "name": "ZeroRecorder", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 372723494, 
+    "name": "ZeroWatch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 529474241, 
+    "name": "Zespri \u641c Happy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 902985428, 
+    "name": "Zest D'Orient", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 318697037, 
+    "name": "ZET Chilli", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 716673338, 
+    "name": "Zet Gold", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 859916417, 
+    "name": "Zett - Die Zeitung am Sonntag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 642094027, 
+    "name": "Zeus Sensor", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 777079886, 
+    "name": "Zeus Sensor Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 662324802, 
+    "name": "Zeus Sensor Tarot", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 393080198, 
+    "name": "ZeVisitMag #1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 402739659, 
+    "name": "ZeVisitMag #2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 451752263, 
+    "name": "ZeVisitMag #3 - english", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 654740408, 
+    "name": "Zevkli Oto A Class", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 907907740, 
+    "name": "ZextMe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 905998968, 
+    "name": "Zeynebiye TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 794682022, 
+    "name": "ZFAFNA - \u0632\u0648\u0627\u062c \u0632\u0641\u0627\u0641\u0646\u0627", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 670935719, 
+    "name": "ZG Raiffeisen Energie Tankstellen App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 891621575, 
+    "name": "ZGinger Mini", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 885872246, 
+    "name": "ZH-Fishing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 433372199, 
+    "name": "Zhang Xiaotao", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 838753243, 
+    "name": "Zhang-Xiaogang", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 409665325, 
+    "name": "Zhao-Nengzhi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 746048884, 
+    "name": "Zhendosina", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 604761056, 
+    "name": "ZhiHuiXingJiaYuan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 412681655, 
+    "name": "Zhong Biao", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 900977581, 
+    "name": "ZhonghuaList", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 694973240, 
+    "name": "Zhongtian Rubber", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 694973787, 
+    "name": "Zhongtian Rubber HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 489793711, 
+    "name": "Zhu Chunlin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 673523179, 
+    "name": "Zhu-Wei", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 878234309, 
+    "name": "ZiareLive", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 541004689, 
+    "name": "Ziarul Libertatea", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 641588793, 
+    "name": "ZibberPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 643201026, 
+    "name": "ZibberWeb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 344919808, 
+    "name": "ZibblerScribe", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 816104837, 
+    "name": "ZiBro - \uc11c\ub85c\ub97c \ucc3e\ub294 \ubd84\uc2e4\ubc29\uc9c0 \ube14\ub8e8\ud22c\uc2a4 \uc571", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 844031492, 
+    "name": "Zibro\ub97c \ucc3e\uc544\ub77c - \uc2e0\uac1c\ub150 \uc704\uce58\ucd94\uc801 \ub3c4\uc6b0\ubbf8", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 527070275, 
+    "name": "Zichron Yaakov - \u05d6\u05db\u05e8\u05d5\u05df \u05d9\u05e2\u05e7\u05d1 - \u05d0\u05e0\u05d9 \u05e2\u05dc \u05d4\u05de\u05e4\u05d4", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 445218199, 
+    "name": "Ziebart T\u00fcrkiye", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 406778400, 
+    "name": "ZiG-BUTLER Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 439642792, 
+    "name": "ZiG-BUTLER Pro", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 535135840, 
+    "name": "Zigfield Troy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 704453976, 
+    "name": "ZigWheels \u2013 New Cars, Used Cars & Bikes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 694675236, 
+    "name": "ZigZag a Parigi", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 771786390, 
+    "name": "ZigZag in Paris", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 486267604, 
+    "name": "Ziilch - Give away stuff", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 586071615, 
+    "name": "Zijnstijl Haarstijl", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 419044520, 
+    "name": "Zildjian", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 807138255, 
+    "name": "ZillOPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 591141063, 
+    "name": "Zillow Digs \u2013 Home Design Inspiration & Cost Estimates", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 538946076, 
+    "name": "Zillow Rentals \u2013 Apartments & Homes for Rent", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 492673037, 
+    "name": "ZillyDilly for iPad", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 858656835, 
+    "name": "Zilyo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 848900338, 
+    "name": "Zimbabwe News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 666833507, 
+    "name": "Zimbabwe Northern Circuit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 826327494, 
+    "name": "Zimbrick Honda", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 570755008, 
+    "name": "Zimbrick Honda Madison", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 647947093, 
+    "name": "Zimmerman Bonding", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 390434619, 
+    "name": "Zimmo.be", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 514261590, 
+    "name": "Zimmo.be HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 631155638, 
+    "name": "Zimni-Alpy.cz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 876586469, 
+    "name": "Zina Christian Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 606097217, 
+    "name": "Zince - the intelligent habit manager", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 654367235, 
+    "name": "Zindigo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 796919878, 
+    "name": "Zine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 885600339, 
+    "name": "Zine 2014 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 898722056, 
+    "name": "Zing E-Liquids", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 335189360, 
+    "name": "Zing Touch", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 417043777, 
+    "name": "Zing \u2013 South Florida", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 866715848, 
+    "name": "Zinger Zavings", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 505146968, 
+    "name": "Zingg-Lamprecht", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 364297166, 
+    "name": "Zinio - 5000+ Digital Magazines", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 778018128, 
+    "name": "Zink Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 886257517, 
+    "name": "Zion Baptist Church Hampton", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 600523934, 
+    "name": "Zion Church ELCA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 594668254, 
+    "name": "Zion Church: App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 899326247, 
+    "name": "Zion Dominion Global Ministries", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 471335761, 
+    "name": "Zion Harley DealerApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 826372317, 
+    "name": "Zion Lutheran Decatur", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 312743122, 
+    "name": "Zion National Park App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 858793610, 
+    "name": "Zion Temple Church", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 662205427, 
+    "name": "Zion Youth", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 897019431, 
+    "name": "Zion-St. Marys OH", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 854659784, 
+    "name": "Zions Bank Community Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 898674218, 
+    "name": "Zip Key Finder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 605511253, 
+    "name": "Zip Taxi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 579377233, 
+    "name": "ZipaClip - Secure Video and Text Messaging", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 590452161, 
+    "name": "Zipato", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 329384702, 
+    "name": "Zipcar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 420807694, 
+    "name": "ZipCASTLE", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 381336208, 
+    "name": "ZIPFM.NET MOBILE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 335575008, 
+    "name": "ZipList Grocery List, Shopping List & Recipes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 708618885, 
+    "name": "Ziploop", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 603480458, 
+    "name": "ZipMeeting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 528243654, 
+    "name": "ZIPP fashion", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 852317184, 
+    "name": "Zipper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 879826190, 
+    "name": "Zipper to Crying baby", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 626902005, 
+    "name": "Zippo Lighter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 799559265, 
+    "name": "Zippy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 392469923, 
+    "name": "ZipRage", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 507468057, 
+    "name": "Zitate f\u00fcr Job & Karriere", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 857584323, 
+    "name": "Ziyarates", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 501266814, 
+    "name": "Zizzi Designs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 890392652, 
+    "name": "Zizzi Ribe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 619788266, 
+    "name": "Zizzi Salon & Spa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 515319875, 
+    "name": "ZJM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 433861217, 
+    "name": "Zjoplist", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 581990491, 
+    "name": "ZlavaDna.sk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 467729522, 
+    "name": "Zlavy.sk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 452921604, 
+    "name": "Zmanim - \u05d6\u05de\u05e0\u05d9\u05dd", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 597584221, 
+    "name": "ZmapujTo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 857048237, 
+    "name": "Zndit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 721780792, 
+    "name": "ZNG Life", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 799366961, 
+    "name": "Znikacz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 594111200, 
+    "name": "ZNVCAM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 403393313, 
+    "name": "Zo_Nz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 840180918, 
+    "name": "Zodiac Check", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 476952978, 
+    "name": "Zodiac Compare", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 822963616, 
+    "name": "Zodiac Daily - Free Horoscopes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 658195007, 
+    "name": "Zodiac Immo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 398367261, 
+    "name": "Zodiac Love Compatibility", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 429176689, 
+    "name": "Zodiac Sign Combinations", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 410311840, 
+    "name": "Zodianet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 492003315, 
+    "name": "Zodicards", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 479062600, 
+    "name": "Zoe City App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 869491017, 
+    "name": "Zoe Outreach Ministries", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 507065521, 
+    "name": "Zoek IJssalon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 537705146, 
+    "name": "Zoem", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 662386633, 
+    "name": "ZoeMob Family Locator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 799575890, 
+    "name": "Zoetermeer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 457265660, 
+    "name": "Zoetermeer.Nu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 647920963, 
+    "name": "Zofari City Guides", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 642344837, 
+    "name": "Zoinla", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 652142222, 
+    "name": "Zolling", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 583236209, 
+    "name": "Zolman Tire", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 898656833, 
+    "name": "Zolo Realty", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 446699837, 
+    "name": "Zombie Booth", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 453272231, 
+    "name": "Zombie Cards", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 673533526, 
+    "name": "Zombie Nation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 488635307, 
+    "name": "Zombie Outbreak! - Wallpaper & Backgrounds", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 685307291, 
+    "name": "Zombie Stamp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 528953031, 
+    "name": "Zombie Survival Book Collection and Doomsday Prepper Guide for SHTF, WROL, EDC and TEOTWAWKI", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 536425809, 
+    "name": "Zombie Survival FREE Book Collection and Doomsday Preppers Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 481498065, 
+    "name": "Zombie Tones-Zombie sounds and ringtones!", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 577121681, 
+    "name": "Zomerhof 3D", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 451425237, 
+    "name": "Zomerparkfeest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 765295309, 
+    "name": "Zona 05", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 409212837, 
+    "name": "Zona Esmeralda Mov\u00edl", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 531131585, 
+    "name": "ZonaProp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 543180789, 
+    "name": "Zonar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 418550989, 
+    "name": "Zone Beacon", 
+    "price": 99.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 904098332, 
+    "name": "Zone Champaign", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 494660354, 
+    "name": "Zone Diet Calculator Blocks", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 495552085, 
+    "name": "Zone Diet Calculator Blocks (LITE)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 449182724, 
+    "name": "Zone Diet Recipes & meals", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 460319696, 
+    "name": "Zone Diet Recipes & meals HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 617328178, 
+    "name": "Zoneamos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 563410262, 
+    "name": "ZoneTouch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 602116484, 
+    "name": "Zontaxi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 525009721, 
+    "name": "Zoo Clock", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 440804965, 
+    "name": "Zoo Granby", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 506641601, 
+    "name": "Zoo Magazine for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 699835169, 
+    "name": "ZOO Magazine UK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 544243388, 
+    "name": "Zoo Safaripark Stukenbrock", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 500554018, 
+    "name": "Zoo Sounds +", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 570968326, 
+    "name": "Zoo Thailand", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 563149911, 
+    "name": "Zoo Weekly(Thailand)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 443202628, 
+    "name": "Zoo Worlds", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 490952220, 
+    "name": "Zoocan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 865351543, 
+    "name": "ZOOG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 424856482, 
+    "name": "Zoogigant", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 884940017, 
+    "name": "ZooGrab", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 712770921, 
+    "name": "Zoola", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 495514202, 
+    "name": "ZOOLOOK - fashion snap lookbook & style", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 557187766, 
+    "name": "Zoolox", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 828856940, 
+    "name": "Zoom - Live Map from Locus Social", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 387678621, 
+    "name": "Zoom Danmarks Professionelle Fotomagasin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 330708563, 
+    "name": "Zoom Garan", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 798766309, 
+    "name": "Zoom Locker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 544649161, 
+    "name": "Zoom magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 388461422, 
+    "name": "Zoom Mirror - iPhone 4 Facetime Cam Mirror Magic", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 331175524, 
+    "name": "Zoom Topo5", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 709185383, 
+    "name": "Zoom.nl", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 468015560, 
+    "name": "Zoom.nl Showcase", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 694536310, 
+    "name": "ZoomApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 471030336, 
+    "name": "ZoomBella", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 481420228, 
+    "name": "ZOOMDICI.FR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 649859554, 
+    "name": "ZOOMER Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 414117816, 
+    "name": "ZoomReader", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 701279061, 
+    "name": "Zoomvy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 591466314, 
+    "name": "ZoomZoomZen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 349160522, 
+    "name": "Zoosk - #1 Dating App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 534139791, 
+    "name": "Zoota", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 574720937, 
+    "name": "Zoota\u2122", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 530074641, 
+    "name": "ZooTo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 909783108, 
+    "name": "Zootown Church", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 380471275, 
+    "name": "Zootta contacts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 583282484, 
+    "name": "Zoover", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 525699581, 
+    "name": "Zorg", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 740593046, 
+    "name": "Zorgportfolio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 680827554, 
+    "name": "ZorSecure\u2122", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 705805981, 
+    "name": "Zosho", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 697729333, 
+    "name": "Zot'Immo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 910198808, 
+    "name": "Zotservices", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 510654756, 
+    "name": "Zouk", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 527462417, 
+    "name": "Zouk Berlin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 722287253, 
+    "name": "Zoupons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 661077458, 
+    "name": "ZOVI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 761568194, 
+    "name": "Zowers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 507942676, 
+    "name": "ZOwonen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 404529222, 
+    "name": "ZOZOTOWN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 475825683, 
+    "name": "Zo\u00e9 Kirken", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 613244327, 
+    "name": "ZPaint", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 628031536, 
+    "name": "ZPaint Pro", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 489194041, 
+    "name": "ZPN App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 839473109, 
+    "name": "Zprizz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 477606724, 
+    "name": "ZQR Scanner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 728215001, 
+    "name": "ZR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 425671486, 
+    "name": "Zsebszak\u00e1cs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 818769806, 
+    "name": "Zsolozsma", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 661731500, 
+    "name": "Zszywka.pl - Portal Twoich inspiracji", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 647302038, 
+    "name": "Ztory", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 839829212, 
+    "name": "Zu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 653323378, 
+    "name": "Zuari Garden City", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 892420723, 
+    "name": "Zubiarte", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 616380656, 
+    "name": "Zubias", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 681377583, 
+    "name": "Zubie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 877533910, 
+    "name": "ZueriName", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 476957717, 
+    "name": "Zufall Adventures", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 620749790, 
+    "name": "Zufallsgenerator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 765543586, 
+    "name": "Zugl\u00f3 App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 586188781, 
+    "name": "ZugZug", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 405018436, 
+    "name": "ZUHAUSE WOHNEN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 492410419, 
+    "name": "Zuhausehaus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 845258959, 
+    "name": "Zuiano Coffee Capsules - Fully Nespresso Compatible", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 432529163, 
+    "name": "Zuidam", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 728414739, 
+    "name": "Zuji Travel Guides", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 886633582, 
+    "name": "Zuka - Refresh your Selfie.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 733091747, 
+    "name": "Zukowski Law Firm App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 580030035, 
+    "name": "ZuluBoard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 510840075, 
+    "name": "ZuluLog Pilot Logbook", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 628664477, 
+    "name": "Zumba Fitness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 757111970, 
+    "name": "Zumbs Mallorca", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 786213572, 
+    "name": "Zumo International", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 478782451, 
+    "name": "Zumzi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 797600274, 
+    "name": "Zunati", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 441597800, 
+    "name": "Zupermarket", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 447222543, 
+    "name": "Zuppa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 452413143, 
+    "name": "Zuppa.HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 865143266, 
+    "name": "Zur Linde Freital", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 486340051, 
+    "name": "Zuretti", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 474014009, 
+    "name": "Zurich", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 842516615, 
+    "name": "Zurich Clinic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 513861886, 
+    "name": "Zurich: Wallpaper* City Guide", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 658875501, 
+    "name": "Zurnal24", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 599933788, 
+    "name": "Zwaan makelaars", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 399616063, 
+    "name": "Zwaerchfelltherapie", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 496851584, 
+    "name": "Zwanger & Eten", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 598391762, 
+    "name": "Zwanger en Zo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 367459093, 
+    "name": "Zwartjes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 794833203, 
+    "name": "ZWatch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 577249825, 
+    "name": "ZwB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 543875440, 
+    "name": "Zweirad Burbach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 646702828, 
+    "name": "Zwierciad\u0142o", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 418331399, 
+    "name": "Zwiesel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 469905966, 
+    "name": "ZxSpecPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 660938294, 
+    "name": "Zymurgy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 880930989, 
+    "name": "ZYTIDMark", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 878577184, 
+    "name": "ZZKKO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 756649906, 
+    "name": "ZZSheep", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 572457196, 
+    "name": "ZZTV\u5feb\u62cd", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 581868414, 
+    "name": "Zzz sound sleep app ~ I eliminate the stress of the world ~", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 738112073, 
+    "name": "ZzzLight", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 696686198, 
+    "name": "Z\u00e1meck\u00e1 Restaurace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 444512183, 
+    "name": "Z\u00e9nith de Nancy, le Mag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 628437405, 
+    "name": "Z\u00f6ld H\u00e1ztart\u00e1s", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 513891784, 
+    "name": "Z\u00f6ld Pardon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 764407681, 
+    "name": "Z\u00fcrcher Unterl\u00e4nder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 335153775, 
+    "name": "Z\u00fcri schlaflos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 458570333, 
+    "name": "Z\u00fcrich CityZapper City Guide", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 890952675, 
+    "name": "Z\u00dcRICH GEHT AUS! 2014 / 2015", 
+    "price": 23.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 764400687, 
+    "name": "Z\u00fcrichsee-Zeitung", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 509978706, 
+    "name": "Z\u013eavomat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 895794309, 
+    "name": "Z\u0430\u043f\u0447\u0430\u0441\u0442\u0435R", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 465893978, 
+    "name": "Z\u56e2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 333332908, 
+    "name": "!Emergency!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 455662707, 
+    "name": "\"Instant\" First Aid", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 687343864, 
+    "name": "\"THE\" Waiver Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 689184321, 
+    "name": "(0-6\u5c81)\u667a\u5546\u6d4b\u8bd5\u4e13\u4e1a\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 844766464, 
+    "name": "*BMI Rechner*", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 673922504, 
+    "name": "+NEDOCS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 904655142, 
+    "name": "-GYNEWS-\u5730\u5473\u306b\u4fbf\u5229\u306a\u30cb\u30e5\u30fc\u30b9\u30ea\u30fc\u30c0\u30fc(Google\u3068Yahoo\u30d0\u30fc\u30b8\u30e7\u30f3)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 485234591, 
+    "name": "0-3\u5c81\u5b9d\u5b9d\u6210\u957f\u65e5\u5386\u2014\u2014\u53d1\u80b2\u6307\u6807\u5bf9\u6bd4\u3001\u80b2\u513f\u8bb0\u5f55\u4ea4\u6d41\u793e\u533a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 880382368, 
+    "name": "04888 Chiro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 868757784, 
+    "name": "061 CatSalut Respon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 835920030, 
+    "name": "1 800 Ask Gary", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 516351359, 
+    "name": "1 Responder Thermic", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 651877254, 
+    "name": "1,000 Allergy, Asthma and Immunology Dictionary Terms with Glossary of Procedures and Treatments", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 647633041, 
+    "name": "1,021 PsychTerms Pro Psychological Words and Terminologies Dictionary", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 706033993, 
+    "name": "10 Aniversario NISA Rey Don Jaime", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 896877979, 
+    "name": "100 Redfern Smiles", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 522372064, 
+    "name": "100 \u0421\u043e\u0432\u0435\u0442\u043e\u0432 \u0414\u043e\u043a\u0442\u043e\u0440\u0430 \u041f\u0430\u043f\u044b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 488724867, 
+    "name": "100% Urologie", 
+    "price": 24.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 464593532, 
+    "name": "100+ Mind Over Matters", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 464593604, 
+    "name": "100+ Mind Over Matters for iPad", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 683514956, 
+    "name": "1000 Arthritis Dictionary and Glossary of Medical Terms, Conditions and Treatments", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 651203671, 
+    "name": "1000 Dental Dictionary and Glossary of Terms, Treatments and Procedures", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 549157124, 
+    "name": "1000 Kr\u00e4uter", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 526070596, 
+    "name": "101 Kasus", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 537261780, 
+    "name": "101.1 FM \u2013 Spokane KEYF-FM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 573846931, 
+    "name": "108\ud68c\uc548\uacfc\ud559\uc220\ub300\ud68c", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 629400484, 
+    "name": "109\ud68c\uc548\uacfc\ud559\uc220\ub300\ud68c", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 536075472, 
+    "name": "10MWT", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 482355089, 
+    "name": "10th Congress of ISDDE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 511300916, 
+    "name": "10th EGS 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 351924841, 
+    "name": "10th Hour Anesthesiology Review", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 888964800, 
+    "name": "112 Where ARE U", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 586607701, 
+    "name": "112-hulpverleningsapp RAV Brabant MWN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 879611716, 
+    "name": "11\u00ba COPA - Congresso Paulista de Anestesiologia / 48\u00ba JASB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 508813325, 
+    "name": "12 Fantasiereisen mit Autogenem Training", 
+    "price": 10.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 610355976, 
+    "name": "120+ Mental Health Disorders", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 649197913, 
+    "name": "120,000 Medical Dictionary of Terms with Quick Reference", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 595347948, 
+    "name": "128K Medical Words Dictionary & Quiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 434585606, 
+    "name": "12th EFORT Congress 2011", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 541791098, 
+    "name": "12\u5c4a\u547c\u5438\u652f\u6301\u6280\u672f\u9ad8\u7ea7\u7814\u4fee\u73ed", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 364263848, 
+    "name": "16X - Magnifier", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 474498512, 
+    "name": "2 Step Bonding", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 399107238, 
+    "name": "2010 AAP 96th Annual Meeting", 
+    "price": 219.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 653514274, 
+    "name": "2010/63 Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 511480488, 
+    "name": "2012 AIUM Annual Convention & PreConvention Program", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 511495424, 
+    "name": "2012 AIUM Annual Convention & PreConvention Program HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 553238053, 
+    "name": "2012 CDC National Cancer Conference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 553238065, 
+    "name": "2012 CDC National Cancer Conference HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 570679296, 
+    "name": "2012 USRDS ADR, Volume One: CKD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 570686150, 
+    "name": "2012 USRDS ADR, Volume Two: ESRD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 535177768, 
+    "name": "2012\u5e74\u5929\u575b\u56fd\u9645\u8111\u8840\u7ba1\u75c5\u4f1a\u8bae\u79fb\u52a8\u4f1a\u8bae\u6307\u5357", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 542340403, 
+    "name": "2012\u5fc3\u810f\u5f71\u50cf\u53ca\u5fc3\u810f\u5e72\u9884\u5927\u4f1a\u79fb\u52a8\u4f1a\u8bae\u6307\u5357", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 525236773, 
+    "name": "2012\u5fc5\u8bfb\u5fc3\u7406\u5b66\u5927\u5168", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 719638023, 
+    "name": "2013 Advances in Inflammatory Bowel Diseases: Crohn\u2019s Colitis Foundations Clinical & Research", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 737971064, 
+    "name": "2013 ASH Annual Meeting & Expo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 564957228, 
+    "name": "2013 EMRA Antibiotic Guide", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 556431202, 
+    "name": "2013 ICD9 EZ Coder ( 2012 ICD CM and PCS Procedure codes)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 730533192, 
+    "name": "2013 USRDS ADR, Volume One: CKD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 730533634, 
+    "name": "2013 USRDS ADR, Volume Two: ESRD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 848454027, 
+    "name": "2014 AACC Pathfinder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 774114886, 
+    "name": "2014 AAN Annual Meeting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 875369704, 
+    "name": "2014 ACVIM Forum", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 440533291, 
+    "name": "A-Z Burning Calories -  the calories burned calculator for activities based on the metabolic equival...", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 440457508, 
+    "name": "A-Z Med Facts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 486005691, 
+    "name": "A-Z: Full Body Anatomy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 477135651, 
+    "name": "A-Z: Muscle & Skeletal Anatomy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 477136301, 
+    "name": "A-Z: Muscle & Skeletal Anatomy for iPad", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 488448517, 
+    "name": "A-Z: Muscle Trigger Points", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 582880985, 
+    "name": "A.G.A.R.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 393332192, 
+    "name": "A.I.S.Mo. Info", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 851897248, 
+    "name": "A.M.N.E.S.I.A.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 485307182, 
+    "name": "A1chieve", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 342442220, 
+    "name": "A2Z of Dermatology", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 860953042, 
+    "name": "A4M Orlando 2014 Conference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 569531525, 
+    "name": "AAA-MNM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 498354262, 
+    "name": "AAAAI 2014 Annual Meeting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 718623993, 
+    "name": "AABB Patient Blood Management", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 696048753, 
+    "name": "AABP Albuquerque", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 541418407, 
+    "name": "AAC Evaluation Genie", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 514087870, 
+    "name": "AAC Pocket", 
+    "price": 39.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 593771706, 
+    "name": "AAC Text to Speech", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 421511328, 
+    "name": "AACD Journal of Cosmetic Dentistry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 419877764, 
+    "name": "AACD Journal of Cosmetic Dentistry HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 609441950, 
+    "name": "AACN Advanced Critical Care", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 766132336, 
+    "name": "AACN Bedside", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 516257310, 
+    "name": "AACN CCRN Exam Review", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 551537723, 
+    "name": "AACN CCRN Review", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 508423875, 
+    "name": "AACR Annual Meeting 2012 Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 445761675, 
+    "name": "AACR Publications", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 687177714, 
+    "name": "AAC\u30b0\u30c3\u30c9\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 619192721, 
+    "name": "AAC\u597d\u6e9d\u901a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 705778271, 
+    "name": "AAC\uad7f \ucee4\ubba4\ub2c8\ucf00\uc774\uc158", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 672216578, 
+    "name": "AADE Diabetes Goal Tracker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 892510979, 
+    "name": "AAEP Publications", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 878874823, 
+    "name": "AAFPRS 11th IS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 556533085, 
+    "name": "AAFPRS 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 725833551, 
+    "name": "AAFPRS 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 425959543, 
+    "name": "AAHS HAND Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 885661703, 
+    "name": "AAIC 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 526114503, 
+    "name": "AAMCAction", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 571365772, 
+    "name": "AAMCAction for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 563789765, 
+    "name": "AAMS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 662102759, 
+    "name": "AAMSE 2013 Annual Conference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 891827601, 
+    "name": "AAMSE 2014 Annual Conference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 710615072, 
+    "name": "AAN CANS 2013 Abstracts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 515505820, 
+    "name": "AANA 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 619515040, 
+    "name": "AANA 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 773514332, 
+    "name": "AANA Events", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 541170857, 
+    "name": "AANA Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 543955110, 
+    "name": "AANA Journal iPhone Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 720553612, 
+    "name": "AANA MOC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 899239052, 
+    "name": "AANnews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 572405215, 
+    "name": "AANS Grand Rounds", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 476337556, 
+    "name": "AAOMPT On The Go", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 709624920, 
+    "name": "AAP Journals", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 500016853, 
+    "name": "AAPD 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 643057930, 
+    "name": "AAPD 2013 Posters", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 864050574, 
+    "name": "AAPD 2014 Posters", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 698163447, 
+    "name": "AAPD ACA 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 730369143, 
+    "name": "AAPD Behavior Guidance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 766932355, 
+    "name": "AAPD Comp Review 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 616830040, 
+    "name": "AAPD General Practitioner Course", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 594960236, 
+    "name": "AAPM Newsletter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 638908839, 
+    "name": "AAPOS Vision Screening App", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 731429204, 
+    "name": "AAPS Journals", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 606693858, 
+    "name": "AASC for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 815609902, 
+    "name": "AATB Events", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 849199852, 
+    "name": "AATS Annual Meeting 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 760202171, 
+    "name": "Ab auf die Insel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 400112021, 
+    "name": "AB Fast!", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 642950981, 
+    "name": "AB IT-MAIS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 898695069, 
+    "name": "AB Listening Adventures", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 797555166, 
+    "name": "AB Vejledning", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 541469487, 
+    "name": "AB Volume 1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 541448963, 
+    "name": "AB Volume 3", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 541461707, 
+    "name": "AB Volume 4", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 886497931, 
+    "name": "ABA Liquid Gold Conference 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 526326410, 
+    "name": "ABA Problem Solving - Same or Different Game", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 527130517, 
+    "name": "ABA Problem Solving - Which Doesn't Belong Game", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 907569328, 
+    "name": "ABA \u2013 Cartas de Conversa\u00e7\u00e3o Conhecendo o Amigo", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 897709407, 
+    "name": "ABA \u2013 Cartas de Conversa\u00e7\u00e3o Formalidades", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 333261374, 
+    "name": "ABABasic", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 355451472, 
+    "name": "ABAPref", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 860156590, 
+    "name": "Abbey Veterinary Group", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 337030389, 
+    "name": "Abbreviations, suffixes, prefixes and more", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 329677407, 
+    "name": "AbbStore - Medical Abbreviations, Eponyms & Acronyms", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 311406975, 
+    "name": "ABC CURSIVE WRITING", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 325946138, 
+    "name": "ABC CURSIVE WRITING Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 721125718, 
+    "name": "ABC-Trauma", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 591370165, 
+    "name": "Abcam", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 785692660, 
+    "name": "ABCs of Medical Management of Stones", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 500917497, 
+    "name": "Abdomen Cross Section", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 689639876, 
+    "name": "Abdominal CT Incidental Finding Guidelines", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 777216718, 
+    "name": "Abdominal CT Sectional Walker", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 875278831, 
+    "name": "Abdominal CT Sectional Walker Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 600574778, 
+    "name": "Abdominal Sonography Registry Review FlashCards", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 775707913, 
+    "name": "Abecedario PEQUES", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 595030748, 
+    "name": "ABFM Directory", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 669484647, 
+    "name": "ABFM-ITE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 288690509, 
+    "name": "ABG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 571300076, 
+    "name": "ABG Analysis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 885575488, 
+    "name": "ABG Expert", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 493840595, 
+    "name": "ABG Pro", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 493839616, 
+    "name": "ABG Simple", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 435529317, 
+    "name": "ABG Stat", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 531118831, 
+    "name": "ABI Calculator and Reference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 587403274, 
+    "name": "Ablaci\u00f3n por A.C.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 638272808, 
+    "name": "Able HD AAC", 
+    "price": 59.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 823866829, 
+    "name": "About Face Laser & Cosmetic Clinic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 806130416, 
+    "name": "AboutPharma", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 724823530, 
+    "name": "ABP - Associa\u00e7\u00e3o Brasileira de Psiquiatria", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 648528742, 
+    "name": "Abrale", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 306244493, 
+    "name": "Absalt EasyWakeup Classic - smart alarm clock (easy wake up)", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 418372730, 
+    "name": "Absite Assassin", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 344469572, 
+    "name": "ABSITe Surgery Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 581289090, 
+    "name": "Abstracts des communications des Journ\u00e9es Dermatologique de Paris 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 494227079, 
+    "name": "Abstracts des communications du Congr\u00e8s CPLF 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 585627634, 
+    "name": "Abstracts des JHTA 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 548256935, 
+    "name": "ABxManager", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 505849215, 
+    "name": "AC Utrecht", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 541598177, 
+    "name": "Academia da Articula\u00e7\u00e3o", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 879894566, 
+    "name": "Academia da Especialidade", 
+    "price": 33.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 500770599, 
+    "name": "Academic Medicine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 821221332, 
+    "name": "Academy of Laser Dentistry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 550137949, 
+    "name": "AcademyQ: Otolaryngology Knowledge Self Assessment Tool \u2013 AAO-HNSF", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 635635435, 
+    "name": "Acanthes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 905043425, 
+    "name": "ACC Advocacy Action", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 542901001, 
+    "name": "ACC Connect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 429513657, 
+    "name": "ACC.11 and i2 Summit 2011", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 810248910, 
+    "name": "ACC.14 eMeeting Planner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 402581016, 
+    "name": "ACCEL Audio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 751642902, 
+    "name": "Accent Eye & Therapy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 396669248, 
+    "name": "Accentus Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 491364493, 
+    "name": "AccentusDictate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 550232822, 
+    "name": "Acces Scan Respiratory System", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 561837901, 
+    "name": "Acces Scann Skul MRI", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 818907896, 
+    "name": "Access Cooper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 574802400, 
+    "name": "AccessDerm 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 612905256, 
+    "name": "AcciDent English", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 477238986, 
+    "name": "Accident Help - Walter Clark", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 694726271, 
+    "name": "Accident Injury Consultants", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 556103914, 
+    "name": "Accord Salud", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 561430676, 
+    "name": "Accord Salud Pad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 730854114, 
+    "name": "ACCP Critical Care Communications", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 730853947, 
+    "name": "ACCP Mechanical Ventilation 1", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 566204306, 
+    "name": "ACCP Radiology Cases", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 727068494, 
+    "name": "ACCPS Prediction Tool", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 619870015, 
+    "name": "Accu-Chek Expo 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 883777999, 
+    "name": "Accu-Chek Spirit Combo (FR)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 575049002, 
+    "name": "AccuPlan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 554006004, 
+    "name": "ACE Dental World", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 775812603, 
+    "name": "ACEhp AC2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 573144881, 
+    "name": "ACEM 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 809872954, 
+    "name": "ACEmobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 545869485, 
+    "name": "ACEP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 796224049, 
+    "name": "ACESC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 591708797, 
+    "name": "ACF for Junior Doctors", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 490526439, 
+    "name": "ACFI Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 564383952, 
+    "name": "ACG 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 707182910, 
+    "name": "ACG 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 808939986, 
+    "name": "ACGME AEC 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 642024517, 
+    "name": "Achromaster", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 827477108, 
+    "name": "Acid Reflux Symptoms And Remedies", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 570280219, 
+    "name": "Acid-Base Calculator", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 823610949, 
+    "name": "Acil Kan Bankas\u0131", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 813203011, 
+    "name": "Acil Yard\u0131m Aplikasyonu", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 523497389, 
+    "name": "Acil Yard\u0131m Bilgileri", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 903681644, 
+    "name": "ACIN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 531260868, 
+    "name": "ACINR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 670332419, 
+    "name": "ACLS Advisor 2015", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 659104037, 
+    "name": "ACLS Advisor for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 909859624, 
+    "name": "ACLS Emergency AIDS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 654570275, 
+    "name": "ACLS Fast", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 782393002, 
+    "name": "ACLS MegaCodes - AHA Advanced Cardiovascular Life Support", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 710076164, 
+    "name": "ACLS Practice Test", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 514350557, 
+    "name": "ACLS Rhythms - Resuscitation Guidelines & ECG Advisor", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 414601212, 
+    "name": "ACLS+", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 754780889, 
+    "name": "ACLS:Prep", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 788410040, 
+    "name": "ACLSmed", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 728508277, 
+    "name": "ACMG Act Sheets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 614572874, 
+    "name": "Acne Researcher Medipoll", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 742263884, 
+    "name": "ACNP 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 907878581, 
+    "name": "ACO Congress", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 719577735, 
+    "name": "ACO.Connect - Michigan Pioneer ACO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 849774062, 
+    "name": "Acoasso", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 405416599, 
+    "name": "ACOEM Practice Guidelines", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 903763156, 
+    "name": "ACOFANUD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 854795344, 
+    "name": "ACOG2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 871594102, 
+    "name": "ACORN Standards for Perioperative Nursing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 618318388, 
+    "name": "ACP Clinical Guidelines", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 876519009, 
+    "name": "ACP Flashcards: Internal Medicine Board Review", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 503636536, 
+    "name": "ACP Immunization Advisor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 527598093, 
+    "name": "ACR Bulletin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 792670469, 
+    "name": "Acreditaci\u00f3n HT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 652286528, 
+    "name": "Acronym Finder Rheumatology", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 661076976, 
+    "name": "Acronym Finder Rheumatology Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 635176996, 
+    "name": "ACS - Annals of Cardiothoracic Surgery", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 844279954, 
+    "name": "ACS reg UGM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 348462848, 
+    "name": "ACS SSR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 543413190, 
+    "name": "ACS SSR for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 451326968, 
+    "name": "ACS Trials", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 480567696, 
+    "name": "ACS Trials Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 485592512, 
+    "name": "ACSM CPT Exam Review", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 628379189, 
+    "name": "Acta Bio Medica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 616679169, 
+    "name": "Acta Estrabologica 2009-2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 694571140, 
+    "name": "Acta Estrabol\u00f3gica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 722910565, 
+    "name": "Acta M\u00e9dica Portuguesa, propriedade da Ordem dos M\u00e9dicos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 560074111, 
+    "name": "Acta Pedi\u00e1trica Espa\u00f1ola", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 481964671, 
+    "name": "ActaDermVen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 589751336, 
+    "name": "Actioforma KOS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 633402356, 
+    "name": "Activa Hosiery Selector", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 583398113, 
+    "name": "Active Release Techniques", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 523148692, 
+    "name": "Active Stack \u2013 Pharmacology Flash Cards", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 725075115, 
+    "name": "Active4Care", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 725215438, 
+    "name": "Active4CareHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 706714934, 
+    "name": "Actual Care", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 858163421, 
+    "name": "Actualitati Stomatologice Journal by DentalNews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 597379022, 
+    "name": "ActuDouleurs, Revue de Presse sur la Douleur", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 689381187, 
+    "name": "Acuity System Remote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 417733565, 
+    "name": "Acumed", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 404684657, 
+    "name": "AcuPoints", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 404005391, 
+    "name": "Acupoints Location Quiz", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 313000307, 
+    "name": "Acupoints Ultimate \u7a74\u4f4d", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 373778994, 
+    "name": "Acupoints Ultimate \u7a74\u4f4d for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 302900199, 
+    "name": "Acupoints \u7a74\u4f4d", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 878888782, 
+    "name": "Acupuncture Assistant", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 358305063, 
+    "name": "Acupuncture Guidelines", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 802994971, 
+    "name": "Acupuncture Meridians from Thalamic Neuron Theory", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 532963216, 
+    "name": "Acupuncture Point Location Flashcards", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 715572956, 
+    "name": "Acute 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 900379072, 
+    "name": "Acute Care Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 858239030, 
+    "name": "Acute Care Physical Therapy Case Files: NPTE, NPTEA, PTA, FCCPT Prep (McGraw-Hill Medical)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 876673980, 
+    "name": "Acute Chest Pain Score", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 633456227, 
+    "name": "Acute Kidney Injury (AKI)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 611080411, 
+    "name": "Acute Kidney Injury (AKI) App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 689939215, 
+    "name": "Acute Patient", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 630259893, 
+    "name": "Acute Stroke Timer", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 593255588, 
+    "name": "Acutecrew", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 367291934, 
+    "name": "ADA NBDE Part II (National Board Dental Exam)", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 803973205, 
+    "name": "ADA Oral Pathologist", 
+    "price": 59.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 899586663, 
+    "name": "Addiction Medicine Review Crs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 404015735, 
+    "name": "Addictions encyclopedia", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 591840128, 
+    "name": "Addictive Disorders", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 661651271, 
+    "name": "Adem en Eefje", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 441450477, 
+    "name": "Adeslas SegurCaixa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 586572541, 
+    "name": "ADG eMedi", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 591696283, 
+    "name": "ADHA 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 779490911, 
+    "name": "ADHA CLL & Annual Session", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 635654273, 
+    "name": "ADHD Guardian Angel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 579623229, 
+    "name": "ADHD in practice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 471204607, 
+    "name": "ADHD Maze - Find out which Food Additives that can trigger Attention Deficit Hyperactivity Disorder", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 353971353, 
+    "name": "ADHD Psychopharmacology", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 453556462, 
+    "name": "ADHD Quiz", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 668353355, 
+    "name": "ADHD Treatment", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 865487268, 
+    "name": "Adherence Project", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 878273528, 
+    "name": "ADHF/NT-proBNP Risk Score Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 896371149, 
+    "name": "AdhPlus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 594735940, 
+    "name": "Adivina el animal", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 890165159, 
+    "name": "Adi\u00f3s Piojos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 533921131, 
+    "name": "Adjective Remix", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 540578754, 
+    "name": "Adjetivos Remix", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 652618805, 
+    "name": "Administra\u00e7\u00e3o de Medicamentos na Enfermagem \u2013 EnferMed", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 578681691, 
+    "name": "Administra\u00e7\u00e3o em Sa\u00fade", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 568363085, 
+    "name": "ADO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 693966425, 
+    "name": "ADOC-S Making Education Plans Together", 
+    "price": 47.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 542730831, 
+    "name": "ADP AdvancedMD Mobile - Physician Practice Management & Electronic Health Record", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 468498908, 
+    "name": "ADR - RID 2011, materias peligrosas", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 403478954, 
+    "name": "ADR Online", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 665812355, 
+    "name": "ADT \u2013 Aesthetic Dentistry Today", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 733593970, 
+    "name": "Adult Cardiac Surgery Risk", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 426915918, 
+    "name": "Adult Drug Calculations", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 427604749, 
+    "name": "Adult Drug Calculations for iPad", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 780585073, 
+    "name": "Adult EEG: An Interactive Reading Session", 
+    "price": 99.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 319247814, 
+    "name": "Adult Height Predictor", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 346988252, 
+    "name": "Advanced Cardiovascular Life Support (ACLS)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 640759182, 
+    "name": "Advanced Care Chiropractic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 734324776, 
+    "name": "Advanced Chiropractic Injury", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 688833753, 
+    "name": "Advanced Dental Concepts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 348479354, 
+    "name": "Advanced EKG", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 662027213, 
+    "name": "Advanced Emergency Nursing Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 353306821, 
+    "name": "Advanced encyclop\u00e9die fran\u00e7aise du corps humain", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 601462967, 
+    "name": "Advanced Equine Reproductive Ultrasound", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 372828280, 
+    "name": "Advanced First Responder", 
+    "price": 24.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 352364213, 
+    "name": "Advanced Human Body Encyclopedia", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 472301872, 
+    "name": "Advanced Medical (Multiple Choice Test)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 381214258, 
+    "name": "Advanced Medical Calc", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 588722156, 
+    "name": "Advanced Medical Dictionary", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 353368499, 
+    "name": "Advanced Medtech", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 871741048, 
+    "name": "Advanced Molecular Genetics Database Search Tool", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 522408554, 
+    "name": "Advanced Ocular Care", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 825757884, 
+    "name": "Advanced Orthodontic Care", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 670313063, 
+    "name": "Advanced Trauma Life Support 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 340056405, 
+    "name": "Advanced Urology", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 836813885, 
+    "name": "Advanced Veterinary Complex - Baltimore, MD - Highest Quality, Friendly Care!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 885600252, 
+    "name": "Advanced Video Sequences", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 553261999, 
+    "name": "Advances in Neonatal Care (ANC) Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 567160895, 
+    "name": "Advances in Nursing Science", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 552980789, 
+    "name": "Advances in Skin & Wound Care", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 720126608, 
+    "name": "Advancing Pediatrics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 853908779, 
+    "name": "Advantage Conf", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 845136068, 
+    "name": "Advantage Vascular Risk Engine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 736042987, 
+    "name": "Adventskalender \u2013 die App", 
+    "price": 10.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 736043038, 
+    "name": "Adventskalender \u2013 die App, Gratisversion", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 814079312, 
+    "name": "Adverse Childhood Experiences (ACE) Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 485309856, 
+    "name": "AdvisoryNet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 424094430, 
+    "name": "AED Locations", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 664621804, 
+    "name": "AED Registry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 664616066, 
+    "name": "AED Registry HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 541735832, 
+    "name": "AED Remote", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 633103231, 
+    "name": "AED Supervisor", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 502388483, 
+    "name": "AED Trainer", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 661740719, 
+    "name": "AED Trainer App", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 633093865, 
+    "name": "AED Trainer DE", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 361224605, 
+    "name": "AED4.US", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 378304467, 
+    "name": "AED4.US for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 353424217, 
+    "name": "AEDmap", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 481444325, 
+    "name": "Aeir Talk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 683240109, 
+    "name": "AEK Fortbildung", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 498317925, 
+    "name": "AEM Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 499720129, 
+    "name": "AEM Journal for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 521399575, 
+    "name": "AEMT", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 881532614, 
+    "name": "AEMT Review", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 480665288, 
+    "name": "AENEAStest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 891079618, 
+    "name": "Aerni Dental", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 622623130, 
+    "name": "Aerotoxic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 579224572, 
+    "name": "Aesculap\u00ae AS Advanced Surface", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 660229231, 
+    "name": "Aesculap\u00ae Caiman\u00ae", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 495634760, 
+    "name": "Aesculap\u00ae Cardiovascular Instruments", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 593878879, 
+    "name": "Aesculap\u00ae DS Appendectomy-Clip", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 839549305, 
+    "name": "Aesculap\u00ae ENT Instruments", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 559780659, 
+    "name": "Aesculap\u00ae nahdran", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 442787275, 
+    "name": "Aesculap\u00ae Neuroendoscopy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 442788432, 
+    "name": "Aesculap\u00ae Spinal Fracture Management", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 467367119, 
+    "name": "Aesculap\u00ae Spine Cervical", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 467366517, 
+    "name": "Aesculap\u00ae Spine MIS Thoracolumbar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 495633812, 
+    "name": "Aesculap\u00ae Surgical Instruments", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 777234466, 
+    "name": "Aesthetic Allure\u2120", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 487106364, 
+    "name": "Aesthetic Otoplasty", 
+    "price": 79.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 560734989, 
+    "name": "Aesthetic Surgery of the Forehead & Upper Third of the Face", 
+    "price": 79.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 526143009, 
+    "name": "Aethon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 501681293, 
+    "name": "Afa-MICI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 730745927, 
+    "name": "Afasia 2", 
+    "price": 22.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 731629373, 
+    "name": "Afasia 3", 
+    "price": 21.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 731753038, 
+    "name": "Afasia 4", 
+    "price": 21.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 731900367, 
+    "name": "Afasia 5", 
+    "price": 21.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 731900696, 
+    "name": "Afasia 6", 
+    "price": 21.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 779104838, 
+    "name": "Affricates Stops", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 786788902, 
+    "name": "AFHCANmobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 894565061, 
+    "name": "AFHIL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 789759107, 
+    "name": "AFib Lib - Atrial Fibrillation Case Database", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 406477261, 
+    "name": "AFO Ost\u00e9opathie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 428258829, 
+    "name": "AFP By Topic: Editors' Choice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 679069573, 
+    "name": "AFP Photo Quiz", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 399525841, 
+    "name": "African Common Diseases", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 571300394, 
+    "name": "African Journal of Emergency Medicine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 904883148, 
+    "name": "AFRM ASM 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 837634437, 
+    "name": "AfterHours", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 437453914, 
+    "name": "AFUF", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 689942601, 
+    "name": "AGD Impact", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 430169277, 
+    "name": "GestAge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 387639161, 
+    "name": "Age Test Free - Test Your Ear Age!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 601947286, 
+    "name": "AgeCalc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 405199038, 
+    "name": "AgeCalc - A Chronological Age Calculator", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 532566878, 
+    "name": "AgeInWeeks", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 813512568, 
+    "name": "Agenda Pediatrica Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 584352755, 
+    "name": "Agenda Pedi\u00e1trica", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 608285618, 
+    "name": "AgendaMedici - Gestione Agenda Pazienti e Disponibilit\u00e0 Online", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 675057727, 
+    "name": "Ageo-Tox", 
+    "price": 0.0
+  }
+]

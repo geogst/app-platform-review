@@ -1,0 +1,5954 @@
+[
+  {
+    "genre": "Lifestyle", 
+    "id": 481957131, 
+    "name": "Kochmeister Weihnachtsrezepte", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 882437432, 
+    "name": "Kockum Fritid", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 825656285, 
+    "name": "KOCOON SYSTEM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 896648215, 
+    "name": "KOE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 898580802, 
+    "name": "Koh Thai", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 702817729, 
+    "name": "Kokorozashi Daimoku", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 780486317, 
+    "name": "Koku Timer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 433501848, 
+    "name": "Kolhydrathandbok", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 580615153, 
+    "name": "Koll Running", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 577678330, 
+    "name": "Kolor Blindness Tests", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 587797958, 
+    "name": "Kols\u00e5sbakken", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 788393894, 
+    "name": "KOM", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 551327708, 
+    "name": "Kom i form", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 409423722, 
+    "name": "Kommit2it Personal Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 726928063, 
+    "name": "KOMPAN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 459387986, 
+    "name": "KOMPASS Wanderkarte mit LIVE-Tracking", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 373040910, 
+    "name": "Kompendium", 
+    "price": 21.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 563520020, 
+    "name": "Konak Hastanesi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 815788055, 
+    "name": "Kondi Clock", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 469027575, 
+    "name": "Kongfu Bible", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 489838875, 
+    "name": "Kongresse", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 797639711, 
+    "name": "Konnect Pilates Clients Online Scheduler", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 684218988, 
+    "name": "KONTAKT LENS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 425911645, 
+    "name": "ContactLens Timer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 537246020, 
+    "name": "Kontaktlinsen, Pflegemittel und Zubeh\u00f6r", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 867467782, 
+    "name": "Kontes Cosmetic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 535006079, 
+    "name": "Kontur Kosmetik", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 685781370, 
+    "name": "KOOGAAS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 632068041, 
+    "name": "Kool Smiles", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 777311257, 
+    "name": "Koonecta: Busca de Personal Trainer, Fisioterapeuta, SPA, Studio Yoga e Pilates, Academeia, Lutas e ...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 659561773, 
+    "name": "Koordinationstraining", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 635735184, 
+    "name": "Koordinationstraining mit Ringen", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 765137548, 
+    "name": "Kopfschmerz Manager Pro", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 820564881, 
+    "name": "Headache PRO - Migraine Diary - Log headaches and analyze attacks with pie and bar charts, diagrams,...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 642043948, 
+    "name": "Kopfschmerzen Bach-Bl\u00fcten Scheibe", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 461679981, 
+    "name": "Kopfzentrum Leipzig", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 658401430, 
+    "name": "Kor180", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 640397602, 
+    "name": "Korean Food Recipes+", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 731268142, 
+    "name": "Korean Foods", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 828450637, 
+    "name": "Korean Martial Arts Institute", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 888960108, 
+    "name": "KorMedi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 633391366, 
+    "name": "Korpen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 556510595, 
+    "name": "Korpen Vallentuna", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 848419290, 
+    "name": "Kosama Virginia Beach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 896846290, 
+    "name": "Kosciusko Community YMCA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 671601544, 
+    "name": "Kosmetik auf Reisen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 740514334, 
+    "name": "Kosmetikpraxis Thronicke", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 675126037, 
+    "name": "Kosmetikstudio 1plus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 791294240, 
+    "name": "Kosmetikstudio Hautzeiten", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 789395989, 
+    "name": "Kost & Tr\u00e4ning", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 561408054, 
+    "name": "Kostplan - Champions of 2morrow", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 504663939, 
+    "name": "KOT M\u00e9xico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 901313888, 
+    "name": "Kotex \u00d6zel G\u00fcn Takvimi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 392623773, 
+    "name": "Koto Ryu", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 739746696, 
+    "name": "Ko\u015fu Defteri", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 586455704, 
+    "name": "KP HRA/HSA/FSA Balance Tracker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 662902896, 
+    "name": "KPJ Healthcare", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 705376016, 
+    "name": "KPlayer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 477961126, 
+    "name": "Kraamzorg", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 794657423, 
+    "name": "Kraamzorg-App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 558483765, 
+    "name": "KraamzorgApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 507182418, 
+    "name": "Kraftausdauer Training", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 892545701, 
+    "name": "Kraftplatz App", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 752292904, 
+    "name": "Kraken Medication Management", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 905827005, 
+    "name": "Kramerica Trails", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 449859628, 
+    "name": "Krankentransport Management Mobile Client", 
+    "price": 39.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 495959052, 
+    "name": "Krankenversicherung", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 649240387, 
+    "name": "Krankenzusatzversicherung", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 705513357, 
+    "name": "Krav Maga DC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 578166362, 
+    "name": "Krav Maga Self Defence", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 424527249, 
+    "name": "Krav Maga Touch", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 453604367, 
+    "name": "Krav Maga Worldwide, Inc.", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 863953590, 
+    "name": "Krav-Maga Firearms Threat Defence FREE - Military Gun Training Self Defense", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 841187004, 
+    "name": "Krav-Maga Gun Threat Defense PRO - Military Firearms Training Self Preservation & Protection", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 794361300, 
+    "name": "KrebsHILFE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 526030163, 
+    "name": "Kreftlex", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 537028707, 
+    "name": "Kremlin Diet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 537028831, 
+    "name": "Kremlin Diet Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 872720208, 
+    "name": "Krewe Fitness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 864892071, 
+    "name": "Kreyos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 688015113, 
+    "name": "Kris Gethin's 12 Week Trainer", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 693762450, 
+    "name": "Kris Moe Golf", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 663816770, 
+    "name": "Kristine Kay Skincare", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 480679021, 
+    "name": "Kriya Yoga", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 884346653, 
+    "name": "KRKBIKES", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 867741099, 
+    "name": "Krokomierz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 880996752, 
+    "name": "Krokomierz++", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 598066757, 
+    "name": "Kropla Smaku by Oliwier - kuchnia, przepisy, ciekawostki", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 702487888, 
+    "name": "Kropp i Fokus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 558495959, 
+    "name": "KroppKost", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 810310888, 
+    "name": "Kroppsanalyse", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 670615792, 
+    "name": "Kroppsinfo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 412158402, 
+    "name": "KRS-GBT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 706394889, 
+    "name": "Krudar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 867531941, 
+    "name": "Krupp Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 582930686, 
+    "name": "Krupp Medizin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 674194163, 
+    "name": "Kruster\u00b4s Centro de Belleza", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 660829519, 
+    "name": "Krvna Slika", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 382076431, 
+    "name": "Kry Fris\u00f8r", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 670905703, 
+    "name": "Kr\u00e4uter f\u00fcr Gesundheit und Sch\u00f6nheit", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 666842836, 
+    "name": "Kr\u0119\u0107 kilometry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 736546765, 
+    "name": "KS Immunizations", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 708457466, 
+    "name": "KSC Haar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 684670814, 
+    "name": "KSPEN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 583751926, 
+    "name": "KT's Hair & Beauty - Meadowbrook & Greenbank", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 874414978, 
+    "name": "KTG Heidelberg", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 685782468, 
+    "name": "KTS HAIR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 726307322, 
+    "name": "KU Recreation Services", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 743858022, 
+    "name": "KuGar TaeKwonDo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 425361810, 
+    "name": "Kuji-In", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 903165032, 
+    "name": "Kuk Sool Won Of Kadena", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 527454173, 
+    "name": "Kukkiwon Taekwondo Poomsae : Blackbelt's Patterns", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 515217449, 
+    "name": "Kukkiwon Taekwondo Poomsae : Taegeuk Forms", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 693050796, 
+    "name": "Kundalini Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 598238037, 
+    "name": "Kundalini Yoga", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 481763259, 
+    "name": "Kung Fu Lessons 1 - M.A.C. Martial Arts College", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 487015198, 
+    "name": "Kung Fu LITE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 489801976, 
+    "name": "Kung Fu Master Series", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 763391351, 
+    "name": "Kung-Fu for four seasons", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 634272048, 
+    "name": "KUNTO PLUS -lehti", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 560462067, 
+    "name": "KupBon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 806865810, 
+    "name": "Kupony North Fish", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 876622282, 
+    "name": "Kurotel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 474208582, 
+    "name": "Kurpark-Klinik", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 668792982, 
+    "name": "Kurt Osiander & Sean Roberts Seminar - Omoplata and Triangle chokes", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 809479085, 
+    "name": "Kurt Osiander's Move of the Week", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 595205663, 
+    "name": "Kustkliniken", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 871143339, 
+    "name": "Kuwait Neurology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 457810386, 
+    "name": "Kuzey K\u0131br\u0131s Eczaneleri", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 874568088, 
+    "name": "Kwantify.me - Weight meter and tracker", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 346505905, 
+    "name": "Kwanzaa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 570987256, 
+    "name": "KWF Sta op tegen kanker - actie beheren", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 525441365, 
+    "name": "Kwit - quit smoking is a game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 706296081, 
+    "name": "Kwit 2 - quit smoking is game", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 599443262, 
+    "name": "KwitHD - quit smoking is a game", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 613148325, 
+    "name": "KX Pilates", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 767962767, 
+    "name": "KX Yoga", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 555931964, 
+    "name": "Kyalin smart APP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 626719363, 
+    "name": "KyLua", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 739810262, 
+    "name": "Kyoto Bicycle Parking Maps", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 628310818, 
+    "name": "KyoungJuCC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 479270347, 
+    "name": "Kyra Gracie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 391905019, 
+    "name": "Kyusho Healing", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 508767881, 
+    "name": "K\u00e4seliste", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 505493986, 
+    "name": "K\u00e4seweb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 755284885, 
+    "name": "K\u00f6rpermasseindex", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 681213489, 
+    "name": "K\u00fcchenquickies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 481022388, 
+    "name": "K\u00fchlungsborn", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 668446294, 
+    "name": "K\u0131rk Hafta - Hamilelik Rehberi", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 631273368, 
+    "name": "K\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u044c \u0431\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0441\u0442\u0438", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 641394325, 
+    "name": "L-care Members", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 783645030, 
+    "name": "L.A. Care Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 885037475, 
+    "name": "L.A. Dance Academy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 637014869, 
+    "name": "LA's Best Spas", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 535386369, 
+    "name": "La, Lullaby", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 617622211, 
+    "name": "La, Lullaby NoAd", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 612730668, 
+    "name": "LAAAF DPS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 429120292, 
+    "name": "LAAAF Health Services", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 445328530, 
+    "name": "LAAAF Patron Services", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 790112035, 
+    "name": "Lab Klinik Prodia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 486304706, 
+    "name": "Lab Test Navigator Lite \u2013 Lab Test Interpretations and Transfusion Guidelines", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 447858911, 
+    "name": "Lab Tests Online-M", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 393411899, 
+    "name": "Lab Tracker by Health nexxus", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 306569431, 
+    "name": "Lab Unit Converter", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 660212787, 
+    "name": "Lab Values pocketcards", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 455635059, 
+    "name": "Lab2geneMobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 534148075, 
+    "name": "Lab4u", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 884957863, 
+    "name": "Lab4U Plus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 711727182, 
+    "name": "Lab5fitness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 478268596, 
+    "name": "LabAcronyms", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 853550932, 
+    "name": "LABDOM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 383058541, 
+    "name": "LabDx", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 891388259, 
+    "name": "Label Me Lindsay", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 581868923, 
+    "name": "LabFirst Lab Results", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 809129444, 
+    "name": "LabFirst Lab Results 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 469783392, 
+    "name": "Labmed", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 591303428, 
+    "name": "Labor Aid", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 328767197, 
+    "name": "Labour and Contraction Timer", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 522626545, 
+    "name": "Labor Berlin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 885819593, 
+    "name": "Labor Contraction Master App - Free timer to calculate and time your contractions", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 713124901, 
+    "name": "Labor Day - elegant contraction timer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 595311798, 
+    "name": "Labor Fenner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 644155408, 
+    "name": "Labor Koblenz - Onlinebefunde", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 293822973, 
+    "name": "Labor Mate - contraction timer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 492085036, 
+    "name": "Labor Pains Timer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 718115175, 
+    "name": "Labor Risch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 730919452, 
+    "name": "Labor Schenk/Ansorge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 513743095, 
+    "name": "Labor Staber", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 874199880, 
+    "name": "Labor Time", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 423532960, 
+    "name": "Laboratoire Tecknodent", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 798739935, 
+    "name": "Laboratoires Oriade", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 538353404, 
+    "name": "Laboratorio Analysis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 553028544, 
+    "name": "Laboratorios GHK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 405926390, 
+    "name": "Laboratory (LifeNetwork)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 793991194, 
+    "name": "Laborat\u00f3rio Gaspar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 569145378, 
+    "name": "Laborat\u00f3rio S\u00e3o Marcos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 391713913, 
+    "name": "Laborlelet kisokos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 873606460, 
+    "name": "Laborom", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 512960609, 
+    "name": "LaborSystem QC", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 564114207, 
+    "name": "Laborwerte pocket", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 365565215, 
+    "name": "Labs & Formulas", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 897955516, 
+    "name": "LabTime", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 321781256, 
+    "name": "Labyrinth Walk", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 717659134, 
+    "name": "Lace Xclusive", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 865992175, 
+    "name": "LaCLINIQUE\u00ae", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 481406227, 
+    "name": "Lacrosse Essentials", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 662598114, 
+    "name": "Lacrosse Goalie Stats tracker", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 588598170, 
+    "name": "LaCrosse Stats & Player Tracker", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 739500951, 
+    "name": "Lacrosse Training", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 536088465, 
+    "name": "Lacrosse Walls", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 860497632, 
+    "name": "Lactancia Materna - Alimentaci\u00f3n para tu Beb\u00e9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 573869407, 
+    "name": "Lactancia Materna Feliz - Beb\u00e9 Feliz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 657793875, 
+    "name": "Lactancia Materna Feliz-Beb\u00e9 Feliz PRO", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 782659090, 
+    "name": "Lactose Intolerance + Lactose Intolerance Recipes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 564153404, 
+    "name": "Ladder of Doom", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 414209192, 
+    "name": "Ladi Cal (BBT management calendar)", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 483269113, 
+    "name": "Ladi Cal for iPad(BBT management calendar)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 897297075, 
+    "name": "Ladies Fitness & Wellness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 680818368, 
+    "name": "Ladies Health Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 903442081, 
+    "name": "Ladies Video Workout", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 523130366, 
+    "name": "Ladies Workout Express", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533386340, 
+    "name": "Ladies' Ab Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533387717, 
+    "name": "Ladies' Ab Workout FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 554861030, 
+    "name": "Ladies' Ab Workout HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533377158, 
+    "name": "Ladies' Arm Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533378440, 
+    "name": "Ladies' Arm Workout FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 577335981, 
+    "name": "Ladies' Arm Workout HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533334483, 
+    "name": "Ladies' Back Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533361569, 
+    "name": "Ladies' Back Workout FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 577673500, 
+    "name": "Ladies' Back Workout HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533381441, 
+    "name": "Ladies' Butt Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533382551, 
+    "name": "Ladies' Butt Workout FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 552302896, 
+    "name": "Ladies' Butt Workout HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533392220, 
+    "name": "Ladies' Chest Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533392143, 
+    "name": "Ladies' Chest Workout FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 578036583, 
+    "name": "Ladies' Chest Workout HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533393471, 
+    "name": "Ladies' Home Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533393346, 
+    "name": "Ladies' Home Workout FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 578045614, 
+    "name": "Ladies' Home Workout HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533383109, 
+    "name": "Ladies' Leg Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533386430, 
+    "name": "Ladies' Leg Workout FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 578850353, 
+    "name": "Ladies' Leg Workout HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533396007, 
+    "name": "Ladies' Office Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533395996, 
+    "name": "Ladies' Office Workout FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533368124, 
+    "name": "Ladies' Shoulder Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533375492, 
+    "name": "Ladies' Shoulder Workout FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533391554, 
+    "name": "Ladies' Waist Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 533391083, 
+    "name": "Ladies' Waist Workout FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 568355267, 
+    "name": "Ladies' Waist Workout HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 586654955, 
+    "name": "LADR Ihr Labor vor Ort", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 286353094, 
+    "name": "Lady Biz", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 577593391, 
+    "name": "Lady Fit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 622197341, 
+    "name": "Lady Fitness Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 377138800, 
+    "name": "Lady Golfmaster", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 289681212, 
+    "name": "Lady Mate", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 654820869, 
+    "name": "Lady Moving Suresnes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 405505643, 
+    "name": "Lady's Days", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 849933622, 
+    "name": "Ladybug Heart Health", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 827776917, 
+    "name": "LadyFIT by Holger Wienpahl", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 857808216, 
+    "name": "Ladysoft Mi Periodo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 795891041, 
+    "name": "LaediOrtho", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 373273763, 
+    "name": "Lafay Chrono", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 600850228, 
+    "name": "Lafayette Family YMCA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 725300210, 
+    "name": "LaFemme", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 796330692, 
+    "name": "Lower Back Pain App", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 469997836, 
+    "name": "LagTrener", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 859546659, 
+    "name": "LaJolla Periodontics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 513969751, 
+    "name": "Lake Healthy Living Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 513968228, 
+    "name": "Lake Healthy Living Magazine HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 834444896, 
+    "name": "Lake Laser Lasik", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 712685960, 
+    "name": "Lake Nona Impact Forum 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 425669526, 
+    "name": "Lake Pointe Medical Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 515940676, 
+    "name": "Lake Side Dentistry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 521134603, 
+    "name": "Lakebrink Dental", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 787425046, 
+    "name": "Lakeland Family YMCA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 847704060, 
+    "name": "Lakes Fitness 24/7 Gym", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 849039267, 
+    "name": "Lakeshore Sports & Fitness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 833859676, 
+    "name": "Lakeshore Tae Kwon Do, LLC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 777971705, 
+    "name": "Lakeside Fitness Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 514556922, 
+    "name": "Lakeville Dental Associates", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 436748877, 
+    "name": "Lakewood Regional Medical Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 789104279, 
+    "name": "Lakewood Weight Loss & Wellness \"for iPad\"", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 788991396, 
+    "name": "Lakewood Weight Loss & Wellness \"for iPhone\"", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 694140250, 
+    "name": "Laktose-Ampel", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 452368176, 
+    "name": "Laktosefrei", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 548597760, 
+    "name": "LaLa, Lullaby2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 617625226, 
+    "name": "LaLa, Lullaby2 NoAd", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 605374195, 
+    "name": "LaLonde IDA Pharmacy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 663565648, 
+    "name": "Lama di Luna", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 343014171, 
+    "name": "LaMiaDieta", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 783669483, 
+    "name": "Laminine - FRPI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 573501636, 
+    "name": "Lammekalender", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 426023296, 
+    "name": "Light Reveille MP3", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 378450861, 
+    "name": "Lancaster SUN EXPERT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 430301236, 
+    "name": "Lancome UV Expert", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 395214494, 
+    "name": "LANC\u00d4ME SG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 454110150, 
+    "name": "Landolt C Chart HD - Medical eye Diagnostic chart and test", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 432810911, 
+    "name": "LangnerEye", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 580108692, 
+    "name": "Lanista", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 396409100, 
+    "name": "LanternTest", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 594532321, 
+    "name": "Lanza", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 532075688, 
+    "name": "Lanzadera de servicios Osakidetza", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 566009612, 
+    "name": "Laois GAA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 900454739, 
+    "name": "Lap Challenge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 463488153, 
+    "name": "LAP Partials & Totals", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 581875466, 
+    "name": "Lap Runner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 345257158, 
+    "name": "Lap Slapper", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 623233193, 
+    "name": "LapDogs Cycling Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 898002373, 
+    "name": "Lapinha Spa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 534257633, 
+    "name": "Lapka", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 643688346, 
+    "name": "Lapka Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 492292995, 
+    "name": "LapTimer by Random Visual", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 391284642, 
+    "name": "LapTrack", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 393802627, 
+    "name": "LapTrackLite", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 428417642, 
+    "name": "LARK UP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 373971152, 
+    "name": "LAROUSSE du Nouveau n\u00e9", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 486069469, 
+    "name": "Larry Paul", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 838931198, 
+    "name": "Las semanas magicas", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 855446994, 
+    "name": "Las Vegas Bikes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 900566989, 
+    "name": "Las Vegas Bootcamp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 572406064, 
+    "name": "Las Vegas Spas: A Guide to Hotel / Casino Health & Beauty Spas", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 859111184, 
+    "name": "Lasa Sport", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 612498534, 
+    "name": "Laser Aesthetics Body & Wellness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 793571394, 
+    "name": "Laser Dental", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 877949578, 
+    "name": "Laser Dental Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 818849695, 
+    "name": "Laser Lipo House", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 437230078, 
+    "name": "Laser Longchamp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 680678722, 
+    "name": "Laser Med Spa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 540459357, 
+    "name": "Laser News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 734415205, 
+    "name": "Laser Varicose Vein", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 875201737, 
+    "name": "Lasercity - Depilaci\u00f3n laser definitiva al mejor precio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 634966637, 
+    "name": "LaserClinique", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 807333292, 
+    "name": "Last Light", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 807721448, 
+    "name": "Last Light before Sleep", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 669006556, 
+    "name": "LastLonger", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 773586987, 
+    "name": "Latent TB Infection: Guide for Diagnosis and Treatment", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 626158941, 
+    "name": "Latest Health News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 412373234, 
+    "name": "Latin Salsa Dance Workout Fitness App-Denise Druce", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 414610550, 
+    "name": "Latin Salsa Dance Workout for Beginners-Denise Druce", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 338970165, 
+    "name": "LatinDance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 447068629, 
+    "name": "Latino aerobics lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 595944825, 
+    "name": "Lattoflex Remote App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 522316589, 
+    "name": "Lauf-Rechner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 871619894, 
+    "name": "LAUFEN CLEANET INTEGRATED", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 450998964, 
+    "name": "LAUFEN.DE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 885807331, 
+    "name": "Laufkalender App", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 789408891, 
+    "name": "Laufkompass - Laufkalender", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 401478643, 
+    "name": "Laugh Out Loud for Health Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 595995747, 
+    "name": "Laughing  Lotus Yoga Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 894084608, 
+    "name": "Laundy Hall", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 823910031, 
+    "name": "Laura Hern\u00e1ndez True Colon Spa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 895097995, 
+    "name": "Laura Mak Fitness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 894212628, 
+    "name": "Laura Wraps", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 823511829, 
+    "name": "Laura-V", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 448749459, 
+    "name": "Laurel Pharmacy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 583619707, 
+    "name": "Lauze", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 865484219, 
+    "name": "Lauzon Mixed Martial Arts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 596506946, 
+    "name": "Lava Barre", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 297571199, 
+    "name": "LavaLight", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 875903983, 
+    "name": "Lavatory Log - your health partner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 527974159, 
+    "name": "Lavender Harmony Anxiety Release", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 519595201, 
+    "name": "Lavender Harmony Relaxation", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 582663574, 
+    "name": "Laverne DC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 672384927, 
+    "name": "LaVida Massage", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 573853092, 
+    "name": "Lavkarbo Shopping LCM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 493864477, 
+    "name": "LavkarboMat", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 493220899, 
+    "name": "Law Of Attraction Daily Affirmations", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 775731811, 
+    "name": "Lawrence F Jindra, MD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 620080333, 
+    "name": "Lawtons Drugs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 813892058, 
+    "name": "LAXconnect Statistics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 647478732, 
+    "name": "Lazarou Hair Salons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 691178919, 
+    "name": "Laze Period Tracker", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 669313391, 
+    "name": "Lazy Alarm - Your Tap-Once App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 369335509, 
+    "name": "Lazy Diet - the best way to lose weight", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 882240858, 
+    "name": "Lazy Monster: 5 - 7 Minute Workout Trainer", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 866752161, 
+    "name": "LazyEye Exercises", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 762033539, 
+    "name": "Lb to Kg Converter N3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 904328136, 
+    "name": "Lb to Kg Pro Converter  N3", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 535471602, 
+    "name": "LCHF f\u00f6r Kvinnor", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 529811219, 
+    "name": "LCHF recept", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 574374430, 
+    "name": "LCHF Shopping LCM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 406981305, 
+    "name": "LCHF-menyn", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 488110381, 
+    "name": "LCHF-Recept", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 417487832, 
+    "name": "LCHF.", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 542098527, 
+    "name": "LCM Norwegian Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 541899842, 
+    "name": "LCM Swedish Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 597797986, 
+    "name": "LC\u30e9\u30d6\u30c1\u30e3\u30f3\u30cd\u30eb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 515776606, 
+    "name": "LD Forum", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 393802285, 
+    "name": "LDL-C", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 806470996, 
+    "name": "LE BOUDOIR SALON", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 624118028, 
+    "name": "Le Boutiqueur", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 770737897, 
+    "name": "Le Clos des Sources", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 371509876, 
+    "name": "Le erbe medicinali di frate Atanasio", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 799335946, 
+    "name": "Le Figaro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 864026216, 
+    "name": "Le Guide des H\u00f4pitaux et des meilleurs services de pointe de m\u00e9decine en France par Sciences et Aven...", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 569232231, 
+    "name": "Le Guide Sant\u00e9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 905408712, 
+    "name": "Le Klay", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 364603934, 
+    "name": "Le Massage", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 848945517, 
+    "name": "Le P'tit Geste", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 798572269, 
+    "name": "LE QUATTRO ALCHIMIE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 586661745, 
+    "name": "Le questionnaire CANRISK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 571213092, 
+    "name": "Le ricette PerdiPeso", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 417369858, 
+    "name": "A Diet of 3", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 904571674, 
+    "name": "Le Soin de Soie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 883553284, 
+    "name": "Le SOMMEIL", 
+    "price": 21.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 906892619, 
+    "name": "Le SOMMEIL Lite", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 897036515, 
+    "name": "Le SPA Source d'\u00c9quilibre Ch\u00e2tel-Guyon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 482585847, 
+    "name": "Le Vapoteur fran\u00e7ais", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 460378983, 
+    "name": "Le vrai r\u00e9gime nutrition sant\u00e9 par le Pr David Khayat auteur du \"Vrai r\u00e9gime anticancer\"", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 506654945, 
+    "name": "LEA - Die Apotheke zum Mitnehmen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 452241813, 
+    "name": "Lea test chart HD - Medical eye Diagnostic chart and test", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 696661328, 
+    "name": "Lead Me", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 554438137, 
+    "name": "Leading-Edge Wisdom", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 774343343, 
+    "name": "Leaf", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 727405828, 
+    "name": "League Warrior", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 548912996, 
+    "name": "Lean Buddy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 778858895, 
+    "name": "Lean Fit Body +", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 779194906, 
+    "name": "Lean Labs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 454059056, 
+    "name": "Lean Machine - Bodybuilding Calculator", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 689340773, 
+    "name": "Lean4Life", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 879050341, 
+    "name": "LeanGains Log", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 775038661, 
+    "name": "LeanGuide - Fitness for a lean body", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 716213410, 
+    "name": "LeanScreen: Body Fat Analysis from Photos, BMI, BMR, Waist to Hip Ratio", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 580042394, 
+    "name": "Leapfrog Hospital Safety Score", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 456108082, 
+    "name": "Learn Arthritis Prevention", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 894904361, 
+    "name": "Learn Crossfit - The Crossfit Guide", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 345709485, 
+    "name": "Learn Flamenco con Ms Eva Amador & Ms Reina Contreras", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 675926837, 
+    "name": "Learn Golf", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 381426345, 
+    "name": "Learn Her Secrets", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 476479077, 
+    "name": "Learn Hip Hop Dance", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 517718919, 
+    "name": "Learn Hip Hop Dance FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 380922712, 
+    "name": "Learn How To Think Positively by Glenn Harrold", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 741646906, 
+    "name": "Learn Karate: Beginner to Advanced Lessons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 345427933, 
+    "name": "Learn Martial Arts and Self Defense", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 358038040, 
+    "name": "Learn Massage", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 486814124, 
+    "name": "Learn Meditation - Calm down body and mind", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 364894966, 
+    "name": "Learn Muscles : Anatomy Quiz & Reference", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 464276417, 
+    "name": "Learn Real Martial Arts", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 464277453, 
+    "name": "Learn Real Martial Arts HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 469398676, 
+    "name": "Learn Salsa Dancing HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 783677575, 
+    "name": "Learn Salsa, Zumba Workout - Top FREE Fitness Videos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 564754086, 
+    "name": "Learn self-hypnosis with Patrick Browning", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 781501670, 
+    "name": "Learn Step Aerobics Class - Top FREE Fitness Videos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 456425703, 
+    "name": "Learn Stress Prevention", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 670734464, 
+    "name": "Learn Swim", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 388882574, 
+    "name": "Learn Swing, Salsa, & Tango!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 468639102, 
+    "name": "Learn Table Tennis HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 345134748, 
+    "name": "Learn the Art of Male Belly Dancing", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 902955421, 
+    "name": "Learn To Detox Your Body - Ultimate Video Guide", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 350800655, 
+    "name": "Learn to Exude Beauty with Prof McMurphy's Subliminal Techniques", 
+    "price": 39.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 386230518, 
+    "name": "Learn to Meditate - Meditation Without Borders", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 592632623, 
+    "name": "Learn to Meditate 1-5", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 638139128, 
+    "name": "Learn to Meditate 6-10", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 388320553, 
+    "name": "Learn to Meditate: Meditation Without Borders", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 464303484, 
+    "name": "Learn to Pole Dance", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 464308315, 
+    "name": "Learn to Pole Dance HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 487309952, 
+    "name": "Learn to Run", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 814096751, 
+    "name": "Learn to Salsa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 330487706, 
+    "name": "Learn to Self Love", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 593852085, 
+    "name": "Learn Your Ideal Weight", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 380080780, 
+    "name": "Learning Disabilities in Children", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 380247068, 
+    "name": "Learning Disability", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 685784768, 
+    "name": "LEAVE LOOKING GORGEOUS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 554125853, 
+    "name": "Leben mit Asthma", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 547915207, 
+    "name": "Leben mit Bluthochdruck", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 543514004, 
+    "name": "Leben mit Depressionen", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 545230979, 
+    "name": "Leben mit Hashimoto-Thyreoiditis", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 539400530, 
+    "name": "Leben mit Typ-2-Diabetes", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 503567777, 
+    "name": "Leben Retten", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 523504730, 
+    "name": "Life Cockpit", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 489106059, 
+    "name": "Vital question project", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 483938299, 
+    "name": "Lebensfreude", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 496224270, 
+    "name": "LebenskraftWasser", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 463761410, 
+    "name": "Lebensmittel-Ampel & N\u00e4hrwert-Rechner, Ern\u00e4hrung & Kalorien-Test mit BMI-Calculator gegen \u00dcbergewich...", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 560056660, 
+    "name": "Lech Pozna\u0144 Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 665576626, 
+    "name": "LeCharles Bentley O-Line Performance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 340700977, 
+    "name": "Lecker-E", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 589108943, 
+    "name": "Lecz paznokcie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 710472635, 
+    "name": "Lederjacken24", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 765674906, 
+    "name": "LeedsHealth", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 529454286, 
+    "name": "Leesbril App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 618223831, 
+    "name": "Lefay", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 700876437, 
+    "name": "Lefay for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 413248318, 
+    "name": "Left Face / Right Face", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 601078466, 
+    "name": "Leg Exercises - Personal Trainer for Legs Workouts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 573393952, 
+    "name": "Leg Workouts - Shaping Perfect Legs in 12 Days", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 574186337, 
+    "name": "Leg Workouts - Striking A Perfect Lower Body Curve with Leg Workouts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 503717858, 
+    "name": "Leg Workouts Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 503718461, 
+    "name": "Leg Workouts Pro", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 552790013, 
+    "name": "Lega Serie A 2014/15", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 566712634, 
+    "name": "Legacy Dental Arts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 563373731, 
+    "name": "Legacy Karate Academy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 375053631, 
+    "name": "Legally Pumped", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 453392214, 
+    "name": "Legeboken", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 458345574, 
+    "name": "Legeboken pr\u00f8veversjon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 725694614, 
+    "name": "Legends Fitness and Lifestyle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 601140119, 
+    "name": "Doctor - Norway", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 378450540, 
+    "name": "Legit Mirror", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 382028376, 
+    "name": "LegPower Tester", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 646648698, 
+    "name": "Legs - An Ultimate Fitness Training for Strong Legs", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 646649093, 
+    "name": "Legs - Girls' Ultimate Fitness Training for Perfect Legs", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 641929886, 
+    "name": "Legs Drill - The best training coach to get the perfect legs you crave", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 641932802, 
+    "name": "Legs Drill - The best training program to get the perfect legs you crave", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 650741830, 
+    "name": "Legs Fit - Slenderize Your Thighs", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 656483927, 
+    "name": "Legs Guru - The Best Training Coach to Get Hot, HOT Legs", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 656483386, 
+    "name": "Legs Guru \u2013 The Best Training Coach to Kick Up Your Fitness Regime", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 638467272, 
+    "name": "Legs Trainer FREE - Exercise for PINK - Workout Coach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 638461049, 
+    "name": "Legs Trainer Pro - Exercise for PINK - Workout Coach", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 553760002, 
+    "name": "Legs Training Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 615244529, 
+    "name": "Legs Training Workout Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 528247938, 
+    "name": "Legs workout", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 650743163, 
+    "name": "Legs Workout - Chisel Your Legs", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 887893349, 
+    "name": "Legs Workout and Exercises - Fitness for Men and Women", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 529773242, 
+    "name": "Legs Workout Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 838651905, 
+    "name": "Legs, Thighs & Butt: Women's Home Workout Series", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 635809046, 
+    "name": "Leicht & Partner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 635730401, 
+    "name": "Leiden Marathon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 725299232, 
+    "name": "Leigh's Cycle Centre", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 816276252, 
+    "name": "Leinster Domestic Rugby", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 524950755, 
+    "name": "Leinster Elite Golf", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 506014838, 
+    "name": "Leki Refundowane 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 506689016, 
+    "name": "Lekker en Simpel", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 739809519, 
+    "name": "LekkerLeven", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 905600352, 
+    "name": "Lembre do Remedio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 854035754, 
+    "name": "Leme", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 883354685, 
+    "name": "Lemmikin Ensiapusovellus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 351357184, 
+    "name": "Lemon Cures", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 347703609, 
+    "name": "Lemon Detox Diet", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 532509511, 
+    "name": "Lemonade Fit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 885363990, 
+    "name": "Lens Alarmer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 406849669, 
+    "name": "Lens Timer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 573426088, 
+    "name": "Lens Timer free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 582560094, 
+    "name": "Lens Timer+", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 395714926, 
+    "name": "Lens Tracker LE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 388837971, 
+    "name": "Lens Tracker Pro", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 548948880, 
+    "name": "LENSmobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 408186179, 
+    "name": "LensTime", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 613444376, 
+    "name": "Lentes Pratic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 881490138, 
+    "name": "Lentillas y m\u00e1s", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 426128189, 
+    "name": "Contact Lens", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 574117076, 
+    "name": "Lenus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 798534884, 
+    "name": "LENZHeatApp", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 456827099, 
+    "name": "Leprosy and Anthrax", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 845141104, 
+    "name": "Leren mediteren met Bodhi", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 901911440, 
+    "name": "Les Amis - Salon et Spa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 471263967, 
+    "name": "Les Etoiles de Pau", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 556457409, 
+    "name": "Les Fleurs De Bach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 747941494, 
+    "name": "Les Jardins d'Eden", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 566330851, 
+    "name": "Les Joueurs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 660310214, 
+    "name": "Les M\u00e9decins de GDS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 550428991, 
+    "name": "Les M\u00e9mos IRIS ST", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 859253246, 
+    "name": "Les Rituels du Bien-Etre", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 337670059, 
+    "name": "Les secrets des abdos plats", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 500496453, 
+    "name": "Toilets In Pars", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 891033320, 
+    "name": "Lesly Elliott Hair & Beauty", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 590240774, 
+    "name": "LESMILLS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 494934327, 
+    "name": "Less Stress", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 392587529, 
+    "name": "Lessons in Raja Yoga", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 396645095, 
+    "name": "LessSmoking", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 806283175, 
+    "name": "LessStressCompassion", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 806371426, 
+    "name": "LessStressRelax", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 807773933, 
+    "name": "Let It Go - stress reliever", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 550382686, 
+    "name": "Let It Go Yoga", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 740828283, 
+    "name": "Let It Go: Vent and Release", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 592826651, 
+    "name": "Let's Brush Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 828243805, 
+    "name": "Let's Do It!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 455574074, 
+    "name": "Let's Go Fitness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 825333720, 
+    "name": "Let's Go Trip Tracker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 396874560, 
+    "name": "Let's Move It", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 608321686, 
+    "name": "Let's Pullup", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 608312070, 
+    "name": "Let's Pushup", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 502308907, 
+    "name": "Let's Relax Spa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 608328239, 
+    "name": "Let's Run 10K", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 608330218, 
+    "name": "Let's Run 21K", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 608326065, 
+    "name": "Let's Run 5K", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 408347019, 
+    "name": "Let's Salsa Dance Workout App-Denise Druce", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 608318011, 
+    "name": "Let's Situp", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 608320037, 
+    "name": "Let's Squat", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 744019997, 
+    "name": "Let's Talk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 357467394, 
+    "name": "Lets Lose Weight Naturally", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 582600811, 
+    "name": "Lets Quit", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 775621890, 
+    "name": "Lets Relax", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 866593332, 
+    "name": "Lets Walk", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 897010330, 
+    "name": "Lets Walk - track your daily walking activity", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 372763255, 
+    "name": "Lets-Lose-Weight-Naturally", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 717176524, 
+    "name": "LetsFit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 796928097, 
+    "name": "LetsMuv for Pebble", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 406033410, 
+    "name": "LetsTalkHAE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 546369100, 
+    "name": "Level Belt Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 544563176, 
+    "name": "Level Belt Pro", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 828586573, 
+    "name": "Level Salon Studio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 898638961, 
+    "name": "Level+Up - for Home Exercise, Workout and Fitness (Free)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 741606218, 
+    "name": "Level+Up Bodyweight Workout, Exercise and Fitness", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 820870584, 
+    "name": "LevelApp Golf", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 792666323, 
+    "name": "LevelNxt", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 770428380, 
+    "name": "LevelUp Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 572488369, 
+    "name": "LevRosh", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 588846852, 
+    "name": "Lewis Drug Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 426403633, 
+    "name": "Lewis Moody Rugby", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 685784057, 
+    "name": "LEWIS SALON", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 313401238, 
+    "name": "Lexicomp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 411890311, 
+    "name": "Lexikon der Hundekrankheiten", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 415910247, 
+    "name": "Lexikon der Kaninchenkrankheiten", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 415898721, 
+    "name": "Lexikon der Katzenkrankheiten", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 438429232, 
+    "name": "Lezzet: Yemek Tarifleri", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 463838731, 
+    "name": "Lezzet: Yemek Tarifleri!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 502323838, 
+    "name": "LezzetliTarifler", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 610127644, 
+    "name": "LFconnect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 484358265, 
+    "name": "LFD CDA -Loftus Family Dental - GeorgeJ Loftus,DDS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 799159051, 
+    "name": "LG Fitness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 488135383, 
+    "name": "LGHairdressers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 435192927, 
+    "name": "Li9o7etna", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 903837548, 
+    "name": "Liang Xin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 601934254, 
+    "name": "Liangzi Health Oasis Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 840190230, 
+    "name": "Liberos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 506910003, 
+    "name": "Liberty Church Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 498374811, 
+    "name": "LIBERTY Dental Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 640546340, 
+    "name": "Liberty In Health", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 783190919, 
+    "name": "Libre de Humo Globo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 815099880, 
+    "name": "Lib\u00e9rer le stress - La Sophrologie", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 815535612, 
+    "name": "Lib\u00e9rer le stress - lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 493286962, 
+    "name": "Lice Treatment Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 640959883, 
+    "name": "Licznik kalorii", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 616114527, 
+    "name": "LiebesMeditationen", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 440717090, 
+    "name": "Liebherr BioFresh", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 386598926, 
+    "name": "Lieken Urkorn", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 866127937, 
+    "name": "Lierac", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 518309965, 
+    "name": "Lierac Solari", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 908328302, 
+    "name": "Lierdal Sportcenter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 807479826, 
+    "name": "Life & Coaching - Mind Your Performance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 899981570, 
+    "name": "Life Adapted Fitness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 788663885, 
+    "name": "Life Balance 4 Ever", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 536006657, 
+    "name": "Life Balance Matrix Tool", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 771802067, 
+    "name": "Life Balance Matrix Tool FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 810739492, 
+    "name": "Life Beyond Fear", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 333184736, 
+    "name": "Life Biorhythm", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 877472112, 
+    "name": "Life Biorhythms", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 694939116, 
+    "name": "Life Champ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 453536778, 
+    "name": "Life Change The App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 600540189, 
+    "name": "Life Church Rome", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 395110391, 
+    "name": "Life Coach - 99 Tips to Increase Quality of Life", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 580691787, 
+    "name": "Life Cycles Lowestoft", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 307487527, 
+    "name": "Life Decisions : Make your decision !", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 689605769, 
+    "name": "Life Drop!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 616822662, 
+    "name": "Life Fitness Catalog", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 626264311, 
+    "name": "Life Guidance and Inspiration", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 698672271, 
+    "name": "Life Habits", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 310558960, 
+    "name": "Life Helper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 312174130, 
+    "name": "Life Helper Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 881774360, 
+    "name": "Life Hypnosis - Audios to help create positive change in every aspect of your life.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 624518356, 
+    "name": "Life Hypnosis - Sleep Better, Help Weight Loss, Improve Relaxation & Future Life", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 719075526, 
+    "name": "Life in the Womb: a stunning visual guide to pregnancy", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 612415389, 
+    "name": "Life Index and chronological age", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 451124242, 
+    "name": "Life Lens", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 689938109, 
+    "name": "Life Mag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 537646545, 
+    "name": "Life Mood", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 666066532, 
+    "name": "Life Note", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 555280331, 
+    "name": "Life plus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 806808954, 
+    "name": "Life Preserver Diet Food Tracking App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 835825918, 
+    "name": "Life Quotes.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 606277662, 
+    "name": "Life Safety Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 613156574, 
+    "name": "Life Source Yoga & Health", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 492565159, 
+    "name": "Life Stamp", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 573992550, 
+    "name": "LIFE STAR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 482425173, 
+    "name": "Life Stress Test", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 618149351, 
+    "name": "Life Style Sneek", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 658343138, 
+    "name": "Life-Style", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 561874136, 
+    "name": "Life Support For Nurses", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 585210920, 
+    "name": "Life Tracker Plus", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 906367392, 
+    "name": "Life Village", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 397804624, 
+    "name": "Life+Health Network TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 850233966, 
+    "name": "LIFE_NOTES", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 690018404, 
+    "name": "LifeApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 499648341, 
+    "name": "LifeArmor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 877532374, 
+    "name": "LifeBalanz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 725323014, 
+    "name": "LifeBio Studio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 567766796, 
+    "name": "Lifebooker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 598724911, 
+    "name": "LifeBridge ICE Plus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 463145031, 
+    "name": "LifeCalcEx", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 640486436, 
+    "name": "LifeCard Health Record", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 636838259, 
+    "name": "Lifecard: Protect Life And Children Safety with Easy Location Sharing", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 666180141, 
+    "name": "Lifecare 1stAvailable", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 838064541, 
+    "name": "LifeCare Dental", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 796394906, 
+    "name": "LifeCircle+", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 585151982, 
+    "name": "LifeClock120", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 874528695, 
+    "name": "Lifecrafting App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 767913107, 
+    "name": "Lifeey", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 569850247, 
+    "name": "Lifeline 360", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 504337870, 
+    "name": "Lifeline Ambulance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 687281279, 
+    "name": "Lifeline Rescue", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 507041321, 
+    "name": "Lifelog by Decogirl", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 507339165, 
+    "name": "Lifelog by Decogirl Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 787175513, 
+    "name": "Lifenergy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 367352835, 
+    "name": "Lifeography", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 732034267, 
+    "name": "LifePark Max Ingolstadt", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 652965535, 
+    "name": "LifeRank", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 396821607, 
+    "name": "LifeRhythm", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 347678360, 
+    "name": "Lifesaver Int", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 633568035, 
+    "name": "Lifesaver for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 365008197, 
+    "name": "Lifesaver Lite", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 633999639, 
+    "name": "Lifesaver Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 365009316, 
+    "name": "Lifesaver Submit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Catalogs", 
+    "id": 853115651, 
+    "name": "Lifesavers Direct", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 462801122, 
+    "name": "Lifescale Client", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 578711750, 
+    "name": "LifeScope", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 879373795, 
+    "name": "Lifesense International", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 579885991, 
+    "name": "LifeSpace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 351155731, 
+    "name": "LifeSpan Calc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 293195248, 
+    "name": "Lifespan Calculator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 658341283, 
+    "name": "Lifestyle\"", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 481829191, 
+    "name": "LifeStyle and Risk Factors 2.0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 767547212, 
+    "name": "Lifestyle Center Laarbeek", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 619728916, 
+    "name": "LIFESTYLE COACH", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 687629702, 
+    "name": "Lifestyle Ladies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 493079874, 
+    "name": "LifeStyle Rx", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 410700882, 
+    "name": "Lifestyle Solutions", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 784902566, 
+    "name": "LifestyleGym Fitplan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 286906691, 
+    "name": "Lifesum \u2013 Lifestyle tracker & Calorie Counter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 814446299, 
+    "name": "Lifetime Bikes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 363445099, 
+    "name": "Lifetime Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 541076100, 
+    "name": "LifeTimesTALK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 813543165, 
+    "name": "LifeTrak", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 806815962, 
+    "name": "LifeWeather", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 883743677, 
+    "name": "LifeWorks of Southwest General", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 690356324, 
+    "name": "Lifezone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 891676062, 
+    "name": "Liffey Valley Fitness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 530911645, 
+    "name": "Lift - Your Daily Coach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 649404769, 
+    "name": "LIFT Fitness and Wellness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 868290982, 
+    "name": "Lift Heavy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 590229429, 
+    "name": "Lift Pulse", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 862828183, 
+    "name": "LIFT Session", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 580997554, 
+    "name": "Lift Stride", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 468239094, 
+    "name": "Lift Tickets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 628313436, 
+    "name": "Lift Tracker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 640381760, 
+    "name": "Lifter - Weightlifting & Fitness App for the Gym", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 886871149, 
+    "name": "Lifter's Toolbox", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 633455632, 
+    "name": "Lifting Calculator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 445680892, 
+    "name": "Lifting Calculators", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 828812637, 
+    "name": "Lifting-Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 703438994, 
+    "name": "Liftium - Workout Tracker for Weight Lifting and Strength Training", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 739095084, 
+    "name": "Liftness- we make you beautiful.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 665445505, 
+    "name": "LiftRep", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 604485044, 
+    "name": "Liftz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 844586976, 
+    "name": "Liga", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 554598177, 
+    "name": "La Liga 2014/15", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 868775755, 
+    "name": "Liga Depaulo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 542373612, 
+    "name": "Liga MVD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 683391867, 
+    "name": "Liga Valentin Softball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 583301733, 
+    "name": "Light and Well Being", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 371938689, 
+    "name": "Light Body Meditation with Deepak Chopra", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 420929143, 
+    "name": "Light Detector", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 711587616, 
+    "name": "Light Health", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 355561319, 
+    "name": "Light the App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 399514379, 
+    "name": "Light Therapy Associated - Chromo & Light Therapy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 834482157, 
+    "name": "Light Timer [visual LED/screen timer]", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 377227011, 
+    "name": "Light-The Healing Power of Light, Captured in Ambient Music for Relaxed Listening-Alex Theory", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 391282403, 
+    "name": "Lighted Magnifier for iPhone 4/4S and iPod touch 4G", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 491875689, 
+    "name": "Lighter Steps Calorie Counter", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 505985913, 
+    "name": "LighterLife Weight Tracker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 597660651, 
+    "name": "LightRx", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 658649417, 
+    "name": "Lights Out Time", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 595862313, 
+    "name": "LightStim", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 890823652, 
+    "name": "LightWeight!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 399386127, 
+    "name": "Ligne en Ligne", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 785438097, 
+    "name": "Ligne et Beaut\u00e9 Institut", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 570426631, 
+    "name": "Lijfblad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 882529998, 
+    "name": "LIJFSTIJL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 840378898, 
+    "name": "Like A Pro - Gym workouts & exercises by IFBB Pro Bodybuilder Jeff Long", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 420624554, 
+    "name": "Like a Pro Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 870178537, 
+    "name": "Like A Pro Free - Gym workouts & exercises by IFBB Pro Bodybuilder Jeff Long", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 668420791, 
+    "name": "Like a Pro Professional", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 420622198, 
+    "name": "Like a Pro Standard", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 594812290, 
+    "name": "Like2Run", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 607950467, 
+    "name": "LikeMyHeart: El Camino Hospital's South Asian Heart Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 416581132, 
+    "name": "Lil Kicks - Kick Counter", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 873058139, 
+    "name": "Lilibulle Institut", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 843405594, 
+    "name": "Lilicom", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 903886302, 
+    "name": "Lilivap Cigarette Electronique", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 621459315, 
+    "name": "Lilleb\u00e6lt Halvmarathon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 597081791, 
+    "name": "Lily Cal (Period Tracker and Cycle Diary)", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 400529549, 
+    "name": "Lily Pro - Your Personal Fertility Tracker and Ovulation Calculator", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 480603250, 
+    "name": "Lim Dongchang - Piano Solo 1", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 496840549, 
+    "name": "Lim Dongchang - Piano Solo 3", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 494806520, 
+    "name": "Lim Dongchang - Piano Solo2", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 635617814, 
+    "name": "Limb Analysis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 470485612, 
+    "name": "Limbs by Dr. Becker", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 551339999, 
+    "name": "Limit Game Time Now!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 904890415, 
+    "name": "Limited Timer ++", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 803840737, 
+    "name": "Linde Virtual Cryo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 739688760, 
+    "name": "Linde Virtual Hospital", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 471392134, 
+    "name": "Lindsey's Pharmacy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 671475534, 
+    "name": "Line Diet Weight Tracker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 710660890, 
+    "name": "LineaCentro APP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 646012066, 
+    "name": "LineayFigura", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 367319611, 
+    "name": "Lines Sempre con Te", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 609061488, 
+    "name": "LingBu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 477040601, 
+    "name": "Linha de Chegada.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 512176286, 
+    "name": "Linline", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 718838769, 
+    "name": "LinQ Concierge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 719008308, 
+    "name": "Lintzford GC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 370463967, 
+    "name": "Lion's Run 30 Second Workout", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 706696902, 
+    "name": "LipCare", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 892381227, 
+    "name": "Lipides et MCV", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 881780934, 
+    "name": "Lipizzanerheimatlauf App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 520597535, 
+    "name": "Lipo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 726536676, 
+    "name": "LipoNOW", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 423516661, 
+    "name": "Liposuction", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 503497176, 
+    "name": "Liquid Calories", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 457090050, 
+    "name": "Liquid MMA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 331095938, 
+    "name": "Liquid Zen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 469579538, 
+    "name": "Liquor Diary - Management of an evening drink", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 469585037, 
+    "name": "Liquor Diary - Management of an evening drink Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 628032957, 
+    "name": "Lisa Magazin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 624551234, 
+    "name": "Lisa UA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 846787903, 
+    "name": "Liscia la Vita", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 855478883, 
+    "name": "Lisopresol", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 638814695, 
+    "name": "LISSFACTOR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 582695150, 
+    "name": "List of Eye Diseases", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 589010280, 
+    "name": "List of Eye Diseases II", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 597414912, 
+    "name": "List of Skin diseases", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 836886180, 
+    "name": "Lista de Compras | La coste\u00f1a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 465884569, 
+    "name": "Listen At It", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 659409858, 
+    "name": "Listen To My Real Voice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 734232707, 
+    "name": "Listening Gym Partner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 329900429, 
+    "name": "ListenWell", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 652218269, 
+    "name": "Lite - Aphasie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 393038731, 
+    "name": "Lite - Music Healing | Babies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 336565572, 
+    "name": "Lite Weight", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 675777371, 
+    "name": "Lithe Method", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 791091054, 
+    "name": "Little Bit Of Cake", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 385519596, 
+    "name": "Little Idea", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 423650997, 
+    "name": "Little League\u00ae Card Maker", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 359782739, 
+    "name": "Little Miracle Pill Cures Alcohol Addiction", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 554494840, 
+    "name": "Little One", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 722233199, 
+    "name": "Little Physio DE", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 736060697, 
+    "name": "Little Physio ENG", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 736083306, 
+    "name": "Little Physio ESP", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 736083679, 
+    "name": "Little Physio FRA", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 736099116, 
+    "name": "Little Physio ITA", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 736073366, 
+    "name": "Little Physio TRK", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 704776410, 
+    "name": "Little Viper Alert", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 455135155, 
+    "name": "Little Yoga Studio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 738259823, 
+    "name": "LittleBit", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 687203255, 
+    "name": "LittleSteps", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 420845767, 
+    "name": "Liu Zi Jue", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 716827056, 
+    "name": "Liv App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 606115629, 
+    "name": "LIV FITNESS CLUBS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 541024060, 
+    "name": "Liv med Kr\u00e6ft", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 399837915, 
+    "name": "LiVe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 442402731, 
+    "name": "Live Blood Alcohol Calculator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 455700427, 
+    "name": "Live Blood Alcohol Calculator - Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 591663151, 
+    "name": "Live Calories Pro- Calorie counter", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 597932679, 
+    "name": "Live Calories- Calorie Counter.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 334009974, 
+    "name": "Live Chinese Medicine \u4e2d\u836f\u56fe\u89e3 (\u7b80\u7e41\u7248)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 605030101, 
+    "name": "Live Fit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 818684191, 
+    "name": "Live Fit - Green smoothie recipes and saying of the day for an active lifestyle, fast weight control...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 359060404, 
+    "name": "Live Forever", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 631883096, 
+    "name": "Live Great - Health & Wellness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 317887266, 
+    "name": "Live Happy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 584039962, 
+    "name": "Live healthy - Calorie counter PRO", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 903872421, 
+    "name": "Live It Fit Now!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 855695884, 
+    "name": "Live it Up!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 843716637, 
+    "name": "Live Life Smarter Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 688865284, 
+    "name": "Live Love Flow Yoga + Cycle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 509337840, 
+    "name": "Live OCD Free", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 541340389, 
+    "name": "Live Organic Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 427997030, 
+    "name": "Live To Tell About It", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 895347496, 
+    "name": "Live Weather Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 895118174, 
+    "name": "Live WeatherPro EveryWhere", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 650754874, 
+    "name": "Live Well", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 899314903, 
+    "name": "Live Well Chiropractic of Davie, FL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 651485490, 
+    "name": "Live Your Purpose App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 684847075, 
+    "name": "Live-Well", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 591769224, 
+    "name": "Live100", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 773103740, 
+    "name": "Live4all Chat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 720156695, 
+    "name": "Live4all Session", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 431292290, 
+    "name": "Live_Cycle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 651512074, 
+    "name": "LiveCPR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 407471916, 
+    "name": "LiveCycling", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 319042363, 
+    "name": "Lived Days", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 554623004, 
+    "name": "LiveHealthier", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 533006757, 
+    "name": "LiveLonger", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 727837688, 
+    "name": "Lively & LivelyGram -- Activity and photo sharing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 662865115, 
+    "name": "Lively Silver", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 477721653, 
+    "name": "Liver and Pancreas 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 421329001, 
+    "name": "Liver Calc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 901455284, 
+    "name": "Liver Health - Hepatitis C", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 675496467, 
+    "name": "Liver Health Test App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 387731703, 
+    "name": "LiverGuide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 372209233, 
+    "name": "LiveRider", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 513735367, 
+    "name": "LiveRite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 694084129, 
+    "name": "Livermore Dentist", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 383122255, 
+    "name": "LIVESTRONG MyQuit Coach - Dare to Quit Smoking", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 465250751, 
+    "name": "LiveTraining", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 735205103, 
+    "name": "LiveWell at The Centre", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 726829658, 
+    "name": "Livewell Lancaster", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 551382280, 
+    "name": "LiveWell Richmond", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 875541055, 
+    "name": "LiveWELL Training Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 544498633, 
+    "name": "LiveWello", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 557705547, 
+    "name": "Livin La Vida Low Carb", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 690344810, 
+    "name": "Living Amped WOD Deck", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 879162246, 
+    "name": "Living App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 703986459, 
+    "name": "Living Health Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 718067329, 
+    "name": "Living Health Revolution - Your Greatest Wealth is Health", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 521436203, 
+    "name": "Living Healthy", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 727632835, 
+    "name": "Living in Love", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 586749822, 
+    "name": "Living in the Light by Shakti Gawain (with Audio)", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 409127906, 
+    "name": "Living Lighter", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 662444430, 
+    "name": "Living Mantra Premium", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 336931147, 
+    "name": "Living Out of Darkness", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 664433174, 
+    "name": "Living the Dream Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 549571043, 
+    "name": "Living the Liberated Life and Dealing with the Pain-Body", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 768905897, 
+    "name": "Living To 100 Life Expectancy Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 400646196, 
+    "name": "Living Well With Arthritis", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 399990980, 
+    "name": "Living Well With Asthma", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 400645762, 
+    "name": "Living Well With Blood Pressure", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 401632506, 
+    "name": "Living Well with Chronic Conditions", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 401855658, 
+    "name": "Living Well With Chronic Fatigue Syndrome", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 400653543, 
+    "name": "Living well with color Blindness", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 401612400, 
+    "name": "Living well with Diabetes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 401627796, 
+    "name": "Living Well With Graves\u2019 Disease", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 401615871, 
+    "name": "Living well with Hypothyroidism", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 401860780, 
+    "name": "Living Well with Insomnia", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 401135562, 
+    "name": "Living Well With Migraine", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 872901093, 
+    "name": "Living Well \u2013 Supporting Men\u2019s Well-being", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 764268886, 
+    "name": "Living With and Beyond Cancer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 402163130, 
+    "name": "Living with Epilepsy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 386496358, 
+    "name": "Living Zen", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 607186800, 
+    "name": "Livingston HealthCare", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 449678146, 
+    "name": "Livonia Dental Care", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 435838717, 
+    "name": "Livonia Dental Group", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 350130134, 
+    "name": "Livro de receitas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 867414022, 
+    "name": "LIvsApp'tit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 839351230, 
+    "name": "Liz M.\u2019s Pole Dancing for Beginners", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 376174635, 
+    "name": "Liza Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 425631211, 
+    "name": "Liza Plus", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 523723817, 
+    "name": "Lizard's Mouth Bouldering Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 791412411, 
+    "name": "LL 2014 3-in-1 Rulebooks", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 791411714, 
+    "name": "LL 2014 Baseball RuleBook", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 791411402, 
+    "name": "LL 2014 Challenger Rulebook", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 791415892, 
+    "name": "LL 2014 Softball RuleBook", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 666743316, 
+    "name": "LleidaSalut", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 543430689, 
+    "name": "LLLC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 702871219, 
+    "name": "LloydsApotheke", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 860701113, 
+    "name": "LLScoreKeeper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 432319737, 
+    "name": "LMDE Nutrition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 734933015, 
+    "name": "LMen Guidance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 568589865, 
+    "name": "LNHShowcase", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 809658267, 
+    "name": "Lo Scoglio di Cristallo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 456364951, 
+    "name": "Lobster Remote Control", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 601020875, 
+    "name": "Lobster Ultimate Remote Control", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 436692521, 
+    "name": "Local & Fresh US", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 603478634, 
+    "name": "Local Authority Child Health Profiles for England 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 510426908, 
+    "name": "Local Barre", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 533634369, 
+    "name": "Local Life Locator Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 892391325, 
+    "name": "Localizador de Dentistas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 519245258, 
+    "name": "LocalSqr", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 328733576, 
+    "name": "LocFinder", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 348147746, 
+    "name": "Locker Number", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 334551869, 
+    "name": "LockGenie", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 504502156, 
+    "name": "Lockton BenefitLink", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 537144570, 
+    "name": "LOCOMO \u904b\u52d5\u8a18\u9304", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 896254847, 
+    "name": "LocusPlan Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 496989010, 
+    "name": "Lodispoto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 395145060, 
+    "name": "Loeberute.dk", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 867768158, 
+    "name": "Log for 25 Day Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 688162086, 
+    "name": "Log for 25 Minute Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 677364994, 
+    "name": "Log for Insane Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 820391548, 
+    "name": "Log for Insanity Workout HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 792732290, 
+    "name": "Log For P90X3 Workout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 356847531, 
+    "name": "Log90", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 901378743, 
+    "name": "Logan Dentist", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 848347293, 
+    "name": "Logansport Parks & Recreation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 641084340, 
+    "name": "Logbuch Air", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 398879753, 
+    "name": "LogFrog DB - A Leap in Diabetes Management", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 426898297, 
+    "name": "LogFrog DB Lite - A Leap in Diabetes Management", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 633986881, 
+    "name": "Logga H\u00e4lsan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 440992353, 
+    "name": "Logger!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 803317594, 
+    "name": "Loggr - Graph Your Life", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 350379712, 
+    "name": "Logicmax", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 508592637, 
+    "name": "LogicView", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 508573331, 
+    "name": "LogicView Lab Results", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 669416899, 
+    "name": "Logipace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 513718134, 
+    "name": "LogMyRun", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 642202361, 
+    "name": "LogMyTraining", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 371111663, 
+    "name": "LogMyTraining Pro", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 654829444, 
+    "name": "LOGO Fitness", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 444664002, 
+    "name": "Logs All - Track Anything", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 587608557, 
+    "name": "Logster - log anything!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 715394151, 
+    "name": "Logwatch", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 814860633, 
+    "name": "LogYourRun", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 458335222, 
+    "name": "Lohengrin Therme Bayreuth", 
+    "price": 0.0
+  }
+]

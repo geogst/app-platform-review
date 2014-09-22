@@ -1,0 +1,6002 @@
+[
+  {
+    "genre": "Education", 
+    "id": 620301246, 
+    "name": "\u00ab\u041e\u0442 \u0410 \u0434\u043e \u042f\u00bb - \u0438\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0447\u0430\u044f \u0442\u0435\u0442\u0440\u0430\u0434\u044c.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 725428325, 
+    "name": "\u00ab\u041e\u0442 \u0410 \u0434\u043e \u042f\u00bb - \u0438\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0447\u0430\u044f \u0442\u0435\u0442\u0440\u0430\u0434\u044c. 33 \u0431\u0443\u043a\u0432\u044b", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 904220825, 
+    "name": "\u00ab\u0421\u043e\u044e\u0437\u043c\u0443\u043b\u044c\u0442\u0444\u0438\u043b\u044c\u043c\u00bb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 878551528, 
+    "name": "\u00ab\u06be\u0627\u064a\u0627\u062a \u0646\u06c7\u0631\u0649 : \u0626\u06c7\u064a\u063a\u06c7\u0631\u0686\u06d5 \u00ab\u0645\u06c7\u0642\u06d5\u062f\u062f\u06d5\u0633 \u0643\u0649\u062a\u0627\u0628\u00bb: \u00ab\u062a\u06d5\u06cb\u0631\u0627\u062a\u00bb \u060c \u00ab\u0632\u06d5\u0628\u06c7\u0631\u00bb \u060c \u00ab\u0626\u0649\u0646\u062c\u0649\u0644 - Hayatnuri", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 474414184, 
+    "name": "Where's Granny Annie?", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 406486573, 
+    "name": "\u00bfPor qu\u00e9 se huelen los perros?", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 647989503, 
+    "name": "\u00bfQu\u00e9 Leo?", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 654806757, 
+    "name": "\u00bfQu\u00e9 Leo? LITE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 409598126, 
+    "name": "\u00bfQu\u00e9 Significa Ser Joven?", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 816324918, 
+    "name": "\u00bfSabias Que? - Respuestas y Curiosidades para Ni\u00f1os", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 401801863, 
+    "name": "\u00bfY M\u00e9xico Por Qu\u00e9 No?", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 386233455, 
+    "name": "\u00bfY M\u00e9xico Por Qu\u00e9 No? HD", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 485224195, 
+    "name": "\u0661\u0660\u0660 \u0645\u0639\u0644\u0648\u0645\u0629 \u062c\u063a\u0631\u0627\u0641\u064a\u0629", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 485697732, 
+    "name": "\u0661\u0660\u0660 \u0645\u0639\u0644\u0648\u0645\u0629 \u062d\u0628", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 485695548, 
+    "name": "\u0661\u0660\u0660 \u0645\u0639\u0644\u0648\u0645\u0629 \u0631\u064a\u0627\u0636\u064a\u0629", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 486595469, 
+    "name": "\u0661\u0660\u0660 \u0645\u0639\u0644\u0648\u0645\u0629 \u063a\u0631\u064a\u0628\u0629 \u0662", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 648252057, 
+    "name": "\u0661\u0664\u0660 \u062a\u063a\u0631\u064a\u062f\u0629", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 491609064, 
+    "name": "\u0661\u0665\u0660 \u0637\u0631\u064a\u0642\u0629 \u0644\u0628\u0631 \u0623\u0645\u0643", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 373218643, 
+    "name": "\u0661\u0665\u0660 \u0645\u0646 \u0627\u062c\u0645\u0644 \u0645\u0627 \u0642\u064a\u0644 \u0639\u0646", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 572407133, 
+    "name": "\u0662\u0660\u0660 \u0633\u0624\u0627\u0644 \u0641\u064a \u0627\u0644\u0639\u0642\u064a\u062f\u0629", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 373217256, 
+    "name": "\u0662\u0660\u0660\u0660 \u0627\u062c\u0645\u0644 \u0645\u0627 \u0642\u064a\u0644 \u0639\u0646", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 529036365, 
+    "name": "\u0662\u0668 \u062d\u0631\u0641", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 654634392, 
+    "name": "\u0663\u0660 \u062e\u0637\u0648\u0629 \u0641\u064a \u0634\u0639\u0628\u0627\u0646 \u0644\u0644\u0625\u0633\u062a\u0639\u062f\u0627\u062f \u0644\u0634\u0647\u0631 \u0631\u0645\u0636\u0627\u0646", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 485725326, 
+    "name": "\u0665\u0660 \u0645\u0639\u0644\u0648\u0645\u0629 \u0639\u0646 \u0627\u0644\u0631\u0633\u0648\u0644 \u0635", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 652759702, 
+    "name": "\u0669\u0669 \u0645\u0639\u0644\u0648\u0645\u0629 \u0639\u0646 \u0627\u0644\u0635\u0644\u0627\u0629", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 358216323, 
+    "name": "\u200e\u05d0\u05d7\u05d3 \u05d4\u05e2\u05dd \u202b-\u202c \u05e2\u05dc \u05e4\u05e8\u05e9\u05ea \u05d3\u05e8\u05db\u05d9\u05dd (Hebrew audiobook - At the Crossroads by Ahad Haam)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 363857235, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 - \u05d1\u05e8\u05d0\u05e9\u05d9\u05ea (Hebrew audiobook - Genesis)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 349631935, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 - \u05e4\u05d9\u05d8\u05e8 \u05e4\u05df (hebrew audiobook Peter Pan by James M. Barrie)", 
+    "price": 10.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 410380615, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d0\u05dc\u05db\u05e1\u05e0\u05d3\u05e8 \u05d3\u05d9\u05d5\u05de\u05d0 \u2013 \u05d4\u05e8\u05d5\u05d6\u05df \u05de\u05de\u05d5\u05e0\u05d8\u05d4 \u05db\u05e8\u05d9\u05e1\u05d8\u05d5(Hebrew audiobook \u2013 The Count of Monte Cristo by Ale...", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353957396, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d3\"\u05e8 \u05d9\u05d5\u05e1\u05d9 \u05d1\u05df \u05d8\u05d5\u05dc\u05d9\u05dc\u05d4 - \u05d0\u05d1\u05e8\u05d4\u05dd \u05dc\u05d9\u05e0\u05e7\u05d5\u05dc\u05df (Hebrew audiobook \u2013 Abraham Lincoln by Dr. Yossi Ben...", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353949721, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d3\"\u05e8 \u05d9\u05d5\u05e1\u05d9 \u05d1\u05df \u05d8\u05d5\u05dc\u05d9\u05dc\u05d4 - \u05d2'\u05d5\u05d6\u05e4\u05d4 \u05d2\u05e8\u05d9\u05d1\u05dc\u05d3\u05d9 (Hebrew audiobook \u2013 Giuseppe Garibaldi by Dr. Yossi...", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353950680, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d3\"\u05e8 \u05d9\u05d5\u05e1\u05d9 \u05d1\u05df \u05d8\u05d5\u05dc\u05d9\u05dc\u05d4 - \u05d4\u05d9\u05d9\u05e0\u05e8\u05d9\u05da \u05d4\u05d9\u05d9\u05e0\u05d4 (Hebrew audiobook \u2013 Heinrich Heine by Dr. Yossi Ben ...", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353959868, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d3\"\u05e8 \u05d9\u05d5\u05e1\u05d9 \u05d1\u05df \u05d8\u05d5\u05dc\u05d9\u05dc\u05d4 - \u05d4\u05e8\u05de\u05d1\"\u05dd (Hebrew audiobook \u2013 Rambam by Dr. Yossi Ben Tolila)", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353948301, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d3\"\u05e8 \u05d9\u05d5\u05e1\u05d9 \u05d1\u05df \u05d8\u05d5\u05dc\u05d9\u05dc\u05d4 - \u05d6\u05d9\u05d2\u05de\u05d5\u05e0\u05d3 \u05e4\u05e8\u05d5\u05d9\u05d3 (Hebrew audiobook \u2013 Sigmund Freud by Dr. Yossi Ben T...", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353963998, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d3\"\u05e8 \u05d9\u05d5\u05e1\u05d9 \u05d1\u05df \u05d8\u05d5\u05dc\u05d9\u05dc\u05d4 - \u05d7\u05d5\u05ea\u05dd \u05d4\u05e8\u05e6\u05d0\u05d5\u05ea \u05d0\u05d9\u05db\u05d5\u05ea (Hebrew audiobook \u2013 Hotam Lectures by Dr. Yossi ...", 
+    "price": 33.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353958471, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d3\"\u05e8 \u05d9\u05d5\u05e1\u05d9 \u05d1\u05df \u05d8\u05d5\u05dc\u05d9\u05dc\u05d4 - \u05de\u05d0\u05d5 \u05e6\u05d4 \u05d8\u05d5\u05e0\u05d2 (Hebrew audiobook \u2013 Mao Zedong by Dr. Yossi Ben Tolila...", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 374192110, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d3\u05d9\u05e0\u05d4 \u05d5\u05d5\u05dc\u05d5\u05da - \u05de\u05e9\u05d7\u05e7 \u05d4\u05de\u05d7\u05e9\u05d1 \u05e9\u05dc \u05d9\u05d5\u05d1\u05dc (Hebrew audiobook \u2013 Yuval's Computer Game by Dina Wollo...", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 437815070, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d3\u05e4\u05e0\u05d4 \u05dc\u05d1 \u2013 \u05e8\u05d6\u05d9\u05dd \u05dc\u05d7\u05d9\u05d9\u05dd \u05d1\u05e8\u05d9\u05d0\u05d9\u05dd", 
+    "price": 32.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 375925257, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d4\u05d2\u05e8 \u05d0\u05de\u05d9\u05e8 \u05d1\u05d5\u05e8\u05e7\u05de\u05df - \u05d8\u05d9\u05d5\u05dc \u05d1\u05e9\u05d1\u05d9\u05dc\u05d9 \u05d4\u05e6\u05d1\u05e2 (Hebrew audiobook \u2013  A Journey Through The Pathways ...", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 397716032, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d6'\u05d5\u05dc \u05d5\u05d5\u05e8\u05df \u2013 \u05e1\u05d1\u05d9\u05d1 \u05d4\u05e2\u05d5\u05dc\u05dd \u05d1\u05e9\u05de\u05d5\u05e0\u05d9\u05dd \u05d9\u05d5\u05dd (Hebrew audiobook \u2013 Around The World In Eighty Days ...", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 351574349, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d7\u05de\u05d3\u05d4 \u05d2\u05d9\u05dc\u05d4 \u202b-\u202c \u05d1\u05d9\u05ea \u05e1\u05e4\u05e8 \u05dc\u05d7\u05ea\u05d5\u05dc\u05d9\u05dd \u05de\u05ea\u05d7\u05d9\u05dc\u05d9\u05dd (Hebrew audiobook - Cats School by Hemda Gila)", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 351604940, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d7\u05de\u05d3\u05d4 \u05d2\u05d9\u05dc\u05d4 \u202b-\u202c \u05d2\u05d9\u05dc \u05d4\u05e1\u05e7\u05e8\u05df (Hebrew audiobook - Curious Gil by Hemda Gila)", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 351608736, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05d7\u05de\u05d3\u05d4 \u05d2\u05d9\u05dc\u05d4 \u202b-\u202c \u05db\u05e9\u05d2\u05d9\u05dc \u05db\u05d5\u05e2\u05e1 (Hebrew audiobook - When Gil Angry by Hemda Gila)", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 410060484, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05dc\u05d5\u05d0\u05d9\u05d6\u05d4 \u05de\u05d9\u05d9 \u05d0\u05dc\u05e7\u05d5\u05d8 \u2013 \u05e0\u05e9\u05d9\u05dd \u05e7\u05d8\u05e0\u05d5\u05ea(Hebrew audiobook \u2013 Little Woman by Louisa May Alcott)", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 351650084, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05dc\u05d9\u05d0\u05ea \u05d3\u05d9\u05db\u05d8\u05e8 \u202b-\u202c \u05db\u05e8\u05de\u05d9\u05dd \u05e9\u05d1\u05dc\u05d1 (Hebrew audiobook - Vineyard in the Heart by Liat Dichter)", 
+    "price": 13.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 402389333, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05de\u05d9\u05db\u05dc \u05de\u05d9\u05e8\u05d5\u05df - \u05de\u05d9\u05dd \u05e8\u05d0\u05e9\u05d5\u05e0\u05d9\u05dd (Hebrew audiobook \u2013 First Water by Michal Miron)", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 400859362, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05de\u05d9\u05db\u05dc \u05de\u05d9\u05e8\u05d5\u05df \u202b-\u202c \u05d4\u05ea\u05e7\u05e8\u05d1\u05d5\u05ea (Hebrew audiobook \u2013 Intimacy by Michal Miron)", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 387431019, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05de\u05d9\u05e8\u05d4 \u05de\u05d2\u05df - \u05d5\u05d5\u05d3\u05e7\u05d4 \u05d5\u05dc\u05d7\u05dd (Hebrew audiobook - Vodka and Bread by Mira Magen)", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 401531848, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e0\u05d5\u05e2\u05d4 \u05e8\u05d5\u05dd - \u05db\u05de\u05d4 \u05e9\u05d0\u05ea \u05e0\u05d4\u05d3\u05e8\u05ea (Hebrew audiobook \u2013 See How Gorgeous You Are by Noa Rom)", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 380157379, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e0\u05d5\u05e2\u05d4 \u05e8\u05d5\u05dd \u2013 \u05e2\u05d3 \u05d4\u05d1\u05ea \u05de\u05e6\u05d5\u05d5\u05d4 \u05d6\u05d4 \u05d9\u05e2\u05d1\u05d5\u05e8 (Hebrew audiobook \u2013 Everything will be great until the...", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 354110056, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e0\u05d5\u05e8\u05d9\u05ea \u05d6\u05e8\u05d7\u05d9 - \u05d4\u05d9\u05dc\u05d3\u05d4 \u05e8\u05d5\u05d1\u05d9\u05df \u05d4\u05d5\u05d3 (Hebrew audiobook \u2013 The Girl Robin Hood by Nurit Zarhi)", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 354108756, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e0\u05d5\u05e8\u05d9\u05ea \u05d6\u05e8\u05d7\u05d9 - \u05d9\u05dc\u05d3\u05ea \u05d7\u05d5\u05e5 (Hebrew audiobook \u2013 Outsider by Nurit Zarhi)", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 354109134, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e0\u05d5\u05e8\u05d9\u05ea \u05d6\u05e8\u05d7\u05d9 - \u05dc\u05d4\u05ea\u05e8\u05d0\u05d5\u05ea \u05d1\u05d0\u05e0\u05d8\u05d0\u05e8\u05e7\u05d8\u05d9\u05e7\u05d4 (Hebrew audiobook \u2013 See You at the South Pole by Nurit...", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 372345524, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e0\u05d5\u05e8\u05d9\u05ea \u05d6\u05e8\u05d7\u05d9 - \u05de\u05d9 \u05de\u05db\u05d9\u05e8 \u05d0\u05ea \u05ea\u05e0\u05d9\u05e0\u05d4 (Hebrew audiobook \u2013 Tanina by Nurit Zarhi)", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 351826886, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e0\u05d9\u05dc\u05d9 \u05d3\u05d2\u05df \u202b-\u202c \u05d1\u05db\u05dc \u05d0\u05d3\u05dd \u05d9\u05e9 \u05d0\u05e8\u05d1\u05e2\u05d4 \u05d1\u05e0\u05d9\u05dd (Hebrew audiobook - Cats School by Hemda Gila)", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 362348127, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e0\u05e2\u05de\u05d9 \u05e8\u202b.\u202c \u05e2\u05d6\u05e8 \u2013 \u05d4\u05e7\u05e8\u05de\u05e4\u05de\u05e4\u05d5\u05dc\u05d9\u05dd (Hebrew audiobook \u2013 Hakrampampulim by Naomi R. Azar)", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353474821, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e1\u05de\u05d3\u05e8 \u05e9\u05d9\u05e8 \u2013 \u05d2\u05d1\u05e8 \u05e9\u05dc\u05da (Hebrew audiobook - I am Your Man by Smadar Shir)", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353429423, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e1\u05de\u05d3\u05e8 \u05e9\u05d9\u05e8 \u2013 \u05d2\u05d9\u05d1\u05d5\u05e8\u05d4 \u05d1\u05de\u05d9\u05dc\u05d9\u05dd (Hebrew audiobook - Fragile Heroine by Smadar Shir)", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353481349, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e1\u05de\u05d3\u05e8 \u05e9\u05d9\u05e8 \u2013 \u05d4\u05e2\u05e9\u05d9\u05e8\u05d9 (Hebrew audiobook \u2013 The Tenth by Smadar Shir)", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353481139, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e1\u05de\u05d3\u05e8 \u05e9\u05d9\u05e8 \u2013 \u05de\u05d5\u05e8\u05d4 \u05de\u05d7\u05dc\u05d9\u05e4\u05d4 (Hebrew audiobook - Substitute Teacher by Smadar Shir)", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353480800, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e1\u05de\u05d3\u05e8 \u05e9\u05d9\u05e8 \u2013 \u05e0\u05d9\u05d1\u05e8 (Hebrew audiobook - Nibar by Smadar Shir)", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 380472379, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e2\u05d3\u05d9\u05ea \u05e8\u05d5\u05e0\u05df-\u05e1\u05ea\u05e8 \u2013 \u05de\u05ea\u05df \u05d4\u05e1\u05e7\u05e8\u05df \u05de\u05d2\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e2\u05d5\u05dc\u05dd (Hebrew audiobook \u2013 Matan the Curious One Disco...", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 410008003, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e2\u05de\u05dc\u05d9\u05d4 \u05d0\u05e8\u05d2\u05de\u05df-\u05d1\u05e8\u05e0\u05e2 \u202b-\u202c \u05e2\u05d3\u05d9 \u05d0\u05d1\u05d0 \u05d5\u05d0\u05e8\u05d1\u05e2\u05d9\u05dd \u05de\u05d5\u05e6\u05e6\u05d9\u05dd (Hebrew audiobook \u2013 Dummies For Daddy by Am...", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 410004992, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e2\u05de\u05dc\u05d9\u05d4 \u05d0\u05e8\u05d2\u05de\u05df-\u05d1\u05e8\u05e0\u05e2 \u202b-\u202c \u05e9\u05e8\u05e7 \u05dc\u05d0 \u05ea\u05e8\u05d3\u05de\u05d5 \u05dc\u05d9 \u05d1\u05d0\u05de\u05e6\u05e2 \u05d4\u05e9\u05e0\u05d4 (Hebrew audiobook \u2013 Tom Alone by Amalia...", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 421504264, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e4\u05e0\u05d9\u05e0\u05d4 \u05e4\u05e8\u05e0\u05e7\u05dc \u202b-\u202c \u05d0\u05d5\u05e1\u05e3 \u05e1\u05d9\u05e4\u05d5\u05e8\u05d9 \u05d9\u05dc\u05d3\u05d9\u05dd ...", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353495834, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e6\u05d1\u05d9\u05e7\u05d4 \u05e2\u05de\u05d9\u05ea \u2013 \u05d0\u05d9\u05e9\u05d4 \u05e0\u05e9\u05d5\u05d0\u05d4 (Hebrew audiobook \u2013 Married Woman by Zvika Amit)", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 351822812, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e7\u05dc\u05e8\u05d4 \u05e1\u05e1\u05e4\u05d5\u05e8\u05d8\u05e1 \u202b-\u202c \u05e1\u05e4\u05d5\u05e8\u05d9 \u05e2\u05dc\u05d9\u05dd (Hebrew audiobook - Stories about Leaves by Clara Sasportas...", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353419427, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e8\u05d5\u05d6\u05d4 \u05e9\u05d9\u05e4\u05e8\u05e1 - \u05e1\u05d5\u05d3 \u05e9\u05dc\u05d5\u05e9\u05ea \u05d4\u05d1\u05e7\u05d1\u05d5\u05e7\u05d5\u05e0\u05d9\u05dd (Hebrew audiobook - The Secret of the Three Little Bo...", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 402054544, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e8\u05d5\u05ea\u05d9 \u05d5\u05d9\u05d8\u05dc \u05d2\u05d9\u05dc\u05e2\u05d3 - \u05d0\u05d5\u05e8\u05d9 \u05d5\u05d0\u05d1\u05df \u05d4\u05d9\u05dd (Hebrew audiobook \u2013 Uri And The Sea Stone by Ruthie Vit...", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353418765, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e8\u05d9\u05de\u05d5\u05e0\u05d9\u05dd - \u05e1\u05d9\u05e4\u05d5\u05e8\u05d9\u05dd \u05dc\u05d9\u05dc\u05d3\u05d9\u05dd (Hebrew audiobook - Pomegranate Stories Collection)", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353708264, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e8\u05dd \u05d0\u05d5\u05e8\u05df \u202b-\u202c \u05d0\u05d7\u05d5\u05ea \u05e7\u05d8\u05e0\u05d4 (Hebrew audiobook - Little Sister by Ram Oren)", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 352736070, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e8\u05dd \u05d0\u05d5\u05e8\u05df \u202b-\u202c \u05d9\u05de\u05d9\u05dd \u05d0\u05d3\u05d5\u05de\u05d9\u05dd (Hebrew audiobook - Red Days by Ram Oren)", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 351684897, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e8\u05dd \u05d0\u05d5\u05e8\u05df \u202b-\u202c \u05e8\u05de\u05d8\u05db\"\u05dc (Hebrew audiobook - Chief of Staff by Ram Oren)", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353421303, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e9\u05d5\u05dc\u05de\u05d9\u05ea \u05dc\u05e4\u05d9\u05d3 \u2013 \u05d2\u05d9\u05d0 \u05d0\u05d5\u05e0\u05d9 (Hebrew audiobook - Gai Oni by Shulamit Lapid)", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 401104803, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e9\u05dc\u05d5\u05de\u05d9 \u05e4\u05e8\u05d9 \u2013 \u05d4\u05db\u05d9 \u05d0\u05d7\u05d9\u05dd (Hebrew audiobook \u2013 Brothers, Sisters And All The Rest by Shlomi P...", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 377356323, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u05de\u05d0\u05ea \u05e9\u05e8\u05d4 \u05de\u05d5\u05e0\u05d8\u05d4 - \u05d3\u05de\u05d9\u05d5\u05df \u05de\u05d5\u05d3\u05e8\u05da \u05dc\u05d2\u05d9\u05dc \u05d4\u05e8\u05da (Hebrew audiobook - Visualizing For Early Childhood by...", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 349885938, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05d0\u05d2\u05d3\u05d5\u05ea \u05d0\u05e0\u05d3\u05e8\u05e1\u05df (Hebrew audiobook - Fairy Tales by Hans Christian Andersen)", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350133814, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05d0\u05e6\u05d1\u05e2\u05d5\u05e0\u05d9\u05ea (Hebrew audiobook - Little Tiny or Thumbelina by Hans Christian Andersen)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350190280, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05d1\u05d2\u05d3\u05d9 \u05d4\u05de\u05dc\u05da \u05d4\u05d7\u05d3\u05e9\u05d9\u05dd (Hebrew audiobook - The Emperor's New Suit by Hans Christian Andersen)", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350567911, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05d1\u05e8\u05d1\u05d5\u05e8\u05d9 \u05d4\u05e4\u05e8\u05d0 (Hebrew audiobook - The Wild Swan by Hans Christian Andersen)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350573781, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05d1\u05e8\u05e7\u202b?\u202c (Hebrew audiobook - \"Barak ?\" by Barak Sagi)", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350544354, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05d1\u05ea \u05d4\u05d9\u05dd \u05d4\u05e7\u05d8\u05e0\u05d4 (Hebrew audiobook - The Little Mermaid by Hans Christian Andersen)", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350565040, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05d4\u05d1\u05e8\u05d5\u05d6\u05d5\u05df \u05d4\u05de\u05db\u05d5\u05e2\u05e8 (Hebrew audiobook - The Ugly Duckling by Hans Christian Andersen)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350547544, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05d4\u05d6\u05de\u05d9\u05e8 (Hebrew audiobook - The Nightingale by Hans Christian Andersen)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350551135, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05d4\u05e0\u05e1\u05d9\u05db\u05d4 \u05d5\u05d4\u05d0\u05e4\u05d5\u05e0\u05d4 (Hebrew audiobook - The Princess On The Pea by Hans Christian Andersen)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350555570, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05d4\u05e8\u05d5\u05e2\u05d4 \u05d4\u05e7\u05d8\u05e0\u05d4 \u05d5\u05de\u05e0\u05e7\u05d4 \u05d4\u05d0\u05e8\u05d5\u05d1\u05d5\u05ea (Hebrew audiobook - The Shepherdess And The Chimney by Hans C...", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350196205, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05d4\u05ea\u05d9\u05d1\u05d4 \u05d4\u05de\u05e2\u05d5\u05e4\u05e4\u05ea (Hebrew audiobook - The Flying Trunk by Hans Christian Andersen)", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350139090, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05d7\u05d9\u05dc \u05d4\u05d1\u05d3\u05d9\u05dc \u05d0\u05de\u05d9\u05e5 \u05d4\u05dc\u05d1 (Hebrew audiobook - The Brave Tin Soldier by Hans Christian Andersen...", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350130562, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05de\u05d5\u05db\u05e8\u05ea \u05d4\u05d2\u05e4\u05e8\u05d5\u05e8\u05d9\u05dd \u05d4\u05e7\u05d8\u05e0\u05d4 (Hebrew audiobook - Little Match Seller by Hans Christian Andersen...", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 350558958, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05de\u05dc\u05db\u05ea \u05d4\u05e9\u05dc\u05d2 (Hebrew audiobook - The Snow Queen by Hans Christian Andersen)", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 349917263, 
+    "name": "\u200e\u05e1\u05e4\u05e8 \u05e9\u05de\u05e2 \u202b-\u202c \u05e4\u05e8\u05d7\u05d9\u05d4 \u05e9\u05dc \u05d0\u05d9\u05d3\u05d4 \u05d4\u05e7\u05d8\u05e0\u05d4 (Hebrew audiobook - Little Ida's Flowers by Hans Christian Andersen...", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381934223, 
+    "name": "\u200e\u0627\u0644\u0623\u0633\u064a\u0631\u0647 \u0627\u0644\u0631\u0648\u0645\u064a\u0647", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381939707, 
+    "name": "\u200e\u0627\u0644\u0625\u0645\u0627\u0645 \u0627\u0644\u0634\u0627\u0647\u062f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381941260, 
+    "name": "\u200e\u0627\u0644\u0625\u0645\u0627\u0645 \u0627\u0644\u063a\u0627\u0626\u0628", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381942467, 
+    "name": "\u200e\u0627\u0644\u0625\u0645\u0627\u0645 \u0627\u0644\u0645\u0647\u062f\u064a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381943140, 
+    "name": "\u200e\u0627\u0644\u0625\u0646\u062a\u0638\u0627\u0631", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 383055496, 
+    "name": "\u200e\u0627\u0644\u0628\u062d\u062b \u0639\u0646 \u0627\u0644\u062f\u0644\u064a\u0644", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381953832, 
+    "name": "\u200e\u0627\u0644\u0634\u0648\u0642 \u0625\u0644\u0649 \u0627\u0644\u0625\u0645\u0627\u0645", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381955641, 
+    "name": "\u200e\u0627\u0644\u0634\u064a\u062e \u0627\u0644\u0635\u062f\u0648\u0642", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 383061230, 
+    "name": "\u200e\u0627\u0644\u0637\u0631\u064a\u0642 \u0625\u0644\u0649 \u0643\u0631\u0628\u0644\u0627\u0621", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381956515, 
+    "name": "\u200e\u0627\u0644\u0645\u0647\u062f\u064a \u0648\u0627\u0644\u0623\u0646\u0628\u064a\u0627\u0621", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381958893, 
+    "name": "\u200e\u0627\u0644\u0648\u0632\u064a\u0631\u0629 \u0648\u0631\u0645\u0627\u0646\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0646", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381968646, 
+    "name": "\u200e\u0628\u0634\u0631 \u0627\u0644\u0646\u062e\u0627\u0633", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381969101, 
+    "name": "\u200e\u062d\u062c\u0629 \u0627\u0644\u0644\u0647", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381969787, 
+    "name": "\u200e\u062e\u0644\u064a\u0641\u0629 \u0627\u0644\u0644\u0647", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 448560763, 
+    "name": "\u200e\u0633\u0646\u062f\u0628\u0627\u062f HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381970074, 
+    "name": "\u200e\u0634\u0645\u0633 \u062e\u0644\u0641 \u0627\u0644\u0633\u062d\u0627\u0628", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381970388, 
+    "name": "\u200e\u0645\u0627\u0631\u064a\u0629 \u0648\u0646\u0633\u064a\u0645", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381970530, 
+    "name": "\u200e\u0645\u0627\u0647\u0648 \u0627\u0644\u0625\u0646\u062a\u0638\u0627\u0631", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381970739, 
+    "name": "\u200e\u0648\u0627\u062c\u0628\u0627\u062a \u0627\u0644\u0645\u0646\u062a\u0638\u0631\u064a\u0646", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381970972, 
+    "name": "\u200e\u0648\u0627\u0636\u0639 \u0627\u0644\u062d\u062c\u0631 \u0627\u0644\u0627\u0633\u0648\u062f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 495463100, 
+    "name": "\u201cA village of the Amis\u201d photographs by Hiroshi Hara", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 426906479, 
+    "name": "\u201cGood-by Chinatown\u201d Photographs by Hiroshi Hara", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 440215920, 
+    "name": "\u201cJapan Air power\u201d The Ultimate Fan Guide", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 580787470, 
+    "name": "\u201cKidztory Treasury\u201d \u2013 Record-and-share children's stories", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 415805645, 
+    "name": "\u201cOne second\u201d lesson of English conversation by a pattern", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 365046932, 
+    "name": "\u201cWhat Do You Care What Other People Think?\u201d (by Richard P. Feynman) (UNABRIDGED AUDIOBOOK) : Blackst...", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 507386502, 
+    "name": "\u201c\u30e2\u30c6\u306a\u304c\u3089\u6210\u529f\u3059\u308b\u201d\u30b7\u30f3\u30d7\u30eb\u306a\u7fd2\u6163", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 395488665, 
+    "name": "\u201c\u4e0d\u4e00\u6a23\u201d\u65e5\u6587\u7528\u8a9e\u6a5f Japanese Family Phrase Speaker", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 532832570, 
+    "name": "\u201c\u53e3\u4e0b\u624b\u3067\u3082\u201d \u4eba\u306b\u597d\u304b\u308c\u308b\u4f1a\u8a71\u8853", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 532832075, 
+    "name": "\u201c\u53e3\u4e0b\u624b\u3067\u3082\u201d \u4eba\u306b\u597d\u304b\u308c\u308b\u8a71\u3057\u65b9", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 567397617, 
+    "name": "\u201c\u53e3\u4e0b\u624b\u3067\u3082\u201d \u4eba\u306b\u597d\u304b\u308c\u308b\u8a71\u3057\u65b9\u3010iPad\u7248\u3011", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 599455320, 
+    "name": "Milly, Molly and Melonkey (\u201c\u5fe7\u4f24\u201d\u7684\u5c0f\u6bdb\u9a74)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 590351293, 
+    "name": "\u201c\u6211\u8bfb\u5566\u201d\u82f1\u8bed\u5b66\u4e60\u5e73\u53f0", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 459931505, 
+    "name": "\u201c\u6211\u8bfb\u5566\u201d\u82f1\u8bed\u5b66\u4e60\u5e73\u53f0Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 575102480, 
+    "name": "\u201c\u6700\u5f37\u306e\u201d\u300c\u4eee\u8aac\u300d\u304b\u3089\u6b63\u89e3\u3092\u5c0e\u304f\u65b9\u6cd5\u3010\u4eee\u8aac\u601d\u8003\u2462\u3011", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 573767587, 
+    "name": "\u201c\u6700\u5f37\u306e\u201d\u300c\u4eee\u8aac\u300d\u3092\u7acb\u3066\u308b\u6280\u8853\u3010\u4eee\u8aac\u601d\u8003\u2461\u3011", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 573765570, 
+    "name": "\u201c\u6700\u5f37\u306e\u201d\u4eee\u8aac\u601d\u8003\u306e\u8003\u3048\u65b9\u3010\u4eee\u8aac\u601d\u8003\u2460\u3011", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 562159520, 
+    "name": "\u201c\u6700\u5f37\u306e\u201d\u4fe1\u983c\u95a2\u4fc2\u306e\u7bc9\u304d\u65b9\u3010\u30b3\u30fc\u30c1\u30f3\u30b0\u2460\u3011", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 564761253, 
+    "name": "\u201c\u6700\u5f37\u306e\u201d\u76f8\u624b\u306e\u8a71\u3092\u805e\u304f\u6280\u8853\u3010\u30b3\u30fc\u30c1\u30f3\u30b0\u2461\u3011", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 566473632, 
+    "name": "\u201c\u6700\u5f37\u306e\u201d\u8cea\u554f\u3059\u308b\u6280\u8853\u3010\u30b3\u30fc\u30c1\u30f3\u30b0\u2462\u3011", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 594416234, 
+    "name": "\u201c\u6c17\u3065\u304d\u201d\u306e\u604b\u611b\u5fc3\u7406\u5b66", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 357037753, 
+    "name": "\u201c\u864e\u5e74\u7cfb\u5217\u201d\u5e74\u753b-\u6731\u6839\u534e\uff0810\u526f\uff09", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 594415920, 
+    "name": "\u201c\u8a98\u3044\u4e0a\u624b\u201d\u306b\u306a\u308c\u308b\u672c", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 595579452, 
+    "name": "\u201c\ud1b0\uacfc \uc81c\ub9ac\u201d\ub97c \ub6f0\uc5b4\ub118\ub294 \uc219\uba85\uc758 \ub77c\uc774\ubc8c \u201c\ud53c\uc26c\uc640 \uce69\uc2a4\u201d~!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 757671988, 
+    "name": "\u201d\u672c\u5f53\u306e\u81ea\u5206\u201d\u304c\u4f1d\u308f\u308b\u300c\u805e\u304d\u65b9\u300d\u300c\u8a00\u3044\u65b9\u300d33\u306e\u30ec\u30c3\u30b9\u30f3", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 610337416, 
+    "name": "\u2022 The Nightingale \u2013 Hans Christian Anderson Interactive Book App for Kids", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 536931128, 
+    "name": "\u2022El Duende Saltar\u00edn", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 512235714, 
+    "name": "\u202b\u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0645\u0633\u0644\u0645\u202c", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 364600235, 
+    "name": "\u222bIntegrals", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 357406506, 
+    "name": "\u222bIntegrals - PDF", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 452201598, 
+    "name": "\u25c0Phonics Monster 1\u25b6 Single Letters", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 452207207, 
+    "name": "\u25c0Phonics Monster 2\u25b6 Short Vowels", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 452207442, 
+    "name": "\u25c0Phonics Monster 3\u25b6 Long Vowels", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 452208698, 
+    "name": "\u25c0Phonics Monster 4\u25b6 Consonants & vowels", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 605650430, 
+    "name": "\u25c6\u7121\u6599\u25c6\u79d8\u871c\u306e\u672c\u68da\uff5e\u5927\u4eba\u306e\u672c\u5c4b\u3055\u3093", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 483672783, 
+    "name": "\u25cb\u25cb\u3060\u3051\u3069\u8cea\u554f\u3042\u308b\uff1f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 591573465, 
+    "name": "\u25fd\u3010\u6709\u58f0\u3011\u82cf\u6587\u8302\u76f8\u58f0\u5927\u5168", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 591572964, 
+    "name": "\u25fd\u3010\u6709\u58f0\u3011\u9a6c\u5b63\u76f8\u58f0\u5168\u6536\u5f55  \u76f8\u58f0\u5927\u5e08", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 577359533, 
+    "name": "\u25fd\u4e09\u5341\u516d\u8ba1\u3010\u6709\u58f0\u6717\u8bfb\u3001\u5b57\u5e55\u540c\u6b65\u3011\u4e2d\u534e\u6c11\u65cf\u60a0\u4e45\u6587\u5316\u9057\u4ea7", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 577358297, 
+    "name": "\u25fd\u4e86\u51e1\u56db\u8bad\u3010\u6709\u58f0 \u5b57\u5e55\u540c\u6b65\u3011\u79cd\u5fb7\u7acb\u547d\u3001\u4fee\u8eab\u6cbb\u4e16\u7c7b\u6559\u80b2\u4e66\u7c4d", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 577359489, 
+    "name": "\u25fd\u7b20\u7fc1\u5bf9\u97f5\u3010\u6709\u58f0\u3001\u5b57\u5e55\u540c\u6b65\u3011\u8bed\u6587\u3001\u4f5c\u6587\u5fc5\u5907\u7ecf\u5178\uff0c\u4e2d\u8003 \u9ad8\u8003\u5fc5\u5907\u6cd5\u5b9d", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 575538766, 
+    "name": "\u25fd\u8003\u7814\u82f1\u8bed\u5199\u4f5c\u53e5\u578b\u638c\u4e2d\u5b9d\u3010\u6709\u58f0\u5b57\u5e55\u540c\u6b65\u3011\u5e2e\u60a8\u8fc5\u901f\u641e\u5b9a\u8003\u7814\u4f5c\u6587\uff01", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 439623736, 
+    "name": "\u2605 Best Apps \u2605", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 438139130, 
+    "name": "\u2605\u2605 Baseball Quotes \u2605\u2605", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 390294056, 
+    "name": "\u2620 English \u2620", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 337538099, 
+    "name": "\u300a15000+\u6b47\u540e\u8bed\u5927\u5168\u300b\u7b80\u4f53", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 516894940, 
+    "name": "\u300a20\u51e0\u5c81\u4e00\u5b9a\u8981\u61c2\u70b9\u7ecf\u6d4e\u5b66\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 507910870, 
+    "name": "\u300a20\u51e0\u5c81\uff0c\u5973\u4eba\u8981\u61c2\u5f97\u768466\u4ef6\u4e8b\u300b\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 681668222, 
+    "name": "\u300a21\u4e16\u7eaa\u8425\u9500\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412413189, 
+    "name": "\u300a32d\u300b01\u671f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 349084489, 
+    "name": "\u300a3600\u6761\u8111\u7b4b\u6025\u8f6c\u5f2f\u300b\u7b80\u4f53", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412390327, 
+    "name": "\u300a84KM\u300b\u7b2c17\u671f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 525684159, 
+    "name": "\u300aAPPER2\u4eba\u6027\u904a\u6232\u300b\u5b64\u6ce3\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 458058211, 
+    "name": "\u300aAPPER\u4eba\u6027\u904a\u6232\u300b\u5b64\u6ce3\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 693958151, 
+    "name": "\u300aCHINA HOY\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 599533889, 
+    "name": "\u300ae\u5b78\u6b66\u6797\u300b\u6559\u80b2\u7cfb\u5217 - \u4e2d\u6587\u6d3e\u5165\u9580\u7bc7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 606190356, 
+    "name": "\u300ae\u5b78\u6b66\u6797\u300b\u6559\u80b2\u7cfb\u5217\u4e94\u884c\u6210\u8a9e\u528d\u6cd5\u91d1\u5b57\u7bc7", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 887742023, 
+    "name": "\u300ae\u5b78\u6b66\u6797\u300b\u8a5e\u53e5\u7cfb\u5217\u96fb\u5b57\u7bc7", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412692399, 
+    "name": "\u300aFBI\u6559\u4f60\u8fa6\u516c\u5ba4\u8b80\u5fc3\u8853\u300b\u535a\u5ba2\u601d\u807d\u4e2d\u6587\u6709\u8072\u66f8\u6458for iPhone version", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 526692472, 
+    "name": "\u300aHoly Bible\u300bof the King James Version 2.0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 548220330, 
+    "name": "\u300aKnowledge\u77e5\u8bc6\u5bb6\u300b\u4e2d\u56fd\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 611057539, 
+    "name": "\u300aKnowledge\u77e5\u8bc6\u5bb6\u300b\u6742\u5fd7 \u4e2d\u56fd\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 548218908, 
+    "name": "\u300aLonely planet \u5b64\u72ec\u661f\u7403\u300b\u4e2d\u56fd\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 497077979, 
+    "name": "\u300aMAP4\u300b5\u5468\u5e74\u7eaa\u5ff5\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412692977, 
+    "name": "\u300aQBQ\u5c31\u662f\u8981\u5091\u51fa\u300b\u535a\u5ba2\u601d\u807d\u4e2d\u6587\u6709\u8072\u66f8\u6458for iPhone version", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 669310589, 
+    "name": "\u300aTopGear\u6c7d\u8f66\u6d4b\u8bd5\u62a5\u544a\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 581453598, 
+    "name": "\u300aVista\u950b\u7ed8\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 438142420, 
+    "name": "\u300aYou'll Remember\u300b\u7231\u60c5\u6545\u4e8b\u52a8\u753b16\u96c6\u5168", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 407193711, 
+    "name": "\u300a\u4e00\u4e2a\u6b4c\u624b\u7684\u6447\u6446\u9752\u6625\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 407426064, 
+    "name": "\u300a\u4e00\u4e2a\u6b4c\u624b\u7684\u6447\u6446\u9752\u6625\u300bfor iPad", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412694412, 
+    "name": "\u300a\u4e00\u52dd\u4e5d\u6557\u300b\u535a\u5ba2\u601d\u807d\u4e2d\u6587\u6709\u8072\u66f8\u6458for iPhone version", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 419061724, 
+    "name": "\u300a\u4e00\u5343\u96f6\u4e00\u591c\u300b\u7ecf\u5178\u7ae5\u8bdd[\u7b80\u7e41] HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 409339983, 
+    "name": "\u300a\u4e00\u8d77\u5403\u98ef\u5427\uff01\u611b\u9e97\u7d72\u300b\u840a\u884c\u6a02 \u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 338986066, 
+    "name": "\u300a\u4e03\u4fa0\u4e94\u4e49\u300b\u300a\u4e03\u4fe0\u4e94\u7fa9\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331689301, 
+    "name": "\u300a\u4e03\u5251\u5341\u4e09\u4fa0\u300b\u300a\u4e03\u528d\u5341\u4e09\u4fe0\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 676003145, 
+    "name": "\u300a\u4e09\u4e2a\u548c\u5c1a\u300b\u7ecf\u5178\u7ed8\u672c\u6709\u58f0\u6545\u4e8b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 610274707, 
+    "name": "Three Monks-\uff08Animation + Picture book\uff09-\u9ec4\u91d1\u6559\u80b2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 505157580, 
+    "name": "\u300a\u4e09\u4f53III: \u6b7b\u795e\u6c38\u751f\u300b\u7b80\u7e41", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 505152291, 
+    "name": "\u300a\u4e09\u4f53III: \u6b7b\u795e\u6c38\u751f\u300b\u7b80\u7e41HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 484012919, 
+    "name": "\u4e09\u4f53", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 509415748, 
+    "name": "\u300a\u4e09\u4f53\u300b\u5b8c\u6574\u73cd\u85cf\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 319927415, 
+    "name": "\u300a\u4e09\u5341\u516d\u8a08\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 672930997, 
+    "name": "\u300a\u4e09\u53ea\u5c0f\u732a\u300b\u7ecf\u5178\u7ed8\u672c\u6709\u58f0\u6545\u4e8b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 307995629, 
+    "name": "\u300a\u4e09\u56fd\u6f14\u4e49\u300bRomance of the Three Kingdoms", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 338394360, 
+    "name": "\u300a\u4e09\u56fd\u6f14\u4e49\u300b\u300a\u4e09\u570b\u6f14\u7fa9\u300b\u7c21\u7e41\u9ad4\u4f53", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 537487404, 
+    "name": "\u300a\u4e09\u56fd\u7684\u5965\u79d8\u300b\u00b7\u7231\u60a6\u8bfb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 337696126, 
+    "name": "\u300a\u4e09\u570b\u6b77\u53f2\u6545\u4e8b\u9078\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 315954355, 
+    "name": "\u300a\u4e09\u570b\u6f14\u7fa9\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 634731712, 
+    "name": "\u300a\u4e09\u574a\u4e03\u5df7\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 315819751, 
+    "name": "\u300a\u4e09\u5b57\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331834161, 
+    "name": "\u300a\u4e09\u5b9d\u592a\u76d1\u897f\u6d0b\u8bb0\u300b\u300a\u4e09\u5bf6\u592a\u76e3\u897f\u6d0b\u8a18\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 698022157, 
+    "name": "\u300a\u4e09\u8054\u751f\u6d3b\u5468\u520a\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 548533032, 
+    "name": "\u300a\u4e09\u8054\u751f\u6d3b\u5468\u520a\u300biPad\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 532039260, 
+    "name": "\u300a\u4e09\u884c\u60c5\u4e66\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 447065349, 
+    "name": "\u300a\u4e09\u89d2\u6f14\u7fa9\uff0e\u8349\u8722\u5f9e\u5c4b\u6751\u8df3\u5230\u7d05\u9928\u7684\u9999\u6e2f\u6545\u4e8b\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 585547842, 
+    "name": "\u300a\u4e0a\u6d77\u6545\u4e8b\u300biPad\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 585542855, 
+    "name": "\u300a\u4e0a\u6d77\u6545\u4e8b\u300biPhone\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 685789876, 
+    "name": "\u300a\u4e0a\u6d77\u6545\u4e8b\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 793049251, 
+    "name": "\u300a\u4e0a\u6d77\u91c7\u98ce\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 542631745, 
+    "name": "\u300a\u4e0d\u4e00\u6837\u7684\u5929\u7a7a\u300b\u7a3b\u57ce\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 494884357, 
+    "name": "\u300a\u4e11\u5c0f\u9e2d\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 681679728, 
+    "name": "\u300a\u4e16\u754c\u4e0a\u4e0b\u4e94\u5343\u5e74\u300b\uff08\u4e0a\uff09\u77e5\u8bc6\u6027\u4e0e\u8da3\u5473\u6027\u5e76\u91cd\u7684\u4e16\u754c\u5386\u53f2\u901a\u4fd7\u8bfb\u7269\u2022\u5168\u6587\u540c\u6b65\u6717\u8bfb\u5178\u85cf\u3010\u6709\u58f0\u73cd\u85cf\u7248\u3011", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 681685939, 
+    "name": "\u300a\u4e16\u754c\u4e0a\u4e0b\u4e94\u5343\u5e74\u300b\uff08\u4e0b\uff09\u77e5\u8bc6\u6027\u4e0e\u8da3\u5473\u6027\u5e76\u91cd\u7684\u4e16\u754c\u5386\u53f2\u901a\u4fd7\u8bfb\u7269\u2022\u5168\u6587\u540c\u6b65\u6717\u8bfb\u5178\u85cf\u3010\u6709\u58f0\u73cd\u85cf\u7248\u3011", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 484403474, 
+    "name": "\u300a\u4e16\u754c\u5341\u5927\u7981\u4e66\u300b\uff08\u5168\u672c\uff09[\u7b80\u7e41]", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 532042363, 
+    "name": "\u300a\u4e16\u754c\u662f\u90e8\u91d1\u878d\u53f2\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 562842501, 
+    "name": "\u300a\u4e16\u754c\u6700\u7f8e\u7684\u81ea\u7136\u5947\u666f\u300b\u7cfb\u5217\u56fe\u4e66", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 682279354, 
+    "name": "\u300a\u4e2d\u534e\u4e0a\u4e0b\u4e94\u5343\u5e74\u300b\uff08\u4e0a\uff09\u7ecf\u5178\u7684\u6c11\u95f4\u4f20\u8bf4\u548c\u7cbe\u7cb9\u7684\u5386\u53f2\u6545\u4e8b\u2022\u5168\u6587\u540c\u6b65\u6717\u8bfb\u5178\u85cf\u3010\u6709\u58f0\u73cd\u85cf\u7248\u3011", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 682281129, 
+    "name": "\u300a\u4e2d\u534e\u4e0a\u4e0b\u4e94\u5343\u5e74\u300b\uff08\u4e0b\uff09\u7ecf\u5178\u7684\u6c11\u95f4\u4f20\u8bf4\u548c\u7cbe\u7cb9\u7684\u5386\u53f2\u6545\u4e8b\u2022\u5168\u6587\u540c\u6b65\u6717\u8bfb\u5178\u85cf\u3010\u6709\u58f0\u73cd\u85cf\u7248\u3011", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 503107816, 
+    "name": "\u300a\u4e2d\u56fd2012\uff1a\u5bfb\u627e\u771f\u5b9e\u7684\u6210\u957f\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 533049720, 
+    "name": "\u300a\u4e2d\u56fd\u4eba\u4f60\u4e3a\u4ec0\u4e48\u7231\u751f\u6c14\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 492223729, 
+    "name": "\u300a\u4e2d\u56fd\u4f01\u4e1a\u7684\u6d3b\u6cd5\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 424475634, 
+    "name": "\u300a\u4e2d\u56fd\u53e4\u5178\u60c5\u8272\u7cbe\u9009\u300b20\u90e8[\u7b80\u7e41] HD", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 422743385, 
+    "name": "\u300a\u4e2d\u56fd\u53e4\u5178\u6587\u5b66\u540d\u8457\u7cbe\u9009\u300b\u00b723\u90e8[\u7b80\u7e41] HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 669305303, 
+    "name": "\u300a\u4e2d\u56fd\u5546\u4eba\u00b7\u6c7d\u8f66\u4eba\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 648272378, 
+    "name": "\u300a\u4e2d\u56fd\u56fd\u5bb6\u65c5\u6e38\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 673888760, 
+    "name": "\u300a\u4e2d\u56fd\u6148\u5584\u5bb6\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 673891753, 
+    "name": "\u300a\u4e2d\u56fd\u6444\u5f71\u5bb6\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 852201669, 
+    "name": "\u300a\u4e2d\u56fd\u73e0\u5b9d\u9996\u9970\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 505339825, 
+    "name": "\u300a\u4e2d\u56fd\u793e\u4f1a\u5404\u9636\u5c42\u5206\u6790\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 627397353, 
+    "name": "\u300a\u4e2d\u56fd\u7ecf\u6d4e\u5468\u520a\u300b\u56fe\u6587\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 523056560, 
+    "name": "\u300a\u4e2d\u56fd\u7f8e\u672f\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 675969865, 
+    "name": "\u300a\u4e2d\u56fd\u8fde\u9501\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 317857059, 
+    "name": "\u300a\u4e2d\u570b\u9810\u8a00\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 687614647, 
+    "name": "\u300a\u4e2d\u5916\u5efa\u7b51\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 316680528, 
+    "name": "\u300a\u4e2d\u5eb8\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 492342133, 
+    "name": "MandarinChineseLanguage1a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 492606095, 
+    "name": "MandarinChineseLanguage1B", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 673526388, 
+    "name": "\u300a\u4e4c\u9e26\u559d\u6c34\u300b\u7ecf\u5178\u7ed8\u672c\u6709\u58f0\u6545\u4e8b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331668166, 
+    "name": "\u300a\u4e5d\u5c3e\u9c7c\u300b\u300a\u4e5d\u5c3e\u9b5a\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330922618, 
+    "name": "\u300a\u4e7e\u9686\u5357\u5de1\u8a18\u300b\u300a\u4e7e\u9686\u5357\u5de1\u8bb0\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 348791939, 
+    "name": "\u300a\u4e86\u51e1\u56db\u8a13\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 482365706, 
+    "name": "\u300a\u4e86\u51e1\u56db\u8bad\u300b\u6709\u58f0\u4e66", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 490578468, 
+    "name": "\u300a\u4e8e\u4e39\u8da3\u54c1\u4eba\u751f\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 452921498, 
+    "name": "\u300a\u4e92\u8054\u7f51\u5468\u520a\u300bHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 316982343, 
+    "name": "\u300a\u4e94\u5b57\u9452\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 507973545, 
+    "name": "\u300a\u4eba\u4e00\u751f\u8981\u638c\u63e1\u7684100\u4e2a\u751f\u6d3b\u6cd5\u5219\u300b\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 594383385, 
+    "name": "\u300a\u4eba\u529b\u8d44\u672c\u7ba1\u7406\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 318693352, 
+    "name": "\u300a\u4eba\u751f\u667a\u6167\u4e09\u5341\u516d\u8a23\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 514262471, 
+    "name": "\u300a\u4eba\u8109\u5373\u8d22\u8109\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 332024135, 
+    "name": "\u300a\u4eca\u53e4\u5947\u89c2\u300b\u300a\u4eca\u53e4\u5947\u89c0\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 552862075, 
+    "name": "\u300a\u4eca\u65e5\u4e2d\u56fd\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 565853058, 
+    "name": "\u300a\u4eca\u65e5\u4e2d\u56fd\u300b\u82f1\u6587\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 487120837, 
+    "name": "\u300a\u4eca\u665a\u62a5\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 341069358, 
+    "name": "\u300a\u4f0a\u7d22\u5bd3\u8a00\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 518983066, 
+    "name": "\u300a\u4f18\u96c5\u5c0f\u4e3b\u5987\u751f\u6d3b\u7a8d\u95e8\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 367801458, 
+    "name": "\u300a\u4f20\u4e60\u5f55\u300b\u300a\u50b3\u7fd2\u9304\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 555206356, 
+    "name": "\u300a\u4f60\u4e86\u89e3\u4e2d\u56fd\u5171\u4ea7\u515a\u5417\uff1f\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 505778254, 
+    "name": "\u300a\u4f60\u7684\u5f62\u8c61\u4ef7\u503c\u767e\u4e07\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 488645200, 
+    "name": "\u300a\u4f60\u82e5\u5b89\u597d\u4fbf\u662f\u6674\u5929\uff1a\u6797\u5fbd\u56e0\u4f20\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331676487, 
+    "name": "\u300a\u5112\u6797\u5916\u53f2\u300b\u300a\u5112\u6797\u5916\u53f2\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331528002, 
+    "name": "\u300a\u513f\u5973\u82f1\u96c4\u4f20\u300b\u300a\u5152\u5973\u82f1\u96c4\u50b3\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 542138858, 
+    "name": "\u300a\u513f\u7ae5\u7761\u524d\u5c0f\u6545\u4e8b\u300b\u6709\u58f0\u4e66\u2022\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 683132594, 
+    "name": "\u300a\u5143\u66f2\u4e09\u767e\u9996\u300b\u4e2d\u56fd\u53e4\u4ee3\u6587\u5316\u7470\u5b9d\u2022\u8574\u542b\u7740\u4e30\u5bcc\u7684\u4eba\u751f\u667a\u6167 \u5b8c\u6574\u7248\u5168\u6587\u6717\u8bfb\u3010\u6709\u58f0\u73cd\u85cf\u7248\u3011", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 891592699, 
+    "name": "\u300a\u5148\u950b\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 892289458, 
+    "name": "\u300a\u5148\u950b\u300b\u6742\u5fd7\u5e94\u7528", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 311116867, 
+    "name": "\u300a\u5152\u5973\u82f1\u96c4\u50b3\u300b\u300a\u513f\u5973\u82f1\u96c4\u4f20\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 309574724, 
+    "name": "\u300a\u516b\u4ed9\u5f97\u9053\u50b3\u300b\u300a\u516b\u4ed9\u5f97\u9053\u4f20\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331309412, 
+    "name": "\u300a\u516b\u4ed9\u5f97\u9053\u50b3\u300b\u300a\u516b\u4ed9\u5f97\u9053\u4f20\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 496369426, 
+    "name": "\u300a\u516c\u53f8\u7684\u529b\u91cf\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 316712415, 
+    "name": "\u300a\u516d\u7956\u58c7\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 685250003, 
+    "name": "\u300a\u516d\u7956\u5927\u5e08\u6cd5\u5b9d\u575b\u7ecf\u300b\u4f5b\u6559\u7985\u5b97\u5178\u7c4d\u2022\u7814\u7a76\u7985\u5b97\u601d\u60f3\u6e0a\u6e90\u7684\u91cd\u8981\u4f9d\u636e \u5168\u7bc7\u8bf5\u8bfb\u3010\u6709\u58f0\u5178\u85cf\u7248\u3011", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 830162884, 
+    "name": "\u300a\u519b\u4e8b\u6587\u6458\u00b7\u79d1\u5b66\u5c11\u5e74\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 529466133, 
+    "name": "\u300a\u51b0\u4e0e\u706b\u4e4b\u6b4c\u300b\u4e94\u90e8\u5408\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 323212232, 
+    "name": "\u300a\u51b0\u9452\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 534122143, 
+    "name": "\u300a\u51e1\u2022\u9ad8\u5bc6\u7801 Van Gogh\u2019s Secrets\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 705679484, 
+    "name": "\u300a\u51e4\u51f0\u751f\u6d3b\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 863019660, 
+    "name": "\u300a\u5206\u4eab\u5712\u5730\u300b\u5f71\u97f3APP", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 492222434, 
+    "name": "\u300a\u521b\u4e1a36\u6761\u519b\u89c4\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 661562493, 
+    "name": "\u300a\u521b\u4e1a\u90a6\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 685783804, 
+    "name": "\u300a\u521b\u5bcc\u6307\u5357\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 712337081, 
+    "name": "\u300a\u521b\u9e3f\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 713447977, 
+    "name": "\u300a\u521b\u9e3f\u300bHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 538150349, 
+    "name": "\u300a\u522b\u62ff\u7537\u4eba\u4e0d\u5f53\u52a8\u7269\u300b\u7a3b\u57ce\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412696429, 
+    "name": "\u300a\u52d5\u7269\u672c\u80fd\u300b\u535a\u5ba2\u601d\u807d\u4e2d\u6587\u6709\u8072\u66f8\u6458for iPhone version", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 863017530, 
+    "name": "\u300a\u52d5\u756b\u6545\u4e8b\u300b\u5f71\u97f3APP", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 501309184, 
+    "name": "\u300a\u52fe\u642d\u5b9d\u5178\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 647006213, 
+    "name": "\u300a\u5316\u5986\u54c1\u89c2\u5bdf\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331835656, 
+    "name": "\u300a\u5317\u53f2\u300b\u300a\u5317\u53f2\u300b\u7b80\u7e41\u4f53", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 459392786, 
+    "name": "\u300a\u5341\u4e07\u4e2a\u4e3a\u4ec0\u4e48\u300b\u5408\u8ba2\u672c", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 484826313, 
+    "name": "\u300a\u5341\u4e07\u4e2a\u4e3a\u4ec0\u4e48\uff081\uff09\u300b\uff08\u513f\u7ae5\u65e9\u6559\u542f\u8499\u4e66-\u76ca\u667a\u9986\uff09", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 484835597, 
+    "name": "\u300a\u5341\u4e07\u4e2a\u4e3a\u4ec0\u4e48\uff082\uff09\u300b\uff08\u513f\u7ae5\u65e9\u6559\u542f\u8499\u4e66-\u76ca\u667a\u9986\uff09", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 484837117, 
+    "name": "\u300a\u5341\u4e07\u4e2a\u4e3a\u4ec0\u4e48\uff083\uff09\u300b\uff08\u513f\u7ae5\u65e9\u6559\u542f\u8499\u4e66-\u76ca\u667a\u9986\uff09", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 484838234, 
+    "name": "\u300a\u5341\u4e07\u4e2a\u4e3a\u4ec0\u4e48\uff084\uff09\u300b\uff08\u513f\u7ae5\u65e9\u6559\u542f\u8499\u4e66-\u76ca\u667a\u9986\uff09", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 315823667, 
+    "name": "\u300a\u5343\u5b57\u6587\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 434193087, 
+    "name": "\u300a\u5343\u5bb6\u8bd7\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 363446403, 
+    "name": "\u300a\u5343\u91cc\u547d\u7a3f\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 681626402, 
+    "name": "\u300a\u534e\u590f\u7406\u8d22\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495940919, 
+    "name": "\u300a\u5356\u706b\u67f4\u7684\u5c0f\u5973\u5b69\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 637399542, 
+    "name": "\u300a\u5357\u5c9b\u89c6\u754c\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331849901, 
+    "name": "\u300a\u5357\u9f50\u4e66\u300b\u300a\u5357\u9f4a\u66f8\u300b\u7b80\u7e41\u4f53", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 527003697, 
+    "name": "\u300a\u536b\u65af\u7406\u300b\u6709\u58f0\u5c0f\u8bf4", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 467289725, 
+    "name": "\u300a\u536b\u65af\u7406\u4e0e\u539f\u632f\u4fa0\u300b\u00b7\u502a\u5321\u5408\u96c6\u00b7220\u90e8", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 340777960, 
+    "name": "\u300a\u5370\u5ea6\u7ae5\u8a71\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 510522282, 
+    "name": "\u300a\u5386\u53f2\u662f\u4e2a\u4ec0\u4e48\u73a9\u610f\u513f\u300b\u5168\u56db\u90e8 [\u7b80\u7e41]", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 496369190, 
+    "name": "\u300a\u5386\u53f2\u662f\u4e2a\u5546\u5b66\u9662\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 581458176, 
+    "name": "\u300a\u53cc\u57ce\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 338968528, 
+    "name": "\u300a\u53cd\u7d93\u300b\u7c21\u7e41\u9ad4 \u00b7 \u98de\u87b3\u53e4\u5178\u7cfb\u5217", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 680102053, 
+    "name": "\u300a\u53e4\u5170\u7ecf\u300bQuran Majeed \u4f0a\u65af\u5170\u6559\u552f\u4e00\u6839\u672c\u7ecf\u5178\u5b8c\u6574\u7248 \u5168\u6587\u6717\u8bfb\u2022\u9a6c\u575a\u8bd1\u672c\u3010\u6709\u58f0\u5178\u85cf\u7248\u3011", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 316060037, 
+    "name": "\u300a\u53e4\u6587\u89c0\u6b62\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 336313907, 
+    "name": "\u300a\u53e4\u6587\u89c2\u6b62\u300b\u300a\u53e4\u6587\u89c0\u6b62\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 325553086, 
+    "name": "\u300a\u53e4\u862d\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 317336084, 
+    "name": "\u300a\u53e4\u8a69\u5341\u4e5d\u9996\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 862998960, 
+    "name": "\u300a\u53ec\u6703\u751f\u6d3b\u300b\u5f71\u97f3APP", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 328347128, 
+    "name": "\u300a\u53f2\u8a18\u300b(\u7e41\u9ad4)Records of the Grand Historian", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 447314110, 
+    "name": "\u300a\u53f2\u8bb0\u300b\u5168\u4e66\u00b7\u5178\u85cf\u7248[\u7b80\u7e41] HD", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 510291423, 
+    "name": "\u300a\u5403\u7684\u771f\u76f8\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 526705682, 
+    "name": "\u300a\u540d\u520a\u532f\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 542275351, 
+    "name": "\u300a\u540e\u5bab\u90a3\u4e9b\u4e8b\u513f\u300b\u6709\u58f0\u4e66\u2022\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 495119511, 
+    "name": "\u300a\u540e\u5bab\uff1a\u7504\u5b1b\u4f20\u300b\uff08\u5168\u4e03\u90e8\uff09[\u7b80\u7e41]", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 850219347, 
+    "name": "\u300a\u5411\u4e3b\u6b4c\u5531\u300b\u5f71\u97f3APP", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 325552754, 
+    "name": "\u300a\u5436\u558a\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 570139530, 
+    "name": "\u300a\u5446\u74dc\u8bb2\u6545\u4e8b\u4e00\u300b\u6240\u6709\u4eba\u90fd\u5728\u6492\u8c0e\uff08\u4e0a\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 570140910, 
+    "name": "\u300a\u5446\u74dc\u8bb2\u6545\u4e8b\u4e09\u300b\u5348\u591c\u7075\u5f02", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 570140706, 
+    "name": "\u300a\u5446\u74dc\u8bb2\u6545\u4e8b\u4e8c\u300b\u6240\u6709\u4eba\u90fd\u5728\u6492\u8c0e\uff08\u4e0b\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 570141005, 
+    "name": "\u300a\u5446\u74dc\u8bb2\u6545\u4e8b\u56db\u300b\u60ca\u609a\u7535\u53f0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 333268659, 
+    "name": "\u300a\u5468\u4e66\u300b\u300a\u5468\u66f8\u300b\u7c21\u7e41\u9ad4", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 316917997, 
+    "name": "\u300a\u5468\u516c\u89e3\u5922\u5168\u66f8\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 886102238, 
+    "name": "\u300a\u5468\u6613\u5168\u4e66\u300b\u3010\u6709\u58f0\u5178\u85cf\u7248\u3011", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 681055093, 
+    "name": "\u300a\u5468\u6613\u5168\u4e66\u300b\u4e2d\u56fd\u8bba\u53d8\u6cd5\u4e4b\u5947\u4e66\u2022\u53e4\u4ee3\u7814\u7a76\u4e0e\u5360\u6d4b\u5b87\u5b99\u4e07\u7269\u53d8\u6613\u89c4\u5f8b\u4e4b\u5178\u7c4d\u3010\u6709\u58f0\u73cd\u85cf\u7248\u3011", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331665648, 
+    "name": "\u300a\u547c\u5bb6\u5c06\u300b\u300a\u547c\u5bb6\u5c07\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 327337002, 
+    "name": "\u300a\u547c\u862d\u6cb3\u50b3\u300b-\u856d\u7d05", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 542323405, 
+    "name": "\u300a\u5492\u604b\u4e4b\u5080\u5121\u5a03\u5a03\u300b\u6709\u58f0\u4e66\u2022\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 606106091, 
+    "name": "\u300a\u54ac\u6587\u56bc\u5b57\u300biPad\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 606100736, 
+    "name": "\u300a\u54ac\u6587\u56bc\u5b57\u300biPhone\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 419062353, 
+    "name": "\u300a\u54c8\u5c14\u7f57\u6770\u5386\u9669\u8bb0\u300b14\u90e8\u5168\u96c6[\u7b80\u7e41] HD", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 362805866, 
+    "name": "\u300a\u5510\u4ee3\uff0e\u79aa\u8a69\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 361396889, 
+    "name": "\u300a\u5510\u4f2f\u864e\u8a69\u96c6\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 320973606, 
+    "name": "\u300a\u5510\u8a69\u4e09\u767e\u9996\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 429177908, 
+    "name": "\u300a\u5510\u8bd7\u4e09\u767e\u9996\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 335124629, 
+    "name": "\u300a\u5510\u8bd7\u4e09\u767e\u9996\u300b\u300a\u5510\u8a69\u4e09\u767e\u9996\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 683121665, 
+    "name": "\u300a\u5510\u8bd7\u4e09\u767e\u9996\u300b\u4e2d\u56fd\u8bd7\u6b4c\u53d1\u5c55\u53f2\u4e0a\u7684\u5947\u8ff9\u2022\u6d41\u4f20\u6700\u5e7f\u4e14\u5f71\u54cd\u6700\u5927\u7684\u5510\u8bd7\u666e\u53ca\u672c \u5b8c\u6574\u7248\u5168\u6587\u6717\u8bfb\u3010\u6709\u58f0\u73cd\u85cf\u7248\u3011", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 382740875, 
+    "name": "\u300a\u5510\u8bd7\u5b8b\u8bcd\u5143\u66f2\u300b\u300a\u5510\u8a69\u5b8b\u8a5e\u5143\u66f2\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 374885467, 
+    "name": "\u300a\u56db\u4e66\u4e94\u7ecf\u300b\u300a\u56db\u66f8\u4e94\u7d93\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 444923187, 
+    "name": "\u300a\u56db\u4e66\u4e94\u7ecf\u300b\u5178\u85cf\u7248[\u7b80\u7e41] HD", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 315660045, 
+    "name": "\u300a\u56db\u5341\u4e8c\u7ae0\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 335539054, 
+    "name": "\u300a\u56db\u5927\u540d\u8457\u300b(\u300a\u7ea2\u697c\u68a6\u300b\u300a\u4e09\u56fd\u6f14\u4e49\u300b\u300a\u897f\u6e38\u8bb0\u300b\u300a\u6c34\u6d52\u4f20\u300b)", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 306474824, 
+    "name": "\u300a\u56db\u5927\u540d\u8457\u300b(\u4e09\u570b\u6f14\u7fa9\u3001\u7d05\u6a13\u5922\u3001\u6c34\u6ef8\u50b3\u3001\u897f\u904a\u8a18)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 329979998, 
+    "name": "\u300a\u56db\u5927\u540d\u8457\u300b\u300a\u4e09\u570b\u6f14\u7fa9\u300b\u3001\u300a\u897f\u904a\u8a18\u300b\u3001\u300a\u6c34\u6ef8\u50b3\u300b\u3001\u300a\u7d05\u6a13\u5922\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 402655409, 
+    "name": "\u300a\u56db\u5927\u8c34\u8d23\u5c0f\u8bf4\u300b\u300a\u56db\u5927\u8b74\u8cac\u5c0f\u8aaa\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 472610514, 
+    "name": "\u300a\u56de\u5230\u660e\u671d\u5f53\u738b\u7237\u300b\u5168\u96c6[\u7b80\u7e41]", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 389315299, 
+    "name": "\u300a\u56fe\u89e3\u516d\u58ec\u6307\u5357\u300b\u7b80\u7e41\u7248", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 348822207, 
+    "name": "\u300a\u5713\u89ba\u7d93\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 693634516, 
+    "name": "\u300a\u5723\u7ecf\u300b\u56fd\u8bed\u6717\u8bfb\u7eaf\u6b63\u6c49\u8bed\u53d1\u97f3 The Holy Bible Pro NIV Version (Old+New Testament free) \u82f1\u8bed\u9605\u8bfb\u542c\u529b\u53e3\u8bed\u7cbe\u534e\u5408\u96c6\u514d\u8d39\u7248HD", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 482353460, 
+    "name": "\u300a\u5723\u7ecf\u300b\u6545\u4e8b-\u65b0\u7ea6\u7bc7", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 693633610, 
+    "name": "\u300a\u5723\u7ecf\u300b\u82f1\u8bed\u6717\u8bfb\u6807\u51c6\u82f1\u6587\u53d1\u97f3 The Holy Bible Pro NIV Version (Old+New Testament free) \u9605\u8bfb\u542c\u529b\u53e3\u8bed\u7cbe\u534e\u5408\u96c6\u514d\u8d39\u7248HD", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 515145641, 
+    "name": "\u300a\u5723\u7ecf\u548c\u5408\u672c\u300b\u7b80\u4f53\u4e66\u6709\u58f0\u7248", 
+    "price": 24.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 501893893, 
+    "name": "\u300a\u5723\u7ecf\u548c\u5408\u672c\u300b\u7b80\u4f53\u4e66\u7248", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 680508730, 
+    "name": "\u300a\u5723\u7ecf\u65b0\u7ea6\u5168\u4e66\u300b\u5168\u4e16\u754c\u5f71\u54cd\u6700\u5927\u7684\u51fa\u7248\u7269\u2022\u9010\u8282\u5168\u6587\u6717\u8bfb\u3010\u6709\u58f0\u73cd\u85cf\u7248\u3011", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 393714258, 
+    "name": "\u300a\u5730\u7344\u8a5e\u5178\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 317773967, 
+    "name": "\u300a\u5730\u85cf\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 513171544, 
+    "name": "\u300a\u57ce\u5e02\u5730\u7406\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 492224718, 
+    "name": "\u300a\u57ce\u7ba1\u6765\u4e86\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 894998757, 
+    "name": "\u300a\u57fa\u672c\u8a02\u623646\u68af\u300b\u6578\u4f4d\u5448\u73fe\u7248", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 375146233, 
+    "name": "\u300a\u5875\u7de3\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 347030577, 
+    "name": "\u300a\u589e\u5220\u535c\u6613\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 358362297, 
+    "name": "\u300a\u589e\u5220\u535c\u6613\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 315707294, 
+    "name": "\u300a\u589e\u5ee3\u8ce2\u6587\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 363448512, 
+    "name": "\u300a\u58ec\u5f52\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495778941, 
+    "name": "\u300a\u591c\u83ba\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 693901909, 
+    "name": "\u300a\u5927\u4f17\u6295\u8d44\u6307\u5357\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 627394465, 
+    "name": "\u300a\u5927\u4f17\u6295\u8d44\u6307\u5357\u300b\u56fe\u6587\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 634299302, 
+    "name": "\u300a\u5927\u4f17\u6c7d\u8f66\u00b7\u6c7d\u8f66\u65c5\u884c\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 372536953, 
+    "name": "\u300a\u5927\u516d\u58ec720\u8bfe\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 384338795, 
+    "name": "\u300a\u5927\u516d\u58ec\u5fc3\u955c\u300b(\u7b80\u7e41\u7248)", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 374904461, 
+    "name": "\u300a\u5927\u516d\u58ec\u65b7\u6848\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 375279978, 
+    "name": "\u300a\u5927\u516d\u58ec\u6bd5\u6cd5\u6848\u5f55\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 374865588, 
+    "name": "\u300a\u5927\u516d\u58ec\u7ba1\u8f82\u795e\u4e66\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 371966126, 
+    "name": "\u300a\u5927\u516d\u58ec\u8403\u8a00\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 375094939, 
+    "name": "\u300a\u5927\u516d\u58ec\u8fa9\u7591\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 406661524, 
+    "name": "\u300a\u5927\u53f2\u8bdd\u300b2010\u5408\u8ba2\u672c", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 850210532, 
+    "name": "\u300a\u5927\u597d\u4fe1\u606f\u300b\u5f71\u97f3APP", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 863714928, 
+    "name": "\u300a\u5927\u5b66\u751f\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 316585571, 
+    "name": "\u300a\u5927\u5b78\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 531038888, 
+    "name": "\u300a\u5927\u79e6\u5e1d\u56fd\u7cbe\u88c5\u7248\u300b\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 496432248, 
+    "name": "\u300a\u5927\u9b54\u672f\u5e08\u300b\u6b63\u7248\u539f\u8457", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 334433734, 
+    "name": "\u300a\u5929\u4e3b\u6559\u6cd5\u5178\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 427105675, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u5deb\u555f\u8ce2-\u4e0d\u518d\u5fc3\u9178", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 427104026, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u5deb\u555f\u8ce2-\u4e0d\u518d\u5fc3\u9178HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 385089981, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c50\u671f", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 385088268, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c50\u671fHD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 394858659, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c51\u671f", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 394625006, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c51\u671fHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 394858761, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c52\u671f", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 394630321, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c52\u671fHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 396485417, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c53\u671f", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 396489794, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c53\u671fHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 401131644, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c54\u671fHD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 408140893, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c55\u671fHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 413431546, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c56\u671f", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 413428923, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c56\u671fHD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 419267832, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c57\u671f", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 419266489, 
+    "name": "\u300a\u5929\u4f7f\u5fc3\u300b\u6708\u520a\u7b2c57\u671fHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 391317560, 
+    "name": "\u300a\u592a\u5e73\u5e7f\u8bb0\u300b\u300a\u592a\u5e73\u5ee3\u8a18\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412695312, 
+    "name": "\u300a\u5931\u63a7\u7684\u672a\u4f86\u300b\u535a\u5ba2\u601d\u807d\u4e2d\u6587\u6709\u8072\u66f8\u6458for iPhone version", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 345822281, 
+    "name": "\u300a\u5947\u9580\u9041\u7532\u79d8\u7c4d\u5927\u5168\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 519004966, 
+    "name": "\u300a\u5951\u4e39\u4eba\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 510880422, 
+    "name": "\u300a\u5973\u4eba\u6316\u5751\u7537\u4eba\u8df3\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 532037029, 
+    "name": "\u300a\u5973\u5c11\u5e74\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 486296134, 
+    "name": "\u300a\u5979\u7684\u57ce\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 481140944, 
+    "name": "\u300a\u5988\u5988\u5b9d\u5b9d\u300b\u6742\u5fd7HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 876222561, 
+    "name": "\u300a\u5a5a\u80b2\u4e0e\u5065\u5eb7\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 377442036, 
+    "name": "\u300a\u5a67\u7de3\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 363446857, 
+    "name": "\u300a\u5b50\u5e73\u771f\u8be0\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 654646342, 
+    "name": "\u300a\u5b59\u5b50\u5175\u6cd5\u300b\u542c\u4e66\u57ce\u51fa\u54c1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 316895525, 
+    "name": "\u300a\u5b5f\u5b50\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 418860950, 
+    "name": "\u300a\u5b64\u6ce3\u5c0f\u8aaa\u5408\u96c6\u300b\u5b64\u6ce3\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412352843, 
+    "name": "\u300a\u5b64\u6ce3\u60c5\u5fc3\u300b\u5b64\u6ce3\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 433339777, 
+    "name": "\u300a\u5b64\u6ce3\u611b\u60c5\u8a9e\u9304\u300b\u5b64\u6ce3\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 363377476, 
+    "name": "\u300a\u5b6b\u4e2d\u5c71\u50b3\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 315987199, 
+    "name": "\u300a\u5b6b\u5b50\u5175\u6cd5\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 421064349, 
+    "name": "\u300a\u5b89\u5f92\u751f\u7ae5\u8bdd\u6545\u4e8b\u5168\u96c6\u300b\u00b7\u51684\u5377[\u7b80\u7e41] HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331852818, 
+    "name": "\u300a\u5b8b\u4e66\u300b\u300a\u5b8b\u66f8\u300b\u7b80\u7e41\u4f53", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 336108401, 
+    "name": "\u300a\u5b8b\u8bcd\u4e09\u767e\u9996\u300b\u300a\u5b8b\u8a5e\u4e09\u767e\u9996\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 683125991, 
+    "name": "\u300a\u5b8b\u8bcd\u4e09\u767e\u9996\u300b\u4e2d\u56fd\u53e4\u4ee3\u6587\u5b66\u7687\u51a0\u4e0a\u5149\u8f89\u593a\u76ee\u7684\u4e00\u9897\u5de8\u94bb\u2022\u56fd\u5b66\u7ecf\u5178\u85cf\u4e66\u4e4b\u6700\u6d41\u884c\u7684\u5b8b\u8bcd\u9009\u672c \u5b8c\u6574\u7248\u5168\u6587\u6717\u8bfb\u3010\u6709\u58f0\u73cd\u85cf\u7248\u3011", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330165199, 
+    "name": "\u300a\u5b98\u5834\u73fe\u5f62\u8a18\u300b\u300a\u5b98\u573a\u73b0\u5f62\u8bb0\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 717106241, 
+    "name": "\u300a\u5bb6\u5bb6\u4e50\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 705669974, 
+    "name": "\u300a\u5bb6\u5ead\u533b\u836f\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 693902902, 
+    "name": "\u300a\u5bb6\u7528\u6c7d\u8f66\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 462621054, 
+    "name": "\u300a\u5bb9\u658b\u968f\u7b14\u300b\u6bdb\u6cfd\u4e1c\u4e34\u7ec8\u524d\u8fd8\u8981\u770b\u7684\u4e66[\u7b80\u7e41] HD", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 341958053, 
+    "name": "\u300a\u5bf9\u8054\u96c6\u9526\u300b\u7b80\u7e41\u4f53 \u00b7 \u98de\u87b3\u53e4\u5178\u7cfb\u5217", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 532043698, 
+    "name": "\u300a\u5bfb\u627e\u7d22\u9a6c\u91cc\u6d77\u76d7\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 455853446, 
+    "name": "\u300a\u5c01\u795e\u6f14\u4e49\u300b\uff08\u7cbe\u8f83\u5178\u85cf\u7248\uff09[\u7b80\u7e41] HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412696810, 
+    "name": "\u300a\u5c08\u696d\u300b\u535a\u5ba2\u601d\u807d\u4e2d\u6587\u6709\u8072\u66f8\u6458for iPhone version", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331073508, 
+    "name": "\u300a\u5c0f\u4e94\u4e49\u300b\u300a\u5c0f\u4e94\u7fa9\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 674325380, 
+    "name": "\u300a\u5c0f\u5eb7\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 674327685, 
+    "name": "\u300a\u5c0f\u5eb7\u8d22\u667a\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 349974189, 
+    "name": "\u300a\u5c0f\u7d93\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 555590832, 
+    "name": "\u300a\u5c0f\u8bf4\u754c\u300biPad\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 555591115, 
+    "name": "\u300a\u5c0f\u8bf4\u754c\u300biPhone\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 540996679, 
+    "name": "\u300a\u5c71\u575f\u9b3c\u6bcd\u300b\u6709\u58f0\u4e66\u2022\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 465017139, 
+    "name": "\u300a\u5c71\u6d77\u7ecf\u300b\u5168\u4e66\u5341\u516b\u5377 [\u7b80\u7e41] HD", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 507716746, 
+    "name": "\u300a\u5df4\u83f2\u7279\u4f20\u300b\u7b80\u7e41", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 507712415, 
+    "name": "\u300a\u5df4\u83f2\u7279\u4f20\u300b\u7b80\u7e41HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 507958372, 
+    "name": "\u300a\u5e02\u59d4\u73ed\u5b50\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 606673102, 
+    "name": "\u300a\u5e74\u8f7b\u5988\u5988\u4e4b\u53cb\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 893935617, 
+    "name": "\u300a\u5e78\u798f\u5bb6\u5ead\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 769922884, 
+    "name": "\u300a\u5e7b\u53e4\u96f2\u754c\u300b\u4e4b\u300a\u5929\u6daf\u5c0b\u5922\u300b\u795e\u8bdd\u6709\u58f0\u4e66\u7e41\u4f53\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 731338010, 
+    "name": "\u300a\u5e7c\u513f\u56ed\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 376153686, 
+    "name": "\u300a\u5eb7\u7199\u4fa0\u4e49\u4f20\u300b\u300a\u5eb7\u7199\u4fe0\u7fa9\u50b3\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331669300, 
+    "name": "\u300a\u5eb7\u7199\u4fa0\u4e49\u4f20\u300b\u300a\u5eb7\u7199\u4fe0\u7fa9\u50b3\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 483514585, 
+    "name": "\u300a\u5f02\u95fb\u5f55\u300b\u6bcf\u665a\u4e00\u4e2a\u79bb\u5947\u6545\u4e8b [\u7b80\u7e41]", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 516850848, 
+    "name": "\u300a\u5f53\u4f60\u9014\u7ecf\u6211\u7684\u76db\u653e\uff1a\u4e00\u4e2a\u884c\u8005\u7684\u5fc3\u7075\u65c5\u7a0b\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 461161167, 
+    "name": "\u300a\u5f69\u7ed8\u672c\u00b7\u5feb\u4e50\u5206\u7ea7\u9605\u8bfb\u00b7\u5c0f\u5b66\u4f4e\u9636\u2014\u4e00\u5343\u96f6\u4e00\u591c\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 461171152, 
+    "name": "\u300a\u5f69\u7ed8\u672c\u00b7\u5feb\u4e50\u5206\u7ea7\u9605\u8bfb\u00b7\u5c0f\u5b66\u4f4e\u9636\u2014\u4e09\u5b57\u7ecf\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 461161708, 
+    "name": "\u300a\u5f69\u7ed8\u672c\u00b7\u5feb\u4e50\u5206\u7ea7\u9605\u8bfb\u00b7\u5c0f\u5b66\u4f4e\u9636\u2014\u4f0a\u7d22\u5bd3\u8a00\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 461172216, 
+    "name": "\u300a\u5f69\u7ed8\u672c\u00b7\u5feb\u4e50\u5206\u7ea7\u9605\u8bfb\u00b7\u5c0f\u5b66\u4f4e\u9636\u2014\u5343\u5b57\u6587\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 461166147, 
+    "name": "\u300a\u5f69\u7ed8\u672c\u00b7\u5feb\u4e50\u5206\u7ea7\u9605\u8bfb\u00b7\u5c0f\u5b66\u4f4e\u9636\u2014\u5c0f\u5b66\u751f\u5fc5\u8bfb\u53e4\u8bd7\u8bcd\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 461166993, 
+    "name": "\u300a\u5f69\u7ed8\u672c\u00b7\u5feb\u4e50\u5206\u7ea7\u9605\u8bfb\u00b7\u5c0f\u5b66\u4f4e\u9636\u2014\u5f1f\u5b50\u89c4\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 461162940, 
+    "name": "\u300a\u5f69\u7ed8\u672c\u00b7\u5feb\u4e50\u5206\u7ea7\u9605\u8bfb\u00b7\u5c0f\u5b66\u4f4e\u9636\u2014\u6728\u5076\u5947\u9047\u8bb0\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 461169522, 
+    "name": "\u300a\u5f69\u7ed8\u672c\u00b7\u5feb\u4e50\u5206\u7ea7\u9605\u8bfb\u00b7\u5c0f\u5b66\u4f4e\u9636\u2014\u767e\u5bb6\u59d3\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 461165219, 
+    "name": "\u300a\u5f69\u7ed8\u672c\u00b7\u5feb\u4e50\u5206\u7ea7\u9605\u8bfb\u00b7\u5c0f\u5b66\u4f4e\u9636\u2014\u7eff\u91ce\u4ed9\u8e2a\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 461163807, 
+    "name": "\u300a\u5f69\u7ed8\u672c\u00b7\u5feb\u4e50\u5206\u7ea7\u9605\u8bfb\u00b7\u5c0f\u5b66\u4f4e\u9636\u2014\u8111\u7b4b\u6025\u8f6c\u5f2f\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 461160300, 
+    "name": "\u300a\u5f69\u7ed8\u672c\u00b7\u5feb\u4e50\u5206\u7ea7\u9605\u8bfb\u00b7\u5c0f\u5b66\u4f4e\u9636\u2014\u8bba\u8bed\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 333266971, 
+    "name": "\u300a\u5f6d\u516c\u6848\u300b\u300a\u5f6d\u516c\u6848\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 641439374, 
+    "name": "\u300a\u5f71\u89c6\u5708\u300bHD\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 402608919, 
+    "name": "\u300a\u5f9eA\u5230A+\u300b\u535a\u5ba2\u601d\u807d\u4e2d\u6587\u6709\u8072\u66f8\u6458", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 578487354, 
+    "name": "\u300a\u5fae\u7535\u8111\u4e16\u754c\u300b\u6742\u5fd7 for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 486622093, 
+    "name": "\u300a\u5fc3\u7406\u5b78\u5bb6\u300b\u840a\u884c\u6a02\u3000\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 316064407, 
+    "name": "\u300a\u5fc3\u7d93\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 654648751, 
+    "name": "\u300a\u5fc3\u7ecf\u300b\u542c\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 398955352, 
+    "name": "\u300a\u5fd7\u660e\u8207\u6625\u5b0c\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 605262797, 
+    "name": "\u300a\u5feb\u4e50\u4e2d\u56fd\u300b\u6742\u5fd7_01", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495492732, 
+    "name": "\u300a\u5feb\u4e50\u738b\u5b50\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 863008639, 
+    "name": "\u300a\u6027\u683c\u57f9\u990a\u300b\u5f71\u97f3APP", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 336724452, 
+    "name": "\u300a\u602a\u8ac7\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 539215829, 
+    "name": "\u300a\u604b\u7231\u539a\u9ed1\u5b66\u300b\u7a3b\u57ce\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 513180699, 
+    "name": "\u300a\u6050\u6016\u6f2b\u753b\u793e\u300b\u00b7\u65e5\u97e9\u6050\u6016\u7075\u5f02\u7cbe\u9009\u7cfb\u5217", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 524585573, 
+    "name": "\u300a\u60ac\u5d16\u5c71\u5e84\u5947\u6848\u300b\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 459975669, 
+    "name": "\u300a\u60b2\u60e8\u4e16\u754c\u300b\u4e16\u754c\u6587\u5b66\u540d\u8457\uff08\u5168\u4e09\u518c\uff09[\u7b80\u7e41] HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412799280, 
+    "name": "\u300a\u60bc\u5ff5\u611b\u60c5\u300b\u4f55\u897f\u963f \u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 525692268, 
+    "name": "\u300a\u610f\u6797\u300biPad\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 528532988, 
+    "name": "\u300a\u610f\u6797\u300biPhone\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 484038007, 
+    "name": "\u300a\u611b\u60c5\u795e\u79d8\u8abf\u67e5\u7d44\u300b\u5b64\u6ce3\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 319045358, 
+    "name": "\u300a\u611f\u4eba\u5c0f\u6545\u4e8b2\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 318953746, 
+    "name": "\u300a\u611f\u4eba\u5c0f\u6545\u4e8b\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 327756115, 
+    "name": "\u300a\u611f\u4eba\u5c0f\u6545\u4e8b\uff13\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 397591308, 
+    "name": "\u300a\u6200\u611b\u5d29\u6f70\u75c7\u300b\u5b64\u6ce3\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 336959126, 
+    "name": "\u300a\u6210\u8a9e\u6545\u4e8b\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 315142409, 
+    "name": "\u300a\u6211\u7528\u4e00\u751f\u53bb\u5bfb\u627e\u300b-\u6f58\u77f3\u5c79\u7684\u4eba\u751f\u54f2\u5b66", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 327423214, 
+    "name": "\u300a\u6211\u7684\u6297\u6230\u751f\u6d3b\u300b-\u99ae\u7389\u7965\u81ea\u50b3\uff08\u7e41\u9ad4\uff09", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 338966486, 
+    "name": "\u300a\u6218\u56fd\u7b56\u300b\u300a\u6230\u570b\u7b56\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 693898912, 
+    "name": "\u300a\u6237\u5916\u63a2\u9669\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495538248, 
+    "name": "\u300a\u62c7\u6307\u59d1\u5a18\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 685784477, 
+    "name": "\u300a\u62db\u5546\u5f15\u8d44\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 427887139, 
+    "name": "\u300a\u638c\u9605\u7cbe\u54c1\u5c0f\u8bf4\u9009\u300b[\u7b80\u7e41] HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 348962782, 
+    "name": "\u300a\u63a8\u80cc\u5716\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 376604866, 
+    "name": "\u300a\u649e\u7403\u5e2e\u300b2010\u5e743\u6708\u53f7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 829431892, 
+    "name": "\u300a\u649e\u7403\u5e2e\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 496368451, 
+    "name": "\u300a\u6539\u53d8\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412694002, 
+    "name": "\u300a\u6539\u5beb\u898f\u5247\u7684\u4eba\u7368\u8d0f\u300b\u535a\u5ba2\u601d\u807d\u4e2d\u6587\u6709\u8072\u66f8\u6458for iPhone version", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 698021791, 
+    "name": "\u300a\u6545\u4e8b\u4f1a\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 525693496, 
+    "name": "\u300a\u6545\u4e8b\u4f1a\u300biPad\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 528533217, 
+    "name": "\u300a\u6545\u4e8b\u4f1a\u300biPhone\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 777383888, 
+    "name": "\u300a\u6545\u4e8b\u4f1a\u300b\u4e2d\u957f\u7bc7\u6545\u4e8b\u73cd\u85cf\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 761946258, 
+    "name": "\u300a\u6545\u4e8b\u4f1a\u300b\u516b\u5e74\u73cd\u85cf\u5408\u96c6\u7535\u5b50\u9605\u8bfb\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 634302800, 
+    "name": "\u300a\u6570\u7801\u7cbe\u54c1\u4e16\u754c\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 445270653, 
+    "name": "\u300a\u6578\u98a8\u96f2\u4eba\u7269 \u2014\u2014 \u4e09\u570b\u6f14\u7fa9\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 693958310, 
+    "name": "\u300a\u6587\u5316\u4ea7\u4e1a\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 364883348, 
+    "name": "\u300a\u6587\u59cb\u771f\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 367263828, 
+    "name": "\u300a\u6587\u9078\u4e94\u5341\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 463958260, 
+    "name": "\u300a\u6597\u7834\u82cd\u7a79\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 681623433, 
+    "name": "\u300a\u65b0\u4e1c\u65b9\u82f1\u8bed\u00b7\u4e2d\u5b66\u751f\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 681624686, 
+    "name": "\u300a\u65b0\u4e1c\u65b9\u82f1\u8bed\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331999879, 
+    "name": "\u300a\u65b0\u4e94\u4ee3\u53f2\u300b\u300a\u65b0\u4e94\u4ee3\u53f2\u300b\u7b80\u7e41\u4f53", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 677049751, 
+    "name": "\u300a\u65b0\u4f53\u80b2\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 333209402, 
+    "name": "\u300a\u65b0\u5510\u4e66\u300b\u300a\u65b0\u5510\u66f8\u300b\u7c21\u7e41\u9ad4", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 627389994, 
+    "name": "\u300a\u65b0\u7ecf\u6d4e\u300b\u56fe\u6587\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 666191506, 
+    "name": "\u300a\u65b0\u89c6\u89c9\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 674323942, 
+    "name": "\u300a\u65b0\u9ad8\u5c14\u592b\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331672180, 
+    "name": "\u300a\u65bd\u516c\u6848\u300b\u300a\u65bd\u516c\u6848\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 681649832, 
+    "name": "\u300a\u65c5\u53cb\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 681647757, 
+    "name": "\u300a\u65c5\u6e38\u4e16\u754c\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 685787520, 
+    "name": "\u300a\u65c5\u6e38\u60c5\u62a5\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 433842692, 
+    "name": "\u300a\u65e0\u795e\u5927\u9646\u300b\u00b7\u516811\u96c6[\u7b80\u7e41] HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331997002, 
+    "name": "\u300a\u65e7\u4e94\u4ee3\u53f2\u300b\u300a\u820a\u4e94\u4ee3\u53f2\u300b\u7b80\u7e41\u4f53", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 365008180, 
+    "name": "Trends COSMOPOLITAN full version 2010.Feb", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 379363848, 
+    "name": "\u300a\u65f6\u5c1a\u5148\u751f\u300b2010\u5e744\u6708\u520a\u7cbe\u5f69\u5168\u672c", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 378716646, 
+    "name": "\u300a\u65f6\u5c1a\u5148\u751f\u300b2010\u5e745\u6708\u520a \u7cbe\u5f69\u5168\u672c", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 378426648, 
+    "name": "BAZAAR  Mar. 2010 Full Version", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 378430800, 
+    "name": "BAZAAR  Apr. 2010 Full Version", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 378715355, 
+    "name": "BAZAAR  May. 2010 Full Version", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 388537333, 
+    "name": "\u300a\u660e\u62a5\u300b\u7cbe\u8403", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 363446029, 
+    "name": "\u300a\u6613\u5192\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 307394256, 
+    "name": "\u300a\u6613\u7b4b\u7d93\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 317084213, 
+    "name": "\u300a\u6613\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353423042, 
+    "name": "\u300a\u6613\u9690\u300b\u7b80\u7e41\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 451369236, 
+    "name": "\u300a\u6625\u79cb\u4e09\u4f20\u300b\u5178\u85cf\u7248[\u7b80\u7e41] HD", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 337474057, 
+    "name": "\u300a\u6625\u79cb\u6230\u570b\u6b77\u53f2\u6545\u4e8b\u9078\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 581483752, 
+    "name": "\u300a\u66b4\u8d70\u65e5\u8bb0\u300b\u00b7\u53f2\u4e0a\u6700\u5947\u8469\u7684\u7206\u7b11\u6f2b\u753b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 383037499, 
+    "name": "\u300a\u66f2\u9ece\u654f\u517b\u751f\u5341\u4e8c\u8bf4\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 338984050, 
+    "name": "\u300a\u66fe\u56fd\u85e9\u5bb6\u4e66\u300b\u300a\u66fe\u570b\u85e9\u5bb6\u66f8\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 540464851, 
+    "name": "\u300a\u66fe\u7ecf\u6709\u4f60\u300b\u7a3b\u57ce\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 534130611, 
+    "name": "\u300a\u6700\u4e2d\u56fd\u53f2\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 504088273, 
+    "name": "\u300a\u6700\u7f8e\u4e2d\u56fd\u65b9\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 334890228, 
+    "name": "\u300a\u6709\u8da3\u5ee3\u6771\u8a71\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 693961324, 
+    "name": "\u300a\u670d\u9970\u5bfc\u62a5\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 489128103, 
+    "name": "\u300a\u671d\u82b1\u5915\u62fe\u300b\u7a3b\u57ce\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495926821, 
+    "name": "\u300a\u6728\u5076\u5947\u9047\u8bb0\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330928066, 
+    "name": "\u300a\u6728\u5170\u5947\u5973\u4f20\u300b\u300a\u6728\u862d\u5947\u5973\u50b3\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 374845659, 
+    "name": "\u300a\u672a\u676530\u5e74\u4e2d\u56fd\u6539\u9769\u5927\u52bf\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412693560, 
+    "name": "\u300a\u672b\u65e5\u535a\u58eb\u5371\u6a5f\u7d93\u6fdf\u5b78\u300b\u535a\u5ba2\u601d\u807d\u4e2d\u6587\u6709\u8072\u66f8\u6458for iPhone version", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 410846279, 
+    "name": "\u300a\u672c\u8349\u7db1\u76ee\u300b\u7e41\u9ad4\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 411081085, 
+    "name": "\u300a\u672c\u8349\u7eb2\u76ee\u300b\u7b80\u4f53\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 368549542, 
+    "name": "\u300a\u6731\u5b50\u5bb6\u8a13\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 327326344, 
+    "name": "\u300a\u6731\u81ea\u6e05\u6563\u6587\u300b\uff08\u7e41\u9ad4\uff09", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 531026672, 
+    "name": "\u300a\u6731\u96c0\u8bb0\u300b\u5168\u4e03\u90e8[\u7b80\u7e41]", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 316190630, 
+    "name": "\u300a\u674e\u6e05\u7167\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 343739208, 
+    "name": "\u300a\u674e\u6e05\u7167\u8bcd\u5168\u96c6\u300b\u300a\u674e\u6e05\u7167\u8a5e\u5168\u96c6\u300b\uff08\u7cbe\u6392\u7cbe\u6821\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 316122637, 
+    "name": "\u300a\u674e\u715c\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 339965608, 
+    "name": "\u300a\u674e\u715c\u8bd7\u8bcd\u96c6\u300b\u300a\u674e\u715c\u8a69\u8a5e\u96c6\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 317779559, 
+    "name": "\u300a\u674e\u767d\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 337712177, 
+    "name": "\u300a\u674e\u9e3f\u7ae0\u4f20\u300b\u300a\u674e\u9d3b\u7ae0\u50b3\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 481961396, 
+    "name": "\u300a\u675c\u62c9\u62c9\u4e09\u90e8\u66f2\u300b\uff08\u804c\u573a\u4fee\u70bc\u5fc5\u5907\uff09[\u7b80\u7e41]", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 338640818, 
+    "name": "\u300a\u6768\u5bb6\u5c06\u300b\u300a\u694a\u5bb6\u5c07\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 499162668, 
+    "name": "\u300a\u6770\u514b\u00b7\u97e6\u5c14\u5947\u81ea\u4f20\u300b \u7b80\u7e41HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 498953921, 
+    "name": "\u300a\u6770\u514b\u00b7\u97e6\u5c14\u5947\u81ea\u4f20\u300b\u7b80\u7e41", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 308637236, 
+    "name": "\u300a\u6771\u5468\u5217\u570b\u5fd7\u300b \u300a\u4e1c\u5468\u5217\u56fd\u5fd7\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 329867255, 
+    "name": "\u300a\u6771\u5468\u5217\u570b\u5fd7\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 510842689, 
+    "name": "\u300a\u6797\u4e66\u8c6a\uff01\u4ece\u54c8\u4f5b\u5230\u5168\u660e\u661f\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 903702998, 
+    "name": "\u300a\u6881\u671b\u5cef\u5c0f\u8aaa\u5408\u96c6\u300b\u6881\u671b\u5cef\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 465017646, 
+    "name": "\u300a\u68a6\u6eaa\u7b14\u8c08\u300b\u4e2d\u56fd\u79d1\u5b66\u53f2\u4e0a\u7684\u5750\u6807 [\u7b80\u7e41] HD", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 346203213, 
+    "name": "\u300a\u68cb\u7d93\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330918089, 
+    "name": "\u300a\u694a\u5bb6\u5c07\u300b\u300a\u694a\u5bb6\u5c07\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 321328680, 
+    "name": "\u300a\u695e\u56b4\u7d93\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 527039986, 
+    "name": "\u300a\u69ff\u745f\u300b\u7a3b\u57ce\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 863005435, 
+    "name": "\u300a\u6b61\u5531\u8a69\u6b4c\u300b\u5f71\u97f3APP", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 338966123, 
+    "name": "\u300a\u6b63\u5b57\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 463957895, 
+    "name": "\u300a\u6b65\u6b65\u60ca\u5fc3\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 321849427, 
+    "name": "\u300a\u6bdb\u4e3b\u5e2d\u8bed\u5f55\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 421058248, 
+    "name": "\u300a\u6bdb\u4e3b\u5e2d\u8bed\u5f55\u300b[\u7b80\u7e41] HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 545509120, 
+    "name": "\u300a\u6bdb\u6cfd\u4e1c\u4f20\u300b\u4eba\u5927\u51fa\u7248\u793e\u51fa\u54c1\u00b7\u591a\u770b\u5236\u4f5c", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 325169036, 
+    "name": "\u300a\u6c34\u6d52\u82f1\u96c4\u4f20\u300b\uff08\u6f2b\u753b\uff09", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 329472540, 
+    "name": "\u300a\u6c34\u6ef8\u50b3\u300b\u300a\u6c34\u6d52\u4f20\u300b\u7b80\u4f53\u7e41\u9ad4", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 329863779, 
+    "name": "\u300a\u6c49\u4e66\u300b\u7b80\u4f53", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 493475205, 
+    "name": "ChineseMandarinLanguage1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 685789328, 
+    "name": "\u300a\u6c7d\u8f66\u4e0e\u8fd0\u52a8\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 588285631, 
+    "name": "\u300a\u6c7d\u8f66\u4e0e\u9a7e\u9a76\u7ef4\u4fee\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 432489802, 
+    "name": "\u300aCar Guide\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 432460171, 
+    "name": "Car Guide HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 681656289, 
+    "name": "\u300a\u6c7d\u8f66\u65cf\u300b\u5bcc\u5a92", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 524581770, 
+    "name": "\u300a\u6c99\u50e7\u65e5\u8bb0\u5168\u96c6\u300b\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 532044361, 
+    "name": "\u300a\u6ce8\u76ee\u793c\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 338646475, 
+    "name": "\u300a\u6d4e\u516c\u5168\u4f20\u300b\u300a\u6fdf\u516c\u5168\u50b3\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331077031, 
+    "name": "\u300a\u6d4e\u516c\u5168\u4f20\u300b\u300a\u6fdf\u516c\u5168\u50b3\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331535164, 
+    "name": "\u300a\u6d77\u516c\u5927\u7ea2\u888d\u4f20\u300b\u300a\u6d77\u516c\u5927\u7d05\u888d\u50b3\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331536487, 
+    "name": "\u300a\u6d77\u516c\u5c0f\u7ea2\u888d\u4f20\u300b\u300a\u6d77\u516c\u5c0f\u7d05\u888d\u50b3\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331545407, 
+    "name": "\u300a\u6d77\u56fd\u6625\u79cb\u300b\u300a\u6d77\u570b\u6625\u79cb\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 634290049, 
+    "name": "\u300a\u6d77\u5ce1\u65c5\u6e38\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495568831, 
+    "name": "\u300a\u6d77\u7684\u5973\u513f\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 768531139, 
+    "name": "\u300a\u6d77\u98ce\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 353423081, 
+    "name": "\u300a\u6e0a\u6d77\u5b50\u5e73\u300b\u7b80\u7e41\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495943945, 
+    "name": "\u300a\u6e14\u592b\u548c\u91d1\u9c7c\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 669311387, 
+    "name": "\u300a\u6e29\u6cc9\u65c5\u6e38\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 374208571, 
+    "name": "\u300a\u6e2f\u6fb3\u9748\u7570\u6545\u4e8b\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 367626221, 
+    "name": "\u300a\u6eab\u6c0f\u6bcd\u8a13\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 363447276, 
+    "name": "\u300a\u6ef4\u5929\u9ad3\u300b\u7b80\u7e41\u7248", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 786894889, 
+    "name": "\u300a\u6f2b\u753b\u738b\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 309826026, 
+    "name": "\u300a\u6fdf\u516c\u5168\u50b3\u300b\u300a\u6d4e\u516c\u5168\u4f20\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495736821, 
+    "name": "\u300a\u7070\u59d1\u5a18\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 330091457, 
+    "name": "\u300a\u70ba\u4ec0\u9ebc\uff1f\u4eba\u9ad4\u7bc7\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 317007952, 
+    "name": "\u300a\u7121\u91cf\u58fd\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 615212640, 
+    "name": "\u300a\u7231\u5973\u4eba\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331530183, 
+    "name": "\u300a\u72c4\u516c\u6848\u300b\u300a\u72c4\u516c\u6848\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331528897, 
+    "name": "\u300a\u72c4\u9752\u6f14\u4e49\u300b\u300a\u72c4\u9752\u6f14\u7fa9\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495934740, 
+    "name": "\u300a\u72fc\u548c\u4e03\u53ea\u5c0f\u7f8a\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 448140540, 
+    "name": "\u300a\u72fc\u56fe\u817e\u300b\u6709\u58f0\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 673422665, 
+    "name": "\u300a\u72fc\u6765\u4e86\u300b\u7ecf\u5178\u7ed8\u672c\u6709\u58f0\u6545\u4e8b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 388454128, 
+    "name": "\u300a\u7336\u592a\u4eba\u7684\u667a\u6167\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 317790170, 
+    "name": "\u300a\u7389\u6b77\u5bf6\u9214\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 618694159, 
+    "name": "\u300a\u73a9\u5bb6\u60e0\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 570632018, 
+    "name": "\u300a\u73af\u7403\u4eba\u6587\u5730\u7406\u300b\u6742\u5fd7 for iPhone", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 689110013, 
+    "name": "\u300a\u73af\u7403\u4eba\u7269\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 327330527, 
+    "name": "\u300a\u751f\u6b7b\u5834\u300b-\u856d\u7d05", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 359857616, 
+    "name": "\u300aLife Magazine\u300bNo.51", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 366788288, 
+    "name": "Life Magazine No.52", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 375757564, 
+    "name": "\u300a\u751f\u6d3b\u6708\u520a\u300b53\u671f", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 375760407, 
+    "name": "\u300a\u751f\u6d3b\u6708\u520a\u300b54\u671f \u7cbe\u5f69\u5168\u672c", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 681647494, 
+    "name": "\u300a\u7535\u5b50\u7ade\u6280\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 505766682, 
+    "name": "\u300a\u7537\u4eba\u6765\u81ea\u4e1c\u571f\u5927\u5510 \u5973\u4eba\u4f4f\u5728\u897f\u65b9\u51c0\u571f\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 366083028, 
+    "name": "Trends FHM Feb.2010", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 378464424, 
+    "name": "FOR HIM MAGAZINE  May.2010 Full Version", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 375754674, 
+    "name": "\u300a\u7537\u4eba\u88c5\u300b\u7cbe\u5f69\u5168\u672c 2010\u5e744\u6708", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 541025219, 
+    "name": "\u300a\u7537\u5973\u5185\u53c2\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 863019066, 
+    "name": "\u300a\u7570\u8c61\u8ca0\u64d4 \u300b\u5f71\u97f3APP", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 494451332, 
+    "name": "\u300a\u75af\u72c2\u82f1\u8bed\u300b\u53e3\u8bed\u6709\u58f0\u7248\u5ba2\u6237\u7aef", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 458057828, 
+    "name": "\u300a\u75c5\u614b\u611b\u60c5\u300b\u5b64\u6ce3\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 371681392, 
+    "name": "\u300a\u75e3\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 337271853, 
+    "name": "\u300a\u767d\u8a71\u804a\u9f4b\u9078\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 496547477, 
+    "name": "\u300a\u767d\u96ea\u516c\u4e3b\u300b\u7ae5\u8bdd", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 483327721, 
+    "name": "\u300a\u767d\u9e7f\u539f\u300b\u672a\u5220\u8282\u7248\u2022\u8305\u76fe\u6587\u5b66\u5956\uff0c\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 318557767, 
+    "name": "\u300a\u767e\u55bb\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 685240543, 
+    "name": "\u300a\u7687\u5e1d\u5185\u7ecf\u2022\u7075\u67a2\u300b\u4e2d\u533b\u57fa\u672c\u7406\u8bba\u6e0a\u6e90\u2022\u73b0\u5b58\u6700\u65e9\u7684\u4e2d\u533b\u7406\u8bba\u8457\u4f5c \u5168\u5377\u540c\u6b65\u6717\u8bfb\u3010\u6709\u58f0\u5178\u85cf\u7248\u3011", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 685232778, 
+    "name": "\u300a\u7687\u5e1d\u5185\u7ecf\u2022\u7d20\u95ee\u300b\u4e2d\u533b\u57fa\u672c\u7406\u8bba\u6e0a\u6e90\u2022\u73b0\u5b58\u6700\u65e9\u7684\u4e2d\u533b\u7406\u8bba\u8457\u4f5c \u5168\u5377\u540c\u6b65\u6717\u8bfb\u3010\u6709\u58f0\u5178\u85cf\u7248\u3011", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495508735, 
+    "name": "\u300a\u7687\u5e1d\u7684\u65b0\u88c5\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 727617954, 
+    "name": "\u300a\u76d7\u5893\u7b14\u8bb0\u300b\u4e91\u9876\u5929\u5bab \u5b8c\u6574\u7248\u5168\u7bc7\u6717\u8bfb\u3010\u6709\u58f0\u5178\u85cf\u7248\u3011", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 727617898, 
+    "name": "\u300a\u76d7\u5893\u7b14\u8bb0\u300b\u79e6\u5cad\u795e\u6811 \u5b8c\u6574\u7248\u5168\u7bc7\u6717\u8bfb\u3010\u6709\u58f0\u5178\u85cf\u7248\u3011", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 727618078, 
+    "name": "\u300a\u76d7\u5893\u7b14\u8bb0\u300b\u86c7\u6cbc\u9b3c\u57ce \u5b8c\u6574\u7248\u5168\u7bc7\u6717\u8bfb\u3010\u6709\u58f0\u5178\u85cf\u7248\u3011", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 727622519, 
+    "name": "\u300a\u76d7\u5893\u7b14\u8bb0\u300b\u8c1c\u6d77\u5f52\u5de2 \u7b2c\u4e00\u5b63\u5927\u7ed3\u5c40\u2022\u5b8c\u6574\u7248\u5168\u7bc7\u6717\u8bfb\u3010\u6709\u58f0\u5178\u85cf\u7248\u3011", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 727618025, 
+    "name": "\u300a\u76d7\u5893\u7b14\u8bb0\u300b\u9634\u5c71\u53e4\u697c \u5b8c\u6574\u7248\u5168\u7bc7\u6717\u8bfb\u3010\u6709\u58f0\u5178\u85cf\u7248\u3011", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 475907338, 
+    "name": "\u300a\u76d7\u5893\u7b14\u8bb0\u5168\u96c6\u300b[\u76d7\u5893\u5c0f\u8bf4\u7cbe\u900940+]", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 523477940, 
+    "name": "\u300a\u76d7\u5893\u7b14\u8bb0\u5168\u96c6\u300b[\u76d7\u5893\u7cfb\u5217\u5c0f\u8bf4\u7cbe\u900930+]", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 854217342, 
+    "name": "\u300a\u771f\u7406\u5c0d\u8ac7\u300b\u5f71\u97f3APP", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495511974, 
+    "name": "\u300a\u7761\u7f8e\u4eba\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 868597342, 
+    "name": "\u300a\u77e5\u97f3\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 372936509, 
+    "name": "\u300a\u77ed\u7bc7\u5075\u63a2\u5c0f\u8aaa\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 319488985, 
+    "name": "\u300a\u7948\u79b1\u6587\u96c6\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 747776101, 
+    "name": "\u300a\u795d\u4f60\u5e78\u798f\u00b7\u77e5\u5fc3\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 523998148, 
+    "name": "\u300a\u795e\u5175\u524d\u4f20\u300b\u5168\u96c6", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 693958823, 
+    "name": "\u300a\u795e\u5dde\u00b7\u978b\u4e16\u754c\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 892629662, 
+    "name": "\u300a\u79c1\u5bb6homestyle\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 492468779, 
+    "name": "\u300a\u79d8\u5883PHOTO\u300b\u521b\u520a\u53f7", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 337559755, 
+    "name": "\u300a\u79e6\u6f22\u6b77\u53f2\u6545\u4e8b\u9078\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 893914420, 
+    "name": "\u300a\u7ae5\u8bdd\u738b\u56fd\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 522328451, 
+    "name": "\u300a\u7b2c\u4e5d\u4e2a\u5be1\u5987\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 415159483, 
+    "name": "\u300a\u7c7b\u7ecf\u300b\u7b80\u4f53\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 533709058, 
+    "name": "\u300a\u7cbe\u795e\u75c5\u5b66\u9662\u6bd5\u4e1a\u751f\u300b:\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 316553396, 
+    "name": "\u300a\u7d05\u6a13\u5922\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 308580142, 
+    "name": "\u300a\u7d05\u6a13\u5922\u300b\u524d20\u56de(\u7e41\u9ad4) hongloumeng sidamingzhu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 393293539, 
+    "name": "\u300a\u7d05\u6a13\u5922\u300b\u60c5\u611b\u89e3\u78bc(9\u672c\u7c21\u7e41)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 317165634, 
+    "name": "\u300a\u7dad\u6469\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 453417627, 
+    "name": "\u300a\u7ea2\u697c\u68a6\u56fe\u548f\u300b\u65e5\u672c\u65e9\u7a3b\u7530\u5927\u5b66\u56fe\u4e66\u9986\u85cf\uff08\u51684\u5377\uff09", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 405435985, 
+    "name": "\u300a\u7ecf\u5178\u513f\u7ae5\u6545\u4e8b\u96c6\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 675966376, 
+    "name": "\u300a\u7ecf\u6d4e\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331674974, 
+    "name": "\u300a\u7ee3\u4e91\u9601\u300b\u300a\u7e61\u96f2\u95a3\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331095524, 
+    "name": "\u300a\u7eed\u6d4e\u516c\u4f20\u300b\u300a\u7e8c\u6fdf\u516c\u50b3\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331097670, 
+    "name": "\u300a\u7eed\u82f1\u70c8\u4f20\u300b\u300a\u7e8c\u82f1\u70c8\u50b3\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331831817, 
+    "name": "\u300a\u7eff\u91ce\u4ed9\u8e2a\u300b\u300a\u7da0\u91ce\u4ed9\u8e64\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 407416635, 
+    "name": "\u300a\u7f20\u300bfor iPad", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 728221694, 
+    "name": "\u300a\u7f8e\u4e4b\u5473\u300b\u7172\u6c64\u83dc\u8c31\u5927\u5168", 
+    "price": 23.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 505760128, 
+    "name": "\u300a\u7f8e\u5143\u4e0d\u5b89\u5206\uff0c\u6211\u4eec\u600e\u4e48\u529e\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 382177471, 
+    "name": "Photo Album of Expo 2010", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 852205770, 
+    "name": "\u300a\u7f8e\u597d\u5bb6\u56ed\u300b\u5bb6\u5c45\u56ed\u827a\u5168\u96c6", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 448234033, 
+    "name": "\u300a\u7f8e\u7ed8\u672c\u00b7\u5feb\u4e50\u9605\u8bfb-\u4e09\u56fd\u6f14\u4e49\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 453396966, 
+    "name": "\u300a\u7f8e\u7ed8\u672c\u00b7\u5feb\u4e50\u9605\u8bfb-\u5b89\u5f92\u751f\u7ae5\u8bdd\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 451946729, 
+    "name": "\u300a\u7f8e\u7ed8\u672c\u00b7\u5feb\u4e50\u9605\u8bfb-\u6210\u8bed\u6545\u4e8b\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 451945506, 
+    "name": "\u300a\u7f8e\u7ed8\u672c\u00b7\u5feb\u4e50\u9605\u8bfb-\u6606\u866b\u8bb0\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 453397355, 
+    "name": "\u300a\u7f8e\u7ed8\u672c\u00b7\u5feb\u4e50\u9605\u8bfb-\u683c\u6797\u7ae5\u8bdd\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 450011702, 
+    "name": "\u300a\u7f8e\u7ed8\u672c\u00b7\u5feb\u4e50\u9605\u8bfb-\u6c34\u6d52\u4f20\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 451947558, 
+    "name": "\u300a\u7f8e\u7ed8\u672c\u00b7\u5feb\u4e50\u9605\u8bfb-\u7231\u4e3d\u4e1d\u6f2b\u6e38\u5947\u5883\u8bb0\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 453395908, 
+    "name": "\u300a\u7f8e\u7ed8\u672c\u00b7\u5feb\u4e50\u9605\u8bfb-\u7231\u7684\u6559\u80b2\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 450013330, 
+    "name": "\u300a\u7f8e\u7ed8\u672c\u00b7\u5feb\u4e50\u9605\u8bfb-\u798f\u5c14\u6469\u65af\u63a2\u6848\u96c6\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 448233282, 
+    "name": "\u300a\u7f8e\u7ed8\u672c\u00b7\u5feb\u4e50\u9605\u8bfb-\u897f\u6e38\u8bb0\uff08\u62fc\u97f3\u7248\uff09\u300bHD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 693959624, 
+    "name": "\u300a\u7f8e\u98df\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 541906485, 
+    "name": "\u300a\u7fe9\u7136\u4e00\u5f80\u300b\u7a3b\u57ce\u7248", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 521632746, 
+    "name": "\u300a\u8001\u5a46\u4f7f\u7528\u8bf4\u660e\u4e66\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330163790, 
+    "name": "\u300a\u8001\u6b98\u904a\u8a18\u300b\u300a\u8001\u6b8b\u6e38\u8bb0\u300b\u7c21\u7e41\u9ad4", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 675171078, 
+    "name": "\u300a\u8001\u864e\u62d4\u7259\u300b\u7ecf\u5178\u7ed8\u672c\u6709\u58f0\u6545\u4e8b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 597389942, 
+    "name": "\u300a\u8056\u7d93\u548c\u5408\u672c\u300b\u7e41\u9ad4\u66f8\u6709\u8072\u7248", 
+    "price": 24.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 511296019, 
+    "name": "\u300a\u8056\u7d93\u548c\u5408\u672c\u300b\u7e41\u9ad4\u66f8\u7248", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 854347442, 
+    "name": "\u300a\u8077\u4e8b\u4fe1\u606f\u300b\u5f71\u97f3APP", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 363375812, 
+    "name": "\u300aHurun Report\u300bMagazine Feb 2010 full version", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 378421502, 
+    "name": "Hurun Report Apr.2010 Full Version", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 378716836, 
+    "name": "Hurun Report  May. 2010 Full Version", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 473902810, 
+    "name": "\u300a\u80f8\u5fc3\u5916\u79d1\u89e3\u5256\u56fe\u8c31\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 596653593, 
+    "name": "\u300a\u820a\u540c\u5b78\u805a\u6703\u300b\u5b64\u6ce3 \u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 652747697, 
+    "name": "\u300a\u822a\u7a7a\u4e16\u754c\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 674328798, 
+    "name": "\u300a\u827a\u672f\u94f6\u884c\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 505344909, 
+    "name": "\u300a\u82b1\u7532\u80cc\u5305\u5ba2\u300b\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 343753862, 
+    "name": "\u300a\u82cf\u8f7c\u8bcd\u5168\u96c6\u300b\u300a\u8607\u8efe\u8a5e\u5168\u96c6\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 363570206, 
+    "name": "\u300a\u82e6\u8def\u5584\u5de5\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 588951134, 
+    "name": "\u300a\u82f1\u624d\u300biPad\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330914560, 
+    "name": "\u300a\u82f1\u70c8\u50b3\u300b\u300a\u82f1\u70c8\u4f20\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 494482772, 
+    "name": "\u300a\u8349\u6837\u5e74\u534e\u300b\u2460\u2461\u2462\u2463\u5927\u5168\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 317857491, 
+    "name": "\u300a\u838a\u5b50\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 731298787, 
+    "name": "\u300a\u83c1\u82f1\u8f66\u4e3b\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 436555640, 
+    "name": "\u300a\u840a\u884c\u6a02\u5c0f\u8aaa\u7cfb\u5217\u300b\u840a\u884c\u6a02 \u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 542735915, 
+    "name": "\u300a\u840c\u52a8\u7684\u5b63\u8282\u300b\u7a3b\u57ce\u7248", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 346484443, 
+    "name": "\u300a\u846c\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 372345923, 
+    "name": "\u300a\u8499\u5b66\u7ecf\u5178\u300b\u300a\u8499\u5b78\u7d93\u5178\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 333221854, 
+    "name": "\u300a\u8584\u4f3d\u68b5\u6b4c\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330968821, 
+    "name": "\u300a\u859b\u521a\u53cd\u5510\u300b\u300a\u859b\u525b\u53cd\u5510\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 349136767, 
+    "name": "\u300a\u85e5\u5e2b\u7d93\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 320948778, 
+    "name": "\u300a\u8607\u6771\u5761\u8a5e\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 486240734, 
+    "name": "\u300a\u8717\u5c45\u300b\u516d\u516d\u4f5c\u54c1\u7cbe\u9009 [\u7b80\u7e41]", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 542585070, 
+    "name": "\u300a\u8774\u8776\u5b63\u300b\u7cfb\u5217\u56fe\u4e66\u00b7\u60a6\u8bfb\u51fa\u54c1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 693956852, 
+    "name": "\u300a\u878d\u8d44\u4e2d\u56fd\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 542324601, 
+    "name": "\u300a\u8840\u9762\u7eb1\u300b\u6709\u58f0\u4e66\u2022\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 896079726, 
+    "name": "\u300a\u884c\u4e50\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 449082165, 
+    "name": "\u300a\u884c\u904d\u4e2d\u570b\u6444\u5f71\u96c6\u300b\uff0d\u7a7f\u8d8a\u4e2d\u570b\u65c5\u9014\u7d00\u5be6", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 476493145, 
+    "name": "\u300a\u897f\u6d0b\u83dc\u8857\u7684\u5929\u7a7a\u300b\u5b64\u6ce3\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 535744345, 
+    "name": "\u300a\u897f\u85cf\u7684\u6218\u4e89\u300b\u4eba\u6c11\u6587\u5b66\u51fa\u7248\u793e\u00b7\u591a\u770b\u5236\u4f5c", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 349881030, 
+    "name": "\u300a\u89c0\u7d93\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 364887528, 
+    "name": "\u300a\u8a69\u9078\u4e00\u767e\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330793825, 
+    "name": "\u300a\u8aaa\u5510\u5168\u50b3\u300b(\u300a\u8aaa\u5510\u524d\u50b3\u300b\u300a\u8aaa\u5510\u5f8c\u50b3\u300b\u300a\u8aaa\u5510\u4e09\u50b3\u300b)\u7c21\u7e41\u9ad4", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 310574575, 
+    "name": "\u300a\u8aaa\u5cb3\u5168\u50b3\u300b\u300a\u8bf4\u5cb3\u5168\u4f20\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 316223904, 
+    "name": "\u300a\u8ad6\u8a9e\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 323491808, 
+    "name": "\u300a\u8af8\u845b\u4eae\u5175\u6cd5\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 507956749, 
+    "name": "\u300a\u8b93\u6211\u627e\u5230\u4f60\u300b\u5b64\u6ce3\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 586576560, 
+    "name": "\u300a\u8bba\u8bed\u300b(\u6709\u58f0\u540c\u6b65+\u6ce8\u97f3+\u89e3\u91ca)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 559753391, 
+    "name": "\u300a\u8bba\u8bed\u300b(\u6709\u58f0\u540c\u6b65+\u6ce8\u97f3+\u89e3\u91ca) HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 681073301, 
+    "name": "\u300a\u8bba\u8bed\u300b\u4e2d\u56fd\u4eba\u7684\u5723\u7ecf\u2022\u6d89\u53ca\u4eba\u7c7b\u751f\u6d3b\u8bf8\u591a\u65b9\u9762\u7684\u5112\u5bb6\u7ecf\u5178\u8457\u4f5c 20\u7bc7\u5b8c\u6574\u540c\u6b65\u6717\u8bfb \u3010\u6709\u58f0\u5178\u85cf\u7248\u3011", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 654634882, 
+    "name": "\u300a\u8bba\u8bed\u300b\u542c\u4e66\u57ce\u51fa\u54c1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 677069165, 
+    "name": "\u300a\u8be0\u91caTRENDS\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 338386545, 
+    "name": "\u300a\u8bf4\u5cb3\u5168\u4f20\u300b\u300a\u8aaa\u5cb3\u5168\u50b3\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 372125651, 
+    "name": "\u300a\u8bf8\u5b50\u767e\u5bb6\u300b\u300a\u8af8\u5b50\u767e\u5bb6\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 583784416, 
+    "name": "\u300a\u8bfb\u5929\u4e0b\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 460918794, 
+    "name": "\u300a\u8bfb\u8005\u300biPad\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 462072245, 
+    "name": "\u300a\u8bfb\u8005\u300biPhone\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 598561629, 
+    "name": "\u300a\u8bfb\u8005\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 717099104, 
+    "name": "\u300a\u8bfe\u5802\u5185\u5916\u521d\u4e2d\u7248\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 717099055, 
+    "name": "\u300a\u8bfe\u5802\u5185\u5916\u5c0f\u5b66\u7248\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 717099262, 
+    "name": "\u300a\u8bfe\u5802\u5185\u5916\u9ad8\u4e2d\u7248\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 407190282, 
+    "name": "\u300a\u8c01\u662f\u4e16\u4e0a\u6700\u65e0\u60c5\u7684\u4eba\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 407433448, 
+    "name": "\u300a\u8c01\u662f\u4e16\u4e0a\u6700\u65e0\u60c5\u7684\u4eba\u300bfor iPad", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 307257283, 
+    "name": "\u300a\u8cc7\u6cbb\u901a\u9452\u300b\u300a\u8d44\u6cbb\u901a\u9274\u300b Comprehensive Mirror to Aid in Government", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 705678933, 
+    "name": "\u300a\u8d44\u672c\u4ea4\u6613\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330646010, 
+    "name": "\u300a\u8d44\u6cbb\u901a\u9274\u300b\u300a\u8cc7\u6cbb\u901a\u9452\u300b\u7b80\u4f53", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 367805887, 
+    "name": "\u300a\u8d44\u6cbb\u901a\u9274\u300b\u300a\u8cc7\u6cbb\u901a\u9452\u300b\uff08\u80e1\u4e09\u7701\u6ce8\uff09", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 449477581, 
+    "name": "\u300a\u8d44\u6cbb\u901a\u9274\u300b\u5168\u9274294\u5377\u00b7\u5178\u85cf\u7248[\u7b80\u7e41] HD", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 525693525, 
+    "name": "\u300a\u8d70\u5427\uff0c\u4e3a\u4e86\u7231\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 349324744, 
+    "name": "\u300a\u8d77\u4fe1\u8ad6\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 335488224, 
+    "name": "\u300a\u8da3\u5473\u5ee3\u6771\u8a712\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 335560678, 
+    "name": "\u300a\u8da3\u5473\u5ee3\u6771\u8a713\u300b", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 490014868, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u5065\u5eb7\u7bc7 \u7b2c\u4e00\u8f91", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 493438495, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u5065\u5eb7\u7bc7 \u7b2c\u4e00\u96c6HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 490901098, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u5065\u5eb7\u7bc7 \u7b2c\u4e8c\u8f91", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495611418, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u5065\u5eb7\u7bc7HD \u7b2c\u4e09\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495611291, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u5065\u5eb7\u7bc7HD \u7b2c\u4e8c\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495621983, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u5065\u5eb7\u7bc7HD \u7b2c\u4e94\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495621113, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u5065\u5eb7\u7bc7HD \u7b2c\u56db\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495634820, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u996e\u98df\u7bc7HD \u7b2c\u4e03\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495632176, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u996e\u98df\u7bc7HD \u7b2c\u4e09\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495632021, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u996e\u98df\u7bc7HD \u7b2c\u4e8c\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495633799, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u996e\u98df\u7bc7HD \u7b2c\u4e94\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495634332, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u996e\u98df\u7bc7HD \u7b2c\u516d\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495633283, 
+    "name": "\u300a\u8eab\u8fb9\u7684\u5965\u79d8\u300b\u996e\u98df\u7bc7HD \u7b2c\u56db\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 516846849, 
+    "name": "\u300a\u8f9e\u804c\uff0c\u53bb\u65c5\u884c\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 418068663, 
+    "name": "\u300a\u8fa6\u516c\u5ba4\u5927\u4f5c\u6230\u300b\u840a\u884c\u6a02 \u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 407186098, 
+    "name": "\u300a\u8fc7\u76ee\u5c31\u5fd8\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 532012913, 
+    "name": "\u300a\u8fd8\u6709\u4e00\u53ea\u72d7\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412685311, 
+    "name": "\u300a\u9019\u662f\u4f60\u7684\u8239\u300b\u535a\u5ba2\u601d\u807d\u4e2d\u6587\u6709\u8072\u66f8\u6458 iPhone version", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 315958614, 
+    "name": "\u300a\u9053\u5fb7\u7d93\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 654647215, 
+    "name": "\u300a\u9053\u5fb7\u7ecf\u300b\u542c\u4e66\u57ce\u51fa\u54c1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 407187217, 
+    "name": "\u300a\u90a3\u4e00\u591c\u6211\u4f24\u5bb3\u4e86\u4f60\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 407434693, 
+    "name": "\u300a\u90a3\u4e00\u591c\u6211\u4f24\u5bb3\u4e86\u4f60\u300bfor iPad", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 490074718, 
+    "name": "\u300a\u90a3\u591a\u7075\u5f02\u624b\u8bb0\u300b\uff08\u60ac\u7591\u60ca\u609a\uff09[\u7b80\u7e41]", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 651964303, 
+    "name": "\u300a\u90fd\u5e02\u5065\u5eb7\u4eba\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 654641902, 
+    "name": "\u300a\u91d1\u521a\u7ecf\u300b\u542c\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 315897961, 
+    "name": "\u300a\u91d1\u525b\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 531284128, 
+    "name": "\u300a\u91d1\u6cf0\u4f1a\u300biPad\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 533033410, 
+    "name": "\u300a\u91d1\u6cf0\u4f1a\u300biPhone\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 319751085, 
+    "name": "\u300a\u91d1\u74f6\u6885\u300b\u7981\u672c", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 515679626, 
+    "name": "\u300a\u91d1\u74f6\u6885\u300b\u8fde\u73af\u753b-\u4e2d\u56fd\u53f2\u4e0a\u6700\u5177\u4e89\u8bae\u4e66\u7c4d", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 618672443, 
+    "name": "\u300a\u91d1\u8272\u5e74\u4ee3\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 486294079, 
+    "name": "\u300a\u91d1\u9675\u5341\u4e09\u9497\u300b\u00b7\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 616441987, 
+    "name": "\u300a\u9500\u552e\u4e0e\u5e02\u573a\u00b7\u5546\u5b66\u9662\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 331662614, 
+    "name": "\u300a\u955c\u82b1\u7f18\u300b\u300a\u93e1\u82b1\u7de3\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330809703, 
+    "name": "\u300a\u95b1\u5fae\u8349\u5802\u7b46\u8a18\u300b\u300a\u9605\u5fae\u8349\u5802\u7b14\u8bb0\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 797271594, 
+    "name": "\u300a\u9632\u52a1\u89c6\u70b9\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 332001998, 
+    "name": "\u300a\u9648\u4e66\u300b\u300a\u9673\u66f8\u300b\u7b80\u7e41\u4f53", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 333266541, 
+    "name": "\u300a\u968b\u4e66\u300b\u300a\u968b\u66f8\u300b\u7b80\u7e41\u4f53", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 338389343, 
+    "name": "\u300a\u968b\u5510\u6f14\u4e49\u300b\u300a\u968b\u5510\u6f14\u7fa9\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330796056, 
+    "name": "\u300a\u968b\u5510\u6f14\u7fa9\u300b\u300a\u968b\u5510\u6f14\u4e49\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330816896, 
+    "name": "\u300a\u96cd\u6b63\u528d\u4fe0\u5716\u300b\u300a\u96cd\u6b63\u528d\u4fe0\u5716\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 311312351, 
+    "name": "\u300a\u96e8\u5df7\uff1a\u6234\u671b\u8212\u8a69\u96c6\u9078\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 356766905, 
+    "name": "\u300a\u96fb\u5f71\u5c11\u5e74\u300b\u5b64\u6ce3\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 531030001, 
+    "name": "\u300a\u9752\u56ca\u5c38\u8863\u300b\u9c81\u73ed\u5c3a\u5c0f\u8bf4\u5168\u96c6[\u7b80\u7e41]", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 870953327, 
+    "name": "\u300a\u9752\u5c9b\u753b\u62a5\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 542915126, 
+    "name": "\u300a\u9752\u6625\u7684\u601d\u7eea\u300b\u7a3b\u57ce\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495496577, 
+    "name": "\u300a\u9752\u86d9\u738b\u5b50\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 521635019, 
+    "name": "\u300a\u975e\u771f\u52ff\u6270\uff1a\u76f8\u4eb2\u5b9a\u4f4d\u8bfb\u5fc3\u624b\u518c\u300b\u4e91\u4e2d\u4e66\u57ce\u51fa\u54c1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 329336565, 
+    "name": "\u300a\u9810\u8a00\u6545\u4e8b\u300b\u5b64\u6ce3\u25ce\u8457", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 415159370, 
+    "name": "\u300a\u985e\u7d93\u300b\u7e41\u9ad4\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 330804065, 
+    "name": "\u300a\u98db\u9f8d\u5168\u50b3\u00b7\u8d99\u592a\u7956\u4e09\u4e0b\u5357\u5510\u300b\u300a\u98db\u9f8d\u5168\u50b3\u00b7\u8d99\u592a\u7956\u4e09\u4e0b\u5357\u5510\u300b\u7b80\u7e41\u4f53", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 787017896, 
+    "name": "\u300a\u98df\u5f97\u5514\u597d\u5625\u300b\u74b0\u4fdd\u716e\u610f\u98df\u8b5c  \u201cWaste No Food\u201d Recipe Book", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 507399018, 
+    "name": "\u300a\u9965\u997f\u6e38\u620f\u300b\u4e09\u90e8\u66f2\u00b7\u591a\u770b\u51fa\u54c1", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 370905346, 
+    "name": "\u300a\u9999\u6e2f\u9748\u7570\u6545\u4e8b\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 319823323, 
+    "name": "\u300a\u99f1\u99dd\u7965\u5b50\u300b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 531265783, 
+    "name": "\u300a\u9a84\u50b2\u7684\u76ae\u5320\u300b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 694998002, 
+    "name": "\u300a\u9b3c\u5439\u706f\u300b\u5929\u4e0b\u9738\u5531\u7ecf\u5178\u60ac\u7591\u5bfb\u5b9d\u76d7\u5893\u5c0f\u8bf4 \u7ec8\u7ed3\u7248\u5168\u96c6\u3010\u6709\u58f0\u5178\u85cf\u3011", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 329882375, 
+    "name": "\u300a\u9b3c\u8c37\u5b50\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 333269735, 
+    "name": "\u300a\u9b4f\u4e66\u300b\u300a\u9b4f\u66f8\u300b\u7b80\u7e41\u4f53", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 627289930, 
+    "name": "\u300a\u9b54\u517d\u56db\u683c\u6f2b\u753b\u300b\u00b7\u6b63\u7248\u6388\u6743\u9ad8\u6e05\u514d\u8d39", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 427515564, 
+    "name": "\u300a\u9b54\u672f\u7b14\u8bb0\u300b\u7cfb\u5217", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 337707866, 
+    "name": "\u300a\u9c81\u8fc5\u5168\u96c6\u300b\u7b80\u4f53", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 411621499, 
+    "name": "\u300a\u9ec3\u5e1d\u5167\u7d93\u300b\u7e41\u9ad4\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 411631575, 
+    "name": "\u300a\u9ec3\u5e1d\u5916\u7d93\u300b\u7e41\u9ad4\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 365639767, 
+    "name": "\u300a\u9ec3\u5e1d\u9670\u7b26\u7d93\u300b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 415068143, 
+    "name": "\u300a\u9ec3\u5e1d\u9748\u6a1e\u7d93\u300b\u7e41\u9ad4\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 411622581, 
+    "name": "\u300a\u9ec4\u5e1d\u5185\u7ecf\u300b\u7b80\u4f53\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 341984067, 
+    "name": "\u300a\u9ec4\u5e1d\u5185\u7ecf\u300b\u7b80\u7e41\u4f53 \u00b7 \u98de\u87b3\u53e4\u5178\u7cfb\u5217", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 411632180, 
+    "name": "\u300a\u9ec4\u5e1d\u5916\u7ecf\u300b\u7b80\u4f53\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 415068226, 
+    "name": "\u300a\u9ec4\u5e1d\u7075\u67a2\u7ecf\u300b\u7b80\u4f53\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 473655632, 
+    "name": "\u300a\u9ec4\u6cb3\u9b3c\u68fa\u300b\u56db\u90e8\u7b80\u7e41\u4f53\u5408\u96c6", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 572456667, 
+    "name": "\u300a\u9ec4\u91d1\u65f6\u4ee3\u5b66\u751f\u7248\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 482795762, 
+    "name": "\u300a\u9ed1\u86c7\u4f20\u300b\u5171\u4e03\u518c\u5168\uff0d\u98a0\u8986\u4f20\u7edf\u641e\u7b11\u6f2b\u753b\u7cfb\u5217", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 412698334, 
+    "name": "\u300a\u9ed1\u9053\u5546\u5b78\u9662\u300b\u535a\u5ba2\u601d\u807d\u4e2d\u6587\u6709\u8072\u66f8\u6458for iPhone version", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 673572700, 
+    "name": "\u300a\u9f9f\u5154\u8d5b\u8dd1\u300b\u7ecf\u5178\u7ed8\u672c\u6709\u58f0\u6545\u4e8b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 328807324, 
+    "name": "\u300c5\u3064\u306e\u30d7\u30ed\u30bb\u30b9\u7fa4\u300dPMP\u00ae/CAPM\u00ae\u300c\u5feb\u901f\u8a18\u61b6\u6cd5\u300d\u30aa\u30fc\u30c7\u30a3\u30aa\u30d6\u30c3\u30af\uff08PMBOK\u7b2c\u56db\u7248\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 495908501, 
+    "name": "\u300cthank you\u300dbook", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 444717636, 
+    "name": "\u300ctheWORLD CHAMPIONS\u300d", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 496252758, 
+    "name": "\u300cView to Win\u300d-\"Baseball Artist\",The thought of Leading Hitter Kazunori Shinozuka!", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 431057155, 
+    "name": "\u300c\u3042\u304b\u305a\u304d\u3093\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff11", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 564755556, 
+    "name": "\u300c\u3044\u3044\u51fa\u4f1a\u3044\u300d\u304c\u3067\u304d\u308b\u4eba\u306e\u5171\u901a\u70b9", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 447559249, 
+    "name": "\u300c\u3046\u3055\u304e\u3068\u304b\u3081\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff11\uff15", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 441945768, 
+    "name": "\u300c\u3046\u3089\u3057\u307e\u305f\u308d\u3046\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff17", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 440195176, 
+    "name": "\u300c\u304a\u304a\u304b\u307f\u3068\uff17\u3072\u304d\u306e\u3053\u3084\u304e\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff16", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 439675227, 
+    "name": "\u300c\u304a\u304a\u304d\u306a\u304b\u3076\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff15", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 435082889, 
+    "name": "\u300c\u304a\u3080\u3059\u3073\u3053\u308d\u308a\u3093\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff14", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 429893588, 
+    "name": "\u300c\u304b\u3051\u7b97\u300d\u601d\u8003\u3067\u3059\u3079\u3066\u304c\u5909\u308f\u3063\u305f", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 446818944, 
+    "name": "\u300c\u304b\u3055\u3058\u305e\u3046\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff11\uff14", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 562519989, 
+    "name": "\u300c\u3053\u3093\u306a\u4f1a\u793e\u3084\u3081\u3066\u3084\u308b\uff01\u300d\u3068\u601d\u3063\u305f\u3089\u8aad\u3080\u672c", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 442358145, 
+    "name": "\u300c\u3055\u308b\u3068\u304b\u306b\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff18", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 433867690, 
+    "name": "\u300c\u3055\u3093\u3073\u304d\u306e\u3053\u3076\u305f\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff13", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 446955099, 
+    "name": "\u300c\u3057\u3089\u3086\u304d\u3072\u3081\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff11\uff13", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 479833098, 
+    "name": "\u300c\u305f\u3044\u3088\u3046\u304f\u3093\u3002\u300d", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 593014952, 
+    "name": "\u300c\u3061\u3087\u3063\u3068\u3057\u305f\u8a00\u3044\u65b9\u300d\u304c\u4e0a\u624b\u3044\u4eba \u4e0b\u624b\u306a\u4eba", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 497933753, 
+    "name": "\u300c\u3064\u3044\u3066\u884c\u304d\u305f\u3044\u300d\u3068\u601d\u308f\u308c\u308b\u5927\u304d\u306a\u5668\u306e\u30ea\u30fc\u30c0\u30fc\u306b\u306a\u308c", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 589387672, 
+    "name": "\u300c\u3067\u304d\u308b\uff01\u300d\u3068\u601d\u308f\u305b\u308b\u5c0f\u3055\u306a\u5e38\u8b58", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 384290369, 
+    "name": "\u300c\u3069\u3053\u3067\u3082\u30aa\u30d5\u30a3\u30b9\u300d\u4ed5\u4e8b\u8853", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 423546505, 
+    "name": "\u300c\u3069\u3093\u306a\u9854\u3092\u3059\u308c\u3070\u3044\u3044\u306e\u304b\u5206\u304b\u3089\u306a\u3044\u306e\u300d", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 595610321, 
+    "name": "\u300c\u306a\u308b\u307b\u3069\u306a\u3063\u3068\u304f\u300d\u5927\u8f9e\u5178\uff01", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 388644689, 
+    "name": "\u300c\u307c\u3046\u305a\u4e38\u3082\u3046\u3051\u300d\u306e\u30ab\u30e9\u30af\u30ea", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 433852220, 
+    "name": "\u300c\u3082\u3082\u305f\u308d\u3046\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff12", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 585609776, 
+    "name": "\u300c\u3084\u3089\u3055\u308c\u611f\u300d\u304b\u3089\u8131\u51fa\u3057\u3066\u81ea\u7531\u306b\u50cd\u304f20\u306e\u65b9\u6cd5\u301c\u96fb\u5b50\u30a2\u30d7\u30ea\u7248\u301c", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 373943573, 
+    "name": "\u300c\u3084\u308b\u6c17\u300d\u304c\u51fa\u308b\u30b3\u30c4\u3001\u7d9a\u304f\u30b3\u30c4\u3010Lite\u3011", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 490605878, 
+    "name": "\u300c\u308f\u3044\u305b\u3064\u30b3\u30df\u30c3\u30af\u300d\u88c1\u5224\uff5e\u677e\u6587\u9928\u4e8b\u4ef6\u306e\u5168\u8c8c\uff01\uff5e", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 417960098, 
+    "name": "\u300c\u30a2\u30a4\u30c7\u30a2\u300d\u304c\u751f\u307e\u308c\u308b\u4eba\u8108\u3002", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 444869876, 
+    "name": "\u300c\u30a2\u30ea\u3068\u30ad\u30ea\u30ae\u30ea\u30b9\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff11\uff12", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 527532296, 
+    "name": "\u300c\u30ad\u30e3\u30d0\u30af\u30e9\u5b22\u300d\u884c\u653f\u66f8\u58eb\u306e\u4e8b\u4ef6\u7c3f1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 528910035, 
+    "name": "\u300c\u30ad\u30e3\u30d0\u30af\u30e9\u5b22\u300d\u884c\u653f\u66f8\u58eb\u306e\u4e8b\u4ef6\u7c3f2", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 481596719, 
+    "name": "\u300c\u30af\u30e9\u30a6\u30c9\u30fb\u30d3\u30b8\u30cd\u30b9\u300d\u5165\u9580", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 362961062, 
+    "name": "\u300c\u30b3\u30b9\u30c8\u30fb\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u300dPMP\u00ae / CAPM\u00ae \u5b9f\u529b\u30c6\u30b9\u30c8\uff0810\u554f\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Business", 
+    "id": 362965058, 
+    "name": "\u300c\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u30fb\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u300dPMP\u00ae / CAPM\u00ae \u5b9f\u529b\u30c6\u30b9\u30c8\uff0810\u554f\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 446623961, 
+    "name": "\u300c\u30b7\u30f3\u30c7\u30ec\u30e9\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff11\uff11", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 443907909, 
+    "name": "\u300c\u30b8\u30e3\u30c3\u30af\u3068\u307e\u3081\u306e\u304d\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff11\uff10", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 362966158, 
+    "name": "\u300c\u30b9\u30b3\u30fc\u30d7\u30fb\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u300dPMP\u00ae / CAPM\u00ae \u5b9f\u529b\u30c6\u30b9\u30c8\uff0810\u554f\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 411403169, 
+    "name": "\u300c\u30b9\u30e2\u30fc\u30eb\u30d3\u30b8\u30cd\u30b9\u300d\u6210\u529f\u306e\u30bb\u30aa\u30ea\u30fc90\uff01", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 362963924, 
+    "name": "\u300c\u30bf\u30a4\u30e0\u30fb\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u300dPMP\u00ae / CAPM\u00ae \u5b9f\u529b\u30c6\u30b9\u30c8\uff0810\u554f\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 526699129, 
+    "name": "\u300c\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u300d\u306b\u751f\u304d\u308b\u529b\u3092\u5b66\u3079\uff01", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 362975680, 
+    "name": "\u300c\u30d5\u30ec\u30fc\u30e0\u30ef\u30fc\u30af\u300dPMP\u00ae / CAPM\u00ae \u5b9f\u529b\u30c6\u30b9\u30c8\uff0810\u554f\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 443373488, 
+    "name": "\u300c\u30d6\u30ec\u30fc\u30e1\u30f3\u306e\u304a\u3093\u304c\u304f\u305f\u3044\u300d\u4e2d\u5ddd\u3072\u308d\u305f\u304b\u306e\u540d\u4f5c\u304a\u306f\u306a\u3057\u7d75\u672c\uff19", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 362965564, 
+    "name": "\u300c\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u8cac\u4efb\u300dPMP\u00ae / CAPM\u00ae \u5b9f\u529b\u30c6\u30b9\u30c8\uff0810\u554f\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 327220778, 
+    "name": "Tell Me What You REALLY Need Right Now!", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 794870202, 
+    "name": "\u300c\u30de\u30f3\u30ac\u53d6\u308a\u653e\u984c\u300d- \u4eba\u6c17\u6f2b\u753b\u304c\u624b\u306b\u5165\u308b\u30ae\u30d5\u30c8\u30b3\u30fc\u30c9\u3092\u3001\u304a\u3053\u3065\u304b\u3044\u3092\u8caf\u3081\u3066\u7121\u6599\u3067\u30b2\u30c3\u30c8\u3057\u3088\u3046!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 530037060, 
+    "name": "\u300c\u30e9\u30a4\u30d5\u30ef\u30fc\u30af\u300d\u3067\u8c4a\u304b\u306b\u751f\u304d\u308b\u301c\u5e78\u305b\u306a\u5c0f\u91d1\u6301\u3061\u7684\u201c\u5929\u8077\u201d\u306e\u898b\u3064\u3051\u65b9\u301c", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 362963307, 
+    "name": "\u300c\u30ea\u30b9\u30af\u30fb\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u300dPMP\u00ae / CAPM\u00ae \u5b9f\u529b\u30c6\u30b9\u30c8\uff0810\u554f\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 351970057, 
+    "name": "\u300c\u30ea\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba\u30c9\u30c3\u30c8\u300d\u300003\u3000\u8868\u7d19\uff0f\u897f\u7530\u654f\u884c\u3000\u30d0\u30c3\u30af\u30ca\u30f3\u30d0\u30fc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 351971170, 
+    "name": "\u300c\u30ea\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba\u30c9\u30c3\u30c8\u300d\u300004\u3000\u8868\u7d19\uff0f\u6e21\u8fba \u8b19\u3000\u30d0\u30c3\u30af\u30ca\u30f3\u30d0\u30fc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 351971858, 
+    "name": "\u300c\u30ea\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba\u30c9\u30c3\u30c8\u300d\u300005\u3000\u8868\u7d19\uff0f\u6cc9\u8c37\u3057\u3052\u308b\u3000\u30d0\u30c3\u30af\u30ca\u30f3\u30d0\u30fc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 354611105, 
+    "name": "\u300c\u30ea\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba\u30c9\u30c3\u30c8\u300d\u300006\u3000\u8868\u7d19\uff0f\u690e\u540d\u8aa0\u3000\u30d0\u30c3\u30af\u30ca\u30f3\u30d0\u30fc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 357783030, 
+    "name": "\u300c\u30ea\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba\u30c9\u30c3\u30c8\u300d\u300007\u3000\u8868\u7d19\uff0f\u8c4a\u5ddd\u60a6\u53f8\u3000\u30d0\u30c3\u30af\u30ca\u30f3\u30d0\u30fc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 363724219, 
+    "name": "\u300c\u30ea\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba\u30c9\u30c3\u30c8\u300d\u300008\u3000\u8868\u7d19\uff0f\u6e05\u539f\u548c\u535a\u3000\u30d0\u30c3\u30af\u30ca\u30f3\u30d0\u30fc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 368924748, 
+    "name": "\u300c\u30ea\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba\u30c9\u30c3\u30c8\u300d\u300009\u3000\u8868\u7d19\uff0f\u963f\u90e8\u5bdb\u3000\u30d0\u30c3\u30af\u30ca\u30f3\u30d0\u30fc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 381477724, 
+    "name": "\u300c\u30ea\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba\u30c9\u30c3\u30c8\u300d\u300010\u3000\u8868\u7d19\uff0f\u4ef2\u4ee3\u9054\u77e2\u3000\u30d0\u30c3\u30af\u30ca\u30f3\u30d0\u30fc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 334638374, 
+    "name": "\u300c\u30ea\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba\u30c9\u30c3\u30c8\u300d\u3000\uff10\uff11\u3000\u8868\u7d19/\u77e2\u6ca2\u6c38\u5409 \u30d0\u30c3\u30af\u30ca\u30f3\u30d0\u30fc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 336463397, 
+    "name": "\u300c\u30ea\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba\u30c9\u30c3\u30c8\u300d\u3000\uff10\uff12\u3000\u8868\u7d19/\u8737\u5ddd\u5e78\u96c4 \u30d0\u30c3\u30af\u30ca\u30f3\u30d0\u30fc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 683039884, 
+    "name": "\u300c\u30ed\u30fc\u30eb\u30d1\u30f3\u30c0\u300d\u516c\u5f0f\u30a2\u30d7\u30ea", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 563059728, 
+    "name": "\u300c\u4e00\u65e53\u6642\u9593\u5feb\u7720\u300d\u3067\u30b9\u30c3\u30ad\u30ea\u3002\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u7761\u7720\u6cd5\uff01", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 427139540, 
+    "name": "\u300c\u4eba\u304b\u3089\u3069\u3046\u601d\u308f\u308c\u3066\u3044\u308b\u304b\u300d\u304c\u308f\u304b\u308b\u672c", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 555236652, 
+    "name": "\u300c\u4eba\u3068\u306e\u8ddd\u96e2\u611f\u300d\u304c\u4e0a\u624b\u3044\u4eba\u4e0b\u624b\u306a\u4eba", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 362959199, 
+    "name": "\u300c\u4eba\u7684\u8cc7\u6e90\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u300dPMP\u00ae / CAPM\u00ae \u5b9f\u529b\u30c6\u30b9\u30c8\uff0810\u554f\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 494499194, 
+    "name": "\u300c\u5132\u304b\u308b\u767a\u60f3\u300d", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 583847086, 
+    "name": "\u300c\u5148\u306e\u3070\u3057\u3050\u305b\u300d\u3092\u76f4\u3059\u3068\u3059\u3079\u3066\u3046\u307e\u304f\u3044\u304f", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 382037384, 
+    "name": "\u300c\u539f\u56e0\u300d\u3068\u300c\u7d50\u679c\u300d\u306e\u6cd5\u5247", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 382764327, 
+    "name": "\u300c\u539f\u56e0\u300d\u3068\u300c\u7d50\u679c\u300d\u306e\u6cd5\u5247\uff12\u3000\u5e78\u798f\u3078\u306e\u9053", 
+    "price": 10.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 382769526, 
+    "name": "\u300c\u539f\u56e0\u300d\u3068\u300c\u7d50\u679c\u300d\u306e\u6cd5\u5247\uff13\u3000\u56f0\u96e3\u3092\u8d85\u3048\u3066", 
+    "price": 10.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 382770585, 
+    "name": "\u300c\u539f\u56e0\u300d\u3068\u300c\u7d50\u679c\u300d\u306e\u6cd5\u5247\uff14\u3000\u8f1d\u304b\u3057\u3044\u4eba\u751f\u3078", 
+    "price": 10.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 553379235, 
+    "name": "\u300c\u53e3\u3050\u305b\u300d\u3072\u3068\u3064\u3067\u4ed6\u4eba\u304c\u8aad\u3081\u308b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 414852725, 
+    "name": "\u300c\u5408\u30b3\u30f3\u300d\u52dd\u5229\u306e\u65b9\u7a0b\u5f0f", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 362962792, 
+    "name": "\u300c\u54c1\u8cea\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u300dPMP\u00ae / CAPM\u00ae \u5b9f\u529b\u30c6\u30b9\u30c8\uff0810\u554f\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 574366833, 
+    "name": "\u300c\u5922\u3092\u304b\u306a\u3048\u308b\u30be\u30a6\u300d\u306e\u79d8\u5bc6", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 565933078, 
+    "name": "\u300c\u597d\u304b\u308c\u308b\u300d\u30d2\u30f3\u30c8\u300c\u5acc\u308f\u308c\u308b\u300d\u7406\u7531", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 395483810, 
+    "name": "\u300c\u5b6b\u7389\u798f\u300d\u300039\u5e74\u76ee\u306e\u771f\u5b9f", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 558152448, 
+    "name": "\u300c\u5bcc\u300d\u3092\u3064\u304f\u308b\u305f\u3081\u306e\u6559\u79d1\u66f8", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 566295174, 
+    "name": "\u300c\u5bdd\u308b\u524d\u306e30\u5206\u300d\u304c\u81ea\u5206\u3092\u5909\u3048\u308b\uff01", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 586608962, 
+    "name": "\u300c\u5fc3\u306e\u6383\u9664\u300d\u306e\u4e0a\u624b\u3044\u4eba\u4e0b\u624b\u306a\u4eba", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 487073245, 
+    "name": "\u300c\u60a9\u307f\u300d\u304c\u610f\u6b32\u306b\u5909\u308f\u308b\u601d\u8003\u8853", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 594130346, 
+    "name": "\u300c\u611f\u3058\u306e\u3088\u3055\u300d\u3067\u4eba\u306f\u8a55\u4fa1\u3055\u308c\u308b", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 495886924, 
+    "name": "\u300c\u6210\u529f\u3059\u308b\u4eba\u300d\u306e77\u306e\u30eb\u30fc\u30eb \u7bb1\u7530\u6d41\u3000\u5922\u3092\u304b\u306a\u3048\u308b\u4ed5\u4e8b\u8853", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 326812574, 
+    "name": "\u300c\u6226\u56fd\u6b66\u5c06\u300d\u304c\u3088\u304f\u308f\u304b\u308b\u672c (The Book of \"Sengoku Busho\")", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 344062967, 
+    "name": "\u300c\u6226\u56fd\u6b66\u5c06\u300d\u304c\u3088\u304f\u308f\u304b\u308b\u672c Lite\u7248\u3000\uff5e\u4e03\u4eba\u306e\u30b5\u30e0\u30e9\u30a4", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 495876917, 
+    "name": "\u300c\u640d\u3057\u306a\u3044\u846c\u5100\u300d\u304c\u3088\u304f\u308f\u304b\u308b\u672c", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 528459863, 
+    "name": "\u300c\u65ad\u308b\u300d\u5fc3\u7406\u30c6\u30af\u30cb\u30c3\u30af", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 421064203, 
+    "name": "\u300c\u661f\u306e\u91ce\u539f\u306e\u304a\u59eb\u69d8\u300d  HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 592408079, 
+    "name": "\u300c\u6620\u753b\u796d\u3000\u30ab\u30f3\u30cc\u3001\u30d9\u30cd\u30c1\u30a2\u306e\uff11\uff10\u5e74\u300d\u9f4b\u85e4\u6566\u5b50\u306e\u6d77\u5916\u5831\u544a\u30ab\u30f3\u30cc\u7de8", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 592426610, 
+    "name": "\u300c\u6620\u753b\u796d\u3000\u30ab\u30f3\u30cc\u3001\u30d9\u30cd\u30c1\u30a2\u306e\uff11\uff10\u5e74\u300d\u9f4b\u85e4\u6566\u5b50\u306e\u6d77\u5916\u5831\u544a\u30d9\u30cd\u30c1\u30a2\u7de8", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 557882157, 
+    "name": "\u300c\u671d\u306b\u5f37\u3044\u4eba\u300d\u306b\u306a\u308c\u308b\u672c", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 590224743, 
+    "name": "\u300c\u6771\u5317\u300d\u77e5\u3063\u3066\u308b\uff1f\u3000\uff3b\u96d1\u5b66\uff06\u30df\u30cb\u691c\u5b9a\uff3d", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 562200116, 
+    "name": "\u300c\u6b69\u304f\uff01\u300d\u4ed5\u4e8b\u8853", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 483065292, 
+    "name": "\u300c\u6b6f\u79d1\u8a3a\u7642\u5ba4\u300d\u6539\u88c5\u306e\u624b\u5f15\u304d", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 583220286, 
+    "name": "\u300c\u6c17\u6301\u3061\u306e\u6574\u7406\u300d\u304c\u3067\u304d\u308b\u4eba\u3067\u304d\u306a\u3044\u4eba", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 605253965, 
+    "name": "\u300c\u6c17\u6301\u3061\u306e\u6574\u7406\u300d\u5fc3\u306e\u3082\u3084\u3082\u3084\u3092\u5439\u304d\u98db\u3070\u305988\u306e\u65b9\u6cd5", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 578916556, 
+    "name": "\u300c\u6c7a\u65ad\u300d\u306e\u524d\u306b\u8aad\u3080\u8a00\u8449", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 431204646, 
+    "name": "\u300c\u6d77\u9053\u3092\u3086\u304f\u300d", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 575061193, 
+    "name": "\u300c\u6f14\u3058\u308b\u300d\u6280\u8853\u3067\u4eba\u9593\u95a2\u4fc2\u306f\u5287\u7684\u306b\u3088\u304f\u306a\u308b\uff01\u2015\u300c\u3042\u3093\u306a\u30e4\u30c4\u306f\uff01\u300d\u300c\u3069\u3046\u305b\u81ea\u5206\u306f\uff01\u300d\u3068\u3001\u3042\u304d\u3089\u3081\u3066\u3044\u307e\u305b\u3093\u304b\uff1f", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 447570133, 
+    "name": "\u300c\u7761\u7720\u300d\u306e\u771f\u5b9f", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 565075260, 
+    "name": "\u300c\u7acb\u5ddd\u8ac7\u5e78\u5e2b\u5320\u304c\u8a9e\u308b\u30b0\u30ea\u30e0\u7ae5\u8a71\u300d\u6f01\u5e2b\u3068\u304a\u304b\u307f\u3055\u3093", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 362967443, 
+    "name": "\u300c\u7d71\u5408\u300dPMP\u00ae / CAPM\u00ae \u5b9f\u529b\u30c6\u30b9\u30c8\uff0810\u554f\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 601395933, 
+    "name": "\u300c\u7f8e\u3057\u3044\u4eba\u300d\u306b\u306a\u308b \u201c\u7652\u3057\u201d\u3068\u201c\u6c17\u3065\u304d\u201d\u306e\u30de\u30ca\u30fc\u30fb\u30ec\u30c3\u30b9\u30f3", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 516950368, 
+    "name": "\u300c\u8131\u5e38\u8b58\u300d\u529b\u3000\u81ea\u7531\u306b\u751f\u304d\u308b\u305f\u3081\u306e\u300c\u771f\u306e\u6559\u990a\u300d\u3092\u8eab\u306b\u3064\u3051\u308b", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 378733674, 
+    "name": "\u300c\u81ea\u5206\u3054\u3068\u300d\u3060\u3068\u4eba\u306f\u52d5\u304f", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 593733192, 
+    "name": "\u300c\u81ea\u5206\u306e\u5024\u6bb5\u300d\u306e\u9ad8\u3081\u65b9", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 549094524, 
+    "name": "\u300c\u81ea\u5206\u3092\u5909\u3048\u308b\u300d\u5fc3\u306e\u3064\u304f\u308a\u65b9", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 543093225, 
+    "name": "\u300c\u8981\u9818\u304c\u60aa\u3044\u4eba\u300d\u307b\u3069\u6210\u529f\u3059\u308b", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 362964268, 
+    "name": "\u300c\u8abf\u9054\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u300dPMP\u00ae / CAPM\u00ae \u5b9f\u529b\u30c6\u30b9\u30c8\uff0810\u554f\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 555248625, 
+    "name": "\u300c\u8ae6\u3081\u308b\u300d\u3092\u300c\u8ae6\u3081\u306a\u3044\u300d\u306b\u5909\u3048\u308b100\u306e\u7fd2\u6163\u3000\u7d99\u7d9a\u529b\u3053\u305d\u6210\u529f\u306e\u79d8\u5bc6", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 607986292, 
+    "name": "\u300c\u8d64\u83f1\u306e\u30a4\u30ec\u30d6\u30f3\u300d", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 584713009, 
+    "name": "\u300c\u8d85\u300d\u5165\u9580 \u30b7\u30b4\u30c8\u306e\u672c\u8cea", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Business", 
+    "id": 421966170, 
+    "name": "\u300c\u901f\u5b66\uff01\u30d0\u30e9\u30f3\u30b9\u30fb\u30b9\u30b3\u30a2\u30ab\u30fc\u30c9\u306e\u5275\u308a\u65b9\u300d", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 550377571, 
+    "name": "\u300c\u904b\u306e\u3044\u3044\u4eba\u3001\u60aa\u3044\u4eba\u300d\u306f\u4e00\u76ee\u3067\u308f\u304b\u308b\uff01", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 608182729, 
+    "name": "\u300c\u904b\u3092\u3072\u3089\u304f\u300d\u306e\u304c\u4e0a\u624b\u3044\u4eba\u4e0b\u624b\u306a\u4eba", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 582278088, 
+    "name": "Gin-iro no Usagi (Silver Rabbit )", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 476871009, 
+    "name": "\u300c\u9858\u671b\u300d\u3092\u73fe\u5b9f\u5316\u3059\u308b\u8133\u6cd5\u5247", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 398934294, 
+    "name": "\u300c\u9ec3\u5e1d\u5167\u7d93\u300d\u300a\u7d20\u554f\u300b / Inner Canon of Huangdi <SU-WEN>", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 411930537, 
+    "name": "\u300c\u9ec4\u5e1d\u5185\u7ecf\u300d\u300a\u7d20\u95ee\u300b / Inner Canon of Huangdi <SU-WEN>", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 385888779, 
+    "name": "\u300eDigital Investors' Guide\u300f\u6295\u8cc7\u5bb6\u306e\u7686\u69d8\u3078", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 566506495, 
+    "name": "\u300eHARUTA\u300f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 401081351, 
+    "name": "\u300eMILK CAP\uff5e\u725b\u4e73\u30d3\u30f3\u306e\u3075\u305f\u306e\u672c\u300f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 465934410, 
+    "name": "ANOHANA VISUAL BOOK", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 406614880, 
+    "name": "\u300e\u304a\u304b\u3052\u3055\u3093\u300f\u76f8\u7530\u307f\u3064\u3092\u4f5c\u54c1\u96c6\u7279\u5225\u7de8", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 464210109, 
+    "name": "\u300e\u304d\u3088\u3081\u300f\u3092\u3082\u3068\u3081", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 550414151, 
+    "name": "\u300e\u308b\u308d\u3046\u306b\u5263\u5fc3\u300f\u306e\u79d8\u5bc6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 489428533, 
+    "name": "\u300e\u30ef\u30f3\u30d4\u30fc\u30b9\u300f\u306b\u5b66\u3076\u4ed5\u4e8b\u8853", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 489421790, 
+    "name": "\u300e\u30ef\u30f3\u30d4\u30fc\u30b9\u300f\u306e\u6559\u79d1\u66f8", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 518991533, 
+    "name": "\u300e\u30ef\u30f3\u30d4\u30fc\u30b9\u300f\u306e\u8b0e", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 503417805, 
+    "name": "\u300e\u30ef\u30f3\u30d4\u30fc\u30b9\u300f\u5927\u7814\u7a76", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 379853770, 
+    "name": "\u300e\u6606\u866b\u306e\u96d1\u5b66\u8f9e\u5178\u300f Encyclopedia of Insect\u2019s Trivia", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 586863728, 
+    "name": "\u300e\u6771\u4eac\u3000\u793e\u7528\u306e\u624b\u307f\u3084\u3052\u3000\u548c\u83d3\u5b50\u7de8\u300f\u3000\uff5e\u8d08\u3063\u3066\u559c\u3070\u308c\u308b\u6975\u4e0a\u306e\u548c\u83d3\u5b50\uff5e", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 586865352, 
+    "name": "\u300e\u6771\u4eac\u3000\u793e\u7528\u306e\u624b\u307f\u3084\u3052\u3000\u6d0b\u83d3\u5b50\u7de8\u300f\u3000\uff5e\u8d08\u3063\u3066\u559c\u3070\u308c\u308b\u6700\u9ad8\u306e\u30b9\u30a4\u30fc\u30c4\uff5e", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 579577961, 
+    "name": "\u300e\u6771\u4eac\u7d4c\u6e08\u5927\u5b66\u306e\u672c\u68da\u300f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 476522389, 
+    "name": "\u300e\u7460\u5ddd\u30ea\u30ca\u306e\u300c\u3082\u3063\u3068\u30a4\u30ad\u305f\u3044\u300d\u76f8\u8ac7\u5ba4\u300f", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 492870561, 
+    "name": "\u30102012\u6700\u65b0\u6709\u58f0\u60c5\u7231\u3011\u5927\u5408\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 585591977, 
+    "name": "\u30102013\u3011\u5f53\u4ee3\u60c5\u7231\u4f5c\u54c1\u5408\u8ba2\u7248", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 694528179, 
+    "name": "\u30104\u30b3\u30de\u3011\u306c\u304f\u306c\u304f\u307e", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 580101629, 
+    "name": "\u3010FREE\u7248\u301135\u6b73\u307e\u3067\u306b\u201c\u6700\u4f4e\u201d\u77e5\u3063\u3066\u304a\u304d\u305f\u3044 \u300c\u8d85\u300d\u7d4c\u6e08\u5b66\u30c9\u30ea\u30eb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 577035412, 
+    "name": "\u3010FREE\u7248\u301135\u6b73\u307e\u3067\u306b\u201c\u6700\u4f4e\u201d\u77e5\u3063\u3066\u304a\u304d\u305f\u3044 \u7d4c\u6e08\u5b66\u30c9\u30ea\u30eb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 580782012, 
+    "name": "\u3010FREE\u7248\u3011\u30e2\u30c6\u308b\u7537\u304c\u5730\u9053\u306b\u3084\u3063\u3066\u3044\u308b\u3053\u306860", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 582959212, 
+    "name": "\u3010FREE\u7248\u3011\u6bba\u3055\u308c\u308b\u524d\u306b\u77e5\u3063\u3066\u304a\u304d\u305f\u3044 \u653e\u5c04\u80fd\u5bfe\u7b56", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 716625312, 
+    "name": "\u3010H26\u5e74\u79cb\u5bfe\u5fdc\u3011\u57fa\u672c\u60c5\u5831\u6280\u8853\u8005\u8a66\u9a13 \u5348\u524d\u554f\u984c\u96c6", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 540244299, 
+    "name": "\u3010HappyReading\u3011\u597d\u5973\u5b69\u5fc5\u8bfb\u7684\u7ecf\u5178\u7ae5\u8a71\uff0d\u4e0b\u5377", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 537506809, 
+    "name": "\u3010HappyReading\u3011\u597d\u5973\u5b69\u5fc5\u8bfb\u7684\u7ecf\u5178\u7ae5\u8bdd\uff0d\u4e0a\u5377", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 538254647, 
+    "name": "\u3010HappyReading\u3011\u597d\u5973\u5b69\u5fc5\u8bfb\u7684\u7ecf\u5178\u7ae5\u8bdd\uff0d\u4e2d\u5377", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 434576691, 
+    "name": "\u3010iPad\u7248\u30fb\u7121\u6599\u7248\u3011\u8c37\u5ddd\u4fca\u592a\u90ce poegram \u300c\u79c1\u306e\u80f8\u306f\u5c0f\u3055\u3059\u304e\u308b\u300diPad\u30fb\u7121\u6599\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 395844096, 
+    "name": "\u3010iPad\u7248\u30fb\u901a\u5e38\u7248\u3011\u8c37\u5ddd\u4fca\u592a\u90ce poegram \u300c\u79c1\u306e\u80f8\u306f\u5c0f\u3055\u3059\u304e\u308b\u300diPad\u30fbFULL\u901a\u5e38\u7248", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 434579222, 
+    "name": "\u3010iPhone\u7248\u30fb\u7121\u6599\u7248\u3011\u8c37\u5ddd\u4fca\u592a\u90ce poegram \u300c\u79c1\u306e\u80f8\u306f\u5c0f\u3055\u3059\u304e\u308b\u300diPhone\u30fb\u7121\u6599\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 434578472, 
+    "name": "\u3010iPhone\u7248\u30fb\u901a\u5e38\u7248\u3011\u8c37\u5ddd\u4fca\u592a\u90ce poegram \u300c\u79c1\u306e\u80f8\u306f\u5c0f\u3055\u3059\u304e\u308b\u300diPhone\u30fbFU...", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 873932439, 
+    "name": "Katamari English", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 672983213, 
+    "name": "\u3010TOP\u3011\u7384\u5e7b\u5c0f\u8bf4-\u3010\u7cbe\u9009\u5168\u672c\u3011\u8d85\u597d\u770b\u8a00\u60c5/\u7384\u5e7b/\u7a7f\u8d8a/\u540c\u4eba/\u514d\u8d39\u4e66\u57ce", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 673684944, 
+    "name": "\u3010TOP\u3011\u7a7f\u8d8a\u5c0f\u8bf4\u5168\u672c\u7cbe\u9009+\u7cbe\u7f16\u7cbe\u6392\u514d\u8d39\u4e66\u57ce", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 644700633, 
+    "name": "\u8a00\u60c5\u5c0f\u8bf4vip-\u514d\u8d39\u4e0b\u8f7d\u6d77\u91cf\u9ad8\u5206\u7535\u5b50\u4e66", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 684171681, 
+    "name": "\u3010\u304a\u307e\u3081\u30b5\u30f3\u30b7\u30ed\u30fc\u5287\u5834\u3011\u7121\u6599\u6f2b\u753b \u30b7\u30e5\u30fc\u30eb\u7cfb\u8131\u529b\u30b3\u30df\u30c3\u30af \u4f5c\uff0f\u304a\u307e\u3081\u30b5\u30f3\u30b7\u30ed\u30fc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 391940959, 
+    "name": "\u3010\u3057\u308d\u304f\u3093\u3011", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 766186307, 
+    "name": "\u3010\u305f\u307e\u307d\u3088\u3011\u7121\u6599\u6f2b\u753b \u30b9\u30a4\u30fc\u30c4\u7cfb\u3082\u3061\u3082\u3061\u30b3\u30df\u30c3\u30af \u4f5c\uff0f\u307c\u304f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 555071823, 
+    "name": "\u3010\u30a4\u30d9\u30f3\u30c8\u5b9f\u5730\u4e2d\uff01\u3011\u307f\u3093\u306a\u3067\u4f55\u3067\u3082\u8a3a\u65ad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 547157546, 
+    "name": "\u3010\u30aa\u30ab\u677f\u767a\u72c2\u3011\u6016\u3044\u8a71", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 668306143, 
+    "name": "\u3010\u30b5\u30af\u30b5\u30af\u8aad\u3081\u3066,\u3059\u3079\u3066\u7121\u6599\u306e\u5c0f\u8aac\u30a2\u30d7\u30ea!\u3011Novels  for Mobage", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 526768802, 
+    "name": "\u3010\u30de\u30c6\u30ea\u30a2 \u30ea\u30ba\u30e0 : \u5e8f\u7ae0\u3011~ Materia rhythm ~", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 598521722, 
+    "name": "\u3010\u30de\u30f3\u30ac\u5168\u5dfb\u7121\u6599\u3011REBORN", 
+    "price": 0.0
+  }
+]

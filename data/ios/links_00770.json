@@ -1,0 +1,5966 @@
+[
+  {
+    "genre": "News", 
+    "id": 729464418, 
+    "name": "24 AE News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 440658713, 
+    "name": "24 heures, le journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 793137351, 
+    "name": "24 Saat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 430766485, 
+    "name": "24-7 Basketball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 430768251, 
+    "name": "24-7 Boston Baseball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 423168485, 
+    "name": "24-7 Boston Hoops", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 423168702, 
+    "name": "24-7 Bronx Bombers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 430766839, 
+    "name": "24-7 Chicago Wrigley Baseball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 405496055, 
+    "name": "24-7 Football", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 423168207, 
+    "name": "24-7 LA Hoops", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 447298386, 
+    "name": "24-7 NY M's", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 451021192, 
+    "name": "24-7 St. Louis Baseball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 687247930, 
+    "name": "24/7 News Source", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 506067475, 
+    "name": "24/7 Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 446347532, 
+    "name": "24drs\u5065\u5eb7\u65b0\u805e\u5c08\u5340", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 821441884, 
+    "name": "24h Energie! Die Energiemagazine der Wiener Stadtwerke", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 505464276, 
+    "name": "24H HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 842266155, 
+    "name": "24h News for AC Milan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 847815585, 
+    "name": "24h News for Arsenal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 844338655, 
+    "name": "24h News for AS Roma", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 875065787, 
+    "name": "24h News for Bayern Munich", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 852620718, 
+    "name": "24h News for Chelsea FC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 844408997, 
+    "name": "24h News for FC Bari", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 844311142, 
+    "name": "24h News for FC Inter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 840804385, 
+    "name": "24h News for Fiorentina", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 844392580, 
+    "name": "24h News for Hellas Verona", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 852614409, 
+    "name": "24h News for Liverpool FC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 852622706, 
+    "name": "24h News for Manchester City", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 854019432, 
+    "name": "24h News for Manchester United", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 859160077, 
+    "name": "24h News for Miami Heat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 875216193, 
+    "name": "24h News for Parma FC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 875198727, 
+    "name": "24h News for Real Madrid", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 844375007, 
+    "name": "24h News for Sampdoria", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 875228361, 
+    "name": "24h News for SSC Lazio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 844289873, 
+    "name": "24h News for SSC Napoli", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 844358761, 
+    "name": "24h News for Torino FC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 882308285, 
+    "name": "24h News for World Championship 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 731968082, 
+    "name": "24Horas.cl", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 893024929, 
+    "name": "24hours News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 726099842, 
+    "name": "24k99-\u9ec4\u91d1\u5b9d", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 586897921, 
+    "name": "24Ora", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 431157239, 
+    "name": "24sports & news", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 425358725, 
+    "name": "25 Jan - The Egyptian Revolution - \u062b\u0648\u0631\u0629 \u0662\u0665 \u064a\u0646\u0627\u064a\u0631", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 828983300, 
+    "name": "29 Web TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 829495890, 
+    "name": "29 Web TV Canl\u0131 Yay\u0131n", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 586834094, 
+    "name": "29.ru", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 472789655, 
+    "name": "2BC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 893536136, 
+    "name": "2ch \u826f\u30b9\u30ec", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 642374738, 
+    "name": "2chChecker - The response of 2ch can be checked", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 442138464, 
+    "name": "2chNplus for iPad", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 741292537, 
+    "name": "2ch\u3060\u3088\u308a \u301c\u30a2\u30cb\u30e1/\u30de\u30f3\u30ac/\u30b2\u30fc\u30e0/\u5065\u5eb7/\u7f8e\u5bb9/2ch\u307e\u3068\u3081\u7b49\u306e\u8a18\u4e8b\u3092\u307e\u3068\u3081\u3066\u8aad\u3081\u308b\u301c", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 582557442, 
+    "name": "2ch\u307e\u3068\u3081\u30d6\u30ed\u30b0\u30ea\u30fc\u30c0\u30fc\u3002", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 806925814, 
+    "name": "2ch\u7684\u30b5\u30c3\u30ab\u30fc\u30cb\u30e5\u30fc\u30b9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 811763849, 
+    "name": "2ch\u7684\u30cb\u30fc\u30cf\u30aa\u30cb\u30e5\u30fc\u30b9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 842015237, 
+    "name": "2ch\u7684\u91ce\u7403\u30cb\u30e5\u30fc\u30b9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 876329964, 
+    "name": "2D_LogiSmart", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 443129046, 
+    "name": "2NIGHT Lyon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 885847966, 
+    "name": "2\u00aa vuelta Presidente", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 561433844, 
+    "name": "3.\u00c9VEZRED", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 626762299, 
+    "name": "30giorni", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 513213853, 
+    "name": "30\u79d2IT NEWS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 838791429, 
+    "name": "314 News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 457034636, 
+    "name": "324", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 859967954, 
+    "name": "360 barca", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 878920196, 
+    "name": "360 blues", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 859968439, 
+    "name": "360 madrid", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 861902951, 
+    "name": "360 rossoneri", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 443934258, 
+    "name": "360radio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 769054885, 
+    "name": "360TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 901874167, 
+    "name": "360\u0442\u0432", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 571801488, 
+    "name": "365Scores - Sports Scores, Transfers & News LIVE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 593394038, 
+    "name": "36\u6c2a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 798581879, 
+    "name": "393\u516c\u6c11\u5e73\u53f0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 427031807, 
+    "name": "3atlet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 630800339, 
+    "name": "3D World Brasil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 592027979, 
+    "name": "3G\u5546\u673a\u7f51", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 604794909, 
+    "name": "3G\u7f51\u5e97", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 500422866, 
+    "name": "3G\u8d77\u70b9 - \u7cbe\u54c1\u5e94\u7528\u63a8\u8350", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 491656436, 
+    "name": "3G\u95e8\u6237\u4f53\u80b2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 481173110, 
+    "name": "3Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 401354850, 
+    "name": "3TV Phoenix Mobile News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 318348972, 
+    "name": "3xInfos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 743592885, 
+    "name": "4 Outdoors - WTAE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 590043162, 
+    "name": "4 Wheeling For Jeep Fans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 820176594, 
+    "name": "4-4-2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 574387497, 
+    "name": "4-traders : Get the latest financial news and real time quotes on indexes, shares, currencies / fore...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 505978863, 
+    "name": "40/29 News - Fort Smith and Northwest Arkansas breaking news and weather", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 505979038, 
+    "name": "40/29 News HD - Fort Smith and Northwest Arkansas breaking news and weather", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 510170136, 
+    "name": "40/29 Tornadoes - Northwest Arkansas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 881602016, 
+    "name": "40/29 Weather - The best live, local weather.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 817764429, 
+    "name": "403rd Wing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 487290346, 
+    "name": "41 Action News Kansas City", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 481443779, 
+    "name": "41 Action News Kansas City for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 832345400, 
+    "name": "433.NL | Voetbal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 791037925, 
+    "name": "4399\u5168\u6c11\u82f1\u96c4\u653b\u7565\uff0d\u6700\u5168\u6700\u7ed9\u529b\u7684\u653b\u7565\u52a9\u624b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 904546510, 
+    "name": "4399\u653b\u7565 for \u5929\u5929\u70ab\u6597", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 904540608, 
+    "name": "4399\u653b\u7565 for \u6697\u9ed1\u6218\u795e", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 904540113, 
+    "name": "4399\u653b\u7565 for \u6d77\u5c9b\u5947\u5175", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 883888881, 
+    "name": "4399\u653b\u7565for\u5200\u5854\u4f20\u5947", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 879984274, 
+    "name": "4399\u653b\u7565for\u7089\u77f3\u4f20\u8bf4", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 743599908, 
+    "name": "4399\u6e38\u620f\u76d2-\u6e38\u620f\u8d44\u8baf\u3001\u653b\u7565\u8bc4\u6d4b\u89c6\u9891\u5927\u5168", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 829537742, 
+    "name": "4399\u6e38\u620f\u76d2HD--\u6e38\u620f\u8d44\u8baf\u3001\u653b\u7565\u8bc4\u6d4b\u89c6\u9891\u5927\u5168", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 553167259, 
+    "name": "45 Local News - PREP 45", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 659275778, 
+    "name": "47NEWS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 727487585, 
+    "name": "48 Hours in Qatar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 863901619, 
+    "name": "48info", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 904464595, 
+    "name": "49er class", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 352562892, 
+    "name": "4elements", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 452019235, 
+    "name": "4Live Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 497380124, 
+    "name": "4minuti.it", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 898172699, 
+    "name": "4PDA reader", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 582635651, 
+    "name": "4sport", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 645245117, 
+    "name": "4Techs News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 595514033, 
+    "name": "4th Fire Behavior and Fuels Conference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 583896605, 
+    "name": "4wheelfun", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 580846903, 
+    "name": "4x4 NEWS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 689209783, 
+    "name": "4x4emag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 843194806, 
+    "name": "4x4emagHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 356336433, 
+    "name": "5-0 Radio Police Scanner Lite (Free)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 341776037, 
+    "name": "5-0 Radio Pro Police Scanner (Extra Feeds)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 694134339, 
+    "name": "50th Anniversary of the March in Washington", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 571586495, 
+    "name": "51CTO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 656498894, 
+    "name": "51CTO\u65b0\u95fbHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 806061288, 
+    "name": "51\u8d44\u91d1\u9879\u76ee\u7f51", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 589489833, 
+    "name": "52\u00b0 LIVE - Die Mittelstandsseite aus Hannover", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 352317106, 
+    "name": "53mondays App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 823630242, 
+    "name": "54Etats", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 586836179, 
+    "name": "59.ru", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 782989264, 
+    "name": "5FM Radio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 489457313, 
+    "name": "5\u00aa Dimens\u00e3o", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 895019640, 
+    "name": "60 Jahre Mercedes SL \u2013 die Geschichte einer Ikone pr\u00e4sentiert von auto motor und sport", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 880323948, 
+    "name": "60 Seconds News Network", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 508510968, 
+    "name": "600 Raisons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 586838149, 
+    "name": "63.ru", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 795119760, 
+    "name": "660 News Calgary", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 405616387, 
+    "name": "6abc Philadelphia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 532747288, 
+    "name": "6abc Philadelphia Alarm Clock", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 462218089, 
+    "name": "6aprile.it", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 757661363, 
+    "name": "6tv telugu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 490476311, 
+    "name": "6\u00e8mes Assises de G\u00e9n\u00e9tique", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 645814507, 
+    "name": "7 dni GOSPODARKA PAP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 406330164, 
+    "name": "7 News \u2013 Lawton, OK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 896504138, 
+    "name": "7.30 \uc7ac\ubcf4\uad90\uc120\uac70 \ud6c4\ubcf4\uc790 \ud1a0\ub860 \ub2e4\uc2dc\ubcf4\uae30", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 537148186, 
+    "name": "70.Tour de Pologne", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 539453349, 
+    "name": "70.Tour de Pologne for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 586838730, 
+    "name": "72.ru", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 466873868, 
+    "name": "74.ru", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 586839200, 
+    "name": "76.ru", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 589343263, 
+    "name": "76actu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 374924861, 
+    "name": "77Lab News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 520174625, 
+    "name": "7Day News Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 363198631, 
+    "name": "7Days", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 804105581, 
+    "name": "7DAYS UAE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 483360887, 
+    "name": "7eyad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 531601302, 
+    "name": "7Headlines", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 664621994, 
+    "name": "7NAP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 530157928, 
+    "name": "7NEWS Denver", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 530249083, 
+    "name": "7NEWS Denver for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 403354213, 
+    "name": "7sur7.be Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 330057738, 
+    "name": "8 News NOW | KLAS-TV Las Vegas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 888303151, 
+    "name": "8 SIDOR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 698007094, 
+    "name": "8 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 644042925, 
+    "name": "8-bitcoin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 803806534, 
+    "name": "84th International Motor Show - Geneva", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 350747933, 
+    "name": "8a News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 648953429, 
+    "name": "8News StormTracker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 633880774, 
+    "name": "8riewchannel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 663117009, 
+    "name": "8\u70b91\u6c2a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 479943018, 
+    "name": "9&10 News - Northern Michigan's News Leader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 869241933, 
+    "name": "90 Ph\u00fat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 895363830, 
+    "name": "900JahreLinden", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 765014898, 
+    "name": "909", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 597131756, 
+    "name": "911 Dispatch", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 444087485, 
+    "name": "911 Emergency Radio - Listen to Live Emergency/Police Radio Feeds", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 375244010, 
+    "name": "911 Police Radio Free!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 890797021, 
+    "name": "92 Cup", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 841298567, 
+    "name": "94 Citoyens", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 879607379, 
+    "name": "956Fans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 821173184, 
+    "name": "96.7 The Champ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 647373004, 
+    "name": "960 KNEB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 524734709, 
+    "name": "960 The Zone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 527884509, 
+    "name": "971thefan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 798719813, 
+    "name": "97320.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 474846610, 
+    "name": "99 reddits", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 603543737, 
+    "name": "9ja News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 568147279, 
+    "name": "9NEWS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 568147687, 
+    "name": "9NEWS for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 407934645, 
+    "name": "9SV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 469267066, 
+    "name": "9Volto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 596682369, 
+    "name": "@mazing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 329841188, 
+    "name": "@rr\u00eat sur images", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 791044748, 
+    "name": "@\u4e1c\u839e", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 841260292, 
+    "name": "@\u4e1c\u839eHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 686651726, 
+    "name": "[BN] Blitz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 547000089, 
+    "name": "[digi]", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 848290513, 
+    "name": "[gi:k]", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 406964704, 
+    "name": "\u041a\u0430\u043f\u0438\u0442\u0430\u043b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 634853262, 
+    "name": "\u00abSamarskoe obozrenie\u00bb & \u00abDelo\u00bb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 526671474, 
+    "name": "\u201c\u7801\u4e0a\u90d1\u5dde\u201d\u2014\u2014\u626b\u63cf\u4e8c\u7ef4\u7801\u8fdb\u5165\u7cbe\u5f69\u89c6\u754c", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 658316079, 
+    "name": "\u202b\u0635\u062d\u064a\u0641\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u064a\u0648\u0645\u202c", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 544577813, 
+    "name": "\u25fd\u3010\u5947\u5e7b\u5c0f\u8bf4\u3011\u661f\u8fb0\u53d8+\u4e07\u672c\u7cbe\u54c1\u4e66\u57ce \u5b8c\u5168\u514d\u8d39\uff01\uff01", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 574781140, 
+    "name": "\u25fd\u8003\u7814\u82f1\u8bed\u4e0d\u7528\u6101 \u4e4b\u6613\u8003\u8303\u6587\u3010\u8bed\u97f3\u5b57\u5e55\u540c\u6b65\u3011", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 578599828, 
+    "name": "\u25fd\u82f1\u8bed\u65b0\u95fb\u542c\u529b\u5408\u96c6\u3010\u6709\u58f0\u540c\u6b65\u5b57\u5e55\u3011\u82f1\u8bed\u5b66\u4e60\u7684\u5178\u8303\uff0c\u4e0d\u53ef\u4e0d\u542c\uff01\uff01", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 791900192, 
+    "name": "\u300a\u4e2d\u534e\u513f\u5973\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 514884445, 
+    "name": "\u300a\u4e2d\u56fd\u4f01\u4e1a\u5bb6\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 534440130, 
+    "name": "\u300a\u4e92\u8054\u7f51\u5468\u520a\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 629883950, 
+    "name": "\u300a\u4e9a\u6d32\u65b0\u95fb\u4eba\u7269\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 512877698, 
+    "name": "Blogweekly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 666744241, 
+    "name": "\u300a\u570b\u5bb6\u5730\u7406\u300b\u96dc\u8a8c\u4e2d\u6587\u7248  CT: National Geographic Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 462148776, 
+    "name": "xinminweekly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 436104381, 
+    "name": "\u300a\u6642\u4ee3\u8ad6\u58c7\u300bChristian Times Mobile News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 533067832, 
+    "name": "\u300a\u77ad\u671b\u4e1c\u65b9\u5468\u520a\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 504250372, 
+    "name": "\u300a\u77ad\u671b\u4e1c\u65b9\u5468\u520a\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 655495381, 
+    "name": "\u300a\u884c\u5bb6\u300b\u6742\u5fd7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 710368680, 
+    "name": "\u300a\u91d1\u878d\u6295\u8d44\u62a5\u300b\u65b0\u5a92\u4f53", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 666198741, 
+    "name": "\u300a\u9f50\u9c81\u5468\u520a\u300b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 596358144, 
+    "name": "\u30102013\u6700\u65b0\u3011\u90ed\u5fb7\u7eb2\u5355\u53e3\u76f8\u58f0\u77ed\u7bc7\u5408\u96c6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 621255581, 
+    "name": "\u3010\u6709\u58f0+\u6587\u5b57\u3011\u4e0e\u76d7\u5893\u6709\u5173\u7684\u5c0f\u8bf4", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 820775831, 
+    "name": "\u3010\u6709\u58f0\u3011\u4ea4\u63a5\u9999\u6e2f\uff1a\u4eb2\u5386\u4e2d\u82f1\u8c08\u5224\u6700\u540e1208\u5929", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 816122650, 
+    "name": "\u3010\u6709\u58f0\u3011\u5351\u9119\u7684\u5723\u4eba\uff1a\u66f9\u64cd\uff08\u6e05\u6670\u7248\uff09", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 616433704, 
+    "name": "\u3010\u6709\u58f0\u3011\u592b\u59bb\u7b11\u8bdd -\u6709\u6599\uff0c\u4f60\u61c2\u7684\uff01", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 843155427, 
+    "name": "\u3010\u6709\u58f0\u3011\u8a00\u60c5\u5c0f\u8bf4\u968f\u8eab\u542c", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 560446115, 
+    "name": "\u3010\u6709\u58f0\u8f85\u5bfc\u3011\u82f1\u8bed\u53e3\u8bed\u6d41\u884c\u8bdd\u9898 1000\uff0b", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 574781678, 
+    "name": "\u3010\u674e\u9633\u3011\u75af\u72c2\u82f1\u8bed365\u53e5-\u4e2d\u82f1\u6587\u97f3\u5b57\u540c\u6b65", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 703274154, 
+    "name": "\u3010\u8bbf\u8c08\u3011\u8001\u53cb\u8bb0-\u7cbe\u82f1\u5927\u4f6c\u5934\u8111\u98ce\u66b4", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 803108991, 
+    "name": "A! New Me -\u4eca\u671f\u306e\u6df1\u591c\u30a2\u30cb\u30e1\u3092\u30ef\u30f3\u30bf\u30c3\u30d7\u3067\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3-", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 828297222, 
+    "name": "A*STAR Research", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 566513068, 
+    "name": "A-CTL MAGAZINE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 384376478, 
+    "name": "A-League Live Scores Football Now", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 566261065, 
+    "name": "A. Beig Zeitung \u2013 Ihre 6 lokalen Tageszeitungen aus dem Kreis Pinneberg", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 536199469, 
+    "name": "A. Pedull\u00e0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 539084474, 
+    "name": "A.Hassan17", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 866026073, 
+    "name": "A.S.D Junior Grignasco", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 866092933, 
+    "name": "A.S.D. Alfa Maser\u00e0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 895484241, 
+    "name": "A.S.D. ATLETICO MONTESILVANO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 895750962, 
+    "name": "A.S.D. Rocca Priora Calcio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 866038144, 
+    "name": "A.S.D. Vejano Football Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 380463334, 
+    "name": "A.S.L News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 330010029, 
+    "name": "A.S.S.E. Officiel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 858468196, 
+    "name": "A1 Report", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 766270010, 
+    "name": "A1onmk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 573820195, 
+    "name": "A5\u7ad9\u957f\u7f51", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 432879700, 
+    "name": "A9 TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 798557221, 
+    "name": "A9VG\u7535\u73a9\u90e8\u843d", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 688822541, 
+    "name": "A\\J \u2013 Canada\u2019s Environmental Voice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 522403260, 
+    "name": "AA Drink FBK-Games", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 506628967, 
+    "name": "AA Live", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 533833667, 
+    "name": "AAA - News, Rumors, Tips, Apps & Updates for iPhone, iPad & iPod Touch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 462699656, 
+    "name": "Aachener Zeitung/Nachrichten ePaper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 848915818, 
+    "name": "AAePaper for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 855083184, 
+    "name": "AAePaper for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 493319791, 
+    "name": "Aaj Tak", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 741947404, 
+    "name": "Aam Aadmi Party", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 871642141, 
+    "name": "Aam admi party", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 529049680, 
+    "name": "Aamuposti (Hyvink\u00e4\u00e4)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 529051948, 
+    "name": "Aamuposti (Riihim\u00e4ki)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 833389738, 
+    "name": "AAP-odisha", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 341394846, 
+    "name": "Aapl.se", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 356227703, 
+    "name": "Aaron Torres Sports", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 690063178, 
+    "name": "AARP Publications", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 419618952, 
+    "name": "AASHTO Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 577813806, 
+    "name": "AASP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 586525147, 
+    "name": "AATCC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 559934368, 
+    "name": "AAUM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 564204736, 
+    "name": "Ab - Abitare il bagno", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 371288461, 
+    "name": "AB Auto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 373547889, 
+    "name": "AB lease", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 739707008, 
+    "name": "ABB review - The corporate technical journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 888286816, 
+    "name": "AbbTakk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 364731181, 
+    "name": "ABC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 644011248, 
+    "name": "ABC 19  WKPT-TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 404886622, 
+    "name": "ABC 3340 - Alabama's News Leader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 585373069, 
+    "name": "ABC 4 Utah KTVX", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 570819048, 
+    "name": "ABC 57 News and First Warning Neighborhood Weather", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 478343543, 
+    "name": "ABC 6 (WLNE\u2013TV)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 521167681, 
+    "name": "ABC 6 NEWS NOW", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 538143167, 
+    "name": "ABC Action", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 487366506, 
+    "name": "ABC Action News Tampa Bay", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 481462961, 
+    "name": "ABC Action News Tampa Bay for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 593515896, 
+    "name": "ABC Color", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 563010237, 
+    "name": "ABC Columbia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 342691214, 
+    "name": "ABC de Sevilla", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 660255048, 
+    "name": "ABC en 20 Noticias", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 300255638, 
+    "name": "ABC News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 380520716, 
+    "name": "ABC News for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 511276649, 
+    "name": "ABC Tec", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 511284760, 
+    "name": "ABC Tec para iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 386653828, 
+    "name": "ABC-7 KVIA.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 408441304, 
+    "name": "ABC11 Raleigh-Durham", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 535926716, 
+    "name": "ABC11 Raleigh-Durham Alarm Clock", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 407345290, 
+    "name": "ABC13 Houston", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 526193259, 
+    "name": "ABC13 Houston Alarm Clock", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 535842858, 
+    "name": "ABC13 Weather To Go", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 487337298, 
+    "name": "ABC15 Arizona", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 481439771, 
+    "name": "ABC15 Arizona for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 514949823, 
+    "name": "ABC17 News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 394896224, 
+    "name": "ABC27 News \u2013 Local news and weather for central Pennsylvania from WHTM-TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 408436001, 
+    "name": "ABC30 Fresno", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 538454015, 
+    "name": "ABC30 Fresno Alarm Clock", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 533117597, 
+    "name": "ABC36", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 895241861, 
+    "name": "ABC4 Pollen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 585375298, 
+    "name": "ABC4 Utah Pinpoint Weather", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 411708390, 
+    "name": "ABC5 (WOI-DT) Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 738501742, 
+    "name": "ABC50", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 405388586, 
+    "name": "ABC7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 537384464, 
+    "name": "ABC7 Chicago Alarm Clock", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 405387506, 
+    "name": "ABC7 Los Angeles", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 534410913, 
+    "name": "ABC7 Los Angeles Alarm Clock", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 407314068, 
+    "name": "ABC7 News San Francisco", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 536608657, 
+    "name": "ABC7 News San Francisco Alarm Clock", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 457643642, 
+    "name": "ABC7/WJLA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 402259941, 
+    "name": "ABC7Chicago News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 419619698, 
+    "name": "ABC9 KCAU-TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 721334354, 
+    "name": "ABCC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 859894435, 
+    "name": "ABCdeiDiritti", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 903343924, 
+    "name": "ABCNyheter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 534875729, 
+    "name": "ABD Actueel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 725195762, 
+    "name": "Abdullah Al-Johany", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 770844498, 
+    "name": "Abdullah Gul", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 542137439, 
+    "name": "Abeille & Associ\u00e9s", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 542619736, 
+    "name": "Aberdeen American News Sports", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 437229034, 
+    "name": "Aberdeen News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 436975976, 
+    "name": "Aberystwyth", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 569935531, 
+    "name": "ABF News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 766367398, 
+    "name": "Abfallverband Hollabrunn", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 908926512, 
+    "name": "ABH Preps", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 565914712, 
+    "name": "ABHIYAAN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 418902787, 
+    "name": "Abidjan.net", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 890868083, 
+    "name": "AbidjanPress", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 374029990, 
+    "name": "Abilene Reporter-News for iPhone  - Abilene, Texas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 556084114, 
+    "name": "Abilene Reporter-News for the iPad - Abilene, Texas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 897695361, 
+    "name": "Abnaee-\u0623\u0628\u0646\u0627\u0626\u064a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 658885358, 
+    "name": "Abondance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 657466291, 
+    "name": "About Canada - News, Information, and Adventure", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 873294987, 
+    "name": "About Last Night", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 793153555, 
+    "name": "AboutOil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 581166967, 
+    "name": "ABP AR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 811114904, 
+    "name": "ABP Live - ABP News, ABP Ananda & ABP Majha", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 844908156, 
+    "name": "ABP News Kaun Banega Pradhanmantri", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 891044688, 
+    "name": "ABPNews/Religious Herald", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 872765156, 
+    "name": "ABQ NewsCastic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 376981500, 
+    "name": "Abri Europe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 376343775, 
+    "name": "Abruzzo24oretv", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 424593148, 
+    "name": "ABS-CBN News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 448287042, 
+    "name": "Abstract Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 479842750, 
+    "name": "Abu Dhabi Sports Council", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 814540101, 
+    "name": "ABYX La Revista Gratuita para Xbox", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 823693697, 
+    "name": "AC Ajaccio 1910", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 582630397, 
+    "name": "AC Milan Pro", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 505321503, 
+    "name": "AC Omonoia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 829473403, 
+    "name": "ACA2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 818270884, 
+    "name": "AcademicTransfer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 588600237, 
+    "name": "Academy of the Sacred Heart", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 703067783, 
+    "name": "Acadie Nouvelle - Num\u00e9rique", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 437202587, 
+    "name": "ACB.COM (powered by Orange)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 390531553, 
+    "name": "ACC Sports Official Application of The Atlantic Coast Conference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 597368824, 
+    "name": "AccessNOW", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 777244282, 
+    "name": "Acci\u00f3n contra el Hambre", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 891192166, 
+    "name": "Acci\u00f3n U", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 482607890, 
+    "name": "Accord Owners Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 454538429, 
+    "name": "Accountancynieuws, de onmisbare nieuwsbron voor elke accountancyprofessional", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 438449710, 
+    "name": "Accounting Today", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 610378935, 
+    "name": "AccuTech Systems Conferences", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 348618445, 
+    "name": "AccuWeather Platinum - Weather for Life", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 866078146, 
+    "name": "ACD Alpes Cesio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 476309790, 
+    "name": "AcDecor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 899904299, 
+    "name": "Aces Golf  Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 465136755, 
+    "name": "ACFTA News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 599403180, 
+    "name": "ACG\u8d44\u8baf", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 857762990, 
+    "name": "Achilles 1894 Assen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 777231694, 
+    "name": "ACI Prensa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 470539311, 
+    "name": "ACI-NA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 561497660, 
+    "name": "ACLU-NJ Police Tape", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 902741494, 
+    "name": "Acordei", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 493002583, 
+    "name": "Acordes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 845128073, 
+    "name": "ACPG Not\u00edcies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 699413568, 
+    "name": "Act for Israel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 842939846, 
+    "name": "ACT: Abolish Child Trafficking", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 638456474, 
+    "name": "Acta Paulista de Enfermagem", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 523761331, 
+    "name": "Action 4 News & ValleyCentral.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 813821479, 
+    "name": "Action Alerts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 864061353, 
+    "name": "Action Commerciale", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 692881204, 
+    "name": "Action Ministries", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 784145645, 
+    "name": "Action News 17", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 893635322, 
+    "name": "Action News Now", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 890655427, 
+    "name": "Action News Now iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 334170959, 
+    "name": "Action Scanner - Police, Fire, EMS and Amateur Radio", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 660497949, 
+    "name": "Action Scanner PRO - Police Fire and EMS", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 423534851, 
+    "name": "Action Videos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 855068285, 
+    "name": "ActionAid", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 458657577, 
+    "name": "Acton Institute", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 547952680, 
+    "name": "Actu foot : Top mercato pour iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 864021119, 
+    "name": "Actu Moteurs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 885159056, 
+    "name": "Actu Moteurs - Automobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 622407763, 
+    "name": "Actu Senegal", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 725745216, 
+    "name": "Actu S\u00e9n\u00e9gal Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 895812443, 
+    "name": "Actu-Moteurs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 394398047, 
+    "name": "Actualit\u00e9s du droit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 901611477, 
+    "name": "Actualit\u00e9s France", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 791332371, 
+    "name": "Actualit\u00e9sHub", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 598602379, 
+    "name": "Actualno", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 680531430, 
+    "name": "Actueel.st 3 - Voetbalnieuws", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 703791941, 
+    "name": "Acupuncture Today", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 526679238, 
+    "name": "AD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 428949462, 
+    "name": "AD HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 366982694, 
+    "name": "Ad RSS Pro Reader", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 385276107, 
+    "name": "Ad RSS Pro Reader (Ad supported)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 869308387, 
+    "name": "AD Wekker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 857724609, 
+    "name": "AD'69", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 411536869, 
+    "name": "AD.nl Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 803949628, 
+    "name": "Ada Futbolu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 646138209, 
+    "name": "ADA TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 668391666, 
+    "name": "ADA TV for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 598315016, 
+    "name": "ADAC Motorwelt Digital", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 516313287, 
+    "name": "ADAC News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 556519552, 
+    "name": "AdaDerana Sinhala", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 561907145, 
+    "name": "AdaDerana Sinhala HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 565910406, 
+    "name": "AdaDerana Tamil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 566556548, 
+    "name": "AdaDerana Tamil HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 645859862, 
+    "name": "Adana B\u00fcy\u00fck\u015fehir Belediyesi Mobil Uygulamas\u0131", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 708005912, 
+    "name": "Adana Haber", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 890382648, 
+    "name": "Adana Haberleri", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 668042626, 
+    "name": "Adapazar\u0131 Belediyesi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 670188997, 
+    "name": "Adapazar\u0131 \u00d6zel Enka Lisesi Rehberlik B\u00fclteni", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 669043396, 
+    "name": "Adapazar\u0131 \u00d6zel Enka Ortaokulu Rehberlik B\u00fclteni", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 731368352, 
+    "name": "AdAsia Festival", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 616688461, 
+    "name": "Adbusters en Espa\u00f1ol", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 535089777, 
+    "name": "Adbusters Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 650801291, 
+    "name": "ADC Journal, the world of Art and Design collections", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 501702689, 
+    "name": "Adegi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 389219732, 
+    "name": "Adelaide News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 657764696, 
+    "name": "Adelaide School 1.1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 905462385, 
+    "name": "Ademir Camilo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 846712893, 
+    "name": "AdempimentiPA.it", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 567941090, 
+    "name": "ADFC-News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 818247125, 
+    "name": "ADFEST", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 718829102, 
+    "name": "Adico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 648862320, 
+    "name": "Adiconsum", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 648862813, 
+    "name": "Adiconsum for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 563973393, 
+    "name": "Adirondack Daily Enterprise", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 880128863, 
+    "name": "Adirondack Daily Enterprise All Access", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 512310954, 
+    "name": "Adirondack Express", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 879925020, 
+    "name": "Adjective Thermometer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 448272021, 
+    "name": "ADN e-Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 587925874, 
+    "name": "ADN Radio for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 400690684, 
+    "name": "Adnews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 408734436, 
+    "name": "Adnews em Revista", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 767888204, 
+    "name": "ADR RK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 806331960, 
+    "name": "Adrenal Dose", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 514319210, 
+    "name": "ADSLgr.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 408380028, 
+    "name": "ADSLNet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 492844889, 
+    "name": "Advantage Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 739516122, 
+    "name": "Adventist Development & Relief Agency - South Australia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 527009109, 
+    "name": "Adventures In Ministry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 781321119, 
+    "name": "AdverTimes \u30de\u30fc\u30b1\u30bf\u30fc\u5fc5\u898b\u306e\u30cb\u30e5\u30fc\u30b9&\u30b3\u30e9\u30e0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 563959510, 
+    "name": "Advertiser Tribune", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 553053371, 
+    "name": "Advertising Age Am\u00e9rica Central y El Caribe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 742028067, 
+    "name": "Advertising filtering assistant - green browser", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 675541159, 
+    "name": "ADVevent 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 503202185, 
+    "name": "Advocates", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 570229326, 
+    "name": "Adweek Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 412696345, 
+    "name": "AEA - Legislative Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 664458802, 
+    "name": "AECNEWS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 664460864, 
+    "name": "AECNEWS HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 489829825, 
+    "name": "AEDAF", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 563230700, 
+    "name": "Aegean Omiros College", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 705057973, 
+    "name": "AEI Essentials", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 858901482, 
+    "name": "AEK1924", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 294209757, 
+    "name": "AeroReader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 808720957, 
+    "name": "AeroRevue", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 649954246, 
+    "name": "Aerospace Testing International", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 367828685, 
+    "name": "Aeroteconline", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 727732629, 
+    "name": "AESA 28th Annual Conference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 549784285, 
+    "name": "AF Link", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 484966554, 
+    "name": "AFA-IN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 658226044, 
+    "name": "Afamily", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 713550886, 
+    "name": "AFC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 575623331, 
+    "name": "Aff\u00e4rsv\u00e4rlden Magasin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 769828993, 
+    "name": "Afghanistan News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 881507580, 
+    "name": "AfghansVote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 317808867, 
+    "name": "AFL Footy Predictor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 382157922, 
+    "name": "AFL Live Scores Footy Now", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 404006701, 
+    "name": "AFN Europe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 765912328, 
+    "name": "AFN Pacific", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 448339846, 
+    "name": "AFP iPad Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 342705886, 
+    "name": "AFP Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 545674171, 
+    "name": "AFP Olympics 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 476054717, 
+    "name": "AFP Photo Books : Eye on a New Century", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 346546534, 
+    "name": "Africa Hot News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 825653432, 
+    "name": "Africa Intelligence", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 419868956, 
+    "name": "AFRICA NEWS HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 438505797, 
+    "name": "Africa Smart News", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 584020958, 
+    "name": "Africa Top Sports", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 582442501, 
+    "name": "African Cup of Nations 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 893549985, 
+    "name": "African Football", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 582903967, 
+    "name": "African Newstand", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 448624372, 
+    "name": "AfricanManager", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 594507581, 
+    "name": "Afrik-Foot", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 594519829, 
+    "name": "Afrik.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 490074669, 
+    "name": "Afrika 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 620265579, 
+    "name": "Afriport", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 787098283, 
+    "name": "Afromarket", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 522803873, 
+    "name": "AFSCME 40th International Convention", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 545688009, 
+    "name": "AFT App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 501989729, 
+    "name": "Aftenbladet Eavis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 422554989, 
+    "name": "Aftenposten Arkiv", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 508160993, 
+    "name": "Aftenposten Innsikt", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 513032400, 
+    "name": "AfterCapture Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 284962281, 
+    "name": "Aftonbladet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 571595201, 
+    "name": "Aftonbladet Flip", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 339998390, 
+    "name": "Aftonbladet Supernytt", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 401613990, 
+    "name": "Aftonbladet tidning", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 783764223, 
+    "name": "Afyon Anahaber", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 609455370, 
+    "name": "Afyon Belediyesi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 454165786, 
+    "name": "Agderposten", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 705824331, 
+    "name": "AGEDI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 534188664, 
+    "name": "AGENCE ACC\u00c8S IMMOBILIER", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 601373003, 
+    "name": "Agencia EFE, S.A.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 569765410, 
+    "name": "Agency Wars", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 493415474, 
+    "name": "Agenda Cultural", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 787163997, 
+    "name": "Agenda del Ayuntamiento de Pedrola", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 605371115, 
+    "name": "Agenda Info", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 606848471, 
+    "name": "Agenda Poker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 650469454, 
+    "name": "Agenda Sustentabilidade", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 485296917, 
+    "name": "Agenda25", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 606098436, 
+    "name": "Agent of Earthquake", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 705212233, 
+    "name": "AGERPRES", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 871872007, 
+    "name": "Aggie Sports Central", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 781547620, 
+    "name": "Aggie Sports Page", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 796873124, 
+    "name": "Aggiornamenti di diritto", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 640572833, 
+    "name": "Aggiornamenti Sociali", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 320225044, 
+    "name": "AggroGamer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 379007385, 
+    "name": "AGI iNews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 892575955, 
+    "name": "Agnelo Queiroz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 862637389, 
+    "name": "AGOS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 889023834, 
+    "name": "AGOS iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 542608018, 
+    "name": "Agrar TVNews", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 424315758, 
+    "name": "Agrinews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 600978448, 
+    "name": "AgriNews Live", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 534922858, 
+    "name": "AgriNews Pubs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 583352144, 
+    "name": "Agrisalon, l\u2019essentiel de l\u2019information agricole", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 553796135, 
+    "name": "Agro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 540154742, 
+    "name": "AgroNews.gr", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 665095074, 
+    "name": "Agronoticias", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 502483609, 
+    "name": "AgroXXI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 502806272, 
+    "name": "AgroXXI HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 554149610, 
+    "name": "AGRR Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 550546920, 
+    "name": "AGRR Magazine HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 441080757, 
+    "name": "AGWM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 495122707, 
+    "name": "AGWM for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 531134451, 
+    "name": "AH", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 431471177, 
+    "name": "AHABER", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 431471498, 
+    "name": "AHABER HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 514921621, 
+    "name": "AHaber Radyo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 673949341, 
+    "name": "AHGZ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 436726128, 
+    "name": "Ahlulbayt TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 755576884, 
+    "name": "Ahlzahir", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 369585922, 
+    "name": "Ahmadiyya Islamic News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 597838692, 
+    "name": "Ahram Massai", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 506681718, 
+    "name": "Ahram Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 691112116, 
+    "name": "Ahram Weekly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 884637564, 
+    "name": "AIA Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 893580197, 
+    "name": "AIADMK.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 869304549, 
+    "name": "Aidcom Alerts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 463207114, 
+    "name": "AidYourCity", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 585376320, 
+    "name": "Aigues Mortes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 574853032, 
+    "name": "Aiken Standard e-Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 624147649, 
+    "name": "Aiken Standard News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 600110541, 
+    "name": "Aimargues", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 370742533, 
+    "name": "AINonline", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 684709480, 
+    "name": "Air Britain News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 735180422, 
+    "name": "Air Cargo News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 508802717, 
+    "name": "Air Cargo Week (ACW)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 886689581, 
+    "name": "AIR FORCE Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 322558871, 
+    "name": "Air Force News Reader", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 429896091, 
+    "name": "Air Force+", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 606796485, 
+    "name": "Air France Press", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 392259401, 
+    "name": "Air le Mag par McDonald's", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 807301884, 
+    "name": "AIR News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 472624550, 
+    "name": "Air Zermatt", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 849075144, 
+    "name": "Air&Cosmos News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 527219529, 
+    "name": "Air&Cosmos, l'hebdo de l'actualit\u00e9 a\u00e9rospatiale en langue fran\u00e7aise", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 840853100, 
+    "name": "Airbus ProSky Symposium", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 681976306, 
+    "name": "Airfinance Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 673115511, 
+    "name": "Airing News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 615423587, 
+    "name": "Airline Business", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 496129522, 
+    "name": "AirlineCrazy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 566041850, 
+    "name": "AIRMAN Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 825756280, 
+    "name": "Airmotion News OnBoard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 575923409, 
+    "name": "Airone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 802889665, 
+    "name": "Airport Industry Review", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 597923004, 
+    "name": "Airport Revenue News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 649294106, 
+    "name": "AirportHaber Havac\u0131l\u0131k Haberleri", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 675290815, 
+    "name": "AirSS - Fast Rss reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 620435976, 
+    "name": "Airwave AK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 756721021, 
+    "name": "AITC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 351341121, 
+    "name": "Aiuto per Haiti", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 836659375, 
+    "name": "Aix-en-Provence Bleu Marine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 455195428, 
+    "name": "Ajaccio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 634934216, 
+    "name": "Ajakiri AED", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 757904884, 
+    "name": "Ajakiri Sensa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 561459869, 
+    "name": "Ajans Haber", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 672254209, 
+    "name": "Ajans26", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 370888640, 
+    "name": "Ajansspor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 679786620, 
+    "name": "Ajax Showtime", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 517978538, 
+    "name": "Ajax1 | Alles over Ajax", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 520790473, 
+    "name": "Ajaxfans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 327511023, 
+    "name": "AjaxRainApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 315359399, 
+    "name": "AJC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 529045867, 
+    "name": "AJIB.fr", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 581154091, 
+    "name": "Ajit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 414871258, 
+    "name": "AjourAvisa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 904621274, 
+    "name": "Ajuntament d'Algemes\u00ed", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 828892328, 
+    "name": "Ajuntament de Martorell", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 829718884, 
+    "name": "Ajuntament de Palau-solit\u00e0 i Plegamans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 770943041, 
+    "name": "AK Parti - Adalet ve Kalk\u0131nma Partisi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 538477697, 
+    "name": "AK PARTi Diyarbak\u0131r Milletvekili Galip Ensario\u011flu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 514235512, 
+    "name": "AK Parti \u0130stanbul", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 824368228, 
+    "name": "AK Slussen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 824140284, 
+    "name": "AK State Legislature Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 897222095, 
+    "name": "AKA1908", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 369193514, 
+    "name": "Akasico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 526490146, 
+    "name": "Akhabar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 595306572, 
+    "name": "Akhbaar24", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 617626630, 
+    "name": "Akhbaar24 iPad edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 371080623, 
+    "name": "Akhbar - \u0623\u062e\u0628\u0627\u0631 \u0627\u0644\u062f\u0627\u0631", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 699840726, 
+    "name": "Akhbar Varzeshi ( \u0627\u062e\u0628\u0627\u0631 \u0648\u0631\u0632\u0634\u06cc \u0627\u06cc\u0631\u0627\u0646 ) in Persian", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 485345639, 
+    "name": "Akhbarak", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 406348819, 
+    "name": "Akhbars | India Newspapers | bharatiya samachar", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 595096972, 
+    "name": "AKhulp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 642019369, 
+    "name": "AkiciHaber", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 771687818, 
+    "name": "Akila News Feed", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 876279499, 
+    "name": "Akorda.kz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 723888330, 
+    "name": "AKR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 545436934, 
+    "name": "Akra Haber", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 849076494, 
+    "name": "Akron Beacon Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 883194632, 
+    "name": "Aksa Haber", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 473934870, 
+    "name": "Aksiyon Dergisi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 564749956, 
+    "name": "Aksiyon eDergi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 494566262, 
+    "name": "Aktif Haber", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 590680758, 
+    "name": "AktiviGrorud", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 581871531, 
+    "name": "Aktuellt i Politiken", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 453242039, 
+    "name": "Aktu\u00e1ln\u011b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 712944898, 
+    "name": "Ak\u015fam eGazete", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 545189480, 
+    "name": "Al Ahram", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 846624732, 
+    "name": "Al Arabiya - KSA / \u0627\u0644\u0639\u0631\u0628\u064a\u0629 - \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 542914362, 
+    "name": "Al Arabiya / \u0627\u0644\u0639\u0631\u0628\u064a\u0629", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 762573354, 
+    "name": "Al Arabiya English", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 762153170, 
+    "name": "Al Arabiya Farsi / \u0641\u0627\u0631\u0633\u064a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 755418889, 
+    "name": "Al Arabiya for iPad / \u0627\u0631\u062f\u0648", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 755488884, 
+    "name": "Al Arabiya for iPad / \u0641\u0627\u0631\u0633\u064a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 733557253, 
+    "name": "Al Arabiya Urdu / \u0627\u0631\u062f\u0648", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 849637063, 
+    "name": "Al Baghdadia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 735616909, 
+    "name": "Al Calor Pol\u00edtico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 524403134, 
+    "name": "Al Dia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 689250882, 
+    "name": "Al Fallouja Mobile App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 863280430, 
+    "name": "Al Fazl", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 845981155, 
+    "name": "Al Hadath / \u0627\u0644\u062d\u062f\u062b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 575667879, 
+    "name": "Al Hosn Gas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 548634879, 
+    "name": "Al Jadeed", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 810543104, 
+    "name": "Al Jazeera America News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 578312429, 
+    "name": "Al Jazeera Balkans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 581369858, 
+    "name": "Al Jazeera Balkans Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 504847776, 
+    "name": "Al Jazeera English", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 433244125, 
+    "name": "Al Jazeera English for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 551599653, 
+    "name": "Al Jazeera English Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 415467850, 
+    "name": "Al Jazeera Mubasher", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 793145241, 
+    "name": "Al Jazeera Turk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 766475950, 
+    "name": "Al Jazeera Turk Dergi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 486370830, 
+    "name": "Al Joumhouria News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 390102230, 
+    "name": "Al Kass App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 406596668, 
+    "name": "Al Kass tv", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 598393436, 
+    "name": "Al Madina Al Monawara - \u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 615221404, 
+    "name": "Al Markazia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 768703667, 
+    "name": "Al Nadim", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 474488616, 
+    "name": "Al Qotb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 523634366, 
+    "name": "Al Quds for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 524051074, 
+    "name": "Al Quds for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 488685416, 
+    "name": "Al Rai \u0627\u0644\u0631\u0627\u064a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 348598860, 
+    "name": "Al Ramirez for U.S. Senate 2010", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 897222916, 
+    "name": "Al Toque", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 433652990, 
+    "name": "Al Watan on iPad \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0648\u0637\u0646 \u0627\u0644\u0642\u0637\u0631\u064a\u0629", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 492434906, 
+    "name": "Al Watan on iPhone - \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0648\u0637\u0646", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 438936413, 
+    "name": "Al Watan on iPhone \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0648\u0637\u0646", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 571648831, 
+    "name": "Al Yaum (for iPad)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 571647636, 
+    "name": "Al Yaum (for iPhone)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 649372264, 
+    "name": "AL-BOXING", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 568749999, 
+    "name": "Al-Jazirah Snap", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 579675564, 
+    "name": "Al-Mada for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 580073885, 
+    "name": "Al-Mada for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 642362583, 
+    "name": "Al-Maqar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 528299138, 
+    "name": "Al-Nadi for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 709029934, 
+    "name": "AL-Sabeel (for iPad)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 904945194, 
+    "name": "Al-Sharq", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 561346128, 
+    "name": "Al-Talib: UCLA's Muslim Newsmagazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 418785178, 
+    "name": "Al-Wasat \u0627\u0644\u0648\u0633\u0637", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 419876008, 
+    "name": "AL.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 548295291, 
+    "name": "AL.com: Alabama Crimson Tide Football News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 549484884, 
+    "name": "AL.com: Auburn Tigers Football News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 562976163, 
+    "name": "AL.com: Birmingham", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 562978476, 
+    "name": "AL.com: Huntsville", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 562980529, 
+    "name": "AL.com: Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 595349702, 
+    "name": "AlaaAlDin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 769893500, 
+    "name": "Alabama Baby & Child", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 348143579, 
+    "name": "Alabama College Basketball Fan - Scores, Stats, Schedule & News", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 633916552, 
+    "name": "Alabama College Basketball Fan Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 615563989, 
+    "name": "Alabama College Football Fan Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 412344067, 
+    "name": "Alabama Crimson Tide Sports News App (Free)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 446665212, 
+    "name": "Alabama Crimson Tide Sports News App (Full)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 662182146, 
+    "name": "Alabama Department of Economic and Community Affairs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 385423154, 
+    "name": "Alabama Football Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 658304666, 
+    "name": "Alabama Governor Robert Bentley", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 751982026, 
+    "name": "Alabama Lt. Governor Kay Ivey", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 797799656, 
+    "name": "Alabama News Nework", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 648617790, 
+    "name": "Alabama SAF-T-Net", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 586709652, 
+    "name": "Alabama State Athletics - Go Hornets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 435030857, 
+    "name": "Alabamas13.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 672613883, 
+    "name": "Alahednews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 824345029, 
+    "name": "Alain Rousseau pour Brest Bleu Marine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 640001469, 
+    "name": "Alameda County Access", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 334354052, 
+    "name": "Alameda Sun", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 623860441, 
+    "name": "Alamogordo Daily News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 883186999, 
+    "name": "Alanya Postas\u0131", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 558463671, 
+    "name": "Alarab Alyawm (for iPad)  \u0627\u0644\u0639\u0631\u0628 \u0627\u0644\u064a\u0648\u0645", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 558826638, 
+    "name": "Alarab Alyawm (for iPhone) \u0627\u0644\u0639\u0631\u0628 \u0627\u0644\u064a\u0648\u0645", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 885398616, 
+    "name": "Alarm Clock XO", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 885394170, 
+    "name": "Alarm Clock XO Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 881459398, 
+    "name": "Alarm XO", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 881875780, 
+    "name": "Alarm XO Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 503670727, 
+    "name": "AlarmApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 369005888, 
+    "name": "Alarmfase 1 - P2000", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 429490317, 
+    "name": "Alarmfase 1 HD - P2000", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 844695224, 
+    "name": "Alaska Dispatch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 723671885, 
+    "name": "Albacete Balompi\u00e9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 408252239, 
+    "name": "Albania News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 383799798, 
+    "name": "Albanian News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 536302034, 
+    "name": "Albany State University", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 468081524, 
+    "name": "Albany Times Union for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 646474545, 
+    "name": "Albany Times Union Jobs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 663210722, 
+    "name": "ALBAYAN Magazine - \u0645\u062c\u0644\u0629 \u0627\u0644\u0628\u064a\u0627\u0646", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 368210590, 
+    "name": "AlBayan Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 369143646, 
+    "name": "AlbeitarPortalveterinaria", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 698222007, 
+    "name": "Albert Einstein - Quotes, Images, News, and More!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 888325071, 
+    "name": "Alberta Rivers: Data and Advisories", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 552381582, 
+    "name": "Alberta Teachers' Association", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 626977403, 
+    "name": "Alberta Wildfire", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 703125873, 
+    "name": "Albirroja", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 704253954, 
+    "name": "Albuquerque Fiesta Tracker by KOAT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 452844819, 
+    "name": "Albuquerque Journal newspaper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 543971028, 
+    "name": "Alcalde Ugo Ruiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 794141018, 
+    "name": "Alcald\u00eda Contigo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 580559946, 
+    "name": "ALCalhounSO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 860681825, 
+    "name": "Alchimedus App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 720123681, 
+    "name": "Alcmaria Victrix", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 786398896, 
+    "name": "ALDEPAC Conference Cape Town 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 518574890, 
+    "name": "Alegeri 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 765531248, 
+    "name": "ALEPA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 844613813, 
+    "name": "Alert 123", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 793748212, 
+    "name": "Alerta Chiapas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 539140829, 
+    "name": "Alerta S\u00edsmica DF", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 574105322, 
+    "name": "Alerta S\u00edsmica DF HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 694352237, 
+    "name": "Alerta S\u00edsmica DF: NetAlert", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 576554263, 
+    "name": "AlertaMX", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 657241651, 
+    "name": "AlertifyMe News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 899535982, 
+    "name": "ALERTPAGE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 688637899, 
+    "name": "Alex Sammoury", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 813711891, 
+    "name": "Alexis S\u00e1nchez - Alcalde", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 610112727, 
+    "name": "ALFA Lotfeeding", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 689520671, 
+    "name": "AlFadyTv", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 471453168, 
+    "name": "Alfano", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 885520338, 
+    "name": "Alfemminile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 815392724, 
+    "name": "Alfred University Athletics - Go Saxons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 765074444, 
+    "name": "Algeria News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 495145134, 
+    "name": "Algeria Press", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 395848225, 
+    "name": "Algerian News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 731342127, 
+    "name": "Algerie-focus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 543150532, 
+    "name": "Algerienews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 828274542, 
+    "name": "Alghad for Tablets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 719869176, 
+    "name": "Alg\u00e9rie 360", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 882926800, 
+    "name": "ALH Revista digital de la Alhambra", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 901816388, 
+    "name": "Alhikmat TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 771772929, 
+    "name": "Ali Babacan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 787619888, 
+    "name": "Alice Echo News Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 370144106, 
+    "name": "Alien Blue - Reddit Client", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 390863118, 
+    "name": "Alien Blue for iPad - Reddit Client", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 414858208, 
+    "name": "Alings\u00e5s Tidning", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 883908058, 
+    "name": "Alive Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 708142724, 
+    "name": "Aliwaa Newspaper (for iPad)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 708142749, 
+    "name": "Aliwaa Newspaper (for iPhone)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 869789977, 
+    "name": "AlJarida For iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 739215657, 
+    "name": "AlKalima Online", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 688034522, 
+    "name": "Alkass Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 832493909, 
+    "name": "ALKuwaityah English", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 793926231, 
+    "name": "All About ARIS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 667886326, 
+    "name": "All About History", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 907156684, 
+    "name": "All About Sports", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 568160123, 
+    "name": "All Ag, All Day!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 690942281, 
+    "name": "All Analytics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 551759481, 
+    "name": "All Animals Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 886770608, 
+    "name": "All Australian NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 887019891, 
+    "name": "All Austrian NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 374882187, 
+    "name": "All Blacks: The Rugby Union App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 887016101, 
+    "name": "All Brazilian NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 887022999, 
+    "name": "All Canada NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 887019548, 
+    "name": "All Chilean NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 886759174, 
+    "name": "All Colombian NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 887037229, 
+    "name": "All France NewsPaper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 887034783, 
+    "name": "All Germany NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 379512915, 
+    "name": "All Hockey", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 882292884, 
+    "name": "All indian NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 886780861, 
+    "name": "All Mexican NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 739856096, 
+    "name": "All Near Events", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 805507788, 
+    "name": "All New York Mets News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 586816640, 
+    "name": "All News Pro 5 App in 1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 886749425, 
+    "name": "All Pakistani NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 887011367, 
+    "name": "All Portugal NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 550771918, 
+    "name": "All Rugby SA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 887023869, 
+    "name": "All Russia NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 603443949, 
+    "name": "All Saint's Blackheath C of E Primary School", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 887030159, 
+    "name": "All Spain Newspaper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 379690629, 
+    "name": "All Sports", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 383654813, 
+    "name": "All Sports News", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 697897568, 
+    "name": "All Sports News HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 887009222, 
+    "name": "All Sweden NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 887027392, 
+    "name": "All Switzerland Newspapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 693008164, 
+    "name": "All Things: The Big Bang Theory Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 622413517, 
+    "name": "All Things:GOT Edition (Game of Thrones Edition/ A Song of Ice and Fire Edition)", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 886722927, 
+    "name": "All UK Newspapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 886739641, 
+    "name": "All Venezuelan NewsPapers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 443074735, 
+    "name": "All Voices - Daily Progressive, Democratic, Left, Liberal News, Politics, Opinion, Radio & Cartoons ...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 887342562, 
+    "name": "ALL&G \ud559\ubd80\ubaa8", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 785342789, 
+    "name": "Allanwater Herald", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 886161983, 
+    "name": "Allerton Grange", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 577430608, 
+    "name": "Alles over Katwijk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 518321538, 
+    "name": "Allez Savoir!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 806814987, 
+    "name": "AllForPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 822934070, 
+    "name": "AllForPhone pour iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 894536509, 
+    "name": "Allgemeine Bauzeitung ABZ ePaper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 524331154, 
+    "name": "Allg\u00e4uer Zeitung", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 436012206, 
+    "name": "Alligator Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 350698323, 
+    "name": "Alllotto Latinoame\u0301rica Lottery Results", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 339055231, 
+    "name": "Alllotto.com Australia Lottery Results", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 338946687, 
+    "name": "Alllotto.com Canada Lottery Results", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 421345200, 
+    "name": "Alllotto.com European Lottery Results", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 338987036, 
+    "name": "Alllotto.com Ireland Lottery Results", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 339037501, 
+    "name": "Alllotto.com New Zealand Lottery Results", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 339068146, 
+    "name": "Alllotto.com South Africa Lottery Results", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 338979936, 
+    "name": "Alllotto.com UK Lottery Results", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 333711532, 
+    "name": "Alllotto.com US Lottery Results", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 827836825, 
+    "name": "Allofamille", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 412786853, 
+    "name": "AllSportsRadios", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 594137904, 
+    "name": "Allsvenskan 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 719701757, 
+    "name": "Allsvenskan for iOS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 619325685, 
+    "name": "Allsvenskan Livescore", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 482243421, 
+    "name": "Alltid Nyheter", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 506111409, 
+    "name": "Alltop for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 705093126, 
+    "name": "Almada", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 575575940, 
+    "name": "Almayadeen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 575121832, 
+    "name": "Almayadeen Live", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 589008714, 
+    "name": "AlmayadeenHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 485008704, 
+    "name": "Almere", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 468065524, 
+    "name": "Almere City FC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 683275346, 
+    "name": "ALMG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 766594108, 
+    "name": "Alpa Uno Live", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 561681757, 
+    "name": "ALPA's 44th BOD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 763500969, 
+    "name": "Alpe d'Huez Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 566629952, 
+    "name": "Alpena News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 500137630, 
+    "name": "ALPHA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 447081473, 
+    "name": "Alpha Plus Group Schools", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 594584089, 
+    "name": "AlphaGalileo German Research News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 687076998, 
+    "name": "AlphaGalileo International Research News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 638743540, 
+    "name": "AlphaGalileo Norwegian Research News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 893923059, 
+    "name": "AlpineBlog", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 895429890, 
+    "name": "AlRaiDrama", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 777636690, 
+    "name": "Alriyadh newspaper \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0631\u064a\u0627\u0636", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 507873289, 
+    "name": "Alryiadh Newspaper: \u062c\u0631\u064a\u062f\u0629 \u0627\u0644\u0631\u064a\u0627\u0636 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 595181192, 
+    "name": "Alsabaah Iraqi newspaper", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 808919223, 
+    "name": "AlSalehFamily", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 654708475, 
+    "name": "AlsatM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 852991859, 
+    "name": "AlShari3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 605491793, 
+    "name": "AlSharq", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 792454636, 
+    "name": "Alsharqiya News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 522062558, 
+    "name": "Alt om DATA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 435999831, 
+    "name": "Alta kommune", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 588334067, 
+    "name": "Altarimini", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 588977961, 
+    "name": "Alternatives Economiques - Editions num\u00e9riques", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 538920642, 
+    "name": "Alternatives Economiques.fr", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 726979924, 
+    "name": "Althoff Prime", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 393871935, 
+    "name": "Alto-Adige", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 780485071, 
+    "name": "Altona Football Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 741966090, 
+    "name": "Altona Roosters Rugby League Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 561497286, 
+    "name": "Altoona Mirror", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 829822180, 
+    "name": "Altoona Mirror All Access", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 830584109, 
+    "name": "Altreconomia - l'informazione indipendente", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 799624187, 
+    "name": "Altus Times", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 560857451, 
+    "name": "Alt\u0131n Koza Film Festivali", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 640344318, 
+    "name": "Alumni Mag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 581391299, 
+    "name": "Alwaqe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 441449487, 
+    "name": "Alwasat HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 780621023, 
+    "name": "Alwefaq", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 531858345, 
+    "name": "ALYAQZA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 732973096, 
+    "name": "Alzira al M\u00f2bil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 477785720, 
+    "name": "AM 1250 WSPL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 388989799, 
+    "name": "AM 990 KWAM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 661563751, 
+    "name": "Am Law", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 825429909, 
+    "name": "AM830 KLAA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 673271998, 
+    "name": "AM950/100.7FM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 794656070, 
+    "name": "AmaPatria", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 470504988, 
+    "name": "Amarasom", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 783453376, 
+    "name": "Amarillo Chronicles", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 538810444, 
+    "name": "Amarillo Globe-News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 570768667, 
+    "name": "Amarillo Globe-News Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 338235446, 
+    "name": "Amateur Traveler", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 537697542, 
+    "name": "AmateurSports365-2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 330202252, 
+    "name": "Amatour, The Amateur Golf Tour", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 371286246, 
+    "name": "AMB nv", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 596450662, 
+    "name": "Amber Waves", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 406995540, 
+    "name": "AMBER_Alert", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 501966109, 
+    "name": "Amberg", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 489443870, 
+    "name": "Ambiente Legale", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 643012410, 
+    "name": "AmbitoJuridico.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 714095239, 
+    "name": "AMC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 628203693, 
+    "name": "Amcham Rio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 623782480, 
+    "name": "AmCham Shanghai\u2019s Insight Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 881132838, 
+    "name": "Amchit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 406949803, 
+    "name": "Ameland Actueel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 540698490, 
+    "name": "AmelandBoeit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 643861086, 
+    "name": "AMEMEDIA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 818734196, 
+    "name": "America Abroad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 502518241, 
+    "name": "American Atheist Magazine", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 606152641, 
+    "name": "American Basketball News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 497994000, 
+    "name": "American City & County Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 907239351, 
+    "name": "American College of Healthcare Executives -- Central Texas Chapter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 497705456, 
+    "name": "American Field", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 628470596, 
+    "name": "American Fork City", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 860157348, 
+    "name": "American History Magazine: Digital Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 787335071, 
+    "name": "American Overlook", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 514114782, 
+    "name": "American Planning Association", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 531397507, 
+    "name": "American Press", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 447531753, 
+    "name": "American Red Angus Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 457024935, 
+    "name": "American Review Fall 2011", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 448969616, 
+    "name": "American Review iPad Edition", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 497313278, 
+    "name": "American Review Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 775261787, 
+    "name": "American Salon Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 448425692, 
+    "name": "American Salon, HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 439903593, 
+    "name": "American School & University", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 659319285, 
+    "name": "American Scientist", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 776000906, 
+    "name": "American Spa Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 450879771, 
+    "name": "American Spa, HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 356710148, 
+    "name": "American Thinker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 564598306, 
+    "name": "American View", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 576858714, 
+    "name": "Americas Quarterly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 449608594, 
+    "name": "AmericaVinos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 552175169, 
+    "name": "Ames Tribune", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 790090884, 
+    "name": "Amharic Ethiopian Reporter News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 815242742, 
+    "name": "Amherst News Times", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 836672956, 
+    "name": "Amiens Bleu Marine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 631973560, 
+    "name": "Amiens SC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 826060772, 
+    "name": "AmiSafe Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 776897173, 
+    "name": "AmiSafe Pro", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 866641856, 
+    "name": "Amkspor Gazetesi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 844459659, 
+    "name": "Amnesty International", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 525372758, 
+    "name": "Amnesty Mag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 828339933, 
+    "name": "AMnotizie.it", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 833051885, 
+    "name": "Amobi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 535839107, 
+    "name": "AMobileIT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 825849679, 
+    "name": "AMPA Escuelas Ave Mar\u00eda", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 389751094, 
+    "name": "Ampparit.com", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 598237003, 
+    "name": "Amstelveen - OmgevingsAlert", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 698705927, 
+    "name": "Amsterdam & ik", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 788364932, 
+    "name": "Amsterdam Nieuws", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 488254523, 
+    "name": "Amsterdam Recorder", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 823513145, 
+    "name": "Amuse 3D", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 589995136, 
+    "name": "Amway Expo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 585292829, 
+    "name": "AMWU Autoworkers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 616364861, 
+    "name": "Am\u00e9rica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 555269296, 
+    "name": "AN FootBall League 2012", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 687223528, 
+    "name": "An Ninh To\u00e0n C\u1ea7u", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 350929572, 
+    "name": "Anaheim Hockey Live", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 610364977, 
+    "name": "ANC News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 604909371, 
+    "name": "Anchorage Daily News & ADN iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 400340174, 
+    "name": "Anchorage Daily News - ADN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 657680299, 
+    "name": "Ancient", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 374020151, 
+    "name": "Anderson Independent Mail for iPhone  - Anderson, S.C.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 557544744, 
+    "name": "Anderson Independent Mail for the iPad - Anderson, S.C.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 612417757, 
+    "name": "Anderson Silva", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 493228913, 
+    "name": "Andersontown News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 519015095, 
+    "name": "Andhra Bhoomi for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 802026884, 
+    "name": "Andhra News Hub", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 517672708, 
+    "name": "AndhraBhoomi for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 908636008, 
+    "name": "Andover and Villages", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 493304635, 
+    "name": "Andre Kuipers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 882615060, 
+    "name": "Andrea Leigh McGee for Congress", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 557878701, 
+    "name": "And\u00f8yposten", 
+    "price": 0.0
+  }
+]

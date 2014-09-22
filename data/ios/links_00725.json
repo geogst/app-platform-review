@@ -1,0 +1,5942 @@
+[
+  {
+    "genre": "Medical", 
+    "id": 365529846, 
+    "name": "AggiNet", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 719401551, 
+    "name": "Agi-Son", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 660518286, 
+    "name": "AgileMD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 675077955, 
+    "name": "Agitacion", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 593970476, 
+    "name": "AGNITY MobileCare", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 688782070, 
+    "name": "Agra App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 734453806, 
+    "name": "AHA eBooks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 567794944, 
+    "name": "AHC Now", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 707209884, 
+    "name": "AHCA/NCAL 2013 Handouts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 563914441, 
+    "name": "AHCA/NCAL Education Sessions", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 897978329, 
+    "name": "AHDC Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 598395904, 
+    "name": "AHIMA Advantage", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 797392297, 
+    "name": "AHIMA HIM Glossary", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 767394825, 
+    "name": "AHIMA\u2019s Countdown to ICD-10-CM/PCS Calendar", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 742047288, 
+    "name": "AHIMA\u2019s ICD-10-CM Flash Cards", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 564959893, 
+    "name": "AHIMA\u2019s ICD-10-PCS Flash Cards", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 311852560, 
+    "name": "AHRQ ePSS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 471087795, 
+    "name": "AHRQ ePSS for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 413312484, 
+    "name": "AHS EMS Medical Control Protocols", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 748137891, 
+    "name": "AHSFMA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 828193249, 
+    "name": "AID", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 877503707, 
+    "name": "Aidacare eRAP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 527696728, 
+    "name": "A l'aide !", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 539584102, 
+    "name": "AIDS 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 880558163, 
+    "name": "AIDS 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 681039235, 
+    "name": "AIDS Digital", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 340183222, 
+    "name": "AIDS HIV News Updates", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 494198191, 
+    "name": "AIDS Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 820591141, 
+    "name": "AIDS-Hilfe Westmecklenburg - Online Beratung", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 397417517, 
+    "name": "AIDSinfo HIV/AIDS Glossary", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 426468458, 
+    "name": "Aile Hekimi Bul", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 899140414, 
+    "name": "Ailesbury Clinic Dublin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 633045127, 
+    "name": "Ailment App", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 669042103, 
+    "name": "AIMS M App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 848840404, 
+    "name": "AIO The Eye Surgeons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 774843374, 
+    "name": "AIOC 2014 E-Abstract", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 648351316, 
+    "name": "Aionex Mobile Client", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 746280885, 
+    "name": "AIOP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 619728973, 
+    "name": "AIP 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 905337035, 
+    "name": "AIR Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 477522970, 
+    "name": "Air Quality Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 525692766, 
+    "name": "Air-Photos", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 714179957, 
+    "name": "AirSignout", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 415432331, 
+    "name": "AirStrip - Cardiology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 637662647, 
+    "name": "AIRTRAQ CAM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 860540544, 
+    "name": "AirView for Airtraq", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 734808115, 
+    "name": "Airvo2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 383337559, 
+    "name": "AirWay 911 Lite", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 738465985, 
+    "name": "Airway Symposium 2013 St. Gallen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 836721600, 
+    "name": "AJCP digital", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 657377610, 
+    "name": "AJD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 694072380, 
+    "name": "AJIC: American Journal of Infection Control", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 686573051, 
+    "name": "AJKD, The American Journal of Kidney Diseases", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 567648696, 
+    "name": "AJMC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 649865255, 
+    "name": "AJSM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 649864623, 
+    "name": "AJSM - HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 824998101, 
+    "name": "Akademia Alergologii PTA 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 496229269, 
+    "name": "Akademie \u00c4KWL/KVWL - Fortbildungskatalog", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 878052989, 
+    "name": "JAEMCR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 887419356, 
+    "name": "AKE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 592686706, 
+    "name": "AKHS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 712167001, 
+    "name": "Aktion Deutschland Hilft", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 787291100, 
+    "name": "Akut Smerte", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 553170030, 
+    "name": "Akutdialyse Kalkulatoren", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 553171867, 
+    "name": "Akutdialyse Kalkulatoren HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 392915634, 
+    "name": "Akute Notf\u00e4lle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 609958329, 
+    "name": "Al K. Polen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 868623715, 
+    "name": "Al Zahra Hospital App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 848229058, 
+    "name": "Al-Sharq Hospital, Fujairah", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 687919806, 
+    "name": "Alabama Medicaid", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 447731359, 
+    "name": "AlabamaEMS", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 516653066, 
+    "name": "Alamentary Canal", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 852357076, 
+    "name": "AlarmClient", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 392494550, 
+    "name": "Alberta Schedule of Medical Benefits", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 804869885, 
+    "name": "Albinus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 500693429, 
+    "name": "Albus Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 883682907, 
+    "name": "Alchemy of Cannabliss", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 388218890, 
+    "name": "Alcohol Breathalyzer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 356136725, 
+    "name": "AlcoMeter", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 606180152, 
+    "name": "Alcon 3D Eyes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 527074430, 
+    "name": "Alec Says Anatomy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 901119625, 
+    "name": "ALEH2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 651696764, 
+    "name": "AlerDerma Congresos M\u00e9dicos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 562293848, 
+    "name": "Alere Consult", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 885242028, 
+    "name": "Alere Family Law", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 899589398, 
+    "name": "Alere Triage\u00ae MeterPro Demonstration", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 885244473, 
+    "name": "Alere Workplace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 605801663, 
+    "name": "Alergia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 504921915, 
+    "name": "Alergo Alarm", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 577697737, 
+    "name": "Alert Plus", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 511136700, 
+    "name": "ALERT NEW STUDENT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 461397578, 
+    "name": "Alerte aux populations", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 659395277, 
+    "name": "Alertes sanitaires", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 657858616, 
+    "name": "AlertMD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 862363656, 
+    "name": "Alex learns to sort", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 395122088, 
+    "name": "Alexicom AAC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 591846046, 
+    "name": "Alexicom Elements Adult Home (Female)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 591845357, 
+    "name": "Alexicom Elements Adult Home (Male)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 552015953, 
+    "name": "Alexicom Elements Child Home (F) SymbolStix", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 499869023, 
+    "name": "Alexicom Elements Child Home (Female)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 552013730, 
+    "name": "Alexicom Elements Child Home (M) SymbolStix", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 499866053, 
+    "name": "Alexicom Elements Child Home (Male)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 556872533, 
+    "name": "Alexicom Elements Child Pre (F) SymbolStix", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 556679509, 
+    "name": "Alexicom Elements Child Pre (Female)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 556870854, 
+    "name": "Alexicom Elements Child Pre (M) SymbolStix", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 556683649, 
+    "name": "Alexicom Elements Child Pre (Male)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 908502727, 
+    "name": "Alexicom Elements Child School (Female)", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 908499369, 
+    "name": "Alexicom Elements Child School (Male)", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 512544312, 
+    "name": "Alexicom Elements Core 280 (Female)", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 512535309, 
+    "name": "Alexicom Elements Core 280 (Male)", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 505819663, 
+    "name": "Alexicom Elements Story Maker", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 510694321, 
+    "name": "Alexicom Elements Teen Home (Female)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 510693015, 
+    "name": "Alexicom Elements Teen Home (Male)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 515841512, 
+    "name": "Alexicom Elements UK Child Home (Female)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 515841260, 
+    "name": "Alexicom Elements UK Child Home (Male)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 518163541, 
+    "name": "Alexicom Elements UK Teen Home (Female)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 518163376, 
+    "name": "Alexicom Elements UK Teen Home (Male)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 893806157, 
+    "name": "ALF Checklist", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 642117853, 
+    "name": "Alfred CRM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 476477618, 
+    "name": "Algorithm for Management of Diabetic Macular Edema", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 488982126, 
+    "name": "Algorithm for Management of Diabetic Macular Edema HD", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 642038495, 
+    "name": "Algoritmo diagn\u00f3stico de Hipertiroidismo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 672750003, 
+    "name": "Alianza Aco", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 757958186, 
+    "name": "Alice Vet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 892920326, 
+    "name": "Alive Inside", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 635911808, 
+    "name": "ALK AllergiK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 804300064, 
+    "name": "ALKOvodn\u00edk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 582774255, 
+    "name": "All About Spinal Disorders v1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 410788659, 
+    "name": "All Cancers", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 412779604, 
+    "name": "All Cancers \"iPad Version\"", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 415594170, 
+    "name": "All Infectious Diseases", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 589023113, 
+    "name": "All Kids Anatomy Male Urinary II", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 415594898, 
+    "name": "All Medical Conditions", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 425850347, 
+    "name": "All Medical Therapies", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 471474680, 
+    "name": "All My Patients", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 542914136, 
+    "name": "All Spine Disorders", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 529459287, 
+    "name": "All Therapy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 582752258, 
+    "name": "All Visibiliti Digestive System v1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 583000000, 
+    "name": "All Visibiliti Kidsneys v1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 582789776, 
+    "name": "All Visibiliti Skull", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 583081699, 
+    "name": "All visibiliti Spine", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 583056272, 
+    "name": "All Visibiliti Urinary v1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 847370511, 
+    "name": "Allergies - Excipients en commun - 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 624230361, 
+    "name": "Allergy Academy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 467920404, 
+    "name": "Allergy Shots", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 371697578, 
+    "name": "Allergy: PhysicianBoardReview Q&A", 
+    "price": 8.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 351934465, 
+    "name": "Alleviate IBS", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 821477599, 
+    "name": "Alliance Hospice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 904866637, 
+    "name": "Allianz eAZy Claim", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 446152639, 
+    "name": "Allscripts Remote+", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 662847749, 
+    "name": "ALMANACH ZENTIVA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 560048780, 
+    "name": "Almirall Dermatology Prague 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 488536646, 
+    "name": "Alp-Help - Your safety companion in the Austrian Alps", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 556030802, 
+    "name": "Alpan Orthodontics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 859963711, 
+    "name": "Alpha First Aid", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 641425779, 
+    "name": "Alpha-1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 392545082, 
+    "name": "Alphaboard", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 890229982, 
+    "name": "AlphaMed", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 373991768, 
+    "name": "AlphaMed Press Journals", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 342981711, 
+    "name": "ALS Protocols", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 778887553, 
+    "name": "AlsaToriscan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 578701321, 
+    "name": "ALSGBI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 494486338, 
+    "name": "ALSi - Facilitator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 664980820, 
+    "name": "ALSi Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 777836896, 
+    "name": "ALTAKHASSUSI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 835186064, 
+    "name": "Altamura Group", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 718276988, 
+    "name": "AltaPoint PM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 699433212, 
+    "name": "Altenheim \u2013 die Fachzeitschrift f\u00fcr das Management der station\u00e4ren Altenhilfe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 623195154, 
+    "name": "Altenpflege \u2013 Das Magazin f\u00fcr engagierte Fachkr\u00e4fte in der Altenhilfe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 356486196, 
+    "name": "Alternative Seattle", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 440343831, 
+    "name": "Alternative Surgery", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 850281378, 
+    "name": "Alternative Therapies in Health and Medicine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 810202644, 
+    "name": "Altitude AMS Check", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 897819983, 
+    "name": "AltoGarda Studio Dentistico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 552766731, 
+    "name": "Alveolar Gas", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 579928332, 
+    "name": "Always Med", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 524647537, 
+    "name": "AlzD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 524356446, 
+    "name": "AlzD App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 539167137, 
+    "name": "Alzheimer App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 685373317, 
+    "name": "Alzheimer Infos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 392041070, 
+    "name": "Alzheimer Study", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 724805696, 
+    "name": "Alzheimer's & Dementia: The Journal of the Alzheimer's Association", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 860068295, 
+    "name": "AM iPlanner 14", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 344998390, 
+    "name": "Amazing X-Ray FX\u00b2 : LIVE Camera", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 628998288, 
+    "name": "Amblyopia (Lazy Eye) - \"E\" Direction (3D)", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 831525476, 
+    "name": "Amblyopia (Lazy Eye) - \"E\" Moving", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 629521340, 
+    "name": "Amblyopia (Lazy Eye) - \"O\" Differ (3D)", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 593385972, 
+    "name": "Amblyopia (Lazy Eye) - Balloon", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 586871508, 
+    "name": "Amblyopia (Lazy Eye) - Breakout", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 812556695, 
+    "name": "Amblyopia (Lazy Eye) - Crazy Birds", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 894371896, 
+    "name": "Amblyopia (Lazy Eye) - Don't Tap The Color Tiles", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 614161683, 
+    "name": "Amblyopia (Lazy Eye) - Fishing Joy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 618632828, 
+    "name": "Amblyopia (Lazy Eye) - Fruits Cut", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 640983949, 
+    "name": "Amblyopia (Lazy Eye) - Hit Moles", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 579600751, 
+    "name": "AmblyopiaVA", 
+    "price": 21.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 443734335, 
+    "name": "Ambulance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 449573314, 
+    "name": "Ambulance Actioncards", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 390441679, 
+    "name": "Ambulances Barisiennes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 590221533, 
+    "name": "Ambulanzen in Wien", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 360265160, 
+    "name": "Ambulatory Medicine", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 708347664, 
+    "name": "AMC Navigatie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 519989230, 
+    "name": "AMCC RxDrop", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 904797790, 
+    "name": "AMCI", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 475736262, 
+    "name": "AMD eye", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 589571075, 
+    "name": "AMD iManager", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 684505710, 
+    "name": "AMEG 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 604078297, 
+    "name": "Amendia HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 646918504, 
+    "name": "American Academy of Family Physicians", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 778611966, 
+    "name": "American Association for Geriatric Psychiatry's 2014 Annual Meeting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 517754645, 
+    "name": "American Association for Thoracic Surgery 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 517756716, 
+    "name": "American Association for Thoracic Surgery 2012 HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 438701324, 
+    "name": "American Cancer Society Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 352258863, 
+    "name": "American College for Advancement in Medicine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 600185546, 
+    "name": "American College of Cardiology Courses", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 739785884, 
+    "name": "American College of Physicians Internal Medicine 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 438747092, 
+    "name": "American College of Rheumatology Publications", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 584854465, 
+    "name": "American Family Physician", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 509547549, 
+    "name": "American Journal of Nursing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 466843230, 
+    "name": "American Journal of Obstetrics & Gynecology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 467173909, 
+    "name": "American Journal of Ophthalmology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 708475992, 
+    "name": "American Journal of Orthodontics & Dentofacial Orthopedics, AJO-DO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 567817496, 
+    "name": "American Journal of Preventive Medicine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 447129085, 
+    "name": "American Migraine Foundation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 447134521, 
+    "name": "American Migraine Foundation HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 533227090, 
+    "name": "American Osteopathic Association", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 626126031, 
+    "name": "American Thoracic Society Journals App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 868642122, 
+    "name": "Americas Top Plastic Surgeons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 721704797, 
+    "name": "Amerinet Virtual Facility", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 589154403, 
+    "name": "Ameritas Provider Locator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 835391084, 
+    "name": "AMGA 2014 Annual Conference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 785625559, 
+    "name": "AMH Connect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 642872369, 
+    "name": "AMIB Connect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 687642725, 
+    "name": "AmiKo Desitin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 403172988, 
+    "name": "Amino Acid Tutor", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 403174188, 
+    "name": "Amino Acid Tutor FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 365813223, 
+    "name": "AminoBuddy - amino acids study guide - exam test prep flashcards", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 481079171, 
+    "name": "Amion", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 714796768, 
+    "name": "AMIR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 558460551, 
+    "name": "AmiVoice Smart", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 685227153, 
+    "name": "AMMA Conference 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 717428516, 
+    "name": "Amores", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 675257077, 
+    "name": "AMP 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 518990106, 
+    "name": "AMP It!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 582954832, 
+    "name": "Ampath Results", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 570177639, 
+    "name": "AmpliVision Lite. Electronic Lighted Magnifier", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 496486094, 
+    "name": "AmpliVision. Lighted Magnifier", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 592132290, 
+    "name": "Amputee Mobility Predictor (AMP)", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 838237786, 
+    "name": "AnadoluRomatoloji2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 562828984, 
+    "name": "Anaesthesia CPD", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 524094579, 
+    "name": "Anaesthesia Exams", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 403212166, 
+    "name": "Analgesic Herbs", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 844051842, 
+    "name": "Analisi Cliniche DV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 482978042, 
+    "name": "AnalisiCliniche", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 652881848, 
+    "name": "Analizar Laboratorio Cl\u00ednico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 592687459, 
+    "name": "Anant Health Vault", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 393135847, 
+    "name": "AnaPaed - Peds anesthesia", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 563230992, 
+    "name": "Anaphylaxis101", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 551001379, 
+    "name": "Anatolia G\u00f6z", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 843295799, 
+    "name": "Anatom 3D", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 500881219, 
+    "name": "Anatomia Hueso Frontal 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 568508412, 
+    "name": "Anatomia Humana Secciones del Craneo", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 502647466, 
+    "name": "Anatomia Nervio Ciatico 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 539378281, 
+    "name": "Anatomia Sistema Esqueletico 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 580803031, 
+    "name": "Anatomia umana", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 540025136, 
+    "name": "Anatomia Umana Virtuale", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 789337766, 
+    "name": "Anatomic Variation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 449570900, 
+    "name": "Anatomical Glossary", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 383513874, 
+    "name": "Anatomical structure (Human Anatomy)", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 376632559, 
+    "name": "Anatomie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 501873785, 
+    "name": "Anatomie I'os Frontal", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 497177599, 
+    "name": "Anatomie Nerf Trijumeau 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 497180799, 
+    "name": "Anatomie Nerfs Sciatiques 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 597212241, 
+    "name": "Anatomie Visuel", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 431604809, 
+    "name": "Anatomie, Physiologie, Pathophysiologie des Menschen", 
+    "price": 64.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 564505244, 
+    "name": "AnatomiKort - Gratis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 440565760, 
+    "name": "Anatomy & Fun Facts, Famous & Sex Quotes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 907203446, 
+    "name": "Anatomy & Function for Organizations", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 773481107, 
+    "name": "Anatomy & Function: A 3D Visual Reference of the Human Body - Medical Encyclopedia for Health Profes...", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 678423505, 
+    "name": "Anatomy & Physiology - Learn Anatomy Body Facts - Study Reference for Health Care Practitioners and ...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 582140308, 
+    "name": "Anatomy & Physiology 1.", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 386310639, 
+    "name": "Anatomy & Physiology Flash Cards", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 421743749, 
+    "name": "Anatomy & Physiology Flash Cards for iPad", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 423520908, 
+    "name": "Anatomy & Physiology II", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 465803748, 
+    "name": "Anatomy & Physiology Plus Flash Cards", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 510182642, 
+    "name": "Anatomy & Physiology REVEALED\u00ae: All Systems", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 531864425, 
+    "name": "Anatomy & Physiology REVEALED\u00ae: Skeletal & Muscular", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 502656327, 
+    "name": "Anatomy - Human Skull", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 524606837, 
+    "name": "Anatomy - Muscle OINA", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 793018188, 
+    "name": "Anatomy 1st Part ACEM Study Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 533825823, 
+    "name": "Anatomy 3D - Anatronica", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 465448838, 
+    "name": "Anatomy 3D - Organs", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 650078509, 
+    "name": "Anatomy 3D - Organs Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 568756983, 
+    "name": "Anatomy 3D for iPad", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 865672360, 
+    "name": "ANATOMY 3D Pro++ - Best app ever, highly recommended by schools and universities.", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 432803486, 
+    "name": "Anatomy 3D: Organs", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 555741707, 
+    "name": "Anatomy 4D", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 715865125, 
+    "name": "Anatomy and Embryology Lippincott\u2019s Illustrated Q&A Review", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 597487534, 
+    "name": "Anatomy and Functions of Tongue", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 416087642, 
+    "name": "Anatomy and Physiology", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 527209127, 
+    "name": "Anatomy and Physiology 2", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 357829536, 
+    "name": "Anatomy and Physiology I", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 295806778, 
+    "name": "Anatomy Atlas", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 662136652, 
+    "name": "Anatomy Atlas Anatomicus", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 696570656, 
+    "name": "Anatomy Atlas Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 873922056, 
+    "name": "Anatomy Atlas: 3D Anatomical Model and Animation", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 384039725, 
+    "name": "Anatomy Body Facts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 526611729, 
+    "name": "Anatomy Braintem 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 766477051, 
+    "name": "Anatomy Cards", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 518329033, 
+    "name": "Anatomy Cerebellum", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 564348320, 
+    "name": "Anatomy Circulatory Function and parts", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 503705284, 
+    "name": "Anatomy Digestive System 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 556664979, 
+    "name": "Anatomy Exam", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 499446075, 
+    "name": "Anatomy Flashcard Review", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 604445589, 
+    "name": "Anatomy Flashcards Extra", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 591629437, 
+    "name": "Anatomy Flashcards Pro", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 592165240, 
+    "name": "Anatomy Flashcards Ultimate", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 702826364, 
+    "name": "Anatomy Game Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 540223723, 
+    "name": "Anatomy Heart info", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 590634670, 
+    "name": "Anatomy Human Body", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 346457495, 
+    "name": "Anatomy In Motion - Complete - Muscle System Flashcards for iPhone and iPad", 
+    "price": 23.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 459677388, 
+    "name": "Anatomy In Motion - Complete - Muscle System Flashcards for iPhone and iPod Touch", 
+    "price": 17.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 415139135, 
+    "name": "Anatomy In Motion - Shoulder Muscles Flashcards", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 567514827, 
+    "name": "Anatomy Intestine and Colon", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 546010405, 
+    "name": "Anatomy Intestine Small", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 541577274, 
+    "name": "Anatomy Kidney", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 645962025, 
+    "name": "Anatomy Knee", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 379871271, 
+    "name": "Anatomy Lectures and MCQs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 425090784, 
+    "name": "Anatomy Lectures Head and Neck", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 425299752, 
+    "name": "Anatomy Lectures Limbs", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 425300927, 
+    "name": "Anatomy Lectures Thorax and Abdomen", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 422772797, 
+    "name": "Anatomy Lectures Topics in Focus", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 300369917, 
+    "name": "Anatomy Lite", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 546656168, 
+    "name": "Anatomy Liver Info vii", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 641425356, 
+    "name": "Anatomy MCQs", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 863837276, 
+    "name": "Anatomy Mnemonics \u2013 Musculoskeletal, Neurology, Head & Neck, Cardiology, Gastroenterology, and much ...", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 573496372, 
+    "name": "Anatomy Muscle and Bone: Visual Game & Dictionary", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 565998262, 
+    "name": "Anatomy Muscular System", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 499665117, 
+    "name": "Anatomy Nervio Trigemino 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 602648892, 
+    "name": "Anatomy of Human Body Organs", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 312870725, 
+    "name": "Anatomy of the Brain", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 560434744, 
+    "name": "Anatomy of The Cardiovascular System", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 527749792, 
+    "name": "Anatomy of the Cerebellum", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 551402934, 
+    "name": "Anatomy of the Human Body", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 343678284, 
+    "name": "Anatomy of the Mouth", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 343679382, 
+    "name": "Anatomy of the Thorax", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 562262791, 
+    "name": "Anatomy Open Heart Info v2", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 502297097, 
+    "name": "Anatomy Our Muscles", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 903724562, 
+    "name": "Anatomy Physiology Quiz and Glossary", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 319654053, 
+    "name": "Anatomy Pronunciations", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 321726300, 
+    "name": "Anatomy Pronunciations Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 478673055, 
+    "name": "Anatomy Q&A", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 502344934, 
+    "name": "Anatomy Quiz Practice", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 416100461, 
+    "name": "Anatomy Quiz Pro", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 538946615, 
+    "name": "Anatomy Respiratory 3D Organs", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 542205397, 
+    "name": "Anatomy Respiratory 3D Organs vi", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 655975470, 
+    "name": "Anatomy Review", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 532427820, 
+    "name": "Anatomy Scapula 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 496303097, 
+    "name": "Anatomy Sciatic Nerves 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 531609725, 
+    "name": "Anatomy Skeletal 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 523628021, 
+    "name": "Anatomy Skills - Respiratory System", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 523631180, 
+    "name": "Anatomy Skills - Skeletal System (Bones of the Body)", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 504231346, 
+    "name": "Anatomy Spine 3D", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 583667432, 
+    "name": "Anatomy Star - CNS (the Brain)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 721334469, 
+    "name": "Anatomy Star - Head and Neck", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 656344943, 
+    "name": "Anatomy Study Guide", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 541448909, 
+    "name": "Anatomy Teeth Dissection", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 565827705, 
+    "name": "Anatomy teeth dissection v2", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 394072226, 
+    "name": "Anatomy Terms of Location", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 429532286, 
+    "name": "Anatomy Terms of Motion", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 546707841, 
+    "name": "Anatomy Thorax Respiratory", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 542199516, 
+    "name": "Anatomy Urinary Male", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 546017481, 
+    "name": "Anatomy Urinary male vii", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 502699201, 
+    "name": "Anatomy Uterus and supporting Structures", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 515573508, 
+    "name": "Anatomy Visual Dictionary", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 515573790, 
+    "name": "Anatomy Visual Dictionary for iPad", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 909965138, 
+    "name": "Anatomy, Physiology Quiz and Glossary for iPhone", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 472894809, 
+    "name": "Anatomy3D", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 475262017, 
+    "name": "Anatomy3DLD", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 470379683, 
+    "name": "AnatomyExplorer", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 319866018, 
+    "name": "AnatomyLab", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 510119487, 
+    "name": "AnatomyMapp", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 523184276, 
+    "name": "AnatomyMapp Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 499583130, 
+    "name": "Anatom\u00eda B\u00e1sica de la Pr\u00f3stata", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 879373070, 
+    "name": "Anatom\u00eda y Fisiolog\u00eda Humana", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 598287026, 
+    "name": "Anatom\u00eda y patolog\u00eda ungueal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 609147832, 
+    "name": "Andreoli and Carpenter\u2019s Cecil Essentials of Medicine, 8th ed.", 
+    "price": 79.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 904361442, 
+    "name": "Andrew Mizzi Optometrist", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 606862695, 
+    "name": "AndroCalc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 693569404, 
+    "name": "AndroUro Congresos M\u00e9dicos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 564768044, 
+    "name": "Anemia Algorithm", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 325438803, 
+    "name": "AnestAssist PK/PD", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 476230720, 
+    "name": "Anesthesia & Analgesia\u00ad\u00ae", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 561847937, 
+    "name": "Anesthesia & Sedation Guide", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 502856206, 
+    "name": "Anesthesia 101", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 372532791, 
+    "name": "Anesthesia 2: PhysicianBoardReview Q&A", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 419421453, 
+    "name": "Anesthesia 3: PhysicianBoardReview Q&A", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 449473295, 
+    "name": "Anesthesia 411", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 578144030, 
+    "name": "Anesthesia Cardiac Review Test", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 791467318, 
+    "name": "Anesthesia Case Tips", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 428737919, 
+    "name": "Anesthesia Charge Connect", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 466419697, 
+    "name": "Anesthesia Comprehensive Review", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 598609135, 
+    "name": "Anesthesia Drug Box", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 485090653, 
+    "name": "Anesthesia Drugs: Fast", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 490425856, 
+    "name": "Anesthesia Fiberoptic Bronchoscopy Endotracheal Tube Selector", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 604697321, 
+    "name": "Anesthesia Flashcards Extra", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 418902004, 
+    "name": "Anesthesia Guidance", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 834798566, 
+    "name": "Anesthesia Log-Sheet", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 587261324, 
+    "name": "Anesthesia Logs", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 338181372, 
+    "name": "Anesthesia: PhysicianBoardReview Q&A", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 434144691, 
+    "name": "Anesthesia: The Complete Set: PhysicianBoardRev...", 
+    "price": 39.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 783891899, 
+    "name": "Anesthesie Consult", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 459795774, 
+    "name": "Anesthesiology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 557943168, 
+    "name": "Anesthesiology 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 557943228, 
+    "name": "Anesthesiology 2012 HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 418108420, 
+    "name": "Anesthesiology Board Prep", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 417925602, 
+    "name": "Anesthesiology Board Prep Free Version", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 738160015, 
+    "name": "Anesthesiology Board Review - Pearls of Wisdom", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 386689807, 
+    "name": "Anesthesiology Calc", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 509832698, 
+    "name": "Anesthesiology News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 682314624, 
+    "name": "Anesthesiology Simulation App 1,000 Sample Questions, Anesthesiology Questions", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 511002397, 
+    "name": "Anesthetic Gas Calculator for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 452721248, 
+    "name": "Anesthetics", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 406322603, 
+    "name": "Anger", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 671037204, 
+    "name": "AngioCalc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 393781876, 
+    "name": "Angiosuite Neuro Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 509706932, 
+    "name": "Angiosuite Stenosis Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 771715393, 
+    "name": "Angle Measure Tool", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 541320452, 
+    "name": "AngleMeasure", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 464822274, 
+    "name": "Angli\u010dtina Pro L\u00e9ka\u0159e", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 459734996, 
+    "name": "Angry Physics teacher \u7269\u7406\u6559\u5ba4", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 354953061, 
+    "name": "Animal  & Veterinary Drugs", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 824436257, 
+    "name": "Animal Hospital of Clinton", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 413617602, 
+    "name": "Animal Reproduction", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 789716619, 
+    "name": "Animal Specialty Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 897309906, 
+    "name": "AnimalDraw", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 554156769, 
+    "name": "Animated Anatomy and Physiology for iPad", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 614357883, 
+    "name": "Animated Atlas of Diabetes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 558757178, 
+    "name": "Animated Essential Atlas of Anatomy and Physiology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 531591079, 
+    "name": "Animated Medical Dictionaries", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 516220611, 
+    "name": "Animated Pocket Dictionary - Gynecology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 536555070, 
+    "name": "Animated Quick Reference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 517657409, 
+    "name": "Animated Quick Reference - Cardiac Events", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 510582118, 
+    "name": "Animated Quick Reference - Cholesterol", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 520044424, 
+    "name": "Animated Quick Reference - Generalized Anxiety Disorder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 516517824, 
+    "name": "Animated Quick Reference Guide -  DiabeticFoot", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 516247783, 
+    "name": "Animated Quick Reference Guide - Backpain", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 517701540, 
+    "name": "Animated Quick Reference Guide - Dyspepsia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 517166680, 
+    "name": "Animated Quick Reference Guide - HepatitisB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 751141904, 
+    "name": "Anion Gap", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 527432943, 
+    "name": "Aniseikonia", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 522391850, 
+    "name": "Ankle & Foot Pro III - iPhone Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 504805760, 
+    "name": "Ankle and Foot Pro III", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 888786736, 
+    "name": "Ankle brachial pressure index", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 534298766, 
+    "name": "Annals of Emergency Medicine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 783660936, 
+    "name": "Annals of Epidemiology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 524249835, 
+    "name": "Annals of Internal Medicine iPad Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 553738115, 
+    "name": "Annals of Oncology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 567242515, 
+    "name": "Annals of Plastic Surgery", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 574534552, 
+    "name": "Annals of Surgery", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 540326872, 
+    "name": "Annonces Medicales", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 396789756, 
+    "name": "Anorexia Study", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 624783075, 
+    "name": "ANSOS2Go", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 692799799, 
+    "name": "Answering TherAppy", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 474384124, 
+    "name": "Answers:YesNo Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 393762442, 
+    "name": "Answers:YesNo HD", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 593074916, 
+    "name": "ANTECH OnTheMove", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 499073736, 
+    "name": "Anterior View Skeletal System", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 870144661, 
+    "name": "Anteversion Calculator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 827825533, 
+    "name": "Anthos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 719533330, 
+    "name": "Anthos FTS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 884469094, 
+    "name": "Anti Mosquitoes FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 896361144, 
+    "name": "Anti-Mosquitoes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 458588475, 
+    "name": "Anti Mosquitoes Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 891698500, 
+    "name": "Anti-Ageing Treatment Centre", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 561079605, 
+    "name": "Anti-Cancer Drugs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 705103110, 
+    "name": "Anti-HIV Med", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 604699054, 
+    "name": "Anti-Mosquitoes Classic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 615282662, 
+    "name": "Antibio", 
+    "price": 10.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 661719155, 
+    "name": "Antibiograma for iPad", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 661727167, 
+    "name": "Antibiograma for iPhone", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 331023351, 
+    "name": "Antibiotic Dosage Calculator", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 447560600, 
+    "name": "Antibiotic Flashcards - Antibiotic studying made easy", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 792340768, 
+    "name": "Antibiotic Guard", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 557658913, 
+    "name": "Antibiotic Kinetics", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 343975196, 
+    "name": "Antibiotic Pharmacology", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 555531029, 
+    "name": "Antibiotics for Students", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 458410026, 
+    "name": "Antibiotics Manual Flash Cards", 
+    "price": 24.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 602612262, 
+    "name": "Antibiotika eller inte?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 872911001, 
+    "name": "Antibiotikabruk i prim\u00e6rhelsetjenesten", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 501957770, 
+    "name": "Antibi\u00f3ticos pedi\u00e1tricos de uso frecuente", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 528560240, 
+    "name": "Antibodies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 734858063, 
+    "name": "AntiCoagAF", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 609795286, 
+    "name": "AnticoagEvaluator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 595196390, 
+    "name": "Anticoagulant Net Benefit", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 356489121, 
+    "name": "Anticoagulants", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 717083834, 
+    "name": "Antidoping - Anti Doping Danmark", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 447592904, 
+    "name": "Antidoping Switzerland", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 591223557, 
+    "name": "Antidopingas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 335531093, 
+    "name": "Antimicrobial Drugs Flash Cards", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 348930523, 
+    "name": "Antimicrobial Prescription Adviser in Risk Groups", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 814476083, 
+    "name": "Antimicrobial SmartVet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 514358886, 
+    "name": "AntiMosquito Tiger", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 509925236, 
+    "name": "Antimosquitoes PRO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 530101825, 
+    "name": "Anti-Mosquitoes ULTRA", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 722253382, 
+    "name": "ANTIRETROVIRAL DRUGS IN THAILAND", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 356829088, 
+    "name": "Anxiety Psychopharmacology", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 881347482, 
+    "name": "ANZ Medications", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 638142798, 
+    "name": "ANZCA RACS 2014 eProgram", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 519385260, 
+    "name": "AnzuMedical", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 619687797, 
+    "name": "An\u00e4sthesie Antikoagulantien", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 436410022, 
+    "name": "An\u00e4sthesie Fortbildungsprogramm", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 403961165, 
+    "name": "AO Surgery Reference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 579627501, 
+    "name": "AO Surgery Reference HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 548627845, 
+    "name": "AOMSIConference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 704612060, 
+    "name": "AORN Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 671070883, 
+    "name": "Aortic Aneurysm", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 647236728, 
+    "name": "Aortic Surgery", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 657263933, 
+    "name": "AOSSM SelfAssessment", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 589830945, 
+    "name": "AOTG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 637688691, 
+    "name": "AOTT Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 640686483, 
+    "name": "AOTT Journal for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 356445705, 
+    "name": "AP Biology Review", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 426312780, 
+    "name": "AP Psychology Review", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 515802402, 
+    "name": "APAO/SOE Busan 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 518531977, 
+    "name": "APAO/SOE Busan 2012 for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 654034074, 
+    "name": "APASL Congress 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 892269969, 
+    "name": "APCV 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 495328213, 
+    "name": "Aperio ePathViewer for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 495334658, 
+    "name": "Aperio ePathViewer for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 735473155, 
+    "name": "APEX", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 330702237, 
+    "name": "Apgar", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 506563388, 
+    "name": "APGAR Pro", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 795916896, 
+    "name": "APGAR Test", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 331518893, 
+    "name": "APGAR Timer Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 529104806, 
+    "name": "APGAR Wiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 737971074, 
+    "name": "APhA Precision Search", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 563879648, 
+    "name": "APHRS & CR 2013 Congress Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 633261908, 
+    "name": "API \u539f\u6599\u836f\u4f1a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 527815809, 
+    "name": "APIC 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 644886409, 
+    "name": "APIC 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 660812844, 
+    "name": "APIC 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 805683368, 
+    "name": "APICON 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 760201972, 
+    "name": "APLS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 604137892, 
+    "name": "APM3i", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 447757463, 
+    "name": "APMA 2011", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 583519395, 
+    "name": "APMLE Podiatry Part 1 Exam Prep", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 583524369, 
+    "name": "APMLE Podiatry Part 2 Exam Prep", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 434619513, 
+    "name": "APNA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 650016028, 
+    "name": "ApoB App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 875500574, 
+    "name": "Apollo Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 901291058, 
+    "name": "Apollo White Dental", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 673282934, 
+    "name": "ApolloMD Director's Conference 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 894731068, 
+    "name": "ApolloMD Directors' Conf 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 821685136, 
+    "name": "APOS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 888660376, 
+    "name": "Aposonnenshop Versandapotheke", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 609565025, 
+    "name": "Apotek SE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 703374973, 
+    "name": "App 3A", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 584027540, 
+    "name": "App Advisor", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 584040118, 
+    "name": "App Advisor Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 634802219, 
+    "name": "App For My Patients", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 470860614, 
+    "name": "App Iechyd Da", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 875071391, 
+    "name": "App Leads Promedon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 572277539, 
+    "name": "App'zheimer", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 649271625, 
+    "name": "App-camoli", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 500191527, 
+    "name": "App.in.den.OP\u00ae", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 874940150, 
+    "name": "App2Congress. CARDIOLOGY", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 883337522, 
+    "name": "App4Stats SPSS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 853624962, 
+    "name": "AppCOEM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 820409389, 
+    "name": "Appeal Academy", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 573010328, 
+    "name": "Appediatra", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 435355378, 
+    "name": "Appel d'urgence partout dans le monde", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 875287132, 
+    "name": "APPI - Accademia Palermitana di Psicologia Integrata", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 403504296, 
+    "name": "Appletree Medical Group - Ottawa - Toronto - Wait Times", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 797842310, 
+    "name": "Applied Radiology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 585660891, 
+    "name": "ApplyDental", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 595106451, 
+    "name": "ApplyMed", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 592278525, 
+    "name": "ApplyVet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 588445363, 
+    "name": "AppNatomy", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 794478844, 
+    "name": "AppniqMD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 574851629, 
+    "name": "Appointment With Doctor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 338597829, 
+    "name": "APPRISOR Viewer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 571447732, 
+    "name": "Appsy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 635164565, 
+    "name": "App\u2019Tit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 716848006, 
+    "name": "Apraxia RainbowBee", 
+    "price": 26.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 611587011, 
+    "name": "Apraxia Ville", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 592735402, 
+    "name": "Aprender", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 764675758, 
+    "name": "Aprender 2", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 903789464, 
+    "name": "ApreSkin - The 3D Skin Consultation App", 
+    "price": 99.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 898580447, 
+    "name": "APRI", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 898534476, 
+    "name": "APRI Score", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 540761858, 
+    "name": "Aprima Mobile App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 605121327, 
+    "name": "Aproquen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 867042853, 
+    "name": "APS Acute Pain Service / UDA Unidad Dolor Agudo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 532641011, 
+    "name": "APS Journals", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 536074989, 
+    "name": "APS Panic Button", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 747933083, 
+    "name": "Apteki Szpitale Przychodnie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 421891409, 
+    "name": "Aptilon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 759884884, 
+    "name": "APVRS Guide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 708487567, 
+    "name": "AQI - AIRS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 573849746, 
+    "name": "Aquar Software", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 614505498, 
+    "name": "Aquarium Manager", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 393180511, 
+    "name": "Aquarius Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 505470082, 
+    "name": "AR Cell", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 567523780, 
+    "name": "AR Liver Viewer", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 426337099, 
+    "name": "AR2 for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 567133335, 
+    "name": "ARAB DENTAL", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 875251824, 
+    "name": "ARadiol\u00f3gicoTx", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 710517677, 
+    "name": "ArbrallergiK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 795216924, 
+    "name": "Arc Card", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 681879707, 
+    "name": "Arcadia Benefits Group", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 834455108, 
+    "name": "ARCH Orthodontics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 726213331, 
+    "name": "ArchieMD 3D Health PREVIEW", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 675634251, 
+    "name": "ArchieMD 3D Health: Anatomy and Health Essentials", 
+    "price": 34.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 592890302, 
+    "name": "ArchieMD IC Health Coronary Bypass", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 592887338, 
+    "name": "ArchieMD IC Health: Cardiac Pacemaker", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 592468810, 
+    "name": "ArchieMD ICHealth : Cardiac Catheterization", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 644513048, 
+    "name": "Archives of Physical Medicine and Rehabilitation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 502607800, 
+    "name": "ARDS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 532992497, 
+    "name": "Are you breastfeeding? Breastfeeding Timer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 524017001, 
+    "name": "Are you burning? (Stress Test)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 542098888, 
+    "name": "ARF RHD Guideline", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 791334794, 
+    "name": "Argyle Insurance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 714980955, 
+    "name": "ARIA ClinKit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 505348433, 
+    "name": "Arm", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 473899909, 
+    "name": "Arm and Leg Bones", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 904000853, 
+    "name": "ARMC IVF Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 799426311, 
+    "name": "ARO 37th MidWinter Meeting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 547894902, 
+    "name": "AromaFiches", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 857831945, 
+    "name": "Aromatase", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 737750047, 
+    "name": "Arquivos Instituto Biol\u00f3gico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 456402800, 
+    "name": "Arritmias em Emerg\u00eancia & CTI", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 510432308, 
+    "name": "Arritmias-SEC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 855264013, 
+    "name": "ARRS 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 567422706, 
+    "name": "ARS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 634821466, 
+    "name": "ARSEP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 589312410, 
+    "name": "ArtemisMApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 509549987, 
+    "name": "Arteriosclerosis, Thrombosis and Vascular Biology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 509781897, 
+    "name": "Artery Anatomy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 830821565, 
+    "name": "Arthrex \u2013 Helping Surgeons Treat Their Patients Better", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 803074073, 
+    "name": "Arthritis Digest Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 596845663, 
+    "name": "Arthritis MD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 575275700, 
+    "name": "Arthroscopy: The Journal of Arthroscopic and Related Surgery", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 562169864, 
+    "name": "Arthrose Chien", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 847622907, 
+    "name": "Arthrosurface Resource", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 423249887, 
+    "name": "Artic2Go PBM", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 464845037, 
+    "name": "Article Viewer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 758443904, 
+    "name": "Articulation Carnival", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 791572447, 
+    "name": "Articulation Carnival Pro", 
+    "price": 36.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 561096403, 
+    "name": "Articulation Games", 
+    "price": 34.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 630112014, 
+    "name": "Articulation Games Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 538832472, 
+    "name": "Articulation Neck Muscles v", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 356720379, 
+    "name": "ArtikPix - Full", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 651980696, 
+    "name": "Artis Q", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 687781744, 
+    "name": "ARTISAN iCAST\u2122 RX", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 783567144, 
+    "name": "Artofinjection", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 604909883, 
+    "name": "Artrite Reumatoide", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 879224234, 
+    "name": "Artroview", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 684225717, 
+    "name": "Artsenkrant", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 626900063, 
+    "name": "ARVO 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 842740797, 
+    "name": "ARVO 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 533124532, 
+    "name": "Arzneimittelprofile", 
+    "price": 10.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 375954376, 
+    "name": "Arzt am Abend", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 721317970, 
+    "name": "Arzt-Miltach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 570962306, 
+    "name": "Arztsuche N\u00d6", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 901568880, 
+    "name": "ASA-Americans for Safe Access", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 616142378, 
+    "name": "ASAEduCtr", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 591847215, 
+    "name": "ASAIO Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 838547586, 
+    "name": "ASAM Med-Sci 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 560541183, 
+    "name": "ASBMR 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 568723789, 
+    "name": "ASCCP AC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 562798172, 
+    "name": "ASCCP CC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 615585559, 
+    "name": "ASCCP Mobile", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 465016976, 
+    "name": "ASCO Journals", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 506104630, 
+    "name": "ASCP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 675201637, 
+    "name": "ASCP Annual Meeting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 754470890, 
+    "name": "ASCVD Prevention Suite: Pooled Cohort Equations Risk Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 808875968, 
+    "name": "ASCVD Risk Estimator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 578206583, 
+    "name": "ASD Tools", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 650291528, 
+    "name": "ASDAS calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 610625861, 
+    "name": "ASE Scientific Sessions", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 656925654, 
+    "name": "ASE TTE", 
+    "price": 149.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 474437296, 
+    "name": "ASEPEYO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 490651818, 
+    "name": "ASGBI App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 495049076, 
+    "name": "ASGE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 481316823, 
+    "name": "ASH Guides", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 573527608, 
+    "name": "ASHG 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 467669262, 
+    "name": "ASHP's Interactive Handbook on Injectable Drugs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 498841894, 
+    "name": "ASI M\u00f3vil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 653412512, 
+    "name": "Asient\u00f3metro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 695430449, 
+    "name": "Asking TherAppy", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 839600731, 
+    "name": "ASLMS American Society for Laser Medicine & Surgery, Inc.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 878473655, 
+    "name": "ASM Cultures", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 650847517, 
+    "name": "Asma", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 728500556, 
+    "name": "ASNO 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 903204428, 
+    "name": "Asociaci\u00f3n Colombiana de Endodoncia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 804062098, 
+    "name": "Asociaci\u00f3n M\u00e9dica de Puerto Rico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 505840456, 
+    "name": "AsoEnferm", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 684540589, 
+    "name": "Asofarma Realidad Aumentada", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 833015198, 
+    "name": "ASOHNS ASM 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 897245675, 
+    "name": "ASOREUMA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 422032949, 
+    "name": "Aspects Of Anatomy", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 530232371, 
+    "name": "Aspen Grove Veterinary Care", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 615934052, 
+    "name": "Aspiration Disorders", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 858796572, 
+    "name": "ASRA Coags", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 562789727, 
+    "name": "ASRM 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 672408581, 
+    "name": "Assay Specification and Six Sigma Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 683663976, 
+    "name": "ASSH 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 450050484, 
+    "name": "ASSH AM 2011", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 859659237, 
+    "name": "Assim Concept", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 803497702, 
+    "name": "Assises de G\u00e9n\u00e9tique Humaine et M\u00e9dicale", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 590417707, 
+    "name": "Assist Me with Inhalers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 310795839, 
+    "name": "Assistance", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 809119885, 
+    "name": "Assistant Surgeon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 663203573, 
+    "name": "Assobiomedica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 561910319, 
+    "name": "Association Gr\u00e9gory Lemarchal, ensemble contre la mucoviscidose", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 668784618, 
+    "name": "AssuraMobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 580133299, 
+    "name": "Assurespace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 581783535, 
+    "name": "Assuta Doctors", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 748559171, 
+    "name": "AST Study Guide 3rd Edition", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 821217470, 
+    "name": "Astatin Risk Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 595302028, 
+    "name": "Aster Apps", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 752250884, 
+    "name": "Asthma @Point of Care\u2122", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 893048918, 
+    "name": "Asthma Action Plan Parent Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 583003117, 
+    "name": "Asthma Disease", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 521116908, 
+    "name": "Asthma FAQ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 437951180, 
+    "name": "Asthma Knowledge", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 412124804, 
+    "name": "Asthma Maze - Find out which Food Additives or Cosmetic Ingredients can trigger an Asthma attack", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 745213048, 
+    "name": "Astigmatism live view demonstrator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 517657718, 
+    "name": "AstralCloud", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 396327854, 
+    "name": "Astrex", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 313822630, 
+    "name": "Astrology Horoscope FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 481681131, 
+    "name": "ASTS Smart", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 903683686, 
+    "name": "ASWB\u00ae Advanced Generalist Exam Prep 2014", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 775757795, 
+    "name": "AT Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 607641080, 
+    "name": "AT-st\u00e4mman", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 890053714, 
+    "name": "ATA Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 436226498, 
+    "name": "ATACH-2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 472197425, 
+    "name": "ATBGarde", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 463530815, 
+    "name": "ATC Codes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 646742759, 
+    "name": "ATC Pharma", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 420909899, 
+    "name": "Atemschutz\u00ae", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 581645518, 
+    "name": "Atestados", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 558203150, 
+    "name": "ATEval2Go", 
+    "price": 39.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 672172377, 
+    "name": "ATGmed Video View", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 807513206, 
+    "name": "ATHENA Ginocchio", 
+    "price": 89.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 783709788, 
+    "name": "Atherosclerosis Journal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 582522210, 
+    "name": "Athlete Injury Tracker", 
+    "price": 99.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 593635045, 
+    "name": "Athletic Trainer Plus: Rehab \u2013Videos for Injury Rehab", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 649981017, 
+    "name": "ATI RN Mentor Lite \u2013 NCLEX Exam Preparation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 369946804, 
+    "name": "ATI RN Mentor \u2013 NCLEX Exam Preparation", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 888213550, 
+    "name": "ATIH - Tarifs 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 333262096, 
+    "name": "ATimer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 409812646, 
+    "name": "Atlante di Anatomia", 
+    "price": 64.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 434388977, 
+    "name": "Atlante di Anatomia-Sezioni", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 681369016, 
+    "name": "Atlas 3D Oncolog\u00eda", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 473914377, 
+    "name": "Atlas Apps Medical National Sales Meeting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 867665938, 
+    "name": "Atlas de proctologie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 892255155, 
+    "name": "Atlas Dor e Inflama\u00e7\u00e3o", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 673428184, 
+    "name": "Atlas Latino-Americano de Uve\u00edtis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 892256990, 
+    "name": "Atlas Neuropatia e Inflama\u00e7\u00e3o", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 350311627, 
+    "name": "Atlas of Anatomy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 558489520, 
+    "name": "Atlas of Anatomy (Human)", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 538408398, 
+    "name": "Atlas of Congenital Heart Diseases", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 668542517, 
+    "name": "Atlas of Electrocardiography", 
+    "price": 39.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 574148084, 
+    "name": "Atlas of Human Anatomy for iPad", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 602937005, 
+    "name": "Atlas of Hypertension", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 730930912, 
+    "name": "Atlas of Liposuction", 
+    "price": 39.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 448650383, 
+    "name": "Atlas of Ophthalmology by Onjoph", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 477163046, 
+    "name": "Atlas of Ophthalmology HD by Onjoph", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 474845392, 
+    "name": "Atlas of Pancreas Pathology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 580500693, 
+    "name": "Atlas of Pancreatic Cytopathology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 731444813, 
+    "name": "Atlas of PET/MR Imaging in Oncology", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 793555348, 
+    "name": "Atlas of Radiological Images", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 477936307, 
+    "name": "Atlas Of Real Human Anatomy HD", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 623807387, 
+    "name": "Atlas of Rheumatoid Arthritis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 603823142, 
+    "name": "Atlas Uve\u00edtes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 489510723, 
+    "name": "ATLAS: Human Body A-Z FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 492511944, 
+    "name": "ATLAS: Human Body A-Z FREE for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 478672148, 
+    "name": "ATLAS: Human Body Anatomy A-Z", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 478672687, 
+    "name": "ATLAS: Human Body Anatomy A-Z for iPad", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 585981616, 
+    "name": "ATLS", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 397765095, 
+    "name": "Atom Matter Physics", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 756590950, 
+    "name": "Atos Medical HME health tracker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 559864951, 
+    "name": "ATP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 299487991, 
+    "name": "ATP3 Lipids Cholesterol Management", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 511323922, 
+    "name": "ATS 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 323996781, 
+    "name": "Attack LITE - Wireless Bluetooth Spaceship Battle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 376970179, 
+    "name": "Au Secours", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 625442274, 
+    "name": "AUA 2013 Annual Meeting San Diego", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 665700112, 
+    "name": "AucMonkey", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 689041123, 
+    "name": "AUD-1", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 647212278, 
+    "name": "AudCal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 736684954, 
+    "name": "AudCal HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 670053978, 
+    "name": "AudCal mini", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 336943327, 
+    "name": "Audibel T\u00b2 Remote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 705416490, 
+    "name": "AudibleRx", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 469930140, 
+    "name": "Audigy e-patient", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 395742979, 
+    "name": "Audio Digest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 813164887, 
+    "name": "AudioClases MIR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 592925703, 
+    "name": "Audiogram Analyzer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 623194217, 
+    "name": "Audiology Worldnews", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 815096016, 
+    "name": "AudiologyNOW! 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 298494364, 
+    "name": "Audiometry", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 336944120, 
+    "name": "AudioSync T\u00b2 Remote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 349922728, 
+    "name": "AudioTest", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 581717894, 
+    "name": "Auditory", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 868209747, 
+    "name": "Auditory Memory Ride", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 601557677, 
+    "name": "Auditory Processing Studio", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 500493181, 
+    "name": "Auditory Verbal", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 518697520, 
+    "name": "Auditory Workout", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 758894884, 
+    "name": "Augenklinik Graz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 436889262, 
+    "name": "Augie AAC", 
+    "price": 159.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 336353017, 
+    "name": "Auriculo", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 392396657, 
+    "name": "Auriculo HD", 
+    "price": 39.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 847483076, 
+    "name": "AURO.it Docs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 646803017, 
+    "name": "AURO.it Nazionale 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 659170744, 
+    "name": "AuroraSpine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 463181309, 
+    "name": "Ausculta Cardiaca", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 464528510, 
+    "name": "Pulmonary Auscultation", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 375624168, 
+    "name": "Auscultating by Touch", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 335693421, 
+    "name": "Auscultation", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 463689653, 
+    "name": "Auscultation Primer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 686174761, 
+    "name": "Auscultazione Cardiaca Professionale", 
+    "price": 179.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 492176361, 
+    "name": "AustinMaze", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 828444045, 
+    "name": "Australian Family Care", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 772252046, 
+    "name": "Australian Medicine \u2013 the national news publication of the Australian   Medical Association", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 486080789, 
+    "name": "Autie Aspie Life", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 399681296, 
+    "name": "Autism (disease)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 502815430, 
+    "name": "Autism Assessment - A questionnaire for the signs and symptoms of autism spectrum disorders", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 733948395, 
+    "name": "Autism Awareness - Detect early signs of autism, find nearby autism treatment centers and support gr...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 661357544, 
+    "name": "Autism DTT Pro - Professional Discrete Trial Training by drBrownsApps.com", 
+    "price": 39.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 502988833, 
+    "name": "Autism Language Learning", 
+    "price": 26.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 541450047, 
+    "name": "Autism Language Learning Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 600492237, 
+    "name": "Autism Language Learning Series II", 
+    "price": 15.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 634880005, 
+    "name": "Autism Language Learning Series II Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 847081025, 
+    "name": "Autism Language Learning Spanish", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 478527813, 
+    "name": "Autism Tracker Lite: Track, analyze and share ASD daily", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 478225574, 
+    "name": "Autism Tracker Pro: Track, analyze and share ASD daily", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 424067476, 
+    "name": "Autism/DTT Letters by drBrownsApps.com - Includes American Sign Language", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 427789091, 
+    "name": "Autism/DTT Numbers by drBrownsApps.com - Includes Counting", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 751268885, 
+    "name": "Autism/Special Needs Daily Organiser", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 512132428, 
+    "name": "AutisMate", 
+    "price": 149.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 654826365, 
+    "name": "AutisMate Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 891057952, 
+    "name": "AutisMate365", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 843714846, 
+    "name": "Autismtc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 391660393, 
+    "name": "AutismTrack", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 396847953, 
+    "name": "Automed", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 480167025, 
+    "name": "Automedicazione", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 429674113, 
+    "name": "Automesure tensionnelle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 509846365, 
+    "name": "Autopsicoterapia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 834489361, 
+    "name": "Av min knold", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 687361794, 
+    "name": "AVA 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 903423578, 
+    "name": "AVA 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 569177010, 
+    "name": "Avalia\u00e7\u00e3o de Fonologia e Articula\u00e7\u0101o do Portugu\u00eas", 
+    "price": 49.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 583056791, 
+    "name": "Avalia\u00e7\u00e3o Pr\u00e9 Anest\u00e9sica", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 796694627, 
+    "name": "Avatalker AAC", 
+    "price": 189.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 892497352, 
+    "name": "Avatalker Enterprise", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 838037460, 
+    "name": "Avaz Lite version - AAC App for Autism (Augmentative Picture Communication Software for Children wit...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 558161781, 
+    "name": "Avaz Pro - AAC App for Autism (Augmentative Picture Communication Software for Children with Special...", 
+    "price": 99.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 864032487, 
+    "name": "Avenue Five", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 670601204, 
+    "name": "Avianvet.es", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 413127039, 
+    "name": "AvidNurse", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 885843371, 
+    "name": "AVIMEX", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 899146429, 
+    "name": "Avinent My digital treatment English", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 602816281, 
+    "name": "Avis Donazioni", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 677452462, 
+    "name": "Avis Provinciale Matera", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 852541053, 
+    "name": "Avis-Magione", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 725222865, 
+    "name": "AVL 100 jaar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 669712754, 
+    "name": "AVMA Animal Hospital", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 325612324, 
+    "name": "Awesome Magic Math Trick", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 371255613, 
+    "name": "Awesome Optical Illusions HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 537089090, 
+    "name": "AxATB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 490631881, 
+    "name": "AxCalc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 843536178, 
+    "name": "Axis Assistant", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 636095790, 
+    "name": "AxReg", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 524359983, 
+    "name": "AxTIVA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 715519966, 
+    "name": "AyudameHC", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 626199099, 
+    "name": "Ayurveda Sri", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 689963702, 
+    "name": "AZ CME", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 445769630, 
+    "name": "AZE Client for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 605862386, 
+    "name": "A\u00c7B\u0130D 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 541529283, 
+    "name": "A\u015f\u0131 Takvimi", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 710433061, 
+    "name": "A\u578b\u884c\u4e3a\u6d4b\u8bd5", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 853345427, 
+    "name": "B Well Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 578634531, 
+    "name": "B. Braun Abdominal Wall Health", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 490910031, 
+    "name": "B. Braun Closure Technologies - Wound Closure General Catalogue", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 391340903, 
+    "name": "B. Braun NuTRIscreen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 410813833, 
+    "name": "B. Braun SGC Tutorial", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 403677635, 
+    "name": "B. Braun SGC Tutorial HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 410860808, 
+    "name": "Baby 2.0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 320248325, 
+    "name": "Baby Age Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 680346593, 
+    "name": "Baby Beat - My Baby Heartbeat Monitor", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 685395053, 
+    "name": "Baby Blood Prediction FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 733452061, 
+    "name": "Baby Care Lite - Make you a professional mom", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 326574411, 
+    "name": "Baby Connect (Activity Logger)", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 555498512, 
+    "name": "Baby Countdown HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 495552861, 
+    "name": "Baby Countdown++", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 581450029, 
+    "name": "Baby Cry Timer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 581455869, 
+    "name": "Baby Cry Timer Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 541040133, 
+    "name": "Baby Day", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 527888768, 
+    "name": "Baby Doctor", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 786167980, 
+    "name": "Baby Doctor Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 352440515, 
+    "name": "Baby Growth Calculator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 447542342, 
+    "name": "Baby Growth Chart", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 482992377, 
+    "name": "Baby Growth Chart Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 384533999, 
+    "name": "Baby Growth Log", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 741986989, 
+    "name": "Baby Kick - Fetal movement Monitor + Baby kick count - kicks tracker", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 401112090, 
+    "name": "Baby Log - Activities, Growth and Milestones", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 404137852, 
+    "name": "Baby Log Lite - Activities, Growth and Milestones", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 396346216, 
+    "name": "Baby MedBasics HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 882911392, 
+    "name": "Baby Medical Records", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 601141401, 
+    "name": "Baby Milestones Plus - Early Childhood Development Guide", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 877207891, 
+    "name": "Baby Music Box & calming mobile songs for little babies sleeping", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 442967545, 
+    "name": "Baby Names ....", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 450993523, 
+    "name": "Baby Names Fortune Science for iPad", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 393783219, 
+    "name": "Baby Names Premium", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 594448302, 
+    "name": "Baby Notebook", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 336472652, 
+    "name": "Baby Pregnancy Tracker (Lite)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 744001890, 
+    "name": "Baby Relax Sleep", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 334836118, 
+    "name": "Baby Security", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 328074891, 
+    "name": "Baby Sleep", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 425470799, 
+    "name": "Baby Timer en Espa\u00f1ol", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 347854074, 
+    "name": "Baby UltraSound", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 574184308, 
+    "name": "BabyBoom_Cycles", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 526050819, 
+    "name": "Babymecum", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 339465082, 
+    "name": "BabyStats", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 435201617, 
+    "name": "BabySteps Motor Milestones", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 539152723, 
+    "name": "Back Pain, Neck Pain & Headache Relief Center", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 413089709, 
+    "name": "Bacteria Encyclopedia", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 340258570, 
+    "name": "Bacteriology", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 658300982, 
+    "name": "BacteriumData", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 408364419, 
+    "name": "Baden W\u00fcrttemberg", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 731851916, 
+    "name": "BadgerNet UK", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 897970293, 
+    "name": "Ballarat Equine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 897716390, 
+    "name": "Ballarat Vet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 888826217, 
+    "name": "Ballard Rehabilitation Hospital", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 616188236, 
+    "name": "Ballpark Holistic Dispensary", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 384365337, 
+    "name": "BAM Labs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 871252691, 
+    "name": "Banca Dati Farmaci", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 397787774, 
+    "name": "Bandage Book", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 740504900, 
+    "name": "Bangkok Lab & Cosmetic Co.,Ltd.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 737698983, 
+    "name": "Banm\u00e9dica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 811350524, 
+    "name": "Banora Physical Therapies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 687243354, 
+    "name": "BAR Score", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 828444098, 
+    "name": "Barakat Orthodontics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 479902075, 
+    "name": "Barco QAWeb Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 635330517, 
+    "name": "Bard XenMatrix Surgical Graft - Structure, Strength and Performance", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 533361380, 
+    "name": "Bariatrica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 714790693, 
+    "name": "BariatricPal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 643346248, 
+    "name": "Bariatrics+", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 674135726, 
+    "name": "Barton Healthcare Headlines", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 615247235, 
+    "name": "Bartosz M\u00f3wi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 351060251, 
+    "name": "Basal Body Temperature Calculator", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 557084300, 
+    "name": "Basics of Emergency Medicine", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 624954260, 
+    "name": "Bates' Guide to Physical Examination and History Taking - Complete Medical Reference Textbook", 
+    "price": 119.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 589211766, 
+    "name": "Bates' Pocket Guide to Physical Examination - Complete Medical Reference Textbook", 
+    "price": 54.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 639000495, 
+    "name": "Bat\u0131g\u00f6z", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 589493195, 
+    "name": "Bauerfeind Arzt-App \u2013 der mobile Verordnerf\u00e4cher", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 731468955, 
+    "name": "Baw Baw Paws", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 843135463, 
+    "name": "Bay City Ophthalmology", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 503598399, 
+    "name": "BAYADA Mobile Referrals", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 807165895, 
+    "name": "Bayes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 505827332, 
+    "name": "Bayesian Sensitivity", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 575287610, 
+    "name": "BayScribe Mobile 3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 651094706, 
+    "name": "BayScribe Mobile for EHR", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 480480851, 
+    "name": "Baza Lek\u00f3w", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 525506094, 
+    "name": "Bazian Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 701354958, 
+    "name": "BB-Nuntio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 829412857, 
+    "name": "BBM 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 796480665, 
+    "name": "BBS m\u00f2bil, el Col\u2022legi a la butxaca", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 890760401, 
+    "name": "BC CrossLink", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 738989756, 
+    "name": "BC News", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 890230635, 
+    "name": "BCA Direct", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 490506109, 
+    "name": "BCFi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 890447077, 
+    "name": "BCH KIDS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 589435231, 
+    "name": "BCM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 868682217, 
+    "name": "BCS Conf 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 597854134, 
+    "name": "Bctrims", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 562557647, 
+    "name": "BCX Barthel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 560756646, 
+    "name": "BCX BRADEN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 739705995, 
+    "name": "BCX DOWNTON RIESGO DE CA\u00cdDAS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 568185732, 
+    "name": "BCX Pfeiffer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 638897705, 
+    "name": "BD Antibodies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 492039448, 
+    "name": "BDA \u2013 die App des Berufsverbandes Deutscher An\u00e4sthesisten", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 694044486, 
+    "name": "BDC|Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 859203873, 
+    "name": "BDI aktuell", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 436145657, 
+    "name": "Be your own hero", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 685004760, 
+    "name": "Beach Braces", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 613636816, 
+    "name": "Beams Dental Care", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 399359729, 
+    "name": "BEAR-D", 
+    "price": 0.0
+  }
+]

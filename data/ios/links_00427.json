@@ -1,0 +1,5936 @@
+[
+  {
+    "genre": "Music", 
+    "id": 636715310, 
+    "name": "Qasim", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 599919115, 
+    "name": "Qasr al Hosn Festival QR Trail", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 638284522, 
+    "name": "QAstroNotes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 503874248, 
+    "name": "Qatar - All About", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 453602450, 
+    "name": "Qatar Cinema", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 756715596, 
+    "name": "Qatar Events", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 756828892, 
+    "name": "Qatar Events for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 840092915, 
+    "name": "Qatar HandBall 2015", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 748021091, 
+    "name": "Qatar Media", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 748162884, 
+    "name": "Qatar Media for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 891315574, 
+    "name": "Qatar Radio Live Player (Doha / Arabic / \u0642\u0637\u0631 \u0631\u0627\u062f\u064a\u0648 / \u0627\u0644\u0639\u0631\u0628\u064a\u0629)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 725233967, 
+    "name": "Qatar Spots", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 796860841, 
+    "name": "Qatar Wheels", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 670216062, 
+    "name": "QatarBroadcast", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 695611073, 
+    "name": "QatarDeal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 818293652, 
+    "name": "QatarShowroom Cars & Realestate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 519861748, 
+    "name": "QatQi - Beautiful, Relaxing, Strategic Word Puzzle Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 676516664, 
+    "name": "Qaumi Awaaz Radio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 823459552, 
+    "name": "QB8", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 735311862, 
+    "name": "QBase FM QBRadio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 823643418, 
+    "name": "QBeacon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 438086329, 
+    "name": "QBeat -\u30ad\u30e5\u30a6\u3079\u3047\u30d3\u30fc\u30c8-", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 297757688, 
+    "name": "QBeez", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 642148561, 
+    "name": "Qber classic boardgame - free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 406129137, 
+    "name": "Qbism HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 402986605, 
+    "name": "Qbrick OVP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 824374632, 
+    "name": "QBZ - A simple puzzle that grows into an infinitely challenging puzzle.", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 481038055, 
+    "name": "QC Botucatu", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 491594622, 
+    "name": "QC Heidelberg", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 493864427, 
+    "name": "QC Londres", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 490452707, 
+    "name": "QC Paris", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 480528452, 
+    "name": "QC Rino Mania", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 491353970, 
+    "name": "QC Rothenburg", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 480466943, 
+    "name": "QC Salvador", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 645490016, 
+    "name": "QC2NIGHT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 904567175, 
+    "name": "QCat - Toddler Fireworks touch Games (free)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 531284285, 
+    "name": "QCat -Toddler 's Animal Park", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 680885869, 
+    "name": "QCEROTICA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 822329944, 
+    "name": "QChords", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 545790996, 
+    "name": "QCon 2012", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 896655692, 
+    "name": "QCrash", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 502211435, 
+    "name": "QCS Jukebox", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 507336241, 
+    "name": "QCS Jukebox Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 583960227, 
+    "name": "Qcv", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 405514455, 
+    "name": "QD Movies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 876594598, 
+    "name": "QD3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 625239688, 
+    "name": "QDancer", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 632666744, 
+    "name": "Qday050", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 355679946, 
+    "name": "QDB (Quotes DataBase)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 327235945, 
+    "name": "QDB Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 737679110, 
+    "name": "QEasy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 491069819, 
+    "name": "Qello Concerts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 876988978, 
+    "name": "Qfer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 559736373, 
+    "name": "QFly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 689913155, 
+    "name": "QFM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 806810755, 
+    "name": "QFM 103.3 FM  - QFM 89.3 FM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 706894891, 
+    "name": "QFM QMusica Radio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 844030192, 
+    "name": "QF\u4e2a\u7a0e\u8ba1\u7b97\u5668", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 616634277, 
+    "name": "QG Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 693999920, 
+    "name": "QGame Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 807624975, 
+    "name": "Qi Visualizer", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 419287393, 
+    "name": "Qi-Gong Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 657286452, 
+    "name": "Qiaohu Color&Shape", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 605676236, 
+    "name": "Qikarma", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 774941455, 
+    "name": "QikMsg", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 523767833, 
+    "name": "QikPik", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 571987509, 
+    "name": "Qingjian Realty Virtual AR Floorplan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 623451887, 
+    "name": "Qingzoo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 322124077, 
+    "name": "Qiozk - The Magazine Store", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 658035909, 
+    "name": "QIQ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 349324815, 
+    "name": "QiReader", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 349939087, 
+    "name": "QiTarot", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 434619691, 
+    "name": "QiuShiBrowser", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 807465075, 
+    "name": "Qix Galaxy: Space Adventure", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 762168887, 
+    "name": "Qixel : Pixel Art Painter", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 683280245, 
+    "name": "Qi\u00fc Experience", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 454323567, 
+    "name": "QLD Megafan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 720839544, 
+    "name": "Qloo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 585171960, 
+    "name": "Qloud Media", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 397674028, 
+    "name": "QMC Radio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 876987408, 
+    "name": "QMediaPlayer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 582589483, 
+    "name": "Qmi Mania!!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 457344591, 
+    "name": "QnA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 395923901, 
+    "name": "Qobuz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 589363023, 
+    "name": "Qobuz pour iOS 4", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 716495495, 
+    "name": "Qooar Concept", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 360825093, 
+    "name": "QoQ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 611899256, 
+    "name": "QOTD - SC2 edition", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 716701245, 
+    "name": "Qote - Tvoj Hlas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 674482843, 
+    "name": "QouteApp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 796279205, 
+    "name": "QPid v2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 489368223, 
+    "name": "Qpik", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 783485170, 
+    "name": "Qpod.kz\u2122. On i Ona film", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 888698639, 
+    "name": "QPUClike", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 694642865, 
+    "name": "QP\u6642\u8a08 \u30ed\u30fc\u30ba\u30aa\u30cb\u30fc\u30eb\u30ad\u30e5\u30fc\u30d4\u30fc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 444934666, 
+    "name": "QQ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 567145086, 
+    "name": "QQ Faces", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 453718989, 
+    "name": "QQ HD 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 438904674, 
+    "name": "QQ Restaurant", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 433138007, 
+    "name": "QQ Restaurant HD (QQ\u9910\u5385HD)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 495631169, 
+    "name": "QQeStore eMagazines", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 456513849, 
+    "name": "QQImageHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 895482116, 
+    "name": "QQISSO?(What's this?)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 909373113, 
+    "name": "QQISSO? (No advertising)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 592990825, 
+    "name": "QQ\u4e2a\u6027\u7b7e\u540d", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 403941510, 
+    "name": "QQ\u4e2d\u56fd\u8c61\u68cb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 414437998, 
+    "name": "QQ\u4e2d\u56fd\u8c61\u68cbHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 594526957, 
+    "name": "QQ\u4f53\u80b2\u5468\u62a5", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 592681422, 
+    "name": "QQ\u5347\u7ea7HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 483530887, 
+    "name": "QQ\u56db\u56fd\u519b\u68cb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 510307765, 
+    "name": "QQ\u56db\u56fd\u519b\u68cb HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 542596602, 
+    "name": "QQ\u5fa1\u5251\u5929\u6daf", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 598872286, 
+    "name": "QQ\u5fae\u4fe1\u5934\u50cf\u5927\u5168", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 598530427, 
+    "name": "QQ\u5fae\u4fe1\u8868\u60c5\u5927\u5168", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 494833716, 
+    "name": "QQ\u63d0\u9192", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 547101152, 
+    "name": "QQ\u6536\u97f3\u673a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 569411838, 
+    "name": "QQ\u6597\u5730\u4e3b\uff1a\u6bd4\u8d5b+\u765e\u5b50", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 608188239, 
+    "name": "QQ\u6597\u725b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 680514349, 
+    "name": "QQ\u6b22\u4e50\u5347\u7ea7", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 441900152, 
+    "name": "QQ\u6d77\u6d0b\u8fde\u8fde\u770b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 443908613, 
+    "name": "QQ\u6e38\u620f\u5927\u5385", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 456229650, 
+    "name": "QQ\u6e38\u620f\u5927\u5385HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 582581375, 
+    "name": "QQ\u738b\u8005\u6218\u7eaa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 481589275, 
+    "name": "QQ\u7535\u5f71\u7968", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 554916331, 
+    "name": "QQ\u770b\u6f14\u51fa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 595051743, 
+    "name": "QQ\u7b7e\u540d", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 549425594, 
+    "name": "\u706b\u661f\u820c\u8f9b\u5178", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 445330690, 
+    "name": "QQ\u7f8e\u5973\u627e\u832c", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 579179634, 
+    "name": "QQ\u8d85\u5e02\u5b98\u65b9\u7248", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 473913476, 
+    "name": "QQ\u8fbe\u4eba", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 385703650, 
+    "name": "QQ\u8fde\u8fde\u770b", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 414603431, 
+    "name": "QQ\u97f3\u4e50", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 488648551, 
+    "name": "QQ\u9ebb\u5c06HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 711348933, 
+    "name": "QR ANO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 438633069, 
+    "name": "QR Clock", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 439362905, 
+    "name": "QR Clock Mini", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 909645375, 
+    "name": "QR Code Gen LITE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 505579326, 
+    "name": "QR Code Generate", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 908383419, 
+    "name": "QR Code Generatorz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 598554552, 
+    "name": "QR EXPO LITE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 862968823, 
+    "name": "QR Expo Scanner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 463310695, 
+    "name": "QR Hunter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 592997026, 
+    "name": "QR Kcell", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 352903312, 
+    "name": "QR loveCode", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 589388874, 
+    "name": "QR Music & Shop", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 725437436, 
+    "name": "QR Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 888005279, 
+    "name": "QR Scanner - Scan QRs Fast and Easy!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 570120243, 
+    "name": "QR trap", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 738672890, 
+    "name": "QR&BarCode", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 590249375, 
+    "name": "QR-Magazin", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 459069194, 
+    "name": "QR-MegaFon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 439910056, 
+    "name": "QR-Scanner", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 541725757, 
+    "name": "QR2B", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 559741784, 
+    "name": "QR3Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 787722847, 
+    "name": "QRAMID", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 894833865, 
+    "name": "QRate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 870111881, 
+    "name": "Qrator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 559751884, 
+    "name": "QRAugmented", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 808316345, 
+    "name": "QRCode 2014 Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 808352022, 
+    "name": "QRCode 2014 Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 601461609, 
+    "name": "QRCodeClock", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 730904311, 
+    "name": "QReader Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 525982449, 
+    "name": "QRemote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 534955280, 
+    "name": "QRGame", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 839583917, 
+    "name": "QriAR(QriAR Augmented Reality App)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 473184130, 
+    "name": "Qriren skanner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 453909949, 
+    "name": "QRMasterPro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 533441294, 
+    "name": "QRMyCode", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 388994901, 
+    "name": "QRockRadio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 348608053, 
+    "name": "QROUZ Practice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 536491805, 
+    "name": "QRPiacenza Touristic Navigator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 477971738, 
+    "name": "QRPlaces navigator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 657457883, 
+    "name": "QRSecret", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 844835621, 
+    "name": "Qrush", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 440720459, 
+    "name": "QR\u207a", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 804961847, 
+    "name": "QS&L", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 379857234, 
+    "name": "QSC MyStatus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 651630688, 
+    "name": "Qskip", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 896350165, 
+    "name": "Qstock 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 376624670, 
+    "name": "QT Remote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 529680778, 
+    "name": "QT-5 Rush", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 871722298, 
+    "name": "Qt5 Everywhere", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 694570826, 
+    "name": "QTesting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 848956493, 
+    "name": "Qthello", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 887860633, 
+    "name": "QTickets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 722880313, 
+    "name": "QTTV Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 835741814, 
+    "name": "QTTV Pro for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 718067704, 
+    "name": "QTube", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 869270095, 
+    "name": "Qtv", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 694556712, 
+    "name": "QT\u8bed\u97f3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 902863584, 
+    "name": "QU disk", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 808441802, 
+    "name": "Qu'est-ce qu'on mange pour souper?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 783561745, 
+    "name": "Qua Que", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 635642843, 
+    "name": "Quace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 335507326, 
+    "name": "Quack Shot", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 565889454, 
+    "name": "Quackadoodle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 501797161, 
+    "name": "Quackers Maze", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 574151359, 
+    "name": "QUAD - don't just say it", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 467089771, 
+    "name": "Quad 3D Brick Breaker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 533493675, 
+    "name": "Quad Bang", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 749336885, 
+    "name": "Quad Bike Bandit Racing (NOS Edition) - Police Rival Show Down", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 702266884, 
+    "name": "Quad Bike Race - Desert Offroad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 469913683, 
+    "name": "Quad Brick Breaker Full", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 729430471, 
+    "name": "Quad Bubble Extreme 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 744649885, 
+    "name": "Quad Colors HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 495155031, 
+    "name": "QUAD Derby", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 619908156, 
+    "name": "Quad Nights", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 534780526, 
+    "name": "Quad Race", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 480542284, 
+    "name": "Quad Race 3D Plus", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 828566277, 
+    "name": "Quad-Core Brain", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 300911252, 
+    "name": "QuadCamera - MultiShot", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 293587521, 
+    "name": "QuadChallenge", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 295734882, 
+    "name": "QuadChallenge Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 418794310, 
+    "name": "QuadChallenge Reloaded", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 905449840, 
+    "name": "QuadChromatic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 874324634, 
+    "name": "Quaddles", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 287563734, 
+    "name": "Quaddraxx", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 407232145, 
+    "name": "QuadMovie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 580692951, 
+    "name": "Quado DAO", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 580655326, 
+    "name": "Quado Poker - Texas Holdem Poker for families and friends", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 494018138, 
+    "name": "QuadPad", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 821240198, 
+    "name": "Quadrados", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 325946142, 
+    "name": "Quadrangle", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 325948667, 
+    "name": "Quadrangle Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 338929305, 
+    "name": "QuadraPop", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 373058330, 
+    "name": "Quadraticus Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 890114044, 
+    "name": "Quadratura", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 365881085, 
+    "name": "Quadratus", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 368566514, 
+    "name": "Quadratus HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 367243170, 
+    "name": "Quadratus Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 706081087, 
+    "name": "Quadra\u2122", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 852427485, 
+    "name": "QUADRIENNALE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 317821591, 
+    "name": "Quadrille", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 837214455, 
+    "name": "Quadrilles", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 593121680, 
+    "name": "Quadrinhos Carrossel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 692881607, 
+    "name": "Quadro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 625331318, 
+    "name": "QUADRO mobile MDB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 617765479, 
+    "name": "Quadro Negro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 789735680, 
+    "name": "Quadro pong - 4 player arcade game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 806188967, 
+    "name": "Quadro Pong PRO - new party game for iPad", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 578294546, 
+    "name": "Quadroid", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 415129724, 
+    "name": "Quadron", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 432773201, 
+    "name": "Quadronica Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 514114597, 
+    "name": "Quadros", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 642834926, 
+    "name": "Quadrox", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 642836490, 
+    "name": "Quadrox Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 298763383, 
+    "name": "Quadrum:colors", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 421092698, 
+    "name": "Quads MP HD", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 426889691, 
+    "name": "Quads SP", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 427746051, 
+    "name": "Quads SP Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 421299349, 
+    "name": "Quads SP HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 427486217, 
+    "name": "Quads SP HD Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 406491329, 
+    "name": "QuadVex", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 664606679, 
+    "name": "Quake Surfer Monster Truck Race", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 651448401, 
+    "name": "QuakQuak", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 899328698, 
+    "name": "Qual a Boa? BH", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 890471897, 
+    "name": "Qual a sua Bateria?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 852626650, 
+    "name": "Qual Balada", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 420283551, 
+    "name": "QualeAutore", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 701147265, 
+    "name": "Quali", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 710606097, 
+    "name": "Qualia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 576948569, 
+    "name": "Qualia NewsPoint", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 489023683, 
+    "name": "Qualipic Camera [ powered by AccuSmart ]", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 790702884, 
+    "name": "Quality Tattoo", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 413262845, 
+    "name": "Qualunquemente", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 600090852, 
+    "name": "Quan Th\u00e1nh linh x\u0103m", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 598523409, 
+    "name": "Quan Th\u00e1nh linh x\u0103m Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 492043823, 
+    "name": "Quand vas tu mourir ?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 701899884, 
+    "name": "Quandary", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 730559870, 
+    "name": "Quandary (Espa\u00f1ol)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 580537790, 
+    "name": "Quantagories: Mental Agility Puzzles", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 794980969, 
+    "name": "Quantic Pinball Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 730483420, 
+    "name": "Quantizer", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 441016490, 
+    "name": "Quanto ne sai...? del tuo cell", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 509617569, 
+    "name": "Quanto sei narcisista?", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 467701704, 
+    "name": "Quanto Sei Nerd ?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 379400772, 
+    "name": "Quantum", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 582807244, 
+    "name": "Quantum Flux", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 650677975, 
+    "name": "Quantum Galaxy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 747176889, 
+    "name": "Quantum Galaxy HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 492601164, 
+    "name": "Quantum Legacy", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 552824704, 
+    "name": "Quantum Legacy HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 593628504, 
+    "name": "Quantum Legacy HD Turbo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 833955104, 
+    "name": "Quantum Snake", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 893738818, 
+    "name": "Quantum Tours Americana", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 669264957, 
+    "name": "Quantum TTT", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 364357672, 
+    "name": "Quantz HD", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 404767801, 
+    "name": "Quark", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 643193875, 
+    "name": "Quark Music", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 613756722, 
+    "name": "Quark! HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 453203047, 
+    "name": "Quarrel Deluxe", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 647693989, 
+    "name": "Quartarete TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 306215821, 
+    "name": "Quarterback Football Throw", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 420899518, 
+    "name": "Quartermaster", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 665514945, 
+    "name": "Quartermaster Prime", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 410612139, 
+    "name": "Quarters - Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 396805418, 
+    "name": "Quarters!!", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 373768592, 
+    "name": "Quartet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 583287784, 
+    "name": "Quarto Canale Radio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 499165396, 
+    "name": "Quartz Radio Online", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 806807220, 
+    "name": "Quartz Run", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 594756032, 
+    "name": "Quarx", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 594756284, 
+    "name": "Quarx HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 729464151, 
+    "name": "Quasar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 324476423, 
+    "name": "Quasar Klutzes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 597388387, 
+    "name": "Quash Board", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 398183946, 
+    "name": "Quasimodo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 841476937, 
+    "name": "Quatertango", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 808267252, 
+    "name": "QUATRO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 687359664, 
+    "name": "Quatsch-Banane - Freche und flapsige Antworten !!!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 376368010, 
+    "name": "Quattroruote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 516554577, 
+    "name": "Quattuor", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 424724333, 
+    "name": "Quaver's Marvelous World of Music - QuaverQnex", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 868597279, 
+    "name": "Qube", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 869885212, 
+    "name": "QuBe \u2122", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 687620754, 
+    "name": "Qubee", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 430805502, 
+    "name": "QubeR : QR\ub85c \uc6c0\uc9c1\uc774\ub294 \uc0c8\ub85c\uc6b4 \uc138\uc0c1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 370834029, 
+    "name": "QubixHD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 304493093, 
+    "name": "Qublitz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 903327269, 
+    "name": "Qubox", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 874165544, 
+    "name": "QUBY - 2D Rubiks!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 528260664, 
+    "name": "Quchy -  the fun, social way to bookmark, organize, and create quick and easy personal lists and rev...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 904757066, 
+    "name": "Que Boleta", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 540242614, 
+    "name": "Que Pasa Vegas?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 818407582, 
+    "name": "QueBajamos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 593229712, 
+    "name": "Quebec Lotto - Lotto Angel", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 357503902, 
+    "name": "Quebec Travel Guide - Augmented Reality with Street and Transport Map 100% Offline - Tourist Advisor...", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 604986859, 
+    "name": "Quebra-Cabe\u00e7a AnimadosZoo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 825156413, 
+    "name": "QueChistoso!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 530770222, 
+    "name": "Queedly", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 630811132, 
+    "name": "Queen Bee 3D :  Success is Sweet", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 657583521, 
+    "name": "Queen Bee's", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 856855084, 
+    "name": "Queen City Bike Fest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 552219196, 
+    "name": "Queen City Timing", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 310287931, 
+    "name": "Queen Cleopatra's StackMatch", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 489989692, 
+    "name": "Queen Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 871407819, 
+    "name": "Queen Creek", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 641466745, 
+    "name": "Queen Of Egypt", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 900195578, 
+    "name": "Queen of Hearts Casino maze", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 778363895, 
+    "name": "Queen of Hearts Lucky Slots", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 761249062, 
+    "name": "Queen Of Rage", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 836009079, 
+    "name": "Queen Of Space", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 781445195, 
+    "name": "Queen of the Slots", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 442146113, 
+    "name": "Queen Sex Tips (Premium)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 349464625, 
+    "name": "Queen's English", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 746516884, 
+    "name": "Queen's Tales: The Beast and the Nightingale - A Hidden Object Game with Hidden Objects", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 746776884, 
+    "name": "Queen's Tales: The Beast and the Nightingale HD - A Hidden Object Game with Hidden Objects", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 854322054, 
+    "name": "Queens Amposta", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 541161524, 
+    "name": "Queens Club", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 646410665, 
+    "name": "Queens Numerology", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 739048403, 
+    "name": "Queens Numerology Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 573010301, 
+    "name": "Queenscliff Music Festival", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 429117086, 
+    "name": "Queensday 'Koninginnedag' 2011", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Finance", 
+    "id": 900285835, 
+    "name": "Queenstown 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 896064847, 
+    "name": "Queenstown Lakeview Holiday Park Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 672898918, 
+    "name": "Queenstown Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 394674054, 
+    "name": "Queer as Folk", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 811932890, 
+    "name": "Queexy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 885992173, 
+    "name": "QueHacemosHoy?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 655043139, 
+    "name": "Quehoroscopo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 522445466, 
+    "name": "Queima", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 882535821, 
+    "name": "Queima14Evora", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 417364030, 
+    "name": "QueKinhDich", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 527073160, 
+    "name": "Quel Score : concours de pronostics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 642399515, 
+    "name": "Quell Memento", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 455533949, 
+    "name": "Quell Reflect+", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 383027157, 
+    "name": "Quell+", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 473005110, 
+    "name": "Quelle s\u00e9ductrice \u00eates-vous ? ( le test gratuit )", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 785277526, 
+    "name": "QuelliDiBardolino", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 638843867, 
+    "name": "Quellrock", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 462936208, 
+    "name": "Quem Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 709184898, 
+    "name": "Quem Quer Milh\u00f5es Quiz Portugu\u00eas Gr\u00e1tis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 498344232, 
+    "name": "Quercus Circus", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 757228493, 
+    "name": "Quercy en famille in english", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 888444274, 
+    "name": "Quero Ver Na Copa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 589754401, 
+    "name": "Query! - Get your questions answered.", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 867200072, 
+    "name": "Queryy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 669715650, 
+    "name": "QuesCou", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 889776713, 
+    "name": "Quesity", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 365225173, 
+    "name": "Quespile \u30b1\u30b9\u30d1\u30a4\u30eb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 761814885, 
+    "name": "Quest Defense", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 694393728, 
+    "name": "Quest For Stardom: BackStage", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 499864650, 
+    "name": "Quest Guide - for Skyrim", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 765344052, 
+    "name": "Quest in Peace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 815514194, 
+    "name": "Quest magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 884503971, 
+    "name": "Quest Master", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 524830289, 
+    "name": "Quest of Magic: An Adventure in Azoth", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 434339273, 
+    "name": "Quest Runner", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 485977687, 
+    "name": "QuestGuru2 - \"Quest Tracker/Finder for World of Warcraft\"", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 479817594, 
+    "name": "Question", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 313167359, 
+    "name": "Question  Tree Guessing Game (20 questions and more)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 440743599, 
+    "name": "Question And Answer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 444884825, 
+    "name": "Question And Answer Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 846435952, 
+    "name": "Question County Trivia Quiz - Game of Thrones Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 498947561, 
+    "name": "Question Mark", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 675499834, 
+    "name": "Question!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 475505656, 
+    "name": "Questionable", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 326289341, 
+    "name": "Questionaire", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 642348684, 
+    "name": "Questionity", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 886143857, 
+    "name": "Questions", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 882940417, 
+    "name": "Questions Foot", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 663971989, 
+    "name": "Questions In A Box", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 295719126, 
+    "name": "Questions to God", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 370338651, 
+    "name": "Questions to Ponder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 500516920, 
+    "name": "QuestOfTime", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 900448624, 
+    "name": "Questown Helsinki", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 850287685, 
+    "name": "Questown \u041a\u0430\u0437\u0430\u043d\u044c", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 878550777, 
+    "name": "Questown \u041a\u0438\u0435\u0432", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 880981908, 
+    "name": "Questown \u041c\u043e\u0441\u043a\u0432\u0430", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 902997616, 
+    "name": "Questown \u041f\u0435\u0442\u0435\u0440\u0433\u043e\u0444", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 859018675, 
+    "name": "Questown \u041f\u0435\u0442\u0440\u043e\u043f\u0430\u0432\u043b\u043e\u0432\u043a\u0430", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 882468325, 
+    "name": "Questown \u043f\u043e \u0426\u0435\u043d\u0442\u0440\u0443 \u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0430", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 878033540, 
+    "name": "Questown \u0420\u0438\u0433\u0430", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 880058899, 
+    "name": "Questown \u0420\u043e\u043c\u0430\u043d\u0442\u0438\u043a\u0430 \u0421\u041f\u0431", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 859211420, 
+    "name": "Questown \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u041c\u0443\u0437\u0435\u0439", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 863911891, 
+    "name": "Questown \u0421\u0442\u043e\u043a\u0433\u043e\u043b\u044c\u043c", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 878620797, 
+    "name": "Questown \u0425\u0435\u043b\u044c\u0441\u0438\u043d\u043a\u0438 \u043f\u043e \u0433\u043e\u0440\u043e\u0434\u0443", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 504158189, 
+    "name": "Quests", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 796585352, 
+    "name": "QuestSoul", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 795196562, 
+    "name": "Queue - Realtime Playlisting + Crossfade", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 441576417, 
+    "name": "Queue Depth 192", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 594366068, 
+    "name": "Queue Music", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 659576098, 
+    "name": "Queue Simulator 3000", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 429084466, 
+    "name": "Quexlor: Lands of Fate RPG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 334462861, 
+    "name": "Who?", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 483956418, 
+    "name": "Qui a chant\u00e9?", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 627901320, 
+    "name": "Qui a d\u00e9couvert ?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 771645176, 
+    "name": "Qui A Raison ?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 611215070, 
+    "name": "Qui chante le plus juste ?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 504504875, 
+    "name": "Qui en 2012 ?", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 461725027, 
+    "name": "QUI EST LA ?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 429616700, 
+    "name": "Qui est-ce?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 510623801, 
+    "name": "Qui propose quoi ?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Weather", 
+    "id": 438421881, 
+    "name": "Qui sera le plus bronz\u00e9 ? HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 492194955, 
+    "name": "Qui \u00e9tais tu dans une vie ant\u00e9rieure ?", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 382595306, 
+    "name": "Qui, quoi et o\u00f9 \u00e9tiez-vous dans une vie ant\u00e9rieure", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 417566604, 
+    "name": "Quick - Vacation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 542915648, 
+    "name": "Quick 3DCamera", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 562583458, 
+    "name": "Quick Alarm Clock", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 726115401, 
+    "name": "Quick and Snow show", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 666191498, 
+    "name": "Quick and Snow Show - Radio Online", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 587118884, 
+    "name": "Quick Answers - Doubt no more", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 634873104, 
+    "name": "Quick Auto Brightness", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 499831005, 
+    "name": "Quick Bob", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 315692254, 
+    "name": "Quick Breathalyzer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 878619083, 
+    "name": "Quick Buddy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 449002128, 
+    "name": "Quick Camera - capture your movie fast", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 465007427, 
+    "name": "Quick Capture Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 513151898, 
+    "name": "Quick Count 1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 554716603, 
+    "name": "Quick Date", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 486231707, 
+    "name": "Quick Decision", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 610638113, 
+    "name": "Quick Dodgeball - Free Multiplayer Dodgeball Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 467823639, 
+    "name": "Quick Draw Cowboy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 585172294, 
+    "name": "Quick Draw Numbers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 852086842, 
+    "name": "Quick Draw Spelling", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 851995398, 
+    "name": "Quick Duel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 852757961, 
+    "name": "Quick Effects: Photo Effects, Filters & Image Editing Photo Booth Free!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 483327533, 
+    "name": "Quick Enough? - Test your Reflexes, Anticipation, Timing, and Speed.", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 483328172, 
+    "name": "Quick Enough? - Test your Speed, Anticipation, Timing, and Reflexes.", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 305722090, 
+    "name": "Quick Finger", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 306259841, 
+    "name": "Quick Finger Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 792433943, 
+    "name": "Quick Fire Super Snail - A Super Fast Targeting Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 792433955, 
+    "name": "Quick Fire Super Snail - A Super Fast Targeting Game DELUXE Version", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 333209618, 
+    "name": "Quick Freecell", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 344525971, 
+    "name": "Quick Games", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 768627520, 
+    "name": "Quick Gems", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 734763976, 
+    "name": "Quick Giggle - Grab a Quick Laugh", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 714046989, 
+    "name": "Quick Hit Slots - The Best Slot Machine Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 358597843, 
+    "name": "Quick Hockey", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 591780125, 
+    "name": "Quick Hue", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 416063147, 
+    "name": "Quick ID Booth", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 332679482, 
+    "name": "Quick LED Timer", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 334571133, 
+    "name": "Quick LED Timer Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 744330890, 
+    "name": "Quick Link - Word Hunter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 430830620, 
+    "name": "Quick Lomo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 431844852, 
+    "name": "Quick Lomo Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 888943179, 
+    "name": "Quick Math - Fast Arithmetic Game For Kids And Adults", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 874232471, 
+    "name": "Quick Math Plus Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 863837188, 
+    "name": "Quick Maze 2D", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 803167399, 
+    "name": "Quick Media Player - Play all video formats directly", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 591534352, 
+    "name": "Quick Meme Maker", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 841970890, 
+    "name": "Quick mental calculation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 440206450, 
+    "name": "Quick Mice - House Raid", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 441922396, 
+    "name": "Quick Mice - House Raid Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 423562771, 
+    "name": "Quick Mice \u2013 First Raid", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 513215735, 
+    "name": "Quick mini games", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 472957713, 
+    "name": "Quick Mix -  a simple music player like DJ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 416580426, 
+    "name": "Quick Pass HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 498800425, 
+    "name": "Quick Password Generator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 570171196, 
+    "name": "Quick Photo Editor", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 897468297, 
+    "name": "Quick Pic Guess What's the Movies,Logos,Sports,Food,Doodles,Riddles,Animals,Celebs,Close up Pics and...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 602425475, 
+    "name": "Quick Pick", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 854737403, 
+    "name": "Quick Pick II", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 509308272, 
+    "name": "Quick Pick Pics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 602461224, 
+    "name": "Quick Pick+", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 793044248, 
+    "name": "Quick Picks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 418082091, 
+    "name": "Quick Pool", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 572408297, 
+    "name": "Quick Quiz - Astrological Signs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 873672087, 
+    "name": "Quick Quiz D", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 472667543, 
+    "name": "Quick Reaction Test", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 731034156, 
+    "name": "Quick Reflex Speed Test", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 732000197, 
+    "name": "Quick Reflex Speed Test - Full Version", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 445307591, 
+    "name": "Quick Remember 20 - \uc22b\uc790 \ub4a4\uc9d1\uae30 \uac8c\uc784!!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 892035663, 
+    "name": "Quick Rescue", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 621245609, 
+    "name": "Quick Reversal - A fast, top-class, classic Othello Game.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 403509935, 
+    "name": "Quick Rhythm", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 874788939, 
+    "name": "Quick Ringtone Creator New Edition 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 300539671, 
+    "name": "Quick Roll - d20 Dice Roller", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 882744410, 
+    "name": "Quick Route \u2014 A Puzzle That Requires Thought To Solve", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 799348178, 
+    "name": "Quick Secret Eyes : The Furtive Spy Agent Training Academy - Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 799354908, 
+    "name": "Quick Secret Eyes : The Furtive Spy Agent Training Academy - PRO", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 427380606, 
+    "name": "Quick Shift", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 436740327, 
+    "name": "Quick Shift 1.0", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 428422716, 
+    "name": "Quick Shift Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 680070039, 
+    "name": "Quick Shoot", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 792579647, 
+    "name": "Quick Shooting Hero!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 851761301, 
+    "name": "Quick shot CAN Gun\uff06Shooting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 405196413, 
+    "name": "Quick Sketch", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 405435935, 
+    "name": "Quick Sketch HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 408124855, 
+    "name": "Quick Sketch HD Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 407171585, 
+    "name": "Quick Sketch Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 391459155, 
+    "name": "Quick Smileys", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 332192099, 
+    "name": "Quick Solitaire", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 589402396, 
+    "name": "Quick Spell", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 890348051, 
+    "name": "Quick SpotSearch Music, Song and Lyric for Spotify Free Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 876304394, 
+    "name": "Quick Sticks Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 886697148, 
+    "name": "Quick Sudoku >>", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 470406665, 
+    "name": "Quick Swipe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 390116229, 
+    "name": "Quick TAP 9", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 884397469, 
+    "name": "Quick Tap Number", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 298770683, 
+    "name": "Quick Tap Reflex", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 519466487, 
+    "name": "Quick Tease", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 591409266, 
+    "name": "Quick Thinker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 578085583, 
+    "name": "Quick Tips!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 501598315, 
+    "name": "Quick Tips!!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 573874828, 
+    "name": "Quick Tools 12in1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 622402213, 
+    "name": "Quick Tune", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 658121035, 
+    "name": "Quick Tune Pro - Music Player", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 806224522, 
+    "name": "Quick Web Browser", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 685979372, 
+    "name": "Quick Wig", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 346209604, 
+    "name": "Quick Words", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 374157764, 
+    "name": "Quick Writing Notes", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 316369958, 
+    "name": "Quick X-Ray", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 862713032, 
+    "name": "Quick, Press A!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 819698531, 
+    "name": "Quick-R", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 463257966, 
+    "name": "Quick-Studio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 419058166, 
+    "name": "Quick_Pass", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 421935876, 
+    "name": "Quick_Pass Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 515218450, 
+    "name": "QuickAmida", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 812040649, 
+    "name": "QuickBalloonsFREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 504317544, 
+    "name": "QuickBingo", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 851172841, 
+    "name": "QuickCAD - create and edit DWG/ DXF/ OCF files", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 900599887, 
+    "name": "QuickDrink", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 699445157, 
+    "name": "QuickeeCam", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 669662895, 
+    "name": "QuickeeMe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 850460685, 
+    "name": "Quicken Chicken", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 348655639, 
+    "name": "QuickFic", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 362290457, 
+    "name": "QuickFinger", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 666836138, 
+    "name": "Quickflick Filmfest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 895590923, 
+    "name": "QuickFlics - Videos to DVD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 729686607, 
+    "name": "QuickGoal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 579725138, 
+    "name": "QuickHitz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 788710167, 
+    "name": "Quickie for iOS", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 590508929, 
+    "name": "QuickKabbalah", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 482537529, 
+    "name": "QuickKlick - The ultimate color-matching puzzle fun", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 482536801, 
+    "name": "QuickKlick HD - The ultimate color-matching puzzle fun", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 864231168, 
+    "name": "Quickleey", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 391465894, 
+    "name": "Quicklik", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 391664197, 
+    "name": "Quicklik FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 672303704, 
+    "name": "QuickLoveBurger", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 633262835, 
+    "name": "QuickMovie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 488161889, 
+    "name": "Quickness Lite - Test your Reflexes, Anticipation, Timing, and Speed.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 488238727, 
+    "name": "Quickness Lite - Test your Speed, Anticipation, Timing, and Reflexes.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 680079660, 
+    "name": "QuickPicker2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 319906207, 
+    "name": "QuickPigeon (Push Notification Messanger)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 364873476, 
+    "name": "QuickPrice", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 366062051, 
+    "name": "Quicksand", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 777812114, 
+    "name": "Quicksilva", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 892402376, 
+    "name": "Quicksilver Ball Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 569898944, 
+    "name": "QuickSolve", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 577085614, 
+    "name": "QuickSolve Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 890869721, 
+    "name": "Quickspot - Look Carefully Logomania", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 901921596, 
+    "name": "QuickSpot your eyes - Look Carefully", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 346159499, 
+    "name": "QuickSudoku", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 730386341, 
+    "name": "QuickTalk.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 294506786, 
+    "name": "QuickTap", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 628760070, 
+    "name": "QuickTaps", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 629618076, 
+    "name": "QuickThink", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 835077644, 
+    "name": "QuickThink 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 377649273, 
+    "name": "QuickView - The Best Short Films in the World", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 890251983, 
+    "name": "Quicky Numbers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 851562498, 
+    "name": "Quick\u5360\u3044", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 662019845, 
+    "name": "QUICPay\u30de\u30b9\u30bf\u30fc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 571524144, 
+    "name": "Quidamo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 352935281, 
+    "name": "QuidNumbers", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 799740710, 
+    "name": "Quien soy? Tu cara me suena", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 543050480, 
+    "name": "Quiero Radio", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 296499763, 
+    "name": "Quiet Noise", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 510699177, 
+    "name": "Quiet, Please 1947-49", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 445753648, 
+    "name": "Quietalk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 741777886, 
+    "name": "Quietalk Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 375107347, 
+    "name": "QuietCandle", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 412845869, 
+    "name": "QuiGue", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 553320068, 
+    "name": "QuikAccess", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 591249621, 
+    "name": "QuikAccessPro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 859802926, 
+    "name": "QuikEZ Picks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 522225384, 
+    "name": "QuikPiks", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 393518783, 
+    "name": "Quiksilver HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 457050796, 
+    "name": "Quiksilver Pro NY Program by TW SURF", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 421723862, 
+    "name": "QuikTracks", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 854055863, 
+    "name": "Quil Ceda Creek Casino", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 757926974, 
+    "name": "QuiLazio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 529908400, 
+    "name": "Quilters Newsletter Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 530130494, 
+    "name": "Quiltmaker Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 663925240, 
+    "name": "Quilty Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 519029163, 
+    "name": "Q**m Vila", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 432944709, 
+    "name": "Quimbo", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 828609696, 
+    "name": "Quince, How fast is your brain? Free version", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 804456489, 
+    "name": "Quinceaneras 411", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 701801905, 
+    "name": "Quingo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 672434709, 
+    "name": "Quiniela", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 687078567, 
+    "name": "Quiniela Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 854101523, 
+    "name": "Quiniela Futbolera Brasil 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 872463914, 
+    "name": "Quinielinha", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 331450140, 
+    "name": "Quiniloo Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 694325812, 
+    "name": "Quinquennat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 859992076, 
+    "name": "Quint", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 505951217, 
+    "name": "Quintessence", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 793956435, 
+    "name": "Quintessentially Lifestyle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 577349244, 
+    "name": "Quintet", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 556453952, 
+    "name": "Quintgel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 557226921, 
+    "name": "Quiosco Grupo Naci\u00f3n", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 395651621, 
+    "name": "QUIOSQUE BRASILEIRO", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 377349108, 
+    "name": "Quiosque Brasileiro - iPad Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 526500020, 
+    "name": "QuipRoulette", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 528463085, 
+    "name": "Quips and Quotes", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 389501911, 
+    "name": "Quips and Quotes Vol1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 389503575, 
+    "name": "Quips and Quotes Vol2", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 389504845, 
+    "name": "Quips and Quotes Vol3", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 512971177, 
+    "name": "Quips n Quotes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 893288169, 
+    "name": "Quipsi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 782668853, 
+    "name": "Quirk", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 793017908, 
+    "name": "Quirky Cards", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 599856890, 
+    "name": "Quirky Word Search - Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 349636048, 
+    "name": "Find out your Destiny", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 364748083, 
+    "name": "Quit Smoking Comics", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 367597655, 
+    "name": "Quit Smoking Secrets", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 731028442, 
+    "name": "Quitapesares", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 323406864, 
+    "name": "QuitIt!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 359273246, 
+    "name": "Quitting Time Central", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 793149101, 
+    "name": "Quiubo Estereo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 886863277, 
+    "name": "Quix (Free)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 891455089, 
+    "name": "Quix (Pro)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 325355235, 
+    "name": "Quixpin DJ", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 684346123, 
+    "name": "QUIZ \"Britney Spears editions\"", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 849106836, 
+    "name": "QUIZ \"Sir Alex Ferguson editions\"", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 596584074, 
+    "name": "QUIZ & VIDEOS - Justin Bieber Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 790368395, 
+    "name": "Quiz - \"Ben 10 Edition\"", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 567286671, 
+    "name": "Quiz - Doctor Who edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 694819004, 
+    "name": "Quiz - Dragon Ball Z edition", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 897242966, 
+    "name": "Quiz - Frozen Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 596296723, 
+    "name": "Quiz - One Direction fan edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 534453626, 
+    "name": "Quiz - The Walking Dead edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 335919883, 
+    "name": "Quiz - The World (Lite)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 559997943, 
+    "name": "Quiz - True Blood edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 724100495, 
+    "name": "Quiz 1D / One Direction!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 562586332, 
+    "name": "Quiz 2.0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 600832096, 
+    "name": "Quiz 4 Justin Bieber Answers!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 593039757, 
+    "name": "Quiz 4 Justin Bieber!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 625032880, 
+    "name": "Quiz 4 One Direction / 1D Ad Free!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 625037002, 
+    "name": "Quiz 4 One Direction / 1D Answers!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 625031879, 
+    "name": "Quiz 4 One Direction / 1D!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 339147917, 
+    "name": "Quiz : Des milliers de tests et quizz en solo ou entre amis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 574179337, 
+    "name": "Quiz Africa", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 833664491, 
+    "name": "Quiz America", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 574371557, 
+    "name": "Quiz and Pop Trivia TV Stars QuizCraze Challenge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 631854685, 
+    "name": "Quiz and Trivia for Minecraft", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 768657273, 
+    "name": "Quiz and Wallpapers for Dota 2 fans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 327041190, 
+    "name": "Quiz animal: Calls of the wild", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 642397530, 
+    "name": "QUIZ Anime", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 665843881, 
+    "name": "QUIZ Anime 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 690054369, 
+    "name": "Quiz App 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 604161128, 
+    "name": "Quiz Apps: Hollywood", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 506654165, 
+    "name": "Quiz Arcade", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 855111967, 
+    "name": "Quiz Game Australia 2014 - World Football Free Apps", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 611092526, 
+    "name": "Quiz Awesome", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 753758911, 
+    "name": "Quiz Battle Revolution - All you need to know about Pikachu games and videos for Pokemon fans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 335917489, 
+    "name": "Quiz Brands (Lite)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 585206433, 
+    "name": "Quiz Brawl", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 585975207, 
+    "name": "Quiz Brawl Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 551611042, 
+    "name": "Quiz Buttons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 545792986, 
+    "name": "Quiz Capitals", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 499719446, 
+    "name": "Quiz Challenge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 684242529, 
+    "name": "Quiz Cinema", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 412876986, 
+    "name": "Quiz Cin\u00e9ma", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 663050728, 
+    "name": "Quiz Citations Films", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 579551081, 
+    "name": "Quiz Cosmos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 408867998, 
+    "name": "Quiz de Literatura Latinoamericana", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 815814325, 
+    "name": "Quiz Death Note edition", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 633423142, 
+    "name": "Quiz Devil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 701467893, 
+    "name": "QUIZ DR.WHY", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 475673024, 
+    "name": "Quiz du Rap Fran\u00e7ais [ gratuit ]", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 649705053, 
+    "name": "Quiz Duels", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 367968073, 
+    "name": "Quiz Film", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 657569126, 
+    "name": "Quiz Film Azione", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 845033819, 
+    "name": "Quiz Fish Infos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 705177955, 
+    "name": "Quiz Foot Khaliji (\u0643\u0631\u0629 \u0627\u0644\u0642\u062f\u0645 \u0641\u064a \u0627\u0644\u062e\u0644\u064a\u062c \u0627\u0644\u0639\u0631\u0628\u064a)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 881709993, 
+    "name": "Quiz for 007 : Detective Agent Bond Character Name Movie Edition Guess Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 884935286, 
+    "name": "Quiz for Arrow Fan : Trivia Guess the Answer Quiz Challenge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 636449699, 
+    "name": "Quiz for Battlefield 3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 908230525, 
+    "name": "Quiz for Ben 10 - The FREE Character Test & Trivia Game!!!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 901599603, 
+    "name": "Quiz for Breaking Bad - Trivia about Tv Show Series", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 673575707, 
+    "name": "Quiz for Candy Crush Saga Players HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 901170564, 
+    "name": "Quiz for Dexter - Trivia about the Tv Show Series", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 605742361, 
+    "name": "Quiz for Dota", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 900871034, 
+    "name": "Quiz for Game of Thrones - Trivia about the TV Show", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 883785832, 
+    "name": "Quiz For Game Of Thrones - TV Show Edition", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 908229915, 
+    "name": "Quiz For GTA V - The FREE Character Trivia Test Game!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 882511770, 
+    "name": "Quiz for Injustice : Battle Heroes Dawn of Justice Us Guess Game Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 657077570, 
+    "name": "Quiz for John Cena", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 598756414, 
+    "name": "Quiz for Lady Gaga Fans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 610610897, 
+    "name": "Quiz for League of Legends", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 908338468, 
+    "name": "Quiz For Lego - The FREE Character Trivia Test Game!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 885180581, 
+    "name": "Quiz for Minecraft Fans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 599415804, 
+    "name": "Quiz for Minecraft Players", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 666865009, 
+    "name": "Quiz for Minecraft Players Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 597816059, 
+    "name": "Quiz For One Direction Fan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 897112859, 
+    "name": "Quiz for Plants vs Zombies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 882489618, 
+    "name": "Quiz for Power Rangers : Guess Word Game for Sentai Ranger Ninja Samurai Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 881782440, 
+    "name": "Quiz for Rider : Japan Masked Medel Heroes Edition Guess Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 881858477, 
+    "name": "Quiz for SHIELD : Guess game for Agents of Galaxy Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 901160911, 
+    "name": "Quiz for Spartacus - Trivia about the Tv Show Series", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 901581746, 
+    "name": "Quiz for The Mentalist - Trivia about the TV Show Series", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 893052499, 
+    "name": "Quiz for Vocaloid Fan Edition Game Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 900223986, 
+    "name": "Quiz for Walking Dead Tv Show Series", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 908343746, 
+    "name": "Quiz For Winx Club - The FREE Character Test & Trivia Game!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 525177686, 
+    "name": "Quiz for Zelda", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 711411627, 
+    "name": "Quiz Gallimard de la litt\u00e9rature", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 882959475, 
+    "name": "Quiz Game for Ben 10", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 882128422, 
+    "name": "Quiz Game for Clash of Clans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 887648387, 
+    "name": "Quiz Game For DBZ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 321340382, 
+    "name": "Quiz Game Land", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 337264728, 
+    "name": "Quiz Game Land Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 297991220, 
+    "name": "Quiz Genius", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 320206893, 
+    "name": "Quiz Genius Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 410825430, 
+    "name": "Quiz Genius HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 579022633, 
+    "name": "Quiz Genius HD Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 538592163, 
+    "name": "Quiz Geo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 404559246, 
+    "name": "Quiz Happy ThanksGiving", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 769027825, 
+    "name": "Quiz Harry Potter Edition", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 604112011, 
+    "name": "Quiz House", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 476792010, 
+    "name": "Quiz In!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 855299562, 
+    "name": "Quiz India", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 806133974, 
+    "name": "Quiz It - Dansk Quiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 552754431, 
+    "name": "Quiz Logo 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 565664276, 
+    "name": "Quiz Logo 3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 580542716, 
+    "name": "Quiz Logo 4", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 581295917, 
+    "name": "Quiz Logo 4 Pro", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 601130101, 
+    "name": "Quiz Logo Blitz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 601851853, 
+    "name": "Quiz Logo Blitz Pro", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 561212038, 
+    "name": "Quiz Logo Foot", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 547019135, 
+    "name": "Quiz Logo Gold", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 909241069, 
+    "name": "Quiz Machina", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 864880681, 
+    "name": "Quiz Machine - Football Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 849714004, 
+    "name": "Quiz Maker - Create quizzes with photos, sounds, music and text on any subject e.g. sport, general k...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 529358438, 
+    "name": "Quiz Me on Relationships", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 861372174, 
+    "name": "Quiz Me!!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 829585491, 
+    "name": "Quiz Millonario Kids Espa\u00f1ol 6-12", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 882201901, 
+    "name": "Quiz MojiAte 3D Japanese 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 577065541, 
+    "name": "Quiz Movie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 706349903, 
+    "name": "Quiz Movie!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 443707565, 
+    "name": "Quiz Musica Italiana", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 885665933, 
+    "name": "Quiz Nazionale Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 887667662, 
+    "name": "Quiz Nazionale Pro", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 413496814, 
+    "name": "Quiz Net", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 472829577, 
+    "name": "Quiz of Steel", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 705785028, 
+    "name": "Quiz on Basketball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 647005901, 
+    "name": "Quiz One Direction Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 903096223, 
+    "name": "Quiz Pic: Characters", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 895678144, 
+    "name": "Quiz Pic: Movies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 339149751, 
+    "name": "Quiz pour Elles : 500 tests et quizz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 875519144, 
+    "name": "Quiz Pro: The 2000's - The Ultimate Pop Culture Trivia Challenge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 762504378, 
+    "name": "Quiz Quest \u2013 a trivia game for the adventurous spirit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 376655108, 
+    "name": "Quiz Quotes - The Movie Quotes Quiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 684779712, 
+    "name": "Quiz RPG: The World of Mystic Wiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 358238806, 
+    "name": "Quiz ScoreBoard", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 477987474, 
+    "name": "Quiz Serie TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 436129254, 
+    "name": "Quiz Sexo", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 433464001, 
+    "name": "Quiz Sexy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 396299654, 
+    "name": "Quiz Show", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 586654575, 
+    "name": "Quiz Someone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 344128148, 
+    "name": "Quiz Sounds", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 878665065, 
+    "name": "Quiz South Park Edition", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 568125980, 
+    "name": "Quiz Sport", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 545112021, 
+    "name": "Quiz Star", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 871865789, 
+    "name": "Quiz Star Wars Edition", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 648887763, 
+    "name": "Quiz sur Booba le Duc de Boulogne", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 652435683, 
+    "name": "Quiz s\u00e9rie H", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 404407884, 
+    "name": "Quiz ThanksGiving", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 838278869, 
+    "name": "Quiz the 90's - Guess the pic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 642062299, 
+    "name": "Quiz The Great Gatsby Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 505315504, 
+    "name": "Quiz The Hardest Test Game In The Universe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 871906085, 
+    "name": "Quiz The Hobbit Edition", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 908106164, 
+    "name": "Quiz Time", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 605856708, 
+    "name": "Quiz Time- Justin Bieber Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 755668884, 
+    "name": "Quiz Trivia Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 808246063, 
+    "name": "Quiz Trivial Brasil Gr\u00e1tis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 884447263, 
+    "name": "Quiz Trivial Deutsch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 808246201, 
+    "name": "Quiz Trivial Espa\u00f1ol Gratis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 863939416, 
+    "name": "Quiz Trivial Fran\u00e7ais Gratuit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 884447180, 
+    "name": "Quiz Trivial Italiano", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 808239164, 
+    "name": "Quiz Trivial Portugu\u00eas Gr\u00e1tis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 578197161, 
+    "name": "Quiz TV", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 593337785, 
+    "name": "Quiz TV 2", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 566531020, 
+    "name": "Quiz Vragen", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 348816055, 
+    "name": "Quiz Whiz for Facebook (Free)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 527793726, 
+    "name": "Quiz Whiz Host", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 881049738, 
+    "name": "QUIZ! Acteurs Fran\u00e7ais - Devinez les personnalit\u00e9s c\u00e9l\u00e8bres du cin\u00e9ma, de la t\u00e9l\u00e9 et du th\u00e9\u00e2tre Fran...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 807369564, 
+    "name": "Quiz! Match and Treasure", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 482600177, 
+    "name": "Quiz+", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 895724198, 
+    "name": "Quiz+puzzle for WWE fans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 375596427, 
+    "name": "Quiz-a-round", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 390552203, 
+    "name": "Quiz-a-round Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 547030618, 
+    "name": "Quiz-Singers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 673099702, 
+    "name": "Quiz4 2013 Autos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 681363022, 
+    "name": "Quiz4 80s TV Theme Songs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 681364574, 
+    "name": "Quiz4 90s TV Theme Songs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 673086809, 
+    "name": "Quiz4 Comics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 683450747, 
+    "name": "Quiz4 Kids TV Theme Songs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 684038415, 
+    "name": "Quiz4 Monster Legends", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 665758833, 
+    "name": "Quiz4 WWE Superstars", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 706803889, 
+    "name": "Quiz: Cristiano Ronaldo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 635643852, 
+    "name": "Quiz: Harry Styles Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 641379472, 
+    "name": "Quiz: Ian Somerhalder Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 706939897, 
+    "name": "Quiz: Lionel Messi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 623430959, 
+    "name": "Quiz: One Direction Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 898863663, 
+    "name": "Quiz: Paw Patrol Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 682047159, 
+    "name": "Quiz: Selena Gomez Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 594293709, 
+    "name": "Quiz: Taylor Swift Fan Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 641356817, 
+    "name": "Quiz: TVD Actors", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 668284969, 
+    "name": "Quiz: Unofficial Breaking Bad Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 663132061, 
+    "name": "Quiz: Unofficial Plants vs. Zombies Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 663153664, 
+    "name": "Quiz: Unofficial Taylor Swift Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 451240800, 
+    "name": "Quiz: Vampire Diaries", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 597240256, 
+    "name": "Quiz: World Capitals", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 832836885, 
+    "name": "QuizApp\u2122", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 449461329, 
+    "name": "Quizard Word Search", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 695970250, 
+    "name": "QuizBone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 553191766, 
+    "name": "QuizButton", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 661549941, 
+    "name": "QuizButton HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 596637403, 
+    "name": "QuizButton Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 347701001, 
+    "name": "QuizBuzzer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 684892946, 
+    "name": "QuizClash\u2122", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 608105800, 
+    "name": "QuizCraft for minecraft and mods", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 692376948, 
+    "name": "QuizCraft Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 706500413, 
+    "name": "QuizCraft Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 724557610, 
+    "name": "QuizCult'", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 840842807, 
+    "name": "QuizDan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 768129030, 
+    "name": "QuizDan Premium", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 373547440, 
+    "name": "QuizDeluxe - ein deutsch-sprachiges Frage & Antwort-Spiel", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 900255418, 
+    "name": "Quizdom - \u0394\u03b5\u03af\u03be\u03b5 \u03c4\u03b9 \u03be\u03ad\u03c1\u03b5\u03b9\u03c2!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 658150424, 
+    "name": "Quizee Fun - Test Your Wits!", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 681752162, 
+    "name": "Quizee Fun for Science Trivia", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 712791025, 
+    "name": "Quizee Halloween HD-Spooky Fun Test", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 697911249, 
+    "name": "Quizee Halloween HD-Spooky Fun Test Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 695439618, 
+    "name": "Quizee Halloween-Spooky Fun Test", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 697764308, 
+    "name": "Quizee Halloween-Spooky Fun Test Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 672588594, 
+    "name": "Quizee Kids", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 702790633, 
+    "name": "Quizee Mania-Pics Common Test Fun", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 591646136, 
+    "name": "QuizEnglish", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 838122860, 
+    "name": "QuizFace: Celeb Picture Trivia Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 496302304, 
+    "name": "Quizfeud for iPhone", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 493230708, 
+    "name": "Quizfeud Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 545243793, 
+    "name": "QuizFinder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 591898372, 
+    "name": "QuizFran\u00e7ais", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 762651940, 
+    "name": "QuizFriend Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 368514005, 
+    "name": "Quizicards", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 449812405, 
+    "name": "Quizicle Career Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 522412847, 
+    "name": "Quizla", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 814039194, 
+    "name": "QuizMania - Ultimate True Or False Trivia Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 572402665, 
+    "name": "QuizMap - Revolution TV Series Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 797433730, 
+    "name": "QuizMaritim", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 587694676, 
+    "name": "Quizmas Pop Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 541163263, 
+    "name": "QuizMaster Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 579264849, 
+    "name": "QuizMe Pics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 553484411, 
+    "name": "QuizME:Logo TV Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 554693959, 
+    "name": "QuizME:Logo TV Edition PRO", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 889530402, 
+    "name": "QuizMix - Personality Quiz Trivia Test", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 494511759, 
+    "name": "Quizmo - free trivia quiz game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 563654604, 
+    "name": "QuizMoJo Hollywood Trivia Basic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 423608457, 
+    "name": "QuizOn: Easter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 427733308, 
+    "name": "QuizOn: Easter HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 424464070, 
+    "name": "QuizOn: State Flags", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 399431636, 
+    "name": "Quizophobia", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 614720280, 
+    "name": "Quizoteria", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 438505970, 
+    "name": "QuizPack: Historia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 704495902, 
+    "name": "QuizPic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 867287454, 
+    "name": "QuizPOP! Trivia - 007 Edition", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 793088254, 
+    "name": "QuizQ", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 618770679, 
+    "name": "QuizSense - Movie Predictions", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 431477126, 
+    "name": "QuizShelf: Literatura", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 386514944, 
+    "name": "QuizSound", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 537205408, 
+    "name": "QuizStone\u00ae Justin Bieber Quiz Edition - Free Justin Bieber Quiz for all Beliebers!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 606563074, 
+    "name": "Quiztacular 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 571627449, 
+    "name": "Quiztator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 869276100, 
+    "name": "Quiztime Multifriends", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 815118690, 
+    "name": "QuizTix: Movies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 815117943, 
+    "name": "QuizTix: Pop Music", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 815122318, 
+    "name": "QuizTix: Video Games", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 839727240, 
+    "name": "QuizTix: World Football", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 616676316, 
+    "name": "Quizture Car Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 625734300, 
+    "name": "Quizture Celebrity Pro Quiz", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 594797678, 
+    "name": "Quizture Celebrity Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 594795869, 
+    "name": "Quizture Movie Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 611073629, 
+    "name": "Quizture Movie Quiz Pro", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 633382313, 
+    "name": "Quizture Video Games Pro Quiz", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 624001600, 
+    "name": "Quizture Video Games Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 886798914, 
+    "name": "QuizU 90\u2019s - The Ultimate Quiz for Everything 90\u2019s", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 887452508, 
+    "name": "QuizU Cities - Guess the City!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 625049055, 
+    "name": "QuizWalk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 736741223, 
+    "name": "QuiZX - Spectrum", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 441879927, 
+    "name": "Quizy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 799491833, 
+    "name": "Quizy Movie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 418786916, 
+    "name": "Quizz 4000", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 611511013, 
+    "name": "Quizz Cine Culte 80", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 463782104, 
+    "name": "Quizz Classique", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 463763050, 
+    "name": "Quizz Classique Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 798785343, 
+    "name": "Quizz Foot pour FC Barcelone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 440664476, 
+    "name": "QuizzaMi for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 440670319, 
+    "name": "QuizzaMi HD for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 367934140, 
+    "name": "Quizzard of Oz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 570632910, 
+    "name": "Quizzed! Vampire Diaries edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 532299717, 
+    "name": "Quizzer", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 689936008, 
+    "name": "Quizzes & Tests by Quizzes.net", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 594096236, 
+    "name": "Quizzes 4 Life", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 602553522, 
+    "name": "Quizzes 4 Love", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 397956305, 
+    "name": "Quizzes For Girls", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 430327167, 
+    "name": "QuizZing", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 582936674, 
+    "name": "QuizzleMe - Social Quiz Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 318025787, 
+    "name": "Quizzler Dating", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 318016784, 
+    "name": "Quizzler Family", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 847831559, 
+    "name": "Quizzo Bollywood", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 827313327, 
+    "name": "Quizzo Celebrity", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 852511758, 
+    "name": "Quizzo Flags", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 842938279, 
+    "name": "Quizzo Football Player", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 891561892, 
+    "name": "Quizzopia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 363406895, 
+    "name": "Quizzy", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 873423537, 
+    "name": "Quizzy - Fun Personality Tests", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 363410623, 
+    "name": "QuizzyFree", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 342423326, 
+    "name": "Qui\u00e9n", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 521579115, 
+    "name": "Qumango", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 474695897, 
+    "name": "QUNOOOOO", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 549073934, 
+    "name": "QunQun for Everyone Season1", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 576214006, 
+    "name": "Quo (famous Latin and Bible phrases)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 563546256, 
+    "name": "Quo en vivo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 551994210, 
+    "name": "Quo Movie FX - Lights, Camera, Action!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 589425531, 
+    "name": "Quo Movie PIX - add Movie FX to your photos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 673013656, 
+    "name": "Quoits Festival", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 903449180, 
+    "name": "Quonde", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 892206248, 
+    "name": "Quong", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 617491444, 
+    "name": "Quoovie - The Original Movie Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 284572328, 
+    "name": "Quordy", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 689537920, 
+    "name": "Quotable Quotes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 786789249, 
+    "name": "Quotable Songs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 721470483, 
+    "name": "Quotables", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 664857268, 
+    "name": "Quotably - Movie Quotes Quiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 609422978, 
+    "name": "Quotags: Share Funny Quotes your Friends Say", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 351943330, 
+    "name": "Quotations for Moods", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 501366873, 
+    "name": "Quotations Project", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 478102374, 
+    "name": "Quote - Quotable Moments", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 631749985, 
+    "name": "Quote 24 - Your daily Quote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 680237346, 
+    "name": "Quote a Day", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 580936901, 
+    "name": "Quote Addict", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 600786756, 
+    "name": "Quote Calcio Scommesse - Power Bet", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 707309884, 
+    "name": "Quote Camera", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 721204985, 
+    "name": "Quote Catch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 467933695, 
+    "name": "Quote Circles", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 326635897, 
+    "name": "Quote Corner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 346524503, 
+    "name": "Quote Corner V2", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 454246541, 
+    "name": "Quote Guru", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 570946729, 
+    "name": "Quote Hangman", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 534453694, 
+    "name": "Quote It\u2122", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 640379749, 
+    "name": "Quote Like A Pirate", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 538079406, 
+    "name": "Quote Me Wallpaper - Free Collection of Wallpapers with Quotes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 538150072, 
+    "name": "Quote of the Day", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 312024936, 
+    "name": "Quote Of The Day 2011", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 352810560, 
+    "name": "Quote of the day | Famous Quotes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 489356939, 
+    "name": "Quote Seeker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 501334000, 
+    "name": "Quote Sling", 
+    "price": 0.0
+  }
+]

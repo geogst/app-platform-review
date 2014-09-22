@@ -1,0 +1,5984 @@
+[
+  {
+    "genre": "Education", 
+    "id": 626048966, 
+    "name": "Quiz d'anglais niveau 3- d\u00e9butants", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 593027771, 
+    "name": "Quiz de Direito", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 593838737, 
+    "name": "Quiz de Portugu\u00eas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 728271677, 
+    "name": "Quiz de r\u00e9vision Bordas - Pr\u00eat pour le CE2 ! (CE1 vers le CE2)", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 698078731, 
+    "name": "Quiz de r\u00e9vision Bordas - Pr\u00eat pour le CM1 ! (CE2 vers le CM1)", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 698076205, 
+    "name": "Quiz de r\u00e9vision Bordas - Pr\u00eat pour le CM2 ! (CM1 vers le CM2)", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 665018599, 
+    "name": "Quiz de r\u00e9vision Bordas : Pr\u00eat pour la 6e ! (CM2 vers la 6e)", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 633197808, 
+    "name": "QUIZ Des Capitales", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 830382245, 
+    "name": "Quiz des verbes irr\u00e9guliers", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 849796606, 
+    "name": "Quiz Dizer o Direito", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 672212229, 
+    "name": "Quiz Dojo", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 680109135, 
+    "name": "Quiz Dojo Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 591629101, 
+    "name": "Quiz Dungeon (Math Edition)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 598330467, 
+    "name": "Quiz Dungeon (Math Edition) FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 641437898, 
+    "name": "Quiz ECN Med", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 506340871, 
+    "name": "Quiz elearning", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 829308095, 
+    "name": "Quiz English", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 700970929, 
+    "name": "Quiz FCC - Quest\u00f5es Comentadas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 551760334, 
+    "name": "Quiz Flag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 904948558, 
+    "name": "Quiz for - Thomas & Friends (Unofficial Free App)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 767583221, 
+    "name": "Quiz For Adventure Time - The FREE Character Test & Trivia Game!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 900485821, 
+    "name": "Quiz for All 3500+", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 767588747, 
+    "name": "Quiz for Ben 10 - The FREE Character Test & Trivia Game!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 901263720, 
+    "name": "Quiz for Bubble Guppies - Guess the Characters", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 767571967, 
+    "name": "Quiz for Comic Book Characters! The FREE Comic Book Character Test! (Marvel, DC, & Capcom Too!)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 757746011, 
+    "name": "Quiz for Community Fans - Guess the TV Show Trivia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 768280552, 
+    "name": "Quiz for Dragon Ball Z  - The FREE Character Trivia Test Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 894470701, 
+    "name": "Quiz for Fullmetal Alchemist Edition : Anime Characters Picture Trivia Game Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 905695454, 
+    "name": "Quiz for Garfield and Friends Edition - Guess the Characters Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 903795439, 
+    "name": "Quiz for Goku and Friends - Guess the Pic for Dragon Ball Z Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 768294307, 
+    "name": "Quiz For GTA V - The FREE Character Trivia Test Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 798529641, 
+    "name": "Quiz For Kids", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 768311895, 
+    "name": "Quiz For Lego - The FREE Trivia Test!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 902322404, 
+    "name": "Quiz for My Little Pony - Guess the Characters Game Edition (Unofficial)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 768321401, 
+    "name": "Quiz for Naruto - The FREE Trivia Test!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 908021927, 
+    "name": "Quiz for Pokemon edition - Puzzle Quiz Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 768765089, 
+    "name": "Quiz for Power Rangers  - The FREE Trivia Test Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 907459520, 
+    "name": "Quiz for Rugrats and Friends edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 902420872, 
+    "name": "Quiz for SpongeBob SquarePants - Guess the Characters Game Edition (Unofficial)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 460749619, 
+    "name": "Quiz f\u00fcr Kids - Interessante Fragen und Antworten f\u00fcr Kinder und Eltern, spielend lernen - merken - ...", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 905820926, 
+    "name": "Quiz f\u00fcr Mediziner", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 755673885, 
+    "name": "Quiz Galaxy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495047525, 
+    "name": "Quiz Generator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 597648411, 
+    "name": "Quiz Geo 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 598913629, 
+    "name": "Quiz Geo 2 Pro", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 897516787, 
+    "name": "Quiz g\u00e9ant Science&Vie Junior : 300 questions et r\u00e9ponses de culture pour les ados", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 530989072, 
+    "name": "Quiz Haute Auvergne", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 670006253, 
+    "name": "Quiz Histoire CM1", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 670004865, 
+    "name": "Quiz Histoire CM2", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 409187773, 
+    "name": "Quiz Historia de Espa\u00f1a", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 547564838, 
+    "name": "Quiz i Medicin & Kirurgi", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 480233187, 
+    "name": "Quiz In! - HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 591620608, 
+    "name": "QUIZ Informatique", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 677678511, 
+    "name": "Quiz Inventions and Discoveries", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 677665543, 
+    "name": "Quiz Inventions and Discoveries HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 553459274, 
+    "name": "Quiz JO", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 547984767, 
+    "name": "Quiz Juridique", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 467692479, 
+    "name": "Quiz Kid", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 486073417, 
+    "name": "Quiz Kid Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 877620748, 
+    "name": "Quiz Kids", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 877820662, 
+    "name": "Quiz Kids - The brand new amazing animal quiz and flashcards for kids.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 475491243, 
+    "name": "Quiz Licenza Paracadutismo", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 666313328, 
+    "name": "Quiz light", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 597628717, 
+    "name": "Quiz Logo Gold Pro", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 498686781, 
+    "name": "Quiz Love Chemistry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 720034188, 
+    "name": "Quiz Maker - Create Your Own Quizzes (Elite Version)", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 592300533, 
+    "name": "Quiz Master", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 575641030, 
+    "name": "Quiz Master - Sex Edition - LITE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 444057937, 
+    "name": "Quiz Match Mathematics", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 442145736, 
+    "name": "Quiz Match Multiplication", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 548044582, 
+    "name": "Quiz Math", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 695314973, 
+    "name": "Quiz MC for Minecraft (Unofficial)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 490508243, 
+    "name": "Quiz Me!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 646675995, 
+    "name": "Quiz Millonario", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 643675409, 
+    "name": "QUIZ Mitologia greca/romana", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 878544240, 
+    "name": "Quiz MojiAte 3D Japanese", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 886912315, 
+    "name": "Quiz MojiAte 3D Japanese 3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 500392052, 
+    "name": "Quiz My Grammar (Improve your grammar skills)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 585501352, 
+    "name": "Quiz My Grammar Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 766175443, 
+    "name": "Quiz My Grammar Parts of Speech Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 428039390, 
+    "name": "Quiz Of Birds", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 854712766, 
+    "name": "Quiz of Medicine (Top Drugs/Medication Test)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 430689847, 
+    "name": "Quiz Of Opposites", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 766421052, 
+    "name": "Quiz of the Year 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 431155557, 
+    "name": "Quiz Of World Facts", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 604693793, 
+    "name": "Quiz Operator: quiz maker / examination software - FREE APP - By Quizzicals", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 423123576, 
+    "name": "Quiz Patente 2011", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 430004077, 
+    "name": "Quiz Patente 2011 Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 635361447, 
+    "name": "Quiz Patente 2014 + Manuale", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 372422860, 
+    "name": "Quiz Patente B", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 799503585, 
+    "name": "Quiz Patente e Patentino Guida e Vai", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 337997847, 
+    "name": "Quiz Patente Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 475211169, 
+    "name": "Quiz Patente Nautica", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 472968213, 
+    "name": "Quiz Patente! e Teoria 2014", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 478293629, 
+    "name": "Quiz Patentino (Patente AM)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 478294601, 
+    "name": "Quiz Patentino Lite (Patente AM)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 768318816, 
+    "name": "Quiz Poker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 591620350, 
+    "name": "Quiz Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 827024710, 
+    "name": "Quiz Pro Master", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 473941394, 
+    "name": "Quiz Redewendungen ShakaLife", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 481372934, 
+    "name": "Quiz Redewendungen Shakalife Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 887080767, 
+    "name": "Quiz Reid", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 711475884, 
+    "name": "Quiz Run", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 572639300, 
+    "name": "Quiz Studio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 659900887, 
+    "name": "Quiz sur la France", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 659907790, 
+    "name": "Quiz sur la grammaire fran\u00e7aise", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 604393473, 
+    "name": "Quiz Talent HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 645245291, 
+    "name": "Quiz Til B\u00f8rn", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 647399761, 
+    "name": "Quiz Til B\u00f8rn HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 850703913, 
+    "name": "Quiz Time - Multiply", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 587560329, 
+    "name": "Quiz Time App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 516353249, 
+    "name": "Quiz Titanic", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 641495287, 
+    "name": "Quiz toxico du chat et du chien", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 703071052, 
+    "name": "Quiz TST - Informativos em quest\u00f5es comentadas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 882137507, 
+    "name": "Quiz USA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 691132133, 
+    "name": "Quiz Whiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 845953347, 
+    "name": "Quiz World - Trivia Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 418071876, 
+    "name": "Quiz Your Lizard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 607600605, 
+    "name": "Quiz Zone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 494258229, 
+    "name": "Quiz Zone+", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 886026731, 
+    "name": "QUIZ! Personnalit\u00e9s Politiques", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 501410339, 
+    "name": "Quiz&Learn Python", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 731893102, 
+    "name": "Quiz-Challenge", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 358552927, 
+    "name": "Quiz15", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 393282318, 
+    "name": "Quiz15 Gold", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 727040291, 
+    "name": "Quiz15sec The BEST Quiz questions", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 833877710, 
+    "name": "Quiz48", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 398432691, 
+    "name": "Quiz4Kids", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 419265794, 
+    "name": "Quiz4Kids Japanese", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 406902672, 
+    "name": "Quiz4Kids Romanian", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 870111112, 
+    "name": "Quiz8", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 635651810, 
+    "name": "Quiz: American Presidents", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 500015789, 
+    "name": "Quiz: Guerra de la Sucesi\u00f3n Espa\u00f1ola", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 449590961, 
+    "name": "Quiz +", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 449590644, 
+    "name": "Quiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 500177901, 
+    "name": "Quiza de iate", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 629295194, 
+    "name": "Quizabook Classics", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 366279755, 
+    "name": "Quizard", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 371796254, 
+    "name": "Quizard Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 360187388, 
+    "name": "Quizarium", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 363167145, 
+    "name": "Quizarium Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 663334302, 
+    "name": "QuizBank - Year 6 quiz competition (Mathematics, Numerical Reasoning and Verbal Reasoning)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 501620249, 
+    "name": "Quizboard", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 498742395, 
+    "name": "Quizbook", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 638160264, 
+    "name": "QuizBreak", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 546380382, 
+    "name": "QuizCalc", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 495598997, 
+    "name": "QuizCast", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 587439974, 
+    "name": "QuizCity \u2013 Principles of Team Leading L2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 783563585, 
+    "name": "QuizCity: Heavy Vehicle Level 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 494244909, 
+    "name": "QuizCity: ICT Level 1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 595671410, 
+    "name": "QuizCity: Instructing Exercise and Fitness Level 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 569172718, 
+    "name": "QuizCity: Light Vehicle Level 2", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 586910387, 
+    "name": "QuizCity: Retail Knowledge Level 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 774910889, 
+    "name": "QuizCity: Travel & Tourism", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 783573149, 
+    "name": "QuizCity: Vehicle Fitting Level 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 529156324, 
+    "name": "QuizCloud", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 468384596, 
+    "name": "Quizee", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 843625478, 
+    "name": "QuizEmperor", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 493236626, 
+    "name": "Quizfeud for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 621488057, 
+    "name": "QuizFonia", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 593396399, 
+    "name": "QuizGene", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 544383768, 
+    "name": "QuizGenerator2", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 478660270, 
+    "name": "Quizia", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 483630900, 
+    "name": "Quizia Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 324651890, 
+    "name": "Quizical: Extreme Trivia Edition", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 857070884, 
+    "name": "Quizilbert", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 422136946, 
+    "name": "Quizit", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 867539924, 
+    "name": "QuizIT IPv6", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 717677922, 
+    "name": "Quizium", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 486132499, 
+    "name": "Quizkey", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 546473125, 
+    "name": "Quizlet - Flashcards & Study Tools", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 528947629, 
+    "name": "Quizlet \u221e", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 627414940, 
+    "name": "Quizling - The Quiz Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 838783896, 
+    "name": "QuizMagic Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 802225374, 
+    "name": "Quizmaker \u2013 Create simple quizzes for your children - Play them for fun and education", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 566394992, 
+    "name": "QuizMaster - Sex Edition - Sex Expert", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 520033051, 
+    "name": "QuizMasters", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 478864136, 
+    "name": "QuizMe - Spelling", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 495572900, 
+    "name": "QuizMe US", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 833684759, 
+    "name": "QuizMeKeysSE", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 872232337, 
+    "name": "QuizMeKeysTE", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 806814468, 
+    "name": "QuizMeNotesSE", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 840959195, 
+    "name": "QuizMeNotesTE", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 673673783, 
+    "name": "QuizNotes", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 789364901, 
+    "name": "Quizo! - Flags", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 491260510, 
+    "name": "QuizOEDO", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 640450429, 
+    "name": "Quizoid - a multiple-choice quiz game like Jeopardy or Trivial Pursuit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 416669750, 
+    "name": "QuizOn: Presidents & Vice Presidents", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 427892006, 
+    "name": "QuizOn: Presidents & Vice Presidents HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 400115742, 
+    "name": "QuizOn: Space", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 478164478, 
+    "name": "QuizOn: Thanksgiving HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 493670523, 
+    "name": "QuizOn: Valentine's Day", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 493704608, 
+    "name": "QuizOn: Valentine's Day HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 404987652, 
+    "name": "QuizOn: Xmas", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 479319492, 
+    "name": "QuizOn: Xmas HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 477447367, 
+    "name": "Quizoo", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 624486232, 
+    "name": "QuizPar\u00e0", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 519396107, 
+    "name": "QuizPatentino!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 542568668, 
+    "name": "QuizPK: \u7b97\u6570\u5bfe\u6226\u30b2\u30fc\u30e0\uff08\u5e7c\u5150\u5411\u3051\uff09", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 881814984, 
+    "name": "QuizPlay", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 613061300, 
+    "name": "QuizPPL", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 558242295, 
+    "name": "QuizQuiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 893781998, 
+    "name": "QuizRam", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 887639615, 
+    "name": "Quizroute", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 797061215, 
+    "name": "QuizRT", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 808853082, 
+    "name": "QuizRTLite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 663161090, 
+    "name": "QuizSheets", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 663172721, 
+    "name": "QuizSheetsLite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 371720261, 
+    "name": "QuizSWPro2", 
+    "price": 12.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 390876299, 
+    "name": "QuizTacToe HD", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 560101145, 
+    "name": "Quiztime with Zaky 1 \u2013 The Prophets", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 436707254, 
+    "name": "Quiztones", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 533088063, 
+    "name": "Quiztris Lite - Short questions for growing minds", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 529831019, 
+    "name": "Quiztris: Exercise for growing minds", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 600938812, 
+    "name": "QuizVds", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 577471790, 
+    "name": "Quizvia for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 640512739, 
+    "name": "Quizz des Geeks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 491356555, 
+    "name": "Quizz ECN", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 606710017, 
+    "name": "Quizz Histoire Dates", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 838506970, 
+    "name": "Quizz Pays", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 813504403, 
+    "name": "Quizz psycho L1/L3, 200 qcm de psychologie pour les \u00e9tudiants de L1/L3", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 401070090, 
+    "name": "Quizz Quotient Relationnel", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 605800283, 
+    "name": "Quizz Tables de Multiplication", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 423562408, 
+    "name": "Quizz Tibetain", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 423785498, 
+    "name": "Quizz Tibetain Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 407730990, 
+    "name": "Quizz1of4", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 529962644, 
+    "name": "Quizzam!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 904204693, 
+    "name": "Quizzem: Elements Periodic Table Quiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 769516322, 
+    "name": "Quizzem: Junior Cert. Biology Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 901859736, 
+    "name": "Quizzem: Keywords Word Search", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 902459461, 
+    "name": "Quizzem: Sum&Spell Times Tables", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 892223989, 
+    "name": "Quizzen", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 405308476, 
+    "name": "Quizzettone", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 542073932, 
+    "name": "Quizzical!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 303137716, 
+    "name": "Quizzing Toddler Preschool", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 896360547, 
+    "name": "Quizzium - GRE Advance Vocabulary Quiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 895458883, 
+    "name": "Quizzium - GRE Basic Vocabulary Quiz Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 895811508, 
+    "name": "Quizzium - GRE Basic Vocabulary Quiz Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 897421656, 
+    "name": "Quizzium - Invention & Discoveries Quiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 896448955, 
+    "name": "Quizzium - SAT Vocabulary Quiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 848759338, 
+    "name": "Quizzn", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 474233491, 
+    "name": "Quizzonaire", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 501794749, 
+    "name": "QuizzWorld", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 551983281, 
+    "name": "Quizzy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 700772521, 
+    "name": "Qui\u00e9n es en la Biblia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 403480623, 
+    "name": "Qumed", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 651361686, 
+    "name": "Quoodle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 823805044, 
+    "name": "Most Famous Quotations", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 437140234, 
+    "name": "Quote - \u0627\u0642\u062a\u0628\u0627\u0633", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 315350300, 
+    "name": "Quote a Day", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 304574343, 
+    "name": "Quote Book", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 455499414, 
+    "name": "Quote Book for iPad ~ Over 20,000 quotes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 330372892, 
+    "name": "Quote for U", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 898199311, 
+    "name": "Quote Masters", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 406827227, 
+    "name": "Quote of the Day 2010", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 641413543, 
+    "name": "Quote of the Day by HandsUp", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 494517125, 
+    "name": "Quote Unquote", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 588318464, 
+    "name": "Quote World", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 898490898, 
+    "name": "QuoteActions", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 443138632, 
+    "name": "QuoteBox", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 327309872, 
+    "name": "Quoted", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 602498539, 
+    "name": "QuotEd ACT Science", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 553308338, 
+    "name": "QuotEd Reading Comprehension", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 353946984, 
+    "name": "QuoteDeck", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 818547836, 
+    "name": "Quotees", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 392990960, 
+    "name": "Quotefalls", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 464566302, 
+    "name": "QuoteQuiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 424409961, 
+    "name": "Quotes & Proverbs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 595764300, 
+    "name": "Quotes (FREE)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 471351250, 
+    "name": "Quotes (over 20.000 quotes!)", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 594797781, 
+    "name": "Quotes - ( Famous, Motivational and Inspiring Quotes For iPhone And iPad)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 822158571, 
+    "name": "Quotes - A Trivia Word Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 897011096, 
+    "name": "Quotes - The best reference", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 476342134, 
+    "name": "Quotes 2012", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 353385638, 
+    "name": "Quotes and sayings - Always a good quote!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 844080237, 
+    "name": "Quotes App by Sales Pros", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 895323749, 
+    "name": "Quotes Daily", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 391347412, 
+    "name": "Quotes Manager", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 414668626, 
+    "name": "Quotes Manager Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 464685977, 
+    "name": "Quotes of Iqbal", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 466278353, 
+    "name": "Quotes of Khalil Gibran", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 504228237, 
+    "name": "Quotes of the day", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 791479964, 
+    "name": "Quotes on Quotes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Photo & Video", 
+    "id": 521719463, 
+    "name": "Quotes Wallpapers", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 551912950, 
+    "name": "Quotes Wallpapers & backgrounds", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 492235071, 
+    "name": "Quotes#", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 329541772, 
+    "name": "Quotes, quotes and quotes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 342453755, 
+    "name": "Quotes4u 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 480447434, 
+    "name": "QUOTES: By Authors, Nationality, Topics, Category & more FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 448232262, 
+    "name": "QuotesBee", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 892278973, 
+    "name": "QuoteSmith | Unscramble Awesome Quotes !", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 395242374, 
+    "name": "QuotesPlusWallpapers", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 851502849, 
+    "name": "Quotte", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 840190258, 
+    "name": "Qur'an for All", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 470940140, 
+    "name": "Qura'an", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 820835884, 
+    "name": "Quraan Words Dictionary", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 824478471, 
+    "name": "Quran -  \u0645\u0648\u0633\u0648\u0639\u0629 \u062a\u0644\u0627\u0648\u0627\u062a \u0627\u0644\u0642\u0631\u0627\u0646 \u0627\u0644\u0643\u0631\u064a\u0645", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 554979564, 
+    "name": "Quran - A Short Journey", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 504255124, 
+    "name": "Quran - \u0627\u0644\u0642\u0631\u0622\u0646\u200e", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 427468380, 
+    "name": "Quran -\u0627\u0644\u0642\u0631\u0622\u0646 (The Holy Qur'an in Arabic)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 806855293, 
+    "name": "Quran AB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 883362712, 
+    "name": "Quran Abdul Rahman Al Sudais", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 892050522, 
+    "name": "Quran Al Kareem HD ---  \u0627\u0644\u0642\u0631\u0627\u0646 \u0627\u0644\u0643\u0631\u064a\u0645", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 449948309, 
+    "name": "Quran and Me", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 867641280, 
+    "name": "Quran App - Learn The Quran & Study The Quran: Muslim App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 644409668, 
+    "name": "Quran App - Qaloon", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 868384166, 
+    "name": "Quran Asan Translation by Ostad Bakhtiarinejad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 885179248, 
+    "name": "Quran Audio: 100+ reciters", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 893738099, 
+    "name": "Quran Audio: Mishari Rashid Alafasy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 403133612, 
+    "name": "Quran Bengali HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 494024207, 
+    "name": "Quran Bengali. 114 Surahs. Audio and Text", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 492508440, 
+    "name": "Quran Classified : Search any Word in Quran", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 521747815, 
+    "name": "Quran Daily", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 386643385, 
+    "name": "Quran E Kareem", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 834877255, 
+    "name": "Quran Easy Memorize", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 845083976, 
+    "name": "Quran Easy Memorize HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 403120063, 
+    "name": "Quran English HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 403111226, 
+    "name": "Quran Farsi HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 892817823, 
+    "name": "Quran for Beginners - Islamic Apps Series - From Coran / Koran (\u0627\u0644\u0642\u0631\u0622\u0646) Allah to Teach Muslims salah...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 403118913, 
+    "name": "Quran French HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 570844952, 
+    "name": "Quran Game", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 808878972, 
+    "name": "Quran Garden (English Tafseer)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 454654508, 
+    "name": "Quran Gold - Selected Surahs", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 431533275, 
+    "name": "Quran Hakeem in Qaloon Script for iPhone and iP...", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 394002143, 
+    "name": "Quran Hakeem in Warsh Script for iPad - \u0645\u0635\u062d\u0641 \u0648\u0631\u0634 \u0644\u0644\u0622\u064a\u0628\u0627\u062f", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 401386182, 
+    "name": "Quran Hakeem in Warsh Script for iPhone and iPod - \u0645\u0635\u062d\u0641 \u0648\u0631\u0634", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 767832617, 
+    "name": "Quran Hakim Farsi Audio Translation by Abdolali Bazargan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 403202858, 
+    "name": "Quran Hindi HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 578166460, 
+    "name": "Quran in Urdu", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 849631931, 
+    "name": "Quran Juz 26-30", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 894113159, 
+    "name": "Quran Juz MP3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 637366332, 
+    "name": "Quran Juz-30", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 767346298, 
+    "name": "Quran Juz-30 for iPhone", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 602930112, 
+    "name": "Quran Kareem 13 Line for iPad", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 599839688, 
+    "name": "Quran Kareem 13 Line for iPhone & iPod", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 419806908, 
+    "name": "Quran Kareem 16 Line for iPad", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 418088742, 
+    "name": "Quran Kareem 16 Line for iPhone and iPod", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 366178328, 
+    "name": "Quran Kareem for iPad", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 366172772, 
+    "name": "Quran Kareem for iPhone and iPod", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 552770566, 
+    "name": "Quran Kareem HD for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 552228548, 
+    "name": "Quran Kareem HD for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 539227700, 
+    "name": "Quran Kareem in Farsi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 610017062, 
+    "name": "Quran Learn", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 616033142, 
+    "name": "Quran Learn Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 827847338, 
+    "name": "Quran Lighting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 894442992, 
+    "name": "Quran Mahmoud Khalil Al Hussary", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 396661684, 
+    "name": "Quran Majeed Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 537250410, 
+    "name": "Quran Memorization Program", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 421890227, 
+    "name": "Quran Memorizer - The Holy Quran: Read, Memorize, Search, Translate, and Play Audio.", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 874455499, 
+    "name": "Quran Mishary Rashid Alafasy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 886839224, 
+    "name": "Quran Nasser Al Qatami", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 403122329, 
+    "name": "Quran Nederlandse HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 640531173, 
+    "name": "Quran Pages", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 562770595, 
+    "name": "Quran Plus", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 501612863, 
+    "name": "Quran Presenter\u2122", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 438109831, 
+    "name": "Quran Pro", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 525443558, 
+    "name": "Quran Project", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 432162315, 
+    "name": "Quran Radios & Videos", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 593440235, 
+    "name": "Quran Recitation and Puzzle Game for Kids", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 499476094, 
+    "name": "Quran Reciter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 732618811, 
+    "name": "Quran Reciters", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 550420980, 
+    "name": "Quran Shareef Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 725424920, 
+    "name": "Quran Sharif - Complete Offline Support - Read it anywhere on your device", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 734859763, 
+    "name": "Quran Star (Islamic App for Kids)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 669085435, 
+    "name": "Quran Stories For Kids", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 669081663, 
+    "name": "Quran stories for kids English - Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 458297237, 
+    "name": "Quran Story - Prophet Yunus \u0627\u0644\u0642\u0631\u0622\u0646 \u0627\u0644\u0643\u0631\u064a\u0645 \u0642\u0635\u0629 - \u0627\u0644\u0646\u0628\u064a \u064a\u0648\u0646\u0633", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 397128513, 
+    "name": "Quran Study Workbook", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 399765013, 
+    "name": "Quran Study Workbook Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 657407805, 
+    "name": "Quran Surah's", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 880741944, 
+    "name": "Quran Tafsir \u062a\u0641\u0633\u064a\u0631 \u0627\u0644\u0642\u0631\u0622\u0646 - Translation of quran to 40 language,Kuran Search Engine( Islam ) and Aud...", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 477028936, 
+    "name": "Quran Telawat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 622397920, 
+    "name": "Quran Text", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 369568878, 
+    "name": "Quran Topics", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 382406167, 
+    "name": "Quran Urdu", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 403101844, 
+    "name": "Quran Urdu HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 440970753, 
+    "name": "Quran Urdu Reader", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 504123684, 
+    "name": "Quran Verse of the Day Free (Islam)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 502363465, 
+    "name": "Quran Verse of the Day Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 460657448, 
+    "name": "Quran Video Juz 1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 807435028, 
+    "name": "Quran Vocabulary", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 553405874, 
+    "name": "Quran Wiki", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 547366103, 
+    "name": "Quran with English and Spanish Translation", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 541693357, 
+    "name": "Quran Word of the Day", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 793227033, 
+    "name": "Quran-ul-Kareem", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 364209345, 
+    "name": "Quran. Short Surahs. Koran", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 469345065, 
+    "name": "Quran4English", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 641761308, 
+    "name": "Qurana Piroz Bi Denge Arabi-Kurdi", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 641781373, 
+    "name": "Qurana Piroz Bi Denge Kurdi", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Book", 
+    "id": 491344551, 
+    "name": "QuranHD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 405679831, 
+    "name": "Qurani Kerimin Azerbaycanca Sesli Terc\u00fcmesi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 405722036, 
+    "name": "Qurani Kerimin Azerbaycanca Sesli Terc\u00fcmesini Dinle (b\u00fct\u00fcn surelerden ibaret)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 722784690, 
+    "name": "Qurani Qaida", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 826303255, 
+    "name": "Quranic & Masnoon Supplications", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 385446026, 
+    "name": "Quranic Du'aas For iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 866682885, 
+    "name": "Quranic Dua", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 454056062, 
+    "name": "Quranic Duas", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 451331132, 
+    "name": "Quranic Names of Allah", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 329596683, 
+    "name": "Quranic Prayers", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 611730799, 
+    "name": "Quranic Story", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 312280485, 
+    "name": "Quranic Words - Understand the Arabic Qur'an", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 340497831, 
+    "name": "Quranic Words - Understand the Arabic Qur'an (Lite Version)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 384913391, 
+    "name": "Quranic Words for iPad -- Understand the Arabic Qur'an", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 386580078, 
+    "name": "Quranic Words Lite for iPad -- Understand the Arabic Qur'an", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 657432408, 
+    "name": "QuranInEnglish developed by HDInfotech & recited by Aurangzeb", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 444886319, 
+    "name": "QuranToday", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 586110354, 
+    "name": "QUT Best of Health", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 766214193, 
+    "name": "QUT Links Magazine", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 592011018, 
+    "name": "QUT Map", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 411815772, 
+    "name": "QUT Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Navigation", 
+    "id": 649194100, 
+    "name": "QUT Nav", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 591593045, 
+    "name": "QUT Style Legal Citation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 504179311, 
+    "name": "Qutoof", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 643250279, 
+    "name": "QUWritinglab", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 899541837, 
+    "name": "Quzzium - Human Anatomy Terminology Quiz", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 896718422, 
+    "name": "Quzzium - Nursing Abbreviation Quiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 818926055, 
+    "name": "Qu\u00e0 T\u1eb7ng Cu\u1ed9c S\u1ed1ng - B\u1ea1n ch\u1ec9 s\u1ed1ng m\u1ed9t l\u1ea7n m\u00e0 th\u00f4i", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Book", 
+    "id": 825481935, 
+    "name": "Qu\u00e9 es el amor", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 883554952, 
+    "name": "Qvadriga", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 444918183, 
+    "name": "Qvoid", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 727168432, 
+    "name": "QVprep AP European History : Learn Test Review for AP advanced placement Euro History for SAT Subjec...", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 735448886, 
+    "name": "QVprep AP World History : Learn Test Review for AP advanced placement World History for SAT Subject ...", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 766836289, 
+    "name": "QVprep High School and College Physics Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 779836889, 
+    "name": "QVprep High School and College Physics Volume 2", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 735463886, 
+    "name": "QVprep Lite AP World History", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 773206516, 
+    "name": "QVprep Lite High School and College Physics Volume 1", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 784989454, 
+    "name": "QVprep Lite High School and College Physics Volume 2", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 827755075, 
+    "name": "QVprep Lite Learn Human Resources Management", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 853059789, 
+    "name": "QVprep Lite Science Biology Grade 6 7 8", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 794137797, 
+    "name": "QVprep Lite Science Physics Grade 3 4 5", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 802713220, 
+    "name": "QVprep Lite Science Physics Grade 6 7 8", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 810530081, 
+    "name": "QVprep Lite Science Physics Grade 9 10", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 657231004, 
+    "name": "QVprep Lite: Grade 3 4 5 6 7 8 9 10 Quantitative & Verbal Ability Practice Tests for 3rd 4th 5th 6th...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 657170284, 
+    "name": "QVprep School Edition : Grade 3 4 5 6 7 8 9 10 Quantitative Maths Verbal English Ability Practice Te...", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 847462877, 
+    "name": "QVprep Science Biology Grade 6 7 8", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 790956730, 
+    "name": "QVprep Science Physics Grade 3 4 5", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 797196369, 
+    "name": "QVprep Science Physics Grade 6 7 8", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 806458896, 
+    "name": "QVprep Science Physics Grade 9 10", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 674061212, 
+    "name": "Qwhizzle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 738213868, 
+    "name": "QWIK RESPONSE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 421384017, 
+    "name": "QwikCards", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 370881160, 
+    "name": "Qwirk GRE Edition", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 376613864, 
+    "name": "Qwirk PSAT Edition", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 375616159, 
+    "name": "Qwirk SAT Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 423273841, 
+    "name": "Qwirk Spanish", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 375711536, 
+    "name": "Qwirk TOEFL Edition", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 837170884, 
+    "name": "QWiz Me - Train with a Wiz", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 718764179, 
+    "name": "QwizApp", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 476877661, 
+    "name": "Qwizful HD: Prep quiz your wiz kids", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 475323634, 
+    "name": "Qwizful: Prep quiz your wiz kids", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 425343336, 
+    "name": "QwordZ Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 898750093, 
+    "name": "QYReader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 806916202, 
+    "name": "Qysh.me", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 346490087, 
+    "name": "Qz iPhone Quiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 354899331, 
+    "name": "Qz Phone Quiz Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 675624117, 
+    "name": "QzBingo For iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 824397601, 
+    "name": "QZest", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 824431051, 
+    "name": "QZest for iPad", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 824389414, 
+    "name": "QZest Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 824404331, 
+    "name": "QZest Lite for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 504183413, 
+    "name": "R Calc Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 511989866, 
+    "name": "R Calc Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 602936950, 
+    "name": "R For Robot", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 602937493, 
+    "name": "R For Robot Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 527985215, 
+    "name": "R Instructor", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 371200389, 
+    "name": "R intensive Pro", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 792573930, 
+    "name": "R Score", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 425611928, 
+    "name": "R Street", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 473979672, 
+    "name": "R U Apt? Parts of Speech", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 632748377, 
+    "name": "R U Ready", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 332279846, 
+    "name": "R U Smarter Than A Monkey?", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 558397543, 
+    "name": "R With Catlyn", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 411724921, 
+    "name": "R+Remind", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 497123318, 
+    "name": "R-134a", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 494761531, 
+    "name": "R-Cards", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 586872517, 
+    "name": "R-Events", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 569022940, 
+    "name": "R-Score Calculator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 478676058, 
+    "name": "R-value", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 900216590, 
+    "name": "R. Frank NIMS Middle School", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 851126797, 
+    "name": "R.A.D.D.A.R", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 699769050, 
+    "name": "R.I.S.E.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 631960765, 
+    "name": "R2 Touch", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 552373715, 
+    "name": "R22", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 687490752, 
+    "name": "R22 eCheck", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 851009113, 
+    "name": "R3member", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 352833270, 
+    "name": "R3VOLution", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 663589954, 
+    "name": "R4 PSI 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 681867078, 
+    "name": "R44 eCheck", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 549114077, 
+    "name": "R44 Pad", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 561929569, 
+    "name": "R44 Pad XS", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 605757750, 
+    "name": "R44 Raven II Pilots Checklist", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 536898882, 
+    "name": "R44 RavenII Performance Pad", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 687580921, 
+    "name": "R66 eCheck", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 650402163, 
+    "name": "R66 Pad", 
+    "price": 29.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 769041188, 
+    "name": "R66 PRO", 
+    "price": 59.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 484535490, 
+    "name": "R_puzzle", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 425611635, 
+    "name": "RA Basic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 675132986, 
+    "name": "RA Community", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 900211074, 
+    "name": "RAA Middle School", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 813250149, 
+    "name": "RAAC Tutor", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 600224727, 
+    "name": "RAAF", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 327445541, 
+    "name": "Raamattu Bible (Suomi)", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 573598602, 
+    "name": "Rabbi SHALOM 1 Brachot : Learn Hebrew Blessings - \u05e8\u05d1\u05d9 \u05e9\u05dc\u05d5\u05dd \u05dc\u05d9\u05de\u05d5\u05d3 \u05d1\u05e8\u05db\u05d5\u05ea", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 600398597, 
+    "name": "Rabbi SHALOM 1 FREE - Learn Hebrew Blessings", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 622573656, 
+    "name": "Rabbi SHALOM 2 Aleph Beth FREE - Learning the Hebrew Alphabet \u05e8\u05d1\u05d9 \u05e9\u05dc\u05d5\u05dd \u05de\u05dc\u05de\u05d3 \u05d0\u05d5\u05ea\u05da \u05d0\u05ea \u05d4\u05d0\u05dc\u05e3-\u05d1\u05d9\u05ea", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 643154217, 
+    "name": "Rabbi SHALOM 4 - The Dancing and Singing Rabbi", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 571932784, 
+    "name": "Rabbi Shalom : The best jewish app for your kids to learn the Hebrew Alphabet ( Aleph - Beth ). \u05e8\u05d1\u05d9 ...", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 572453234, 
+    "name": "Rabbi SHALOM Shana Tova : Learn the meaning of Rosh Hashana - \u05e9\u05e0\u05d4 \u05d8\u05d5\u05d1\u05d4 \u05e8\u05d1\u05d9 \u05e9\u05dc\u05d5\u05dd", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 877580684, 
+    "name": "Rabbi Skahn Le Quizz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 633959885, 
+    "name": "Rabbi Yosef Mizrachi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 518430158, 
+    "name": "Rabbit & Bunny Nutrition Calculator - Rabbits, Bunnies, Mice, Hamsters, Guinea-Pigs, Ferrets, Chinch...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 583285581, 
+    "name": "Rabbit at Home", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 669952263, 
+    "name": "Rabbit at Home (Free)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 670582704, 
+    "name": "Rabbit in Mirror Land", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 428011101, 
+    "name": "Rabbit JigsawPuzzle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 481692610, 
+    "name": "Rabbit Takeaway", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 789560560, 
+    "name": "Rabbit Toy By Sharon DaDalt Crochet", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 716673507, 
+    "name": "Rabbit's House: Oxford Phonics World eReaders, Level 1 (for iPad)", 
+    "price": 6.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 721317937, 
+    "name": "Rabbit's Jump", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 338062146, 
+    "name": "Rabbit's Math Squares", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 327576540, 
+    "name": "Rabbit, Run Study Guide & Quiz-o-Rama", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 307232489, 
+    "name": "RabbitEscape - maze runner", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 598487184, 
+    "name": "RabbitFight HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 418276955, 
+    "name": "RabbitPlusNumbers", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 519342048, 
+    "name": "Rabbits Went Home--Hahadoor Children's Books", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 418255580, 
+    "name": "RabbitTouch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 523615405, 
+    "name": "RabbitVsBear - Education app for children", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 432616026, 
+    "name": "RabbleBrowser", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 499149600, 
+    "name": "Rabid Word Search", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 626740951, 
+    "name": "Rabo KidsGeldWijs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 550963621, 
+    "name": "Rac Attack", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 770562233, 
+    "name": "Raccoon Ninja: Addition Subtraction Games and Problems for Fast Basic Kindergarten Math Lessons", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 705700238, 
+    "name": "Raccoon Party - 2 player games for family", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 444384367, 
+    "name": "Race add", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 444066281, 
+    "name": "Race Arithmetic", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 639250817, 
+    "name": "Race Coach", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 444404832, 
+    "name": "Race divide", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 682415381, 
+    "name": "Race in the Outback", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 358038027, 
+    "name": "Race on Squares - History edition", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 358050534, 
+    "name": "Race on Squares - Science edition", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 444398192, 
+    "name": "Race subtract", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 714802839, 
+    "name": "Race with Words", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 722057206, 
+    "name": "Rachel and Sammy Learn to Conserve", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 722074414, 
+    "name": "Rachel and Sammy Visit the Prairie", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 727309536, 
+    "name": "Rachel House", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 902485818, 
+    "name": "Rachid Abou Houdeyfa", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 566823789, 
+    "name": "Square Roots", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 568546192, 
+    "name": "Racing Bike Repair", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 883966033, 
+    "name": "Racing Car Coloring", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 579615557, 
+    "name": "Racing Cars", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 525080057, 
+    "name": "Racing Cars Pairs 3d Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 715431388, 
+    "name": "Racing Math", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 666494399, 
+    "name": "Racing Sailor", 
+    "price": 34.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 538588040, 
+    "name": "Racing trucks 3d Pairs Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 538600349, 
+    "name": "Racing Trucks 3d Pairs Game Pro", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 428350774, 
+    "name": "Racontours", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 395213457, 
+    "name": "Racoon The Thief HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 403511224, 
+    "name": "Racoon The Thief Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 476875617, 
+    "name": "Rac\u00f3 Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 588224618, 
+    "name": "Rad der Zeit", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 578185180, 
+    "name": "Rad Signs", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 603543134, 
+    "name": "RAD Video", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 561598731, 
+    "name": "RAD-AID Knowledge Manager", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 656241340, 
+    "name": "RAD3", 
+    "price": 34.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 449449490, 
+    "name": "Radan Store", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 593357337, 
+    "name": "RADAR Range", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 420847254, 
+    "name": "Radar Terminology Glossary", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 868183663, 
+    "name": "RADAR-Radiology Assessment and Review", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 631917940, 
+    "name": "Radboud Lustrum", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 856295884, 
+    "name": "Radboud University Nijmegen Master\u2019s students", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 347058985, 
+    "name": "RadCompanion", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 653804398, 
+    "name": "RADD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 471903267, 
+    "name": "Radeos.org", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 567907487, 
+    "name": "Radford College", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 531005444, 
+    "name": "Radheef", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 705126409, 
+    "name": "RADIACTIVO", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 777207402, 
+    "name": "Radian HaiReducation", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 531795633, 
+    "name": "Radiant Church", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 718023706, 
+    "name": "Radiant Info - Santa Clara University Solar Decathlon House 2013", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 369604720, 
+    "name": "Radiant Mind Awakening Unconditioned Awareness by Peter Fenner", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 581789334, 
+    "name": "Radiation Toolkit", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 698114540, 
+    "name": "Radical BMX Quest Multiplayer Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 394335365, 
+    "name": "Radical Forgiveness - A Revolutionary Five-Stage Process to Heal Relationships, Let Go of Anger and ...", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 394385754, 
+    "name": "Radical Grace Radio eXpress", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 560536870, 
+    "name": "Radical Self-Forgiveness Practices - Colin Tipping", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 648319048, 
+    "name": "Radicals", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 481367857, 
+    "name": "Radio Alphabets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 498418455, 
+    "name": "Radio Childhood", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 313979691, 
+    "name": "Radio Codes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 519511841, 
+    "name": "Radio Dictionary", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 626789806, 
+    "name": "Radio Evangelo Torino", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 567746942, 
+    "name": "Radio Fri", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 449564393, 
+    "name": "Radio Germany.", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 552805939, 
+    "name": "Radio Ihsaan Islam", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 851846537, 
+    "name": "Radio Jane", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 634369247, 
+    "name": "Radio Jeans", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 584568892, 
+    "name": "Radio Kids Plus", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 574350035, 
+    "name": "Radio Kids \u2122", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 883662253, 
+    "name": "Radio KJB", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 577731770, 
+    "name": "Radio Madhuban 90.4 FM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 703439177, 
+    "name": "Radio Maria Argentina", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 388631365, 
+    "name": "Radio Mikwe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 741407892, 
+    "name": "Radio Mors", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 504639351, 
+    "name": "Radio Munadil Islam", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 349510086, 
+    "name": "Radio Navigation ATPL", 
+    "price": 5.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 860202436, 
+    "name": "Radio Neue Hoffnung (RNH)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "News", 
+    "id": 331284476, 
+    "name": "Radio Radicale", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 572408096, 
+    "name": "Radio S. Maria Nativit\u00e0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 684339676, 
+    "name": "Radio Science", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 532852847, 
+    "name": "Radio Shamal", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 418187239, 
+    "name": "Radio Sound", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 630906320, 
+    "name": "Radio Stack", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 680056649, 
+    "name": "Radio Tepeyac", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 554306430, 
+    "name": "Radio Tepoztlan Pro", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 570736921, 
+    "name": "Radio Trinitas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 827657923, 
+    "name": "Radio Uahid", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 739706988, 
+    "name": "Radio UCLille", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 560404157, 
+    "name": "Radio UP", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 796991072, 
+    "name": "Radio Vaughan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 602676104, 
+    "name": "Radio Veselina", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 793022105, 
+    "name": "Radio Vox", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 669245663, 
+    "name": "Radio Winchcombe", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 793008684, 
+    "name": "Radio Zamar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 446671607, 
+    "name": "Radio-wise.com", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 572874218, 
+    "name": "Radioapan \u2013 banankalas!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 739030057, 
+    "name": "RadioChinwag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 834450805, 
+    "name": "RadioCucei", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 520826505, 
+    "name": "Radioeco", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 416338787, 
+    "name": "RadioFLE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 427543626, 
+    "name": "Radiographic Calculator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 657395486, 
+    "name": "Radioimmaginaria", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 875977894, 
+    "name": "Radiolingo - Learn English - Practice American, Australian, and British Accents, Vocabulary & Pronun...", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 540569113, 
+    "name": "Radiological Anatomy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 692751041, 
+    "name": "Radiology - Head", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 857668089, 
+    "name": "Radiology - Knee", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 850232808, 
+    "name": "Radiology 2.0: Pregnant Appendicitis", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 672683987, 
+    "name": "Radiology Bookshelf: Apparato Muscoloscheletrico", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 600722065, 
+    "name": "Radiology Physics 300", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 374083450, 
+    "name": "Radiology Ray x", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 763231339, 
+    "name": "Radiology Residents - Vanderbilt", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 496220844, 
+    "name": "Radiology Select", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 497210843, 
+    "name": "Radiology Terminology", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 415176373, 
+    "name": "Radiology Toolbox Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 466281848, 
+    "name": "Radiology Toolbox Pro", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 572550481, 
+    "name": "RadiologyInfo.org", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 470877029, 
+    "name": "RadiologyMU", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 691311353, 
+    "name": "Radiolog\u00eda de Patolog\u00eda Tor\u00e1cica", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 427469516, 
+    "name": "Radionav Sim", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 456865789, 
+    "name": "Radionav Sim HD", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 475087942, 
+    "name": "Radionav Sim HD Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 472729014, 
+    "name": "Radionav Sim Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 413814503, 
+    "name": "Radiopaedia Vol 1: Brain", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 327452636, 
+    "name": "Radiopaedia Vol 1: Brain Radiology Teaching File", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 331766736, 
+    "name": "Radiopaedia Vol 2: Gastrointestinal and Hepatobiliary Radiology Teaching File", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 351910556, 
+    "name": "Radiopaedia Vol 3: Musculoskeletal Radiology Teaching File", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 384264349, 
+    "name": "Radiopaedia Vol 3: Musculoskeletal system Radiology Teaching Files HD", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 355884157, 
+    "name": "Radiopaedia Vol 4: Paediatrics Radiology Teaching File", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 366268199, 
+    "name": "Radiopaedia Vol 5: Chest Radiology Teaching File", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 372623174, 
+    "name": "Radiopaedia Vol 6: Head and Neck Radiology Teaching File", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 374560243, 
+    "name": "Radiopaedia Vol 6: Head and Neck Radiology Teaching File HD", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 862368763, 
+    "name": "RadioRadio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 789572891, 
+    "name": "RadioSapienza", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 437202582, 
+    "name": "RadioTest", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 532381926, 
+    "name": "RadioTinlanh", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 388449661, 
+    "name": "Radius Calc with 83 in 1 Calculator, Solver, & Converter", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 740813456, 
+    "name": "Radius of the lost Arc", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 813716673, 
+    "name": "Radius of the Lost Arc - Premium", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 531174379, 
+    "name": "Radix 1.0", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 901220427, 
+    "name": "Radix Leaf", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 896360089, 
+    "name": "RadixConv.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 550122368, 
+    "name": "RadixJam", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 658050895, 
+    "name": "RadlibZ - Text to Speech Ad Libs Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 600863878, 
+    "name": "Radon", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 563419791, 
+    "name": "RadOnc Reference", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 418822420, 
+    "name": "RadQuikQuiz", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 418794064, 
+    "name": "RadQuikQuiz Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 510690901, 
+    "name": "RadResponder", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 420977569, 
+    "name": "RadSounds", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 521282295, 
+    "name": "RadSounds Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 426015308, 
+    "name": "RadTapTap", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 426015195, 
+    "name": "RadTapTap Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 897933992, 
+    "name": "RadU - Radiology University", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 375114750, 
+    "name": "RadX Mobile", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 377363978, 
+    "name": "RadX Mobile Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 611436508, 
+    "name": "Rady School", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 658297602, 
+    "name": "Radyocuk", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 573264445, 
+    "name": "Raetihi Primary School", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 300988265, 
+    "name": "RAE\u00fatil", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 345652569, 
+    "name": "Rafaello Jigsaw Puzzles", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 789609023, 
+    "name": "Rafer Johnson Jr. High", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 767325493, 
+    "name": "Raphael - Opera Omnia", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 871725897, 
+    "name": "Raffaello Player", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 889954451, 
+    "name": "Raffaello Player Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 888224311, 
+    "name": "Raffles SG", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 728778224, 
+    "name": "RAFFMA", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 428846356, 
+    "name": "Raga", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 505844307, 
+    "name": "Raga & Tala", 
+    "price": 13.99
+  }, 
+  {
+    "genre": "Music", 
+    "id": 505994306, 
+    "name": "Ragam & Talam", 
+    "price": 13.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 659252437, 
+    "name": "RagaQuest", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 507361139, 
+    "name": "Ragdoll Plasma", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 646524584, 
+    "name": "RagDollPets", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 850658187, 
+    "name": "Rage Ball", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 483440082, 
+    "name": "Rage Maker", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 852197762, 
+    "name": "Rage Me - i'Funny Photo builder on your pics for Facebook,Instagram & other socials", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 550022215, 
+    "name": "Ragin' Cajun Catholics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 646570683, 
+    "name": "Ragsdale", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 477032950, 
+    "name": "Rahmah in the Shari'ah -- Mokhtar Maghraoui", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 887439287, 
+    "name": "Rahmi M. Ko\u00e7 M\u00fczesi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 589776916, 
+    "name": "Rahvakalender", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 493988532, 
+    "name": "Rai Arte", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 524691550, 
+    "name": "Rai Filosofia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 493977324, 
+    "name": "Rai Letteratura", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 584342001, 
+    "name": "Rai Scuola", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 455019316, 
+    "name": "Rai Storia", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 477029671, 
+    "name": "Raidel\u0117s", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 477711422, 
+    "name": "Raidel\u0117s Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 620927756, 
+    "name": "Raider Card", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 804285898, 
+    "name": "Raiders Complete League Coach Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 509324054, 
+    "name": "Raiders of the Lost Aardvark For iPad", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 543151859, 
+    "name": "Railway - Toddlers Audio Flash Cards", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 366039826, 
+    "name": "Railscasts", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 535114000, 
+    "name": "Railtown 1897 Audio Tour", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 735397885, 
+    "name": "Railway Curve", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 732153746, 
+    "name": "Rain Cubes - 3D color brush paint game kids doodle", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 447474999, 
+    "name": "Rain Dots", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 588712983, 
+    "name": "Rain Garden", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 632395081, 
+    "name": "Rain Of King", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 669894672, 
+    "name": "Rain of Vowels", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 669892071, 
+    "name": "Rain of Vowels HD", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 452565871, 
+    "name": "Rain Rain Go Away - Find the Shapes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 515666159, 
+    "name": "Rain Rain Go Away Lite - Fun with Shapes", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 553182892, 
+    "name": "Rainbow Cars - Kids Learn COLORS through Fun Games", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 592062707, 
+    "name": "Rainbow Catcher: Bubble Breaker Math", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 592063394, 
+    "name": "Rainbow Catcher: Bubble Breaker Math HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 486091745, 
+    "name": "Rainbow Color", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 486095253, 
+    "name": "Rainbow Color HD", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 588109437, 
+    "name": "Rainbow Colors Plus More", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 690984537, 
+    "name": "Rainbow English Vocabulary Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 502802086, 
+    "name": "Rainbow Express", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 609032296, 
+    "name": "Rainbow Fish Adventures HD [LITE]", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 731410621, 
+    "name": "Rainbow French Vocabulary Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 619744488, 
+    "name": "Rainbow Hores Coloring", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 739776588, 
+    "name": "Rainbow Italian Vocabulary Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 584878141, 
+    "name": "Rainbow Jewels - Connect the Matching Color Gem Dots!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 814970923, 
+    "name": "Rainbow Loom", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 888192764, 
+    "name": "Rainbow Loom - Easy Start for Beginners", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 894311425, 
+    "name": "Rainbow Loom - Parents Guide", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 888683884, 
+    "name": "Rainbow Loom - Ultimate Video Guide for Bracelets, Animals, Charms, and more", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 884480361, 
+    "name": "Rainbow Loom - Ultimate Video Guide for Bracelets, Charms, Animals, and many more", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 845834896, 
+    "name": "Rainbow Loom 2015", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 879925188, 
+    "name": "Rainbow Loom Band Master", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 904339856, 
+    "name": "Rainbow Loom Bands For Beginners", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 892926847, 
+    "name": "Rainbow Loom Beginners Guide - Easy Video Tutorials", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 898419792, 
+    "name": "Rainbow Loom Complete Guide", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 861252531, 
+    "name": "Rainbow Loom Designs Guide : Ultimate video for Bracelets, Charms, Animals, and many more looms", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 780387223, 
+    "name": "Rainbow Loom Designs Pro - Guide for Beginner, Intermediate, Advanced & Charms", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 898114140, 
+    "name": "Rainbow Loom Easy Guide", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 896254885, 
+    "name": "Rainbow Loom Easy Guide - Step by Step Video Tutorial For Beginners", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 909204784, 
+    "name": "Rainbow Loom Patterns And Design Kits", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 793170530, 
+    "name": "Rainbow Loom Tutorials & Image Manipulation Tool", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 876862056, 
+    "name": "Rainbow Looms : Best Video guide for bracelets, necklace, flowers, cartoons, and many more", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 590302010, 
+    "name": "Rainbow Maker for iPhone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 610406637, 
+    "name": "Rainbow Maker HD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 418744648, 
+    "name": "Rainbow Master", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 727297716, 
+    "name": "Rainbow match game for Kids", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 547099926, 
+    "name": "Rainbow Math", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 767463904, 
+    "name": "Rainbow Moods", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 395133329, 
+    "name": "Rainbow Music Notes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 628301874, 
+    "name": "Rainbow of Emotions", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 554568403, 
+    "name": "Rainbow Paint Roller", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 590371661, 
+    "name": "Rainbow Phonics", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 525610220, 
+    "name": "Rainbow Playground", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 556384004, 
+    "name": "Rainbow Recall", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 879130702, 
+    "name": "Rainbow Rubber Ducky & Friends - A Match Adventure Saga Pro !", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 873099672, 
+    "name": "Rainbow Rubber Ducky & Friends! - A Match Adventure Saga!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 427578209, 
+    "name": "Rainbow Sentences", 
+    "price": 7.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 707436551, 
+    "name": "Rainbow Show - Draw & Doodle Game For Family", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 699121541, 
+    "name": "Rainbow Spanish Vocabulary Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 721320893, 
+    "name": "Rainbow Spider HD Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 606269775, 
+    "name": "Rainbow Stars FREE", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 896048982, 
+    "name": "Rainbow Sugar Factory-CH", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 896052167, 
+    "name": "Rainbow Sugar Factory-EN", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 540376103, 
+    "name": "Rainbow Train: Teach Colors lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 512546255, 
+    "name": "Rainbow Train: Teach Colors.", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 742422424, 
+    "name": "Rainbow Turkish Vocabulary Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 721562846, 
+    "name": "Rainbow Web 3", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 500223139, 
+    "name": "Rainbow Wheels", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 701744884, 
+    "name": "Rainbow:letter", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 701755884, 
+    "name": "Rainbow:number", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 697969538, 
+    "name": "Rainbow:Shape", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 460883778, 
+    "name": "RainbowApps02", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 466253709, 
+    "name": "RainbowApps03", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 634966565, 
+    "name": "RainbowRace", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 779296074, 
+    "name": "Rainbows End", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 556740248, 
+    "name": "RainBowTouch", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 348766884, 
+    "name": "Raindrop Math", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 379864454, 
+    "name": "Rainforest", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 364900200, 
+    "name": "Rainforest Box", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 861043961, 
+    "name": "Rainforest of the Americas - Wildlife Conservation & Education Exhibit at the LA Zoo", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 504110061, 
+    "name": "Rainforest Rescuer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 431678172, 
+    "name": "Rainforest Survival Challenge", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 704793970, 
+    "name": "Rainier School District", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 674207870, 
+    "name": "Rainier View Christian Church", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 354880315, 
+    "name": "Raining Words - An Educational Game", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 868748647, 
+    "name": "Rainny.. Run!", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 909492010, 
+    "name": "Rains ISD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 429044725, 
+    "name": "Rainy Days: A Stella and Sam Adventure", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 331684034, 
+    "name": "Raise High the Roof Beam Study Guide & Quiz-o-Rama", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 499685019, 
+    "name": "RaiseDelinquants", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 515559061, 
+    "name": "Raising a Modern-Day Knight", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 391327343, 
+    "name": "Raising Children Who Succeed", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 404514046, 
+    "name": "Raising Goats - The Easy Guide To Raising & Caring For Goats", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 435023716, 
+    "name": "Raising Hamster", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 712175693, 
+    "name": "RakuSuke", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 601931166, 
+    "name": "Raleigh County Schools app", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 719319035, 
+    "name": "Raleigh Historic", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 866109711, 
+    "name": "Rallies", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 675487669, 
+    "name": "Ralph Chandler Middle School", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 359736190, 
+    "name": "Ralph Ellison: Shmoop Biography", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 338704932, 
+    "name": "Ralph Waldo Emerson Quotes Pro", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 630311074, 
+    "name": "Ralph's Killer Muenster", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 903579961, 
+    "name": "RAM Ministries", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 498048181, 
+    "name": "Ram Trucks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 897276706, 
+    "name": "Ramadan", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 894352348, 
+    "name": "Ramadan (Siyam) Guide - Islamic Apps Series - From Quran / Koran (\u0627\u0644\u0642\u0631\u0622\u0646) Allah to Teach Muslims sal...", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 882745203, 
+    "name": "Ramadan 14", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Productivity", 
+    "id": 891164066, 
+    "name": "Ramadan Advent Calendar", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 673670737, 
+    "name": "Ramadan Books Library", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 762166759, 
+    "name": "Ramadan Bundle", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 871137276, 
+    "name": "Ramadan Coloring Book - Islamic Learning during Fasting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 662086836, 
+    "name": "Ramadan Counter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 449505356, 
+    "name": "Ramadan Daily Duas, Quran and Hadith", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 547171586, 
+    "name": "Ramadan Day", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 684746927, 
+    "name": "Ramadan Duas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 388270368, 
+    "name": "Ramadan Duas (Arabic)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 455615467, 
+    "name": "Ramadan Easy (Do's & Don'ts)", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 650532151, 
+    "name": "Ramadan Fiqh", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 541439332, 
+    "name": "Ramadan Guide Video & Audio + (Q&A) According to Quran & Sunnah", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 663523017, 
+    "name": "Ramadan Guide Vid\u00e9o Pour les musulmans selon le Coran et de la Sunna (Q & R)", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 669190342, 
+    "name": "Ramadan Health & Nutrition Guide", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 387695722, 
+    "name": "Ramadan Islamic Duas", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 889780033, 
+    "name": "Ramadan Kareem by MGP Labs", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 544398976, 
+    "name": "Ramadan Log \u062c\u062f\u0648\u0644 \u0631\u0645\u0636\u0627\u0646", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 453925553, 
+    "name": "Ramadan Mubarak Happy Ramadan!", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 658778441, 
+    "name": "Ramadan Pearl", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 892880265, 
+    "name": "Ramadan Supplications: +Audio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 666055238, 
+    "name": "Ramadan \u0648\u06cc\u0688\u06cc\u0648 \u06af\u0627\u0626\u0688 URDU - \u0631\u0645\u0636\u0627\u0646 \u0645\u064a\u06ba \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u06d2 \u06a9\u0627\u0645 \u0627\u0648\u0631 \u0627\u062d\u06a9\u0627\u0645 \u0648\u0645\u0633\u0627\u0626\u0644", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 381295381, 
+    "name": "Ramadaniat", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 388160650, 
+    "name": "Ramadaniaty", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 891886079, 
+    "name": "Ramadhan Radio Leicester 87.7 FM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Social Networking", 
+    "id": 548046360, 
+    "name": "Ramah365", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 558204991, 
+    "name": "Ramapo Catskill Library System", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 541131443, 
+    "name": "Ramapo College Library", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 886758489, 
+    "name": "Ramapo College of New Jersey", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 560533250, 
+    "name": "Ramapo Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 876238213, 
+    "name": "Ramaquois", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 328077962, 
+    "name": "Ramaz Schedule", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 653479152, 
+    "name": "Ramazan Mesajlari", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 668607955, 
+    "name": "Ramazan Rehberi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 547099169, 
+    "name": "Ramazan Sohbetleri", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 643339804, 
+    "name": "Ramblewood Middle School", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 481026230, 
+    "name": "Rambling", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 624314033, 
+    "name": "Rambling On at the Museum of East Anglian Life", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 516928907, 
+    "name": "RAMDAM", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 572477723, 
+    "name": "Ramen Live", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 711564082, 
+    "name": "RAMmobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Food & Drink", 
+    "id": 863101990, 
+    "name": "Ramps - Guide to Food", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 858787853, 
+    "name": "Ramsey School District", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 413936611, 
+    "name": "Ramvong", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 904349026, 
+    "name": "Ramza-An\u00e1lisis Financiero", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 901960635, 
+    "name": "Ramza-Contabilidad Basica", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 904351353, 
+    "name": "Ramza-Matem\u00e1ticas Financieras", 
+    "price": 19.99
+  }, 
+  {
+    "genre": "News", 
+    "id": 572011862, 
+    "name": "RAND Corporation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 889226630, 
+    "name": "Rand Letter", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 858679275, 
+    "name": "Randlay Primary School", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 791120130, 
+    "name": "Randolph Caring Communtiy", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 505169796, 
+    "name": "Randolph College Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 789581948, 
+    "name": "Random Bible Quote Generator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 445300194, 
+    "name": "Random Chicken", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 513213672, 
+    "name": "Random House Kernerman Webster\u2019s College Dictionary", 
+    "price": 14.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 447952019, 
+    "name": "Random Kitty", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 884752614, 
+    "name": "Random Me", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 628642371, 
+    "name": "Random Monkey", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 604757788, 
+    "name": "Random Name Picker", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 589498393, 
+    "name": "Random Name Selector Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 599531491, 
+    "name": "Random Name Selector Pro", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 507870833, 
+    "name": "Random Number Generator! PRO", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 542862961, 
+    "name": "Random password creator free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 426471196, 
+    "name": "Random Pose - Paid Version", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 290983749, 
+    "name": "Random Pose Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 894246424, 
+    "name": "Random Prodioms", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 890636302, 
+    "name": "Random Stars", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 647485913, 
+    "name": "Random Team Selector", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 440480280, 
+    "name": "Random Touch", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 905438411, 
+    "name": "Random Wiki", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 434110853, 
+    "name": "Random Word", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 308020470, 
+    "name": "Random100", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 525377641, 
+    "name": "RandoMeister", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 505150152, 
+    "name": "Randomised", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 796163620, 
+    "name": "Randomized Numbers", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 843986848, 
+    "name": "Randomly - Random Student Selector", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Health & Fitness", 
+    "id": 733796838, 
+    "name": "RandomWord", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 303383137, 
+    "name": "Randov Probability Calculator", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 896354865, 
+    "name": "Ranelagh Primary School", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 584712641, 
+    "name": "Ranford Primary School - Skoolbag", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 796333738, 
+    "name": "Ranfurly Primary School", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 634138895, 
+    "name": "Range Projectile", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 603089990, 
+    "name": "Ranger Assistant", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 746217888, 
+    "name": "Ranger Rick Jr. Appventures: Bears", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 574200646, 
+    "name": "Ranger Rick Jr. Appventures: Lions", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 648143030, 
+    "name": "Ranger Rom", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 726165570, 
+    "name": "Ranger Rom Tablet Edition", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 522844419, 
+    "name": "RangerKidz Counting Corral", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 524217281, 
+    "name": "RangerKidz Counting Corral Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 647962859, 
+    "name": "Rangeview Intermediate School", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 691006946, 
+    "name": "Rangeway Primary School", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 379285304, 
+    "name": "Rangoli", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 576647541, 
+    "name": "Rangsit University", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 576983602, 
+    "name": "Rangsit University for iPad", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 747933016, 
+    "name": "Rank & File Chess Square Trainer", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 661308172, 
+    "name": "Rank Master", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 568758162, 
+    "name": "Rank Order", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 412874909, 
+    "name": "Rank the U.S.", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 404476074, 
+    "name": "Rank the World", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 387230751, 
+    "name": "Ranked-Choice Voting", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Utilities", 
+    "id": 538982898, 
+    "name": "Ranks", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 313465255, 
+    "name": "RanRan Draw", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 608951433, 
+    "name": "Ranskan kieli: oppiminen sanaston ja ilmaisun opiskelua suomenkielen syntyper\u00e4isille puhujille", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 432316494, 
+    "name": "Ransom Letters Word Game", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 434987923, 
+    "name": "Ransom Letters Word Game Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Games", 
+    "id": 866593297, 
+    "name": "Ranza Train", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 841038695, 
+    "name": "RAO Inc Essential German", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 508564314, 
+    "name": "RAO Inc Essential Italian", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 508531188, 
+    "name": "RAO Inc Essential Spanish", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 841046825, 
+    "name": "RAOFrench", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 417915252, 
+    "name": "RAON Dictionary", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 736545315, 
+    "name": "Rap Stick Figure", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 736545363, 
+    "name": "Rap Stick Figure Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 417716674, 
+    "name": "Rape Crisis Ireland App", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 387676376, 
+    "name": "Raphael", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 868122197, 
+    "name": "Raphael 161 Paintings (HD 180M+)", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 659021600, 
+    "name": "Raphael Art Gallery", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Lifestyle", 
+    "id": 387171868, 
+    "name": "Raphael HD", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 330538377, 
+    "name": "Raphael Virtual Art Gallery", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Reference", 
+    "id": 650441986, 
+    "name": "Raphael: Selected Works", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 564524310, 
+    "name": "Rapid Arabic for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 396441093, 
+    "name": "Rapid Arabic Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 471583880, 
+    "name": "Rapid Book Creator - the fastest way to generate ebooks", 
+    "price": 2.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 568750171, 
+    "name": "Rapid Brazilian Portuguese for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Entertainment", 
+    "id": 366155525, 
+    "name": "Rapid Calculation", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 564468777, 
+    "name": "Rapid Cantonese for iPad", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 397675810, 
+    "name": "Rapid Cantonese Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 396469452, 
+    "name": "Rapid Chinese Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 882996654, 
+    "name": "Rapid Communications in Mass Spectrometry", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 564254644, 
+    "name": "Rapid Dutch for iPad", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 397678465, 
+    "name": "Rapid Dutch Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 875013657, 
+    "name": "Rapid Fire Math - 4 Kids", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 563492103, 
+    "name": "Rapid French for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 394456382, 
+    "name": "Rapid French Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 564537852, 
+    "name": "Rapid German for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 396412556, 
+    "name": "Rapid German Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 568666079, 
+    "name": "Rapid Greek for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 397594323, 
+    "name": "Rapid Greek Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 530797053, 
+    "name": "Rapid Integrated Resuscitation", 
+    "price": 4.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 563553757, 
+    "name": "Rapid Italian for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 394481492, 
+    "name": "Rapid Italian Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 568669928, 
+    "name": "Rapid Japanese for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 391784506, 
+    "name": "Rapid Japanese Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Sports", 
+    "id": 654799079, 
+    "name": "Rapid Judo", 
+    "price": 1.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 647193738, 
+    "name": "Rapid Latin Spanish", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 568750175, 
+    "name": "Rapid Mandarin for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Games", 
+    "id": 719210378, 
+    "name": "Rapid Math KNeoWORLD", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 722074478, 
+    "name": "Rapid Math Tricks and Tips", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 698750598, 
+    "name": "Rapid Note For phone", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Medical", 
+    "id": 777446968, 
+    "name": "Rapid Patient Educator", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 568653701, 
+    "name": "Rapid Polish for iPad", 
+    "price": 11.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 397842724, 
+    "name": "Rapid Polish Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 568690584, 
+    "name": "Rapid Portuguese for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 397589677, 
+    "name": "Rapid Portuguese Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 848400892, 
+    "name": "Rapid Reader", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 628468180, 
+    "name": "Rapid Reporting Tool", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 467293127, 
+    "name": "Rapid Response Trigger Trainer Free", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 394204753, 
+    "name": "Rapid Rote Mobile", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 568656607, 
+    "name": "Rapid Russian for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 396771167, 
+    "name": "Rapid Russian Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 560481546, 
+    "name": "Rapid Spanish for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 394439962, 
+    "name": "Rapid Spanish Volume 1", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 395567703, 
+    "name": "Rapid Spanish Volume 2", 
+    "price": 9.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 559049902, 
+    "name": "Rapid Suli", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 568750003, 
+    "name": "Rapid Turkish for iPad", 
+    "price": 16.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 393280929, 
+    "name": "RapidFormes", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 387859472, 
+    "name": "RapidLearn", 
+    "price": 3.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 388102205, 
+    "name": "RapidLearn Lite", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Education", 
+    "id": 393281644, 
+    "name": "RapidMaths", 
+    "price": 0.99
+  }, 
+  {
+    "genre": "Education", 
+    "id": 397070256, 
+    "name": "RapidRatio", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Music", 
+    "id": 420146137, 
+    "name": "RapMushi", 
+    "price": 0.0
+  }, 
+  {
+    "genre": "Travel", 
+    "id": 680129095, 
+    "name": "Rapolano Terme", 
+    "price": 0.0
+  }
+]
